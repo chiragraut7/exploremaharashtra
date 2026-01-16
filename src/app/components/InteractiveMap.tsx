@@ -3,7 +3,9 @@
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
 
-// ❌ NO LEAFLET IMPORTS AT THE TOP LEVEL
+// ✅ It is SAFE to import CSS at the top level in Next.js/Turbopack. 
+// It does not depend on the 'window' object.
+import 'leaflet/dist/leaflet.css'
 
 const InteractiveMap = () => {
   const [locations, setLocations] = useState<any[]>([])
@@ -11,19 +13,16 @@ const InteractiveMap = () => {
   const [MapComponents, setMapComponents] = useState<any>(null)
 
   useEffect(() => {
-    // 1. Fetch Location Data
     fetch('/api/locations')
       .then(res => res.json())
       .then(data => setLocations(data))
 
-    // 2. Load Leaflet Dynamically (Client-side only)
     const initMap = async () => {
       try {
+        // Load JS libraries dynamically
         const L = (await import('leaflet')).default;
-        await import('leaflet/dist/leaflet.css');
         const { MapContainer, TileLayer, Marker, Popup } = await import('react-leaflet');
 
-        // Helper for Custom Icons
         const createIcon = (color: string) => new L.DivIcon({
           html: `<div style="background: ${color}; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"></div>`,
           className: 'custom-marker',
@@ -41,13 +40,12 @@ const InteractiveMap = () => {
 
   const filtered = filter === 'all' ? locations : locations.filter(l => l.category === filter)
 
-  // 🛡️ Guard against SSR
   if (!MapComponents) {
     return (
       <div className="magazine-map-section pb-4">
-        <div className="container text-center py-5">
+        <div className="container text-center py-5 bg-light rounded-4">
            <div className="spinner-border text-dark" role="status"></div>
-           <p className="mt-3 text-muted">Loading Interactive Map...</p>
+           <p className="mt-3 text-muted">Initialising Map...</p>
         </div>
       </div>
     );
@@ -109,25 +107,15 @@ const InteractiveMap = () => {
           font-size: 0.7rem; letter-spacing: 1px; transition: 0.3s;
         }
         .mag-pill.active { background: #111; color: #fff; border-color: #111; }
-
-        .map-canvas-wrapper { 
-          border: 5px solid #111; border-radius: 0rem; 
-          overflow: hidden; box-shadow: unset;
-        }
-
+        .map-canvas-wrapper { border: 5px solid #111; overflow: hidden; }
         .leaflet-popup-content-wrapper { padding: 0; overflow: hidden; border-radius: 20px; }
         .leaflet-popup-content { margin: 0; width: 240px !important; }
         .popup-img { width: 100%; height: 120px; object-fit: cover; }
         .popup-body { padding: 15px; }
-        .cat-tag { font-size: 9px; font-weight: 900; text-transform: uppercase; letter-spacing: 1px; display: block; }
-        .btn-view { 
-          font-size: 11px; font-weight: 800; color: #111; 
-          text-decoration: none; border-bottom: 2px solid #111; 
-          display: inline-block; margin-top: 5px;
-        }
+        .btn-view { font-size: 11px; font-weight: 800; color: #111; text-decoration: none; border-bottom: 2px solid #111; }
       `}</style>
     </div>
   )
 }
 
-export default InteractiveMap
+export default InteractiveMap;
