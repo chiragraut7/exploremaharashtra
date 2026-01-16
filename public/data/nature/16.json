@@ -1,0 +1,180 @@
+{
+  "id": "16",
+  "title": "Karnala Bird Sanctuary",
+  "subtitle": "A Paradise for Birdwatchers near Mumbai",
+  "bannerImage": "/images/nature/karnala/banner.jpg",
+  "color": "#388E3C",
+  "coordinates": { "lat": 18.8878, "lng": 73.1167 },
+  "overview": [
+    "Located about 60 km from Mumbai, Karnala Bird Sanctuary is one of Maharashtra’s most accessible and loved nature reserves. It is a haven for birdwatchers, trekkers, and nature enthusiasts alike.",
+    "Spread across 12 square kilometers, the sanctuary is home to over 200 species of resident and migratory birds, including the Malabar whistling thrush, golden oriole, and the rare Ashy minivet.",
+    "At the heart of the sanctuary stands the ancient Karnala Fort, perched atop a hill and offering panoramic views of the surrounding forests."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-dove",
+      "title": "Birdwatcher’s Paradise",
+      "description": "Karnala hosts both resident and migratory birds, attracting enthusiasts from all over India, especially during the winter season."
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trek to Karnala Fort",
+      "description": "A moderate trek through forest trails leads to the historic Karnala Fort, offering scenic vistas and a touch of adventure."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/karnala/geography.jpg",
+    "intro": "Situated in the Raigad district, Karnala Bird Sanctuary lies on the Mumbai–Goa Highway near Panvel. The sanctuary’s hilly terrain and dense forests make it a biodiversity hotspot of the Western Ghats foothills.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Near Panvel, Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Altitude",
+        "value": "300 meters to 460 meters above sea level"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Area",
+        "value": "12.11 sq. km"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Flora",
+        "value": "Moist deciduous and evergreen forest vegetation"
+      },
+      {
+        "icon": "fas fa-paw",
+        "label": "Fauna",
+        "value": "Over 200 species of birds, mammals, and reptiles"
+      }
+    ],
+    "climate": {
+      "description": "Karnala experiences tropical weather with heavy rainfall during monsoon and pleasant winters, making it an all-year-round destination.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-sun",
+          "text": "Winter (November–February): Ideal time for birdwatching as migratory birds arrive."
+        },
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): The sanctuary turns lush green and scenic, perfect for nature walks."
+        }
+      ]
+    },
+    "conclusion": "Karnala’s combination of natural beauty, wildlife, and historical heritage makes it one of Maharashtra’s most loved eco-tourism destinations."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-dove",
+      "title": "Birdwatching",
+      "description": "Spot rare and colorful birds with the help of binoculars and local guides who share deep insights into avian life.",
+      "info": [
+        "Best time: Early morning hours.",
+        "Bring a camera and binoculars for a rewarding experience."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trek to Karnala Fort",
+      "description": "Follow forest trails that lead to the top of the ancient fort while enjoying panoramic views of the region.",
+      "info": [
+        "Trek distance: Around 2.5 km (moderate difficulty).",
+        "Carry sufficient water and wear trekking shoes."
+      ]
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Nature Trails & Photography",
+      "description": "Walk through dense forests and capture the essence of the Western Ghats’ beauty through your lens.",
+      "info": [
+        "Ideal during early morning and late afternoon.",
+        "Photography enthusiasts often spot butterflies and reptiles too."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/karnala/fort.jpg",
+      "title": "Karnala Fort",
+      "description": "An ancient hill fort within the sanctuary, known for its strategic position and breathtaking views.",
+      "distance": "2.5 km trek from base",
+      "icon": "fas fa-landmark",
+      "value": "Historical Fort"
+    },
+    {
+      "image": "/images/nature/karnala/panvel.jpg",
+      "title": "Panvel City",
+      "description": "The nearest urban hub offering restaurants, hotels, and transport facilities for travelers.",
+      "distance": "12 km from Karnala",
+      "icon": "fas fa-city",
+      "value": "Nearby City"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not a coastal site, Karnala’s ecosystem thrives with biodiversity including reptiles, insects, and bird species that maintain ecological balance.",
+    "items": [
+      {
+        "icon": "fas fa-frog",
+        "title": "Reptiles & Amphibians",
+        "description": "Monitor lizards, snakes, and frogs are often spotted in forest streams and leaf litter."
+      },
+      {
+        "icon": "fas fa-bug",
+        "title": "Insects & Butterflies",
+        "description": "Colorful butterflies and insects flourish during the post-monsoon period."
+      }
+    ],
+    "conclusion": [
+      "Karnala represents a balanced forest ecosystem that supports rich terrestrial life.",
+      "Visitors are encouraged to maintain silence and avoid littering to preserve the sanctuary’s purity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Located 12 km from Panvel and 60 km from Mumbai on the Mumbai-Goa Highway (NH-66).",
+        "Easily accessible by private car, cab, or state transport buses."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Panvel (12 km).",
+        "Panvel is well-connected to Mumbai, Pune, and other major cities."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/karnala/gallery1.jpg",
+      "thumb": "/images/nature/karnala/thumb1.jpg",
+      "alt": "Colorful bird spotted in Karnala Sanctuary"
+    },
+    {
+      "src": "/images/nature/karnala/gallery2.jpg",
+      "thumb": "/images/nature/karnala/thumb2.jpg",
+      "alt": "Trekking trail leading to Karnala Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Visit between November and February for the best birdwatching experience."
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "description": "Carry binoculars and a zoom lens camera to enjoy the birdlife to the fullest."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Avoid playing loud music or littering—help maintain the natural tranquility of the sanctuary."
+    }
+  ]
+}

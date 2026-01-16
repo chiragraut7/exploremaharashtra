@@ -1,0 +1,86 @@
+{
+  "id": "katwates-resort",
+  "name": "Katwates Resort",
+  "beach": "kelwa",
+  "overview": "Katwates Resort is set amidst greenery just 2 minutes’ walk from Kelva Beach. Offers both AC and Non-AC rooms, home‑style veg & non‑veg food, swimming pool, kids play area and open garden.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "2 minutes’ walk",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non AC Package",
+      "rate_for_two": "₹850 per person (min. 10)",
+      "extra_person": ""
+    },
+    {
+      "type": "Non AC Overnight Package",
+      "rate_for_two": "₹2,000–2,200 per person (sharing)",
+      "extra_person": "₹1,100 child (4–8 yrs)"
+    },
+    {
+      "type": "AC Package",
+      "rate_for_two": "₹2,300–2,600 per person (sharing)",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "₹1,100 (child rate)",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast + high tea + buffet lunch (veg/non‑veg)",
+      "Swimming pool + garden + free Wi‑Fi"
+    ],
+    "extended": [
+      "Breakfast + lunch & dinner buffet",
+      "Swimming pool + garden + free Wi‑Fi"
+    ]
+  },
+  "facilities": [
+    "Swimming pool",
+    "Open garden",
+    "Kids play area",
+    "Outdoor dining",
+    "Free Wi‑Fi & parking"
+  ],
+  "policies": {
+    "allowed": ["Families, groups & married couples only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 guests per room",
+      "Music after 10 PM",
+      "Smoking in rooms"
+    ],
+    "booking": [
+      "Advance booking 100% non‑refundable",
+      "Valid ID proof mandatory"
+    ],
+    "liability": [
+      "Guests responsible for damages",
+      "Resort not liable for loss of belongings"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Kelwa Fort",
+    "Shitladevi Temple"
+  ],
+  "notice": [
+    "Confirm current rates and availability before booking."
+  ],
+  "contact": {
+    "host": "Katwates Resort Management",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/katwates-resort-kelva-beach.php"
+  }
+}

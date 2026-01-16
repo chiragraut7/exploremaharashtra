@@ -1,0 +1,187 @@
+{
+  "id": "19",
+  "title": "Sagareshwar Wildlife Sanctuary",
+  "subtitle": "A Man-Made Forest and Sacred Sanctuary in Sangli",
+  "bannerImage": "/images/nature/sagareshwar/banner.jpg",
+  "color": "#4caf50",
+  "coordinates": { "lat": 17.1425, "lng": 74.4556 },
+  "overview": [
+    "Sagareshwar Wildlife Sanctuary is a unique man-made forest located in the Sangli district of Maharashtra. Spanning over 10.87 square kilometers, this sanctuary is renowned for its combination of spiritual significance and ecological balance.",
+    "The sanctuary is named after Lord Sagareshwar, an incarnation of Lord Shiva, whose ancient temple is nestled amidst the lush greenery. The forest was entirely developed by human effort, with afforestation turning a once barren land into a thriving ecosystem."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-leaf",
+      "title": "Man-Made Forest Sanctuary",
+      "description": "Every tree and animal in this sanctuary was introduced and nurtured by human effort, creating a remarkable example of ecological restoration."
+    },
+    {
+      "icon": "fas fa-temple",
+      "title": "Sagareshwar Temple",
+      "description": "An ancient Shiva temple located in the heart of the sanctuary, attracting devotees and nature lovers alike."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/sagareshwar/geography.jpg",
+    "intro": "Located near the Krishna River in Sangli district, Sagareshwar Wildlife Sanctuary consists of rolling hills, dry deciduous forests, and scenic valleys.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Sangli District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Area",
+        "value": "10.87 sq km"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Vegetation",
+        "value": "Dry deciduous forest with teak, neem, and babul trees"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Terrain",
+        "value": "Hilly region with gentle slopes"
+      },
+      {
+        "icon": "fas fa-city",
+        "label": "Nearest Town",
+        "value": "Sangli (47 km)"
+      }
+    ],
+    "climate": {
+      "description": "Sagareshwar has a dry climate, with warm summers and pleasant winters. Monsoon brings a fresh green cover to the sanctuary.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer (March to June): Warm and dry; suitable for short treks."
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter (November to February): Cool and comfortable for wildlife exploration and temple visits."
+        }
+      ]
+    },
+    "conclusion": "The sanctuary demonstrates a perfect harmony between spirituality and conservation, making it a unique eco-tourism and pilgrimage destination in Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking and Nature Walks",
+      "description": "Enjoy scenic treks through forest trails surrounded by hills and wildlife.",
+      "info": [
+        "Best experienced in early mornings or evenings.",
+        "Easy to moderate trails accessible to all age groups."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Wildlife and Photography",
+      "description": "Spot animals like deer, peacocks, foxes, and wild boars in their natural habitat.",
+      "info": [
+        "Photography enthusiasts will enjoy capturing wildlife and panoramic views.",
+        "Bring telephoto lenses for distant animal sightings."
+      ]
+    },
+    {
+      "icon": "fas fa-church",
+      "title": "Temple Visit and Meditation",
+      "description": "Visit the historic Sagareshwar Temple dedicated to Lord Shiva, offering a peaceful environment for meditation.",
+      "info": [
+        "Temple is accessible via a short trek uphill.",
+        "Annual Mahashivratri festival attracts devotees from all over Maharashtra."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/sagareshwar/temple.jpg",
+      "title": "Sagareshwar Temple",
+      "description": "An ancient Shiva temple located in the heart of the sanctuary, surrounded by serene greenery.",
+      "distance": "Within sanctuary",
+      "icon": "fas fa-temple",
+      "value": "Cultural and spiritual centerpiece of the park."
+    },
+    {
+      "image": "/images/nature/sagareshwar/viewpoint.jpg",
+      "title": "Sagareshwar Viewpoint",
+      "description": "Offers panoramic views of the sanctuary’s rolling hills and forest canopy.",
+      "distance": "1 km from temple",
+      "icon": "fas fa-mountain",
+      "value": "Ideal for sunrise and sunset views."
+    }
+  ],
+  "marineLife": {
+    "intro": "As a landlocked sanctuary, Sagareshwar does not feature marine life, but it boasts a rich terrestrial ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-paw",
+        "title": "Wildlife",
+        "description": "Home to deer, peacocks, wild boars, and blackbucks, all thriving in a protected environment."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birds",
+        "description": "Hosts a variety of local and migratory birds, making it a peaceful haven for birdwatchers."
+      }
+    ],
+    "conclusion": [
+      "Sagareshwar is a remarkable example of successful man-made conservation.",
+      "It showcases how harmony between humans, animals, and nature can flourish."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Railway Station: Sangli (47 km).",
+        "Regular trains connect Sangli to Mumbai, Pune, and Kolhapur."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Sagareshwar is accessible via Miraj and Sangli through well-maintained roads.",
+        "MSRTC and private buses are available from major nearby cities."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Kolhapur Airport (90 km).",
+        "Taxi and cab services available from Kolhapur to Sangli."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/sagareshwar/sagareshwar1.jpg",
+      "thumb": "/images/nature/sagareshwar/sagareshwar1_thumb.jpg",
+      "alt": "Sagareshwar Temple and Forest"
+    },
+    {
+      "src": "/images/nature/sagareshwar/sagareshwar2.jpg",
+      "thumb": "/images/nature/sagareshwar/sagareshwar2_thumb.jpg",
+      "alt": "Panoramic view of Sagareshwar Hills"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Entry tickets are available at the forest department gate near the temple base."
+    },
+    {
+      "icon": "fas fa-clock",
+      "description": "Morning and evening hours are ideal for wildlife spotting and photography."
+    },
+    {
+      "icon": "fas fa-hands-praying",
+      "description": "Visit during Mahashivratri for a combined spiritual and natural experience."
+    }
+  ]
+}

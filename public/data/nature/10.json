@@ -1,0 +1,145 @@
+{
+  "id": "10",
+  "title": "Melghat Tiger Reserve",
+  "subtitle": "A Majestic Wilderness in the Satpura Ranges",
+  "bannerImage": "/images/nature/melghat-banner.jpg",
+  "color": "#30534a",
+  "coordinates": { "lat": 21.3653, "lng": 77.1047 },
+  "overview": [
+    "Melghat Tiger Reserve, located in the Amravati district of Maharashtra, is one of the first nine tiger reserves established under India’s Project Tiger in 1973. It is known for its rugged hills, deep valleys, and dense forests, forming part of the Satpura mountain ranges.",
+    "The reserve is home to a wide variety of wildlife, including tigers, leopards, sloth bears, gaurs, sambar deer, and over 250 species of birds. It is a paradise for wildlife enthusiasts and eco-tourists seeking untouched natural beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-tiger",
+      "title": "Tiger Habitat",
+      "description": "One of Maharashtra’s most important tiger conservation areas, offering a chance to spot big cats in the wild."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Satpura Landscapes",
+      "description": "Melghat’s stunning hilly terrain and river valleys make it a scenic and peaceful wilderness getaway."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/melghat-geography.jpg",
+    "intro": "Melghat Tiger Reserve lies in the Satpura hill ranges along the Maharashtra–Madhya Pradesh border, covering dense forests, rivers, and undulating plateaus.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "District", "value": "Amravati, Maharashtra" },
+      { "icon": "fas fa-ruler-combined", "label": "Area", "value": "1,676 sq km" },
+      { "icon": "fas fa-tree", "label": "Vegetation", "value": "Dry deciduous and moist forest mix" },
+      { "icon": "fas fa-water", "label": "Major Rivers", "value": "Tapti and Sipna Rivers" },
+      { "icon": "fas fa-mountain", "label": "Terrain", "value": "Hilly with steep valleys and plateaus" }
+    ],
+    "climate": {
+      "description": "Melghat has a tropical climate with moderate winters and hot summers. The post-monsoon season brings lush greenery and scenic beauty.",
+      "seasons": [
+        { "icon": "fas fa-sun", "text": "Best Season: October to March (cool and pleasant)" },
+        { "icon": "fas fa-cloud-rain", "text": "Monsoon: June to September (dense forest and waterfalls)" }
+      ]
+    },
+    "conclusion": "The Satpura ranges make Melghat a perfect habitat for wildlife, with natural water sources and dense cover supporting rich biodiversity."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Experience thrilling jeep safaris through the forest to spot tigers, leopards, and herbivores.",
+      "info": [
+        "Safaris available from Semadoh and Harisal gates",
+        "Morning and evening sessions"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Bird Watching",
+      "description": "Melghat is a paradise for bird lovers with over 250 species of resident and migratory birds.",
+      "info": [
+        "Best during winter months",
+        "Common species: Crested Serpent Eagle, Malabar Pied Hornbill"
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Nature Trails & Trekking",
+      "description": "Explore the rugged Satpura hills with guided treks to waterfalls and scenic viewpoints.",
+      "info": [
+        "Eco-guides available",
+        "Ideal for nature photography and adventure lovers"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/semadoh.jpg",
+      "title": "Semadoh Eco-Tourism Zone",
+      "description": "Main safari entry point offering forest lodges, interpretation centers, and nature walks.",
+      "distance": "80 km from Amravati",
+      "icon": "fas fa-leaf",
+      "value": "Tourism Hub"
+    },
+    {
+      "image": "/images/nature/hurricane-point.jpg",
+      "title": "Hurricane Point",
+      "description": "A popular viewpoint providing a panoramic view of Melghat’s valleys and forest canopy.",
+      "distance": "Near Chikhaldara",
+      "icon": "fas fa-mountain",
+      "value": "Scenic Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Melghat is a forested reserve, its rivers and streams support rich aquatic and semi-aquatic life.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Fish",
+        "description": "Tapti and Sipna rivers harbor native freshwater species supporting local ecosystems."
+      },
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians & Reptiles",
+        "description": "Frogs, lizards, and small reptiles thrive in the moist forest undergrowth."
+      }
+    ],
+    "conclusion": [
+      "Melghat’s water bodies add to its biodiversity, attracting birds and other wildlife.",
+      "They play an essential role in maintaining ecological balance."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Amravati (100 km)",
+        "Connected to Nagpur and Mumbai via express trains"
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Nagpur (230 km)",
+        "Taxis and buses available to reach Semadoh or Harisal gate"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Accessible via NH53 from Amravati and Nagpur",
+        "MSRTC buses and private vehicles frequently operate"
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/nature/melghat-tiger.jpg", "thumb": "/images/nature/melghat-tiger-thumb.jpg", "alt": "Tiger at Melghat" },
+    { "src": "/images/nature/melghat-safari.jpg", "thumb": "/images/nature/melghat-safari-thumb.jpg", "alt": "Safari vehicle in forest" },
+    { "src": "/images/nature/melghat-forest.jpg", "thumb": "/images/nature/melghat-forest-thumb.jpg", "alt": "Dense forest view" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-ticket-alt", "description": "Book safaris online in advance through the official Melghat Tiger Reserve portal." },
+    { "icon": "fas fa-calendar-alt", "description": "Ideal visiting season is October to March for pleasant weather." },
+    { "icon": "fas fa-lightbulb", "description": "Carry binoculars, insect repellent, and lightweight clothing for safaris and treks." }
+  ]
+}

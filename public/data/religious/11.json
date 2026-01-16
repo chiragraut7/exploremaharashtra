@@ -1,0 +1,138 @@
+{
+  "id": "11",
+  "title": "Renuka Devi Temple",
+  "subtitle": "Sacred Abode of Goddess Renuka Devi, Mahur",
+  "bannerImage": "/images/religious/mahur/banner.jpg",
+  "color": "#d67b6e",
+  "coordinates": { "lat": 19.8333, "lng": 77.9167 },
+  "overview": [
+    "The Renuka Devi Temple in Mahur is one of the most important Shakti Peethas in Maharashtra, dedicated to Goddess Renuka Devi, the mother of Lord Parashurama. Perched atop a hill amidst dense forests, this ancient temple holds deep mythological and spiritual significance.",
+    "Pilgrims from across the country visit Mahur to seek blessings from the Goddess, especially during Navratri when the temple is adorned beautifully, and special rituals are performed."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-person-praying",
+      "title": "Sacred Shakti Peetha",
+      "description": "One of the three and a half Shakti Peethas of Maharashtra, signifying immense spiritual power."
+    },
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Hilltop Sanctuary",
+      "description": "Located atop a scenic hill offering panoramic views of the surrounding forest and valleys."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/mahur/map.jpg",
+    "intro": "Mahur is a picturesque town located in Nanded district, surrounded by dense forests and hills that add to the temple’s serenity.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "District", "value": "Nanded" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "550 meters" },
+      { "icon": "fa-solid fa-globe", "label": "Region", "value": "Marathwada" },
+      { "icon": "fa-solid fa-language", "label": "Primary Language", "value": "Marathi" },
+      { "icon": "fa-solid fa-tree", "label": "Surroundings", "value": "Forested hills" }
+    ],
+    "climate": {
+      "description": "Mahur has a tropical climate with hot summers, pleasant winters, and moderate monsoons.",
+      "seasons": [
+        { "icon": "fa-solid fa-sun", "text": "Best time to visit: October to February" },
+        { "icon": "fa-solid fa-cloud-rain", "text": "Avoid during heavy monsoon months" }
+      ]
+    },
+    "conclusion": "The winter months are ideal for visiting Renuka Devi Temple when the climate is cool and comfortable for trekking up the hill."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trek to the Temple",
+      "description": "Climb up the hill through scenic pathways to reach the divine temple at the top.",
+      "info": [
+        "Approximately 400 steps lead to the main temple",
+        "Rest spots and small shops are available along the way"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-hands-praying",
+      "title": "Darshan and Aarti",
+      "description": "Experience the divine atmosphere during morning and evening aartis.",
+      "info": [
+        "Morning Aarti: 6:00 AM",
+        "Evening Aarti: 7:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-drum",
+      "title": "Navratri Festival",
+      "description": "Join thousands of devotees during the Navratri celebrations when the temple is vibrantly decorated.",
+      "info": [
+        "Special poojas and processions throughout Navratri",
+        "Cultural programs and devotional music performances"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/mahur/ansupa.jpg",
+      "title": "Anasuya Devi Temple",
+      "description": "Another important shrine in Mahur dedicated to Anasuya Devi, mother of the Trimurti — Brahma, Vishnu, and Mahesh.",
+      "distance": "3 km",
+      "icon": "fa-solid fa-church",
+      "value": "A major stop for pilgrims visiting Mahur"
+    },
+    {
+      "image": "/images/religious/mahur/dattatreya.jpg",
+      "title": "Lord Dattatreya Temple",
+      "description": "Situated on a nearby hill, this ancient temple is believed to be the birthplace of Lord Dattatreya.",
+      "distance": "2 km",
+      "icon": "fa-solid fa-om",
+      "value": "Highly revered by Dattatreya devotees"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Mahur is located inland, its spiritual environment flourishes with rich traditions and rituals.",
+    "items": [
+      { "icon": "fa-solid fa-leaf", "title": "Nature and Peace", "description": "The temple surroundings are lush and tranquil, fostering meditation and reflection." },
+      { "icon": "fa-solid fa-people-group", "title": "Cultural Heritage", "description": "Mahur has a deep-rooted cultural connection to ancient Hindu scriptures and legends." }
+    ],
+    "conclusion": [
+      "Mahur is a perfect blend of divinity and nature’s serenity.",
+      "The Renuka Devi Temple continues to attract devotees seeking spiritual awakening and peace."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Kinwat (55 km) or Nanded (130 km).",
+        "Regular trains connect Nanded with major cities like Mumbai, Hyderabad, and Aurangabad."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Frequent buses available from Nanded, Kinwat, and Yavatmal to Mahur.",
+        "Private taxis and jeeps are available for local transport."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Nanded (130 km).",
+        "Flights available from Mumbai, Hyderabad, and Pune."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/religious/mahur/1.jpg", "thumb": "/images/religious/mahur/thumb1.jpg", "alt": "Renuka Devi Temple on hilltop" },
+    { "src": "/images/religious/mahur/2.jpg", "thumb": "/images/religious/mahur/thumb2.jpg", "alt": "Main temple entrance" },
+    { "src": "/images/religious/mahur/3.jpg", "thumb": "/images/religious/mahur/thumb3.jpg", "alt": "Anasuya Devi Temple" },
+    { "src": "/images/religious/mahur/4.jpg", "thumb": "/images/religious/mahur/thumb4.jpg", "alt": "Lord Dattatreya Temple" }
+  ],
+  "bookingTips": [
+    { "icon": "fa-solid fa-hotel", "description": "Limited accommodation is available near the temple; book in advance during festivals." },
+    { "icon": "fa-solid fa-shoe-prints", "description": "Wear comfortable footwear as the path involves a steep climb." },
+    { "icon": "fa-solid fa-sun", "description": "Carry water and essentials when trekking, especially during summer visits." }
+  ]
+}

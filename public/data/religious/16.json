@@ -1,0 +1,181 @@
+{
+  "id": "16",
+  "title": "Dattatreya Temple, Gangapur",
+  "subtitle": "A Sacred Abode of Lord Dattatreya on the Banks of Bhima River",
+  "bannerImage": "/images/religious/test/dattatreya-gangapur/banner.jpg",
+  "color": "#6b4226",
+  "coordinates": { "lat": 17.1856, "lng": 76.2625 },
+  "overview": [
+    "Dattatreya Temple in Gangapur, located near Gulbarga (Karnataka-Maharashtra border), is one of the most revered pilgrimage sites dedicated to Lord Dattatreya.",
+    "The temple marks the place where Sri Narasimha Saraswati — the second incarnation of Lord Dattatreya — lived and performed miracles during the 14th century.",
+    "Situated on the peaceful banks of the Bhima River, the temple exudes divine energy and attracts thousands of devotees annually, especially during Guru Pournima and Datta Jayanti.",
+    "Gangapur is part of the ‘Dattatreya Peethas’ and holds deep spiritual significance for followers of the Datta Sampradaya."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-om",
+      "title": "Spiritual Significance",
+      "description": "Considered one of the most powerful Datta Peethas, where Lord Dattatreya manifested in human form as Shri Narasimha Saraswati."
+    },
+    {
+      "icon": "fa-solid fa-river",
+      "title": "Bhima-Amarja Sangam",
+      "description": "A sacred confluence near the temple where devotees perform holy dips and rituals."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/dattatreya-gangapur/geography.jpg",
+    "intro": "Gangapur is located near the Maharashtra–Karnataka border, on the serene banks of the Bhima River, surrounded by small hills and forests.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Gangapur, near Gulbarga (Kalaburagi), Karnataka"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "River",
+        "value": "Bhima River"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Temple Architecture",
+        "value": "Dravidian with stone mandapa and shrines"
+      },
+      {
+        "icon": "fa-solid fa-person-praying",
+        "label": "Presiding Deity",
+        "value": "Lord Dattatreya (Sri Narasimha Saraswati)"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Major Festivals",
+        "value": "Datta Jayanti, Guru Pournima"
+      }
+    ],
+    "climate": {
+      "description": "The area experiences tropical weather — warm summers and mild winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Avoid peak monsoon due to possible river flooding."
+        }
+      ]
+    },
+    "conclusion": "With spiritual resonance and natural serenity, Gangapur is a divine retreat for seekers of peace and blessings."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan & Aarti",
+      "description": "Devotees attend daily Aartis and Abhishekam rituals performed at the main shrine.",
+      "info": [
+        "Morning Kakad Aarti: 5:00 AM",
+        "Evening Aarti: 7:30 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Holy Dip at Sangam",
+      "description": "The Bhima-Amarja Sangam is believed to cleanse sins and bring spiritual merit.",
+      "info": [
+        "Early morning dip recommended.",
+        "Special rituals during Pournima and Datta Jayanti."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "title": "Reading Guru Charitra",
+      "description": "Devotees read or listen to the sacred Guru Charitra, recounting miracles of Narasimha Saraswati.",
+      "info": [
+        "Continuous Parayanas held daily.",
+        "Temple trust provides seating and copies of the scripture."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/dattatreya-gangapur/attraction1.jpg",
+      "title": "Sangam of Bhima and Amarja Rivers",
+      "description": "A serene confluence where devotees take holy dips and offer prayers.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-water",
+      "value": "Sacred River Spot"
+    },
+    {
+      "image": "/images/religious/test/dattatreya-gangapur/attraction2.jpg",
+      "title": "Audumbar Tree",
+      "description": "Believed to be the tree where Sri Narasimha Saraswati meditated and blessed devotees.",
+      "distance": "Near temple premises",
+      "icon": "fa-solid fa-tree",
+      "value": "Spiritual Landmark"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though located inland, the temple’s proximity to the Bhima River sustains local aquatic life.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Freshwater Species",
+        "description": "The river supports fish, turtles, and small crabs, enriching the natural setting."
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "title": "River Ecosystem",
+        "description": "Devotees are encouraged to keep the holy river clean during rituals."
+      }
+    ],
+    "conclusion": [
+      "The flowing Bhima River enhances the divine aura of Gangapur.",
+      "Its sacred waters symbolize spiritual purification and peace."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Gangapur Road (22 km).",
+        "Regular trains available from Pune, Solapur, and Gulbarga."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Connected by road from Solapur (110 km) and Gulbarga (40 km).",
+        "Frequent buses and shared jeeps available to Gangapur."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/dattatreya-gangapur/1.jpg",
+      "thumb": "/images/religious/test/dattatreya-gangapur/thumb1.jpg",
+      "alt": "Main shrine of Lord Dattatreya at Gangapur"
+    },
+    {
+      "src": "/images/religious/test/dattatreya-gangapur/2.jpg",
+      "thumb": "/images/religious/test/dattatreya-gangapur/thumb2.jpg",
+      "alt": "Bhima-Amarja Sangam near the temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Temple dharmashalas and guesthouses are available nearby for pilgrims."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "description": "Carry extra water during summer visits; temperatures can be high."
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "description": "Reading or listening to 'Guru Charitra' enhances the spiritual experience."
+    }
+  ]
+}

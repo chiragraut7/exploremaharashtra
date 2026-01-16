@@ -1,0 +1,187 @@
+{
+  "id": "24",
+  "title": "Pench National Park",
+  "subtitle": "The Land of Mowgli and the Jungle Book",
+  "bannerImage": "/images/nature/pench/banner.jpg",
+  "color": "#2e7d32",
+  "coordinates": { "lat": 21.6558, "lng": 79.2242 },
+  "overview": [
+    "Pench National Park, straddling the borders of Maharashtra and Madhya Pradesh, is one of India's premier tiger reserves. It is renowned for its dense teak forests, rich biodiversity, and as the setting that inspired Rudyard Kipling’s ‘The Jungle Book’.",
+    "Covering an area of about 758 square kilometers, the Pench Tiger Reserve offers visitors an unforgettable experience of wildlife, adventure, and serenity in nature."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-paw",
+      "title": "Tiger Reserve",
+      "description": "Home to Bengal tigers, leopards, wild dogs, and over 285 bird species — Pench is a wildlife lover’s paradise."
+    },
+    {
+      "icon": "fas fa-book-open",
+      "title": "Inspiration for The Jungle Book",
+      "description": "The forest described in Rudyard Kipling’s classic tale is said to be based on Pench’s landscapes."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/pench/geography.jpg",
+    "intro": "Situated in the southern reaches of the Satpura Hills, Pench National Park lies in Seoni and Chhindwara districts of Madhya Pradesh, extending partly into Maharashtra’s Nagpur district.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Nagpur District, Maharashtra, and Seoni District, Madhya Pradesh"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Area",
+        "value": "758 sq km"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Vegetation",
+        "value": "Dry deciduous forests with teak, mahua, and bamboo"
+      },
+      {
+        "icon": "fas fa-temperature-low",
+        "label": "Best Season",
+        "value": "November to April"
+      },
+      {
+        "icon": "fas fa-map",
+        "label": "Nearest City",
+        "value": "Nagpur (80 km)"
+      }
+    ],
+    "climate": {
+      "description": "Pench experiences a tropical climate with hot summers, pleasant winters, and refreshing monsoon greenery.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer (March to June): Warm and dry, great for spotting tigers near water bodies."
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter (November to February): Pleasant and ideal for safaris."
+        }
+      ]
+    },
+    "conclusion": "The Pench landscape is a blend of lush forests, tranquil rivers, and diverse wildlife habitats, offering one of Maharashtra’s most immersive forest experiences."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-jeep",
+      "title": "Jungle Safari",
+      "description": "Experience thrilling jeep safaris through the forest trails of Pench with experienced naturalists.",
+      "info": [
+        "Safaris operate from Turia and Sillari gates.",
+        "Morning and evening safari slots available."
+      ]
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Bird Watching",
+      "description": "Spot over 285 bird species including Indian roller, crested serpent eagle, and migratory storks.",
+      "info": [
+        "Ideal time: November to February.",
+        "Bring binoculars for better sightings."
+      ]
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Boat Safari",
+      "description": "Enjoy boating on the Pench River for a peaceful encounter with aquatic birds and forest views.",
+      "info": [
+        "Available at Khursapar and Sillari zones.",
+        "Ideal during cooler months."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/pench/sillari.jpg",
+      "title": "Sillari Gate",
+      "description": "Main entry point in Maharashtra for Pench safaris, equipped with eco-tourism facilities.",
+      "distance": "80 km from Nagpur",
+      "icon": "fas fa-door-open",
+      "value": "Official eco-tourism entrance."
+    },
+    {
+      "image": "/images/nature/pench/pench-river.jpg",
+      "title": "Pench River",
+      "description": "The lifeline of the forest, flowing gently through the park’s heart and supporting diverse flora and fauna.",
+      "distance": "Within reserve",
+      "icon": "fas fa-water",
+      "value": "Best seen during post-monsoon."
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Pench is a terrestrial forest, its lakes and rivers support diverse aquatic and amphibian life.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Aquatic Fauna",
+        "description": "The Pench River hosts several freshwater fish species and supports a balanced ecosystem."
+      },
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians and Reptiles",
+        "description": "The park shelters pythons, cobras, lizards, and a variety of frogs that thrive during the monsoon."
+      }
+    ],
+    "conclusion": [
+      "Pench’s ecology thrives on the harmonious balance of forest and water systems.",
+      "Visitors can explore both forest and aquatic life on a single trip."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Dr. Babasaheb Ambedkar International Airport, Nagpur (80 km).",
+        "Taxis and tour vehicles available to Pench gates."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Nagpur (80 km).",
+        "Good connectivity with Mumbai, Delhi, and major cities."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Regular buses and cabs from Nagpur, Seoni, and Chhindwara.",
+        "Well-maintained highways and forest roads."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/pench/pench1.jpg",
+      "thumb": "/images/nature/pench/pench1_thumb.jpg",
+      "alt": "Tiger in Pench National Park"
+    },
+    {
+      "src": "/images/nature/pench/pench2.jpg",
+      "thumb": "/images/nature/pench/pench2_thumb.jpg",
+      "alt": "Pench River and Forest View"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Book jungle safaris online through Maharashtra Forest Department’s official portal."
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "description": "Carry binoculars, camera lenses, and neutral-colored clothing."
+    },
+    {
+      "icon": "fas fa-bed",
+      "description": "Stay near Sillari or Khursapar gates for best safari access."
+    }
+  ]
+}

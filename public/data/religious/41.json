@@ -1,0 +1,178 @@
+  {
+    "id": "41",
+    "title": "Mahur Renuka Devi Temple",
+    "subtitle": "A Sacred Shakti Peetha in Nanded District",
+    "bannerImage": "/images/religious/mahur/banner.jpg",
+    "color": "#B91C1C",
+    "overview": [
+      "Mahur, in the Nanded district of Maharashtra, is home to the ancient Renuka Devi Temple — one of the three and a half Shakti Peethas in the state. The temple sits atop a lush green hill, surrounded by forests and mythological significance.",
+      "Renuka Devi is considered the mother of Lord Parashurama, and devotees visit Mahur to seek her blessings for strength, wisdom, and protection."
+    ],
+    "highlights": [
+      {
+        "icon": "fas fa-church",
+        "title": "Renuka Devi Temple",
+        "description": "Main shrine located on a hilltop, offering a scenic view of the surrounding valley."
+      },
+      {
+        "icon": "fas fa-mountain",
+        "title": "Hilltop Pilgrimage",
+        "description": "The climb of 400 steps to reach the temple is both challenging and spiritually fulfilling."
+      }
+    ],
+    "geography": {
+      "image": "/images/religious/mahur/map.jpg",
+      "intro": "Mahur is a town in the Kinwat Taluka of Nanded district, located near the Maharashtra–Telangana border.",
+      "details": [
+        {
+          "icon": "fas fa-map-marker-alt",
+          "label": "District",
+          "value": "Nanded"
+        },
+        {
+          "icon": "fas fa-mountain",
+          "label": "Elevation",
+          "value": "650 meters"
+        },
+        {
+          "icon": "fas fa-road",
+          "label": "Nearest Highway",
+          "value": "NH 361 (Nanded–Yavatmal Road)"
+        },
+        {
+          "icon": "fas fa-plane",
+          "label": "Nearest Airport",
+          "value": "Nanded Airport (58 km)"
+        },
+        {
+          "icon": "fas fa-train",
+          "label": "Nearest Railway Station",
+          "value": "Kinwat (50 km)"
+        }
+      ],
+      "climate": {
+        "description": "Mahur experiences pleasant winters and hot summers, with monsoon showers enhancing its greenery.",
+        "seasons": [
+          {
+            "icon": "fas fa-sun",
+            "text": "Summer: 30°C to 42°C (March–June)"
+          },
+          {
+            "icon": "fas fa-cloud-rain",
+            "text": "Monsoon: 25°C to 30°C (July–September)"
+          }
+        ]
+      },
+      "conclusion": "Best visited from October to February when the weather is cool and comfortable for temple visits."
+    },
+    "activities": [
+      {
+        "icon": "fas fa-praying-hands",
+        "title": "Darshan of Renuka Devi",
+        "description": "Seek blessings from Goddess Renuka Devi and enjoy the peaceful surroundings of the temple.",
+        "info": [
+          "Aarti and Abhishek rituals are conducted daily.",
+          "Special poojas are organized during Navratri."
+        ]
+      },
+      {
+        "icon": "fas fa-hiking",
+        "title": "Hill Trek to the Temple",
+        "description": "The climb to the top offers scenic views and a spiritual journey.",
+        "info": [
+          "Sheltered steps and resting spots available.",
+          "Ideal for photography enthusiasts."
+        ]
+      },
+      {
+        "icon": "fas fa-temple",
+        "title": "Visit Datta Mandir",
+        "description": "Near Renuka temple, dedicated to Lord Dattatreya — believed to have meditated here.",
+        "info": [
+          "Serene forest surroundings.",
+          "A must-visit for spiritual seekers."
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "image": "/images/religious/mahur/renuka.jpg",
+        "title": "Renuka Devi Temple",
+        "description": "Main temple dedicated to the mother of Parashurama.",
+        "distance": "0 km",
+        "icon": "fas fa-place-of-worship",
+        "value": "Main Shrine"
+      },
+      {
+        "image": "/images/religious/mahur/datta.jpg",
+        "title": "Dattatreya Temple",
+        "description": "Ancient temple situated on another nearby hill.",
+        "distance": "2 km",
+        "icon": "fas fa-mountain",
+        "value": "Nearby Hill Shrine"
+      }
+    ],
+    "marineLife": {
+      "intro": "Though Mahur is far from the sea, its spiritual energy and natural surroundings nurture the soul.",
+      "items": [
+        {
+          "icon": "fas fa-heart",
+          "title": "Divine Feminine Power",
+          "description": "Renuka Devi symbolizes strength, compassion, and motherhood."
+        },
+        {
+          "icon": "fas fa-leaf",
+          "title": "Nature and Tranquility",
+          "description": "The temple is surrounded by dense forests, adding serenity to devotion."
+        }
+      ],
+      "conclusion": [
+        "Mahur combines spirituality and scenic beauty in one journey.",
+        "Perfect for pilgrims and nature lovers alike."
+      ]
+    },
+    "howToReach": [
+      {
+        "icon": "fas fa-train",
+        "title": "By Rail",
+        "details": [
+          "Kinwat is the nearest railway station (50 km) connected to Nanded and Adilabad.",
+          "Taxis and buses are available from Kinwat to Mahur."
+        ]
+      },
+      {
+        "icon": "fas fa-bus",
+        "title": "By Road",
+        "details": [
+          "Regular MSRTC buses operate from Nanded, Kinwat, and Yavatmal.",
+          "Private vehicles can easily access the temple road."
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/religious/mahur/1.jpg",
+        "thumb": "/images/religious/mahur/thumb1.jpg",
+        "alt": "Mahur Renuka Devi Temple"
+      },
+      {
+        "src": "/images/religious/mahur/2.jpg",
+        "thumb": "/images/religious/mahur/thumb2.jpg",
+        "alt": "Scenic view of Mahur hills"
+      }
+    ],
+    "bookingTips": [
+      {
+        "icon": "fas fa-calendar-alt",
+        "description": "Navratri is the peak season; book accommodation early."
+      },
+      {
+        "icon": "fas fa-clock",
+        "description": "Early morning darshan is peaceful before the crowds arrive."
+      },
+      {
+        "icon": "fas fa-water",
+        "description": "Carry water and light snacks if trekking to the top."
+      }
+    ]
+  }

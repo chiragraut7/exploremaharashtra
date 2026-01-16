@@ -1,0 +1,202 @@
+{
+  "id": "17",
+  "title": "Vitthal-Rukmini Temple, Alandi",
+  "subtitle": "Sacred Town of Sant Dnyaneshwar Maharaj on the Banks of Indrayani River",
+  "bannerImage": "/images/religious/vitthal-alandi/banner.jpg",
+  "color": "#B45F06",
+  "coordinates": { "lat": 18.6758, "lng": 73.8906 },
+  "overview": [
+    "Alandi, situated on the banks of the holy Indrayani River near Pune, is one of Maharashtra’s most revered pilgrimage sites. It is closely associated with Sant Dnyaneshwar Maharaj, the great saint and philosopher who authored the Dnyaneshwari — a Marathi commentary on the Bhagavad Gita.",
+    "The Vitthal-Rukmini Temple here attracts lakhs of devotees, particularly Warkaris, who gather annually for the Palkhi procession that travels from Alandi to Pandharpur.",
+    "Alandi’s spiritual aura, river ghats, and historic temples create a divine atmosphere of devotion and peace."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Sant Dnyaneshwar Samadhi Mandir",
+      "description": "The sacred resting place of Sant Dnyaneshwar Maharaj, visited by devotees throughout the year."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Indrayani River Ghats",
+      "description": "Holy riverbank where pilgrims bathe and perform rituals before temple visits."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Annual Dnyaneshwar Palkhi",
+      "description": "The grand procession begins from Alandi and culminates in Pandharpur, uniting lakhs of devotees in devotion."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/vitthal-alandi/map.jpg",
+    "intro": "Alandi is located in Pune district, around 25 km northeast of Pune city, along the Indrayani River in western Maharashtra.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Pune",
+        "value": "25 km"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to February"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Ashadhi Wari (Dnyaneshwar Palkhi)"
+      }
+    ],
+    "climate": {
+      "description": "Alandi enjoys a moderate climate similar to Pune, with warm summers, cool winters, and heavy monsoon rains.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: 22°C – 30°C (June–September)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 12°C – 25°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "The divine presence of Sant Dnyaneshwar and the peaceful Indrayani River make Alandi a symbol of spiritual devotion and unity in Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan at Vitthal-Rukmini Temple",
+      "description": "Seek blessings of Lord Vitthal and Rukmini in this serene and sacred temple environment.",
+      "info": [
+        "Temple open daily from 5 AM to 9 PM.",
+        "Special rituals on Ekadashi and Palkhi days."
+      ]
+    },
+    {
+      "icon": "fas fa-om",
+      "title": "Visit Sant Dnyaneshwar Samadhi Mandir",
+      "description": "Pay homage at the holy Samadhi where Sant Dnyaneshwar Maharaj attained eternal rest.",
+      "info": [
+        "Located adjacent to the main temple complex.",
+        "Peaceful environment ideal for meditation."
+      ]
+    },
+    {
+      "icon": "fas fa-route",
+      "title": "Participate in the Dnyaneshwar Palkhi",
+      "description": "Join thousands of devotees on their journey to Pandharpur in devotion to Lord Vitthal.",
+      "info": [
+        "Begins 18–20 days before Ashadhi Ekadashi.",
+        "Traditional Warkari chants and Abhangas fill the air."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/vitthal-alandi/dnyaneshwar-samadhi.jpg",
+      "title": "Sant Dnyaneshwar Samadhi Mandir",
+      "description": "A historic and spiritual site where Sant Dnyaneshwar Maharaj took Samadhi over 700 years ago.",
+      "distance": "0.1 km",
+      "icon": "fas fa-om",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/religious/vitthal-alandi/indrayani-ghat.jpg",
+      "title": "Indrayani River Ghat",
+      "description": "Peaceful riverbank where pilgrims perform rituals and enjoy the serene beauty of the flowing river.",
+      "distance": "0.2 km",
+      "icon": "fas fa-water",
+      "value": "Holy Riverbank"
+    }
+  ],
+  "marineLife": {
+    "intro": "While not coastal, the Indrayani River supports local aquatic biodiversity and sustains the surrounding ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Aquatic Life",
+        "description": "The Indrayani River sustains small fish species and provides a habitat for local birds and flora."
+      },
+      {
+        "icon": "fas fa-seedling",
+        "title": "Eco Harmony",
+        "description": "Alandi’s natural surroundings blend spiritual tranquility with environmental balance."
+      }
+    ],
+    "conclusion": [
+      "The Indrayani symbolizes purity and devotion in the Warkari tradition.",
+      "Alandi’s ecosystem remains deeply connected with its spiritual heritage."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Alandi can be accessed via Pune Railway Station (25 km).",
+        "Local buses and taxis available to reach the temple."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Regular MSRTC and private buses operate from Pune, Nashik, and Ahmednagar.",
+        "Alandi is well-connected by the Pune-Nashik Highway."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (28 km).",
+        "Frequent cabs and buses to Alandi."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/vitthal-alandi/1.jpg",
+      "thumb": "/images/religious/vitthal-alandi/thumb1.jpg",
+      "alt": "Vitthal-Rukmini Temple Alandi"
+    },
+    {
+      "src": "/images/religious/vitthal-alandi/2.jpg",
+      "thumb": "/images/religious/vitthal-alandi/thumb2.jpg",
+      "alt": "Indrayani River Ghat at Alandi"
+    },
+    {
+      "src": "/images/religious/vitthal-alandi/3.jpg",
+      "thumb": "/images/religious/vitthal-alandi/thumb3.jpg",
+      "alt": "Sant Dnyaneshwar Palkhi Procession from Alandi"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Visit during the Dnyaneshwar Palkhi Yatra for an immersive spiritual experience."
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Early mornings are ideal for peaceful darshan and rituals by the Indrayani River."
+    },
+    {
+      "icon": "fas fa-bed",
+      "description": "Book local dharmashalas or lodges in advance during pilgrimage season."
+    }
+  ]
+}

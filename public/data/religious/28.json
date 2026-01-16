@@ -1,0 +1,197 @@
+{
+  "id": "28",
+  "title": "Girijatmaj Temple, Lenyadri",
+  "subtitle": "The Cave Temple Where Goddess Parvati Worshipped Lord Ganesha",
+  "bannerImage": "/images/religious/lenyadri/banner.jpg",
+  "color": "#d97706",
+  "coordinates": { "lat": 19.2417, "lng": 73.8875 },
+  "overview": [
+    "The Girijatmaj Temple at Lenyadri, near Junnar in Pune district, is one of the eight revered Ashtavinayak Temples of Maharashtra. This temple holds a unique place as it is carved into a mountain cave complex and symbolizes divine motherhood.",
+    "According to legend, Goddess Parvati performed penance here and was blessed with Lord Ganesha as her son—hence the name ‘Girijatmaj’, meaning ‘Son of the Mountain Goddess’.",
+    "The temple lies in the 7th cave of the Lenyadri hill, part of 30 Buddhist rock-cut caves, blending Hindu and Buddhist architectural influences. Reaching the shrine requires climbing 283 stone steps, making it a physically and spiritually uplifting experience."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Carved in a Mountain Cave",
+      "description": "The only Ashtavinayak temple situated inside a natural rock-cut cave, showcasing ancient artistry and serenity."
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "283-Step Spiritual Climb",
+      "description": "Devotees ascend 283 steps, symbolizing purification and devotion before reaching Lord Ganesha’s sanctum."
+    },
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Birthplace of Lord Ganesha",
+      "description": "Believed to be the place where Goddess Parvati gave birth to Ganesha after deep meditation."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/lenyadri/map.jpg",
+    "intro": "Lenyadri is located near Junnar in Pune district, surrounded by rugged hills and ancient caves dating back to the 1st–3rd century AD. The temple lies at an elevation of around 750 meters above sea level, offering scenic views of the Kukadi River valley.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "750 meters"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Junnar",
+        "value": "7 km"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Pune",
+        "value": "95 km"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Nearby Landmark",
+        "value": "Shivneri Fort – Birthplace of Chhatrapati Shivaji Maharaj"
+      }
+    ],
+    "climate": {
+      "description": "Lenyadri has a moderate climate, with pleasant winters ideal for visiting. Summers are warm, but mornings are suitable for the climb.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 22°C – 36°C (March–June)"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon: 20°C – 28°C (July–September)"
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter: 15°C – 28°C (October–February)"
+        }
+      ]
+    },
+    "conclusion": "Perched atop scenic hills, the Girijatmaj Temple radiates an aura of devotion, tranquility, and ancient beauty."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Experience spiritual serenity at the cave temple carved directly into basalt rock.",
+      "info": [
+        "Main deity faces north, unlike other Ashtavinayak idols.",
+        "Daily poojas and aartis held in traditional manner."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Climb the Sacred Steps",
+      "description": "Ascending the 283 steps is a key part of the pilgrimage, believed to cleanse body and mind.",
+      "info": [
+        "Rest points available along the way.",
+        "Devotees chant Ganesha mantras during ascent."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Explore Lenyadri Caves",
+      "description": "A cluster of ancient rock-cut Buddhist caves offers insights into early monastic life and architecture.",
+      "info": [
+        "Caves numbered 1–30 with unique carvings and stupas.",
+        "Ideal for photography and exploration."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/lenyadri/attraction1.jpg",
+      "title": "Shivneri Fort",
+      "description": "Birthplace of Chhatrapati Shivaji Maharaj, located just 7 km from Lenyadri.",
+      "distance": "7 km",
+      "icon": "fas fa-chess-rook",
+      "value": "Historical Site"
+    },
+    {
+      "image": "/images/religious/lenyadri/attraction2.jpg",
+      "title": "Kukadi River Viewpoint",
+      "description": "A peaceful spot offering panoramic views of the Kukadi River valley and the surrounding hills.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-water",
+      "value": "Scenic Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Lenyadri’s ecosystem consists mainly of hilly terrain and dry deciduous vegetation with local fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-feather-pointed",
+        "title": "Hill Birds and Wildlife",
+        "description": "Peacocks, partridges, and various small mammals are often spotted during the climb."
+      },
+      {
+        "icon": "fa-solid fa-seedling",
+        "title": "Sacred Natural Setting",
+        "description": "The cave’s environment supports a tranquil atmosphere perfect for meditation."
+      }
+    ],
+    "conclusion": [
+      "The Girijatmaj Temple is not just a shrine but a symbol of divine motherhood and devotion.",
+      "Its ancient setting makes it one of the most scenic and spiritually significant Ashtavinayak temples."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune International Airport (95 km).",
+        "Mumbai Airport (170 km) is also accessible."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Pune Junction (95 km) or Talegaon (70 km).",
+        "Buses and taxis available from Junnar to Lenyadri."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Lenyadri is well connected by road from Pune, Nashik, and Mumbai.",
+        "Regular state transport and private buses operate up to Junnar."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/lenyadri/1.jpg",
+      "thumb": "/images/religious/lenyadri/thumb1.jpg",
+      "alt": "Girijatmaj Temple Cave Entrance"
+    },
+    {
+      "src": "/images/religious/lenyadri/2.jpg",
+      "thumb": "/images/religious/lenyadri/thumb2.jpg",
+      "alt": "Steps Leading to Girijatmaj Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-hiking",
+      "description": "Start early morning for a comfortable climb before the heat increases."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear comfortable shoes and carry water during the ascent."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Photography is allowed around the cave complex, but respect temple premises."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "19",
+  "title": "Ratnagiri Fort (Bhagwati Fort)",
+  "subtitle": "A Coastal Guardian Overlooking the Arabian Sea",
+  "bannerImage": "/images/forts/ratnagiri-fort/banner.jpg",
+  "color": "#0a3d62",
+  "coordinates": { "lat": 17.0108, "lng": 73.2708 },
+  "overview": [
+    "Ratnagiri Fort, also known as Bhagwati Fort, stands majestically on a hill along the Arabian Sea coast in the Ratnagiri district. This historic fort is an enduring symbol of the Konkan’s maritime heritage and strategic importance.",
+    "The fort was built during the Bahmani period and later fortified by the Marathas and the British. Overlooking the vast sea, it served as a crucial watchpoint for naval movements and coastal trade.",
+    "Today, the fort and its scenic surroundings — especially the Bhagwati temple and sea-facing bastions — make it a popular tourist attraction for history enthusiasts and nature lovers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Panoramic Sea Views",
+      "description": "Witness breathtaking vistas of the Arabian Sea and Ratnagiri’s scenic coastline from the fort’s bastions."
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Bhagwati Temple",
+      "description": "The centuries-old temple inside the fort complex is dedicated to Goddess Bhagwati, attracting devotees year-round."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/ratnagiri-fort/geography.jpg",
+    "intro": "Situated on a small hill along the Konkan coastline, Ratnagiri Fort enjoys a commanding view of the Arabian Sea and the town of Ratnagiri below.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ratnagiri, Maharashtra, India"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Approximately 200 feet above sea level"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Region",
+        "value": "Konkan Coast"
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "label": "Coordinates",
+        "value": "16.981° N, 73.310° E"
+      },
+      {
+        "icon": "fa-solid fa-clock",
+        "label": "Best Time to Visit",
+        "value": "October to March"
+      }
+    ],
+    "climate": {
+      "description": "Ratnagiri experiences a tropical coastal climate with humid summers, heavy monsoons, and pleasant winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 26°C – 34°C"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon: Heavy rainfall from June to September"
+        }
+      ]
+    },
+    "conclusion": "The fort’s coastal location and mild winter weather make it an ideal spot for exploration and photography."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture the fort’s ramparts, sea-facing walls, and the breathtaking Arabian horizon.",
+      "info": [
+        "Ideal for sunrise and sunset shots.",
+        "Drone views (with permission) are spectacular."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Fort Exploration",
+      "description": "Walk through ancient gateways, ramparts, and bastions that tell stories of maritime history.",
+      "info": [
+        "Paths are well-marked and safe.",
+        "Wear comfortable footwear for walking."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-place-of-worship",
+      "title": "Temple Visit",
+      "description": "Pay respects at the Bhagwati Temple inside the fort premises.",
+      "info": [
+        "Open daily for visitors and pilgrims.",
+        "Special celebrations during Navratri."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/ratnagiri-fort/bhagwati-temple.jpg",
+      "title": "Bhagwati Temple",
+      "description": "An ancient temple inside the fort complex, revered by locals and visitors alike.",
+      "distance": "Inside the fort",
+      "icon": "fa-solid fa-om",
+      "value": "Religious & Historical"
+    },
+    {
+      "image": "/images/forts/ratnagiri-fort/beach-view.jpg",
+      "title": "Mandavi Beach",
+      "description": "A serene beach located near the base of the fort, ideal for evening walks.",
+      "distance": "1 km from fort",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Relaxation & Scenery"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Ratnagiri Fort itself isn’t a marine site, its proximity to the coast offers glimpses of the rich Konkan marine ecosystem.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Konkan Marine Biodiversity",
+        "description": "Home to diverse fish species and vibrant coastal flora."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Nearby Beaches",
+        "description": "Mandavi and Bhatye beaches nearby offer opportunities to spot coastal birds and crabs."
+      }
+    ],
+    "conclusion": [
+      "Enjoy the fresh sea breeze and scenic landscapes.",
+      "Maintain cleanliness to preserve the coastal ecosystem."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail",
+      "details": [
+        "Ratnagiri Railway Station (6 km from fort) is on the Konkan Railway route.",
+        "Frequent trains connect Ratnagiri with Mumbai, Goa, and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Easily accessible via Mumbai–Goa Highway (NH 66).",
+        "Local taxis and autos available from Ratnagiri city."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/ratnagiri-fort/gallery1.jpg",
+      "thumb": "/images/forts/ratnagiri-fort/thumb1.jpg",
+      "alt": "Sea view from Ratnagiri Fort bastions"
+    },
+    {
+      "src": "/images/forts/ratnagiri-fort/gallery2.jpg",
+      "thumb": "/images/forts/ratnagiri-fort/thumb2.jpg",
+      "alt": "Bhagwati Temple inside Ratnagiri Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Visit early morning or late evening for the best lighting and sea views."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Carry comfortable footwear as the terrain is uneven in places."
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "description": "Don’t forget your camera — the panoramic coastal shots are stunning."
+    }
+  ]
+}

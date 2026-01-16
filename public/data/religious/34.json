@@ -1,0 +1,200 @@
+{
+  "id": "34",
+  "title": "Sant Dnyaneshwar Temple, Alandi",
+  "subtitle": "Sacred Samadhi of Saint Dnyaneshwar – The Divine Poet of Maharashtra",
+  "bannerImage": "/images/religious/test/dnyaneshwar-alandi/banner.jpg",
+  "color": "#a65c2b",
+  "overview": [
+    "Alandi, located on the banks of the Indrayani River near Pune, is one of the most revered pilgrimage towns in Maharashtra.",
+    "It is best known for the temple and Samadhi of Sant Dnyaneshwar Maharaj, the 13th-century saint, philosopher, and author of the revered ‘Dnyaneshwari’.",
+    "Every year, thousands of Warkaris (devotees of Lord Vitthal) visit Alandi during the Pandharpur Wari, carrying the symbolic palanquin (Palkhi) of Dnyaneshwar Maharaj to Pandharpur.",
+    "Alandi’s spiritual atmosphere, rhythmic chants, and river rituals make it a center of devotion and learning in the Bhakti movement."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-om",
+      "title": "Spiritual Significance",
+      "description": "Samadhi of Sant Dnyaneshwar Maharaj, a central figure of the Bhakti tradition in Maharashtra."
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "title": "Dnyaneshwari Legacy",
+      "description": "The temple preserves the teachings and writings of the saint who translated the Bhagavad Gita into Marathi."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/dnyaneshwar-alandi/geography.jpg",
+    "intro": "Alandi is a serene town on the banks of the holy Indrayani River, located about 25 km from Pune.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Alandi, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "River",
+        "value": "Indrayani River"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Temple Architecture",
+        "value": "Traditional Peshwa-era style with ornate woodwork and shikhara"
+      },
+      {
+        "icon": "fa-solid fa-person-praying",
+        "label": "Presiding Deity",
+        "value": "Sant Dnyaneshwar Maharaj Samadhi"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Major Festivals",
+        "value": "Dnyaneshwar Palkhi Wari, Kartik Ekadashi, Ashadhi Ekadashi"
+      }
+    ],
+    "climate": {
+      "description": "Alandi has a tropical climate with warm summers and mild winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon months bring lush surroundings and river abundance."
+        }
+      ]
+    },
+    "conclusion": "Alandi stands as a timeless spiritual center, inspiring countless devotees and seekers through the divine teachings of Dnyaneshwar Maharaj."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan and Samadhi Puja",
+      "description": "Devotees visit the sacred Samadhi and offer flowers, oil lamps, and prayers.",
+      "info": [
+        "Temple opens at 4:00 AM for Kakad Aarti.",
+        "Evening Aarti and Bhajans held daily."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-walking",
+      "title": "Wari Pilgrimage Participation",
+      "description": "Join thousands of Warkaris in the famous Pandharpur Wari procession starting from Alandi.",
+      "info": [
+        "Held annually in June-July (Ashadh month).",
+        "Devotees chant ‘Gyanba Tukaram!’ along the route."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Holy Dip in Indrayani",
+      "description": "Pilgrims take a dip in the sacred Indrayani River before visiting the temple.",
+      "info": [
+        "Ritual believed to purify body and mind.",
+        "Best time: Early morning or during festival days."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/dnyaneshwar-alandi/attraction1.jpg",
+      "title": "Indrayani Ghat",
+      "description": "Peaceful ghats along the Indrayani River for meditation and ritual bathing.",
+      "distance": "0.2 km",
+      "icon": "fa-solid fa-water",
+      "value": "Sacred Riverfront"
+    },
+    {
+      "image": "/images/religious/test/dnyaneshwar-alandi/attraction2.jpg",
+      "title": "Palkhi Start Point",
+      "description": "Historic site where the annual Palkhi procession begins, carrying the Padukas (holy sandals) of the saint.",
+      "distance": "0.5 km",
+      "icon": "fa-solid fa-people-carry-box",
+      "value": "Pilgrimage Hub"
+    },
+    {
+      "image": "/images/religious/test/dnyaneshwar-alandi/attraction3.jpg",
+      "title": "Siddheshwar Temple",
+      "description": "Ancient Shiva temple near Alandi, visited by devotees seeking blessings before Samadhi darshan.",
+      "distance": "2 km",
+      "icon": "fa-solid fa-om",
+      "value": "Nearby Shrine"
+    }
+  ],
+  "marineLife": {
+    "intro": "Alandi’s spiritual setting by the Indrayani River nurtures a calm river ecosystem.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "River Species",
+        "description": "The Indrayani supports freshwater fish and aquatic plants, adding to its serenity."
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "title": "Eco Conservation",
+        "description": "Local volunteers and devotees often organize cleanliness drives to protect the holy river."
+      }
+    ],
+    "conclusion": [
+      "The Indrayani’s gentle flow mirrors the peaceful teachings of Saint Dnyaneshwar.",
+      "Its sacred waters symbolize purity and devotion."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Pune Junction (28 km).",
+        "Frequent trains connect Pune with Mumbai, Nashik, and Solapur."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Alandi is well connected by road from Pune (25 km) via Dighi–Moshi road.",
+        "Regular MSRTC buses and shared autos are available."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (21 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/dnyaneshwar-alandi/1.jpg",
+      "thumb": "/images/religious/test/dnyaneshwar-alandi/thumb1.jpg",
+      "alt": "Sant Dnyaneshwar Samadhi Mandir at Alandi"
+    },
+    {
+      "src": "/images/religious/test/dnyaneshwar-alandi/2.jpg",
+      "thumb": "/images/religious/test/dnyaneshwar-alandi/thumb2.jpg",
+      "alt": "Indrayani River Ghat at Alandi"
+    },
+    {
+      "src": "/images/religious/test/dnyaneshwar-alandi/3.jpg",
+      "thumb": "/images/religious/test/dnyaneshwar-alandi/thumb3.jpg",
+      "alt": "Warkaris chanting during Palkhi Wari from Alandi"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Simple lodges, dharmashalas, and ashrams available near the temple for pilgrims."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "description": "Carry drinking water; temple area can be crowded during festivals."
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "description": "Participate in morning Bhajans or read excerpts from Dnyaneshwari for spiritual upliftment."
+    }
+  ]
+}

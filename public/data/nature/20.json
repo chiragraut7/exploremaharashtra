@@ -1,0 +1,179 @@
+{
+  "id": "20",
+  "title": "Devkund Waterfall",
+  "subtitle": "The Hidden Gem of Raigad District",
+  "bannerImage": "/images/nature/devkund/banner.jpg",
+  "color": "#3baea0",
+  "coordinates": { "lat": 18.4261, "lng": 73.3422 },
+  "overview": [
+    "Devkund Waterfall, located near Bhira village in the Raigad district, is one of Maharashtra’s most enchanting natural spots. Hidden deep within the forest, this plunge waterfall forms a turquoise pool at its base, making it a favorite among trekkers and photographers.",
+    "Known as the origin point of the Kundalika River, Devkund offers a serene and refreshing experience surrounded by lush greenery and misty hills."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-water",
+      "title": "Spectacular Plunge Waterfall",
+      "description": "Devkund is one of the few plunge waterfalls in Maharashtra where water drops vertically into a natural pool."
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Popular Trekking Destination",
+      "description": "The 6 km trek to Devkund through dense forest and streams is a thrilling adventure for nature enthusiasts."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/devkund/geography.jpg",
+    "intro": "Devkund Waterfall lies near Bhira village in Raigad district, nestled amidst the Sahyadri ranges and surrounded by dense forest cover.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Bhira Village, Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "Approximately 600 meters above sea level"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Type",
+        "value": "Plunge Waterfall"
+      },
+      {
+        "icon": "fas fa-tint",
+        "label": "River",
+        "value": "Kundalika River Origin Point"
+      },
+      {
+        "icon": "fas fa-route",
+        "label": "Nearest Town",
+        "value": "Kolad (22 km)"
+      }
+    ],
+    "climate": {
+      "description": "The region experiences tropical monsoon weather with heavy rainfall during the monsoon and pleasant temperatures post-monsoon.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Best visited from July to February for scenic beauty and safe water levels."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Avoid peak summer due to heat and dry surroundings."
+        }
+      ]
+    },
+    "conclusion": "Devkund offers a perfect blend of adventure and tranquility, attracting trekkers and nature photographers throughout the year."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking",
+      "description": "A scenic forest trail from Bhira village to Devkund offers adventure through streams, bridges, and dense woods.",
+      "info": [
+        "Moderate trek of around 6 km one way.",
+        "Guides available at Bhira village for safety and navigation."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture the emerald pool and cascading waterfall amidst misty surroundings.",
+      "info": [
+        "Ideal for landscape and nature photography.",
+        "Best lighting during early morning or post-rainfall."
+      ]
+    },
+    {
+      "icon": "fas fa-campground",
+      "title": "Camping",
+      "description": "Several campsites near Bhira and Kolad offer overnight stays close to nature.",
+      "info": [
+        "Stay in eco-tents or homestays near Bhira.",
+        "Bonfire and local meals available at campsites."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/devkund/bhira-dam.jpg",
+      "title": "Bhira Dam",
+      "description": "A scenic reservoir located near the starting point of the Devkund trek, built for hydroelectric generation.",
+      "distance": "2 km",
+      "icon": "fas fa-water",
+      "value": "Beautiful viewpoint for sunrise and boating."
+    },
+    {
+      "image": "/images/nature/devkund/kolad.jpg",
+      "title": "Kolad River Rafting",
+      "description": "Experience thrilling white-water rafting on the Kundalika River near Kolad.",
+      "distance": "22 km",
+      "icon": "fas fa-ship",
+      "value": "Perfect weekend adventure destination."
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Devkund is a freshwater waterfall, the surrounding ecosystem is rich in biodiversity.",
+    "items": [
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians and Reptiles",
+        "description": "Tree frogs, lizards, and small snakes can be spotted around the moist forest floor."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birdlife",
+        "description": "Species like hornbills, drongos, and kingfishers are commonly seen."
+      }
+    ],
+    "conclusion": [
+      "The Devkund forest region offers a serene habitat for wildlife.",
+      "Visitors are encouraged to maintain cleanliness and avoid disturbing the ecosystem."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Kolad Railway Station (22 km) is the nearest railhead.",
+        "Regular trains from Mumbai and Pune connect to Kolad."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Accessible via Mumbai–Goa Highway (NH66) through Pali and Bhira.",
+        "State transport buses and shared jeeps operate till Bhira village."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/devkund/devkund1.jpg",
+      "thumb": "/images/nature/devkund/devkund1_thumb.jpg",
+      "alt": "Devkund Waterfall Main Pool"
+    },
+    {
+      "src": "/images/nature/devkund/devkund2.jpg",
+      "thumb": "/images/nature/devkund/devkund2_thumb.jpg",
+      "alt": "Trek Path to Devkund Waterfall"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-info-circle",
+      "description": "Always check weather conditions before planning your trek, especially during monsoon."
+    },
+    {
+      "icon": "fas fa-user-shield",
+      "description": "Trekking guides are mandatory for first-time visitors for safety."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Avoid littering and maintain the natural sanctity of the place."
+    }
+  ]
+}

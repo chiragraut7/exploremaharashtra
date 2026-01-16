@@ -1,0 +1,194 @@
+{
+  "id": "27",
+  "title": "Chintamani Temple, Theur",
+  "subtitle": "The Lord Who Removes Worries — Fifth Temple of the Sacred Ashtavinayak Yatra",
+  "bannerImage": "/images/religious/theur/banner.jpg",
+  "color": "#ef4444",
+  "coordinates": { "lat": 18.5258, "lng": 73.9903 },
+  "overview": [
+    "The Chintamani Temple at Theur, located near Pune, is one of the eight revered Ashtavinayak temples dedicated to Lord Ganesha. The deity here is known as 'Chintamani', meaning 'The One Who Removes All Worries'.",
+    "According to legend, Lord Ganesha retrieved the precious Chintamani gem from a greedy king on behalf of Sage Kapila, symbolizing the triumph of wisdom over desire.",
+    "Theur’s Chintamani Temple is known for its spiritual calm, intricate wooden architecture, and a grand sabhamandap that echoes with the chants of devotees.",
+    "Surrounded by the confluence of three rivers—Mula, Mutha, and Bhima—the temple’s sacred geography enhances its divine energy."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gem",
+      "title": "Home of the Chintamani Gem Legend",
+      "description": "Lord Ganesha restored the sacred Chintamani jewel, symbolizing peace, wisdom, and freedom from worry."
+    },
+    {
+      "icon": "fa-solid fa-temple",
+      "title": "Ancient Wooden Architecture",
+      "description": "The temple’s sabhamandap features elegant wooden pillars and carvings typical of Peshwa-era design."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Situated at River Confluence",
+      "description": "Located where the Mula, Mutha, and Bhima rivers meet, adding sacred significance to the site."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/theur/map.jpg",
+    "intro": "Theur is a peaceful village located around 25 km east of Pune, in the Haveli taluka. The temple lies near the confluence of three rivers, surrounded by serene countryside and traditional Warkari settlements.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Pune",
+        "value": "25 km"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Mumbai",
+        "value": "155 km"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Nearby Rivers",
+        "value": "Mula, Mutha, and Bhima"
+      }
+    ],
+    "climate": {
+      "description": "Theur has a pleasant climate most of the year, with moderate rainfall and cool winters. The post-monsoon period is ideal for pilgrimage.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 30°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon: 22°C – 30°C (July–September)"
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter: 18°C – 27°C (October–February)"
+        }
+      ]
+    },
+    "conclusion": "Set amidst natural beauty and mythological significance, Theur stands as one of the most spiritually uplifting places for Ganesha devotees."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "The temple hosts daily aartis and poojas with great devotion and musical bhajans.",
+      "info": [
+        "Morning Aarti: 5:00 AM",
+        "Evening Aarti: 8:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-people-group",
+      "title": "Ganesh Jayanti and Sankashti Celebrations",
+      "description": "During these festivals, Theur comes alive with thousands of pilgrims, processions, and devotional songs.",
+      "info": [
+        "Ganesh Jayanti in Magh Shukla Chaturthi is grandly celebrated.",
+        "Theur Yatra in Bhadrapada attracts devotees from across Maharashtra."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Meditation by the Riverbank",
+      "description": "Pilgrims often sit by the nearby rivers to meditate and find inner calm in the temple’s serene surroundings."
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/theur/attraction1.jpg",
+      "title": "Peshwa Memorial",
+      "description": "The temple holds the samadhi of Shrimant Madhavrao Peshwa, making it an important site in Maratha history.",
+      "distance": "Within Temple Complex",
+      "icon": "fa-solid fa-landmark",
+      "value": "Historical Site"
+    },
+    {
+      "image": "/images/religious/theur/attraction2.jpg",
+      "title": "Sangameshwar Temple",
+      "description": "A nearby ancient Shiva temple located at the confluence of rivers.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-water",
+      "value": "Sacred Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being inland, Theur does not have marine life but offers lush greenery and riverine ecology.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Riverside Biodiversity",
+        "description": "Home to many species of birds and freshwater life near the riverbanks."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Spiritual Calm",
+        "description": "The quiet environment makes it ideal for contemplation and spiritual renewal."
+      }
+    ],
+    "conclusion": [
+      "The Chintamani Temple combines mythology, peace, and architectural grace.",
+      "It continues to be a powerful source of divine reassurance for countless devotees."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune International Airport (22 km).",
+        "Mumbai Airport is around 160 km away."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Station: Pune Junction (25 km).",
+        "Regular trains connect Pune to major cities."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Easily accessible via the Pune–Solapur Highway (NH65).",
+        "Frequent buses and taxis available from Pune city."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/theur/1.jpg",
+      "thumb": "/images/religious/theur/thumb1.jpg",
+      "alt": "Chintamani Temple Theur Entrance"
+    },
+    {
+      "src": "/images/religious/theur/2.jpg",
+      "thumb": "/images/religious/theur/thumb2.jpg",
+      "alt": "Main Idol of Lord Chintamani"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Visit early morning on weekdays for peaceful darshan and less crowd."
+    },
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Plan your visit during Ganesh Jayanti or Sankashti for special rituals."
+    },
+    {
+      "icon": "fa-solid fa-map",
+      "description": "Combine Theur with nearby temples like Ranjangaon (55 km) for a fulfilling pilgrimage trip."
+    }
+  ]
+}

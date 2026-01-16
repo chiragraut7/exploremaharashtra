@@ -1,0 +1,179 @@
+{
+  "id": "07",
+  "title": "Malshej Ghat",
+  "subtitle": "The Misty Mountain Pass of Maharashtra",
+  "bannerImage": "/images/nature/malshej/banner.jpg",
+  "color": "#3c8d40",
+  "coordinates": { "lat": 19.3400, "lng": 73.7700 },
+  "overview": [
+    "Malshej Ghat, nestled in the Western Ghats of Maharashtra, is a stunning mountain pass known for its misty peaks, lush valleys, and enchanting waterfalls. Located near Junnar in Pune district, it is one of the most scenic getaways for nature lovers and trekkers alike.",
+    "During the monsoon, Malshej transforms into a paradise with cascading waterfalls, cool breezes, and a blanket of green that makes it an unforgettable experience."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-water",
+      "title": "Waterfalls and Misty Views",
+      "description": "Malshej Ghat comes alive during monsoon with numerous waterfalls tumbling down the cliffs and clouds drifting over the valley."
+    },
+    {
+      "icon": "fas fa-dove",
+      "title": "Flamingo Migration",
+      "description": "Seasonal pink flamingos visit the nearby Pimpalgaon Joga Dam, adding charm to the serene surroundings."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/malshej/geography.jpg",
+    "intro": "Malshej Ghat lies at an elevation of about 700 meters in the Sahyadri range, offering panoramic views of deep valleys and rugged cliffs.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Junnar Taluka, Pune District, Maharashtra, India"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "700 meters above sea level"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Nearby River",
+        "value": "Pimpalgaon Joga Dam Reservoir"
+      },
+      {
+        "icon": "fas fa-route",
+        "label": "Connectivity",
+        "value": "Located on the Kalyan–Ahmednagar Highway (NH61)"
+      },
+      {
+        "icon": "fas fa-map",
+        "label": "Nearest Town",
+        "value": "Junnar (30 km)"
+      }
+    ],
+    "climate": {
+      "description": "Malshej Ghat enjoys pleasant weather year-round but becomes exceptionally beautiful during monsoon with mist and cool temperatures.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June to September): Ideal for visiting waterfalls and enjoying foggy views."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (November to February): Perfect for trekking and birdwatching."
+        }
+      ]
+    },
+    "conclusion": "Malshej Ghat offers an unforgettable combination of scenic drives, cool climate, and raw natural beauty."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking and Nature Walks",
+      "description": "The region is famous for treks to Harishchandragad Fort and Ajoba Hill, offering spectacular views of the valleys.",
+      "info": [
+        "Well-marked trails for beginners and professionals.",
+        "Best explored post-monsoon for clear views."
+      ]
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Bird Watching",
+      "description": "Spot flamingos, quails, cuckoos, and other migratory birds near the dam and forested slopes.",
+      "info": [
+        "Flamingo sightings peak between July and September.",
+        "Ideal for photographers and bird enthusiasts."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography and Sightseeing",
+      "description": "Capture stunning panoramas, rolling mist, and waterfalls along the winding ghat roads.",
+      "info": [
+        "Best photography locations near MTDC resort and viewpoints.",
+        "Early mornings and evenings offer magical light conditions."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/malshej/pimpalgaon-dam.jpg",
+      "title": "Pimpalgaon Joga Dam",
+      "description": "A scenic reservoir surrounded by mountains, known for flamingo sightings and calm boat rides.",
+      "distance": "5 km",
+      "icon": "fas fa-water",
+      "value": "Ideal picnic and photography spot."
+    },
+    {
+      "image": "/images/nature/malshej/harishchandragad.jpg",
+      "title": "Harishchandragad Fort",
+      "description": "A popular trekking destination offering breathtaking views of Konkan cliffs.",
+      "distance": "20 km",
+      "icon": "fas fa-mountain",
+      "value": "One of Maharashtra’s most historic forts."
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Malshej is a highland region, its water bodies support vibrant birdlife and local fauna.",
+    "items": [
+      {
+        "icon": "fas fa-dove",
+        "title": "Flamingos and Migratory Birds",
+        "description": "Pimpalgaon Lake attracts flamingos, storks, and herons during the rainy season."
+      },
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians and Insects",
+        "description": "Monsoon brings life to frogs, crickets, and other small creatures that thrive in the wet climate."
+      }
+    ],
+    "conclusion": [
+      "Malshej Ghat’s natural ecosystem thrives with monsoon moisture.",
+      "Birdwatchers find it one of the best natural habitats in Western Maharashtra."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Kalyan Junction (85 km).",
+        "Taxis and buses available from Kalyan to Malshej Ghat."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Located 120 km from Mumbai and 130 km from Pune via NH61.",
+        "State transport and private buses run regularly from Kalyan and Pune."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/malshej/malshej1.jpg",
+      "thumb": "/images/nature/malshej/malshej1_thumb.jpg",
+      "alt": "Malshej Ghat Waterfalls"
+    },
+    {
+      "src": "/images/nature/malshej/malshej2.jpg",
+      "thumb": "/images/nature/malshej/malshej2_thumb.jpg",
+      "alt": "Viewpoint with Clouds at Malshej"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-bed",
+      "description": "Book MTDC resort or local homestays early during monsoon weekends."
+    },
+    {
+      "icon": "fas fa-exclamation-triangle",
+      "description": "Avoid driving during heavy rainfall due to fog and slippery roads."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Carry waterproof covers for your electronics during monsoon."
+    }
+  ]
+}

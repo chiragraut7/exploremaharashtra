@@ -1,0 +1,186 @@
+{
+  "id": "lezim-dance",
+  "title": "Lezim Dance",
+  "subtitle": "Rhythmic Folk Dance of Maharashtra",
+  "bannerImage": "/images/cultural/lezim-dance/banner.jpg",
+  "color": "#f6c75c",
+  "overview": [
+    "Lezim, also spelled as Lazim, is a vibrant and energetic folk dance form of Maharashtra that combines music, rhythm, and physical fitness. It is named after the small wooden instrument with metal jingles, called the 'Lezim', which produces rhythmic sounds as dancers move in coordinated patterns.",
+    "Traditionally performed during festivals, processions, and physical training exercises, Lezim showcases discipline, synchronization, and enthusiasm — reflecting the vigor and spirit of Maharashtrian culture."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-drum",
+      "title": "Energetic Movements",
+      "description": "Performers use coordinated steps, jumps, and swings of the Lezim instrument to create rhythmic patterns."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Group Coordination",
+      "description": "Performed in groups with synchronized formations, often in circular or line patterns during public celebrations."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/lezim-dance/geography.jpg",
+    "intro": "Lezim is popular across Maharashtra, especially in rural areas and during festivals. It is also practiced in schools and akhadas (traditional gyms) as part of physical training.",
+    "details": [
+      {
+        "icon": "fas fa-map-pin",
+        "label": "Popular Regions",
+        "value": "Pune, Nashik, Kolhapur, Satara, Ahmednagar"
+      },
+      {
+        "icon": "fas fa-people-arrows",
+        "label": "Performers",
+        "value": "Both men and women, often students or gymnastic groups"
+      },
+      {
+        "icon": "fas fa-bolt",
+        "label": "Form Style",
+        "value": "Combines rhythmic movement, fitness, and music"
+      },
+      {
+        "icon": "fas fa-drum-steelpan",
+        "label": "Musical Elements",
+        "value": "Led by drums (dhol, tasha) with jingling sounds of Lezim"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Festive Occasions",
+        "value": "Performed during Ganesh Chaturthi, Gudi Padwa, and Independence Day parades"
+      }
+    ],
+    "climate": {
+      "description": "Lezim performances usually take place outdoors during festivals or parades, making it best enjoyed in pleasant, dry weather.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Commonly performed in winter and festive months like March–April and September."
+        },
+        {
+          "icon": "fas fa-cloud-sun-rain",
+          "text": "During monsoon, indoor performances or training sessions are held."
+        }
+      ]
+    },
+    "conclusion": "Lezim is not just a dance — it is a celebration of coordination, fitness, and community spirit in Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-running",
+      "title": "Join Lezim Groups",
+      "description": "Participate in local dance groups or schools that train in Lezim formations.",
+      "info": [
+        "Learn rhythmic footwork and balance.",
+        "Experience teamwork and physical endurance."
+      ]
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Watch Festival Performances",
+      "description": "Enjoy colorful Lezim displays during public processions and parades.",
+      "info": [
+        "Often seen in Ganeshotsav and Republic Day celebrations.",
+        "Performed by hundreds of synchronized dancers."
+      ]
+    },
+    {
+      "icon": "fas fa-heartbeat",
+      "title": "Cultural Fitness Practice",
+      "description": "Lezim is also used as a fitness routine in schools and akhadas.",
+      "info": [
+        "Promotes stamina, flexibility, and coordination.",
+        "A blend of art and exercise."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/lezim-dance/pune-parade.jpg",
+      "title": "Pune Lezim Parade",
+      "description": "Grand Lezim performances during Republic Day and Independence Day parades.",
+      "distance": "Pune City",
+      "icon": "fas fa-flag",
+      "value": "Cultural Display"
+    },
+    {
+      "image": "/images/cultural/lezim-dance/kolhapur.jpg",
+      "title": "Kolhapur Folk Events",
+      "description": "Lezim troupes perform at local temple fairs and Jatras with high enthusiasm.",
+      "distance": "Kolhapur District",
+      "icon": "fas fa-landmark",
+      "value": "Folk Tradition"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Lezim is not connected to marine life, it reflects the rhythm and harmony of nature, symbolizing balance and energy.",
+    "items": [
+      {
+        "icon": "fas fa-fire",
+        "title": "Symbol of Energy",
+        "description": "Represents vigor, strength, and discipline in physical expression."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Unity and Joy",
+        "description": "Brings people together in celebration of movement and music."
+      }
+    ],
+    "conclusion": [
+      "Lezim showcases Maharashtra’s love for rhythm, coordination, and collective celebration.",
+      "It continues to inspire modern cultural and fitness practices."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Major railway stations: Pune, Kolhapur, Nashik.",
+        "Local groups perform in nearby cultural centers and schools."
+      ]
+    },
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": [
+        "Accessible from major cities via state highways.",
+        "Lezim troupes often perform during public parades and local fairs."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airports: Pune, Kolhapur, and Mumbai.",
+        "Cultural centers nearby host Lezim events year-round."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/lezim-dance/gallery1.jpg",
+      "thumb": "/images/cultural/lezim-dance/gallery1-thumb.jpg",
+      "alt": "Lezim performers in uniform"
+    },
+    {
+      "src": "/images/cultural/lezim-dance/gallery2.jpg",
+      "thumb": "/images/cultural/lezim-dance/gallery2-thumb.jpg",
+      "alt": "Women performing Lezim during festival"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Attend major festivals like Gudi Padwa or Ganesh Chaturthi to witness large Lezim performances."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography is encouraged, but maintain distance during moving formations."
+    },
+    {
+      "icon": "fas fa-info-circle",
+      "description": "Contact local cultural committees or schools to observe Lezim training sessions."
+    }
+  ]
+}

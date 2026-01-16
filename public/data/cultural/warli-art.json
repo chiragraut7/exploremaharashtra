@@ -1,0 +1,94 @@
+{
+  "id": "warli-art",
+  "title": "Warli Art",
+  "subtitle": "A Tribal Expression of Life and Nature",
+  "bannerImage": "/images/cultural/warli-art/banner.jpg",
+  "color": "#cda77f",
+  "overview": [
+    "Warli Art is a traditional tribal painting style from the Warli tribes of Maharashtra, mainly found in the Thane and Palghar regions.",
+    "These simple yet profound artworks depict daily life, farming, festivals, and human connection with nature using geometric forms."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-brush",
+      "title": "Traditional Art",
+      "description": "Created using rice paste on mud walls with bamboo brushes."
+    },
+    {
+      "icon": "fas fa-people-group",
+      "title": "Cultural Symbolism",
+      "description": "Warli paintings represent the harmony between human and nature."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/warli-art/geography.jpg",
+    "intro": "The Warli tribe resides in hilly and coastal regions of northern Maharashtra.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Region", "value": "Thane & Palghar Districts" },
+      { "icon": "fas fa-users", "label": "Community", "value": "Warli Tribe" },
+      { "icon": "fas fa-paint-brush", "label": "Medium", "value": "Rice paste on mud walls" },
+      { "icon": "fas fa-circle", "label": "Main Motifs", "value": "Sun, Moon, Humans, Animals" },
+      { "icon": "fas fa-calendar", "label": "Era", "value": "Over 3000 years old tradition" }
+    ],
+    "climate": {
+      "description": "Warli regions have tropical climate with moderate rainfall.",
+      "seasons": [{ "icon": "fas fa-sun", "text": "Best time to visit: November to February" }]
+    },
+    "conclusion": "Warli art beautifully blends simplicity, symbolism, and spirituality."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-paint-brush",
+      "title": "Learn Warli Painting",
+      "description": "Join workshops organized by tribal artists.",
+      "info": ["Hands-on art classes", "Authentic guidance from Warli artisans"]
+    },
+    {
+      "icon": "fas fa-store",
+      "title": "Buy Warli Crafts",
+      "description": "Explore handmade Warli artwork, textiles, and pottery.",
+      "info": ["Available in Palghar & Dahanu markets", "Supports local artists"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/warli-art/attraction1.jpg",
+      "title": "Warli Villages",
+      "description": "Visit traditional homes decorated with Warli paintings.",
+      "icon": "fas fa-home",
+      "value": "Dahanu & Palghar"
+    },
+    {
+      "image": "/images/cultural/warli-art/attraction2.jpg",
+      "title": "Warli Museum",
+      "description": "A cultural museum preserving Warli heritage.",
+      "icon": "fas fa-landmark",
+      "value": "Jawhar"
+    }
+  ],
+  "marineLife": {
+    "intro": "Warli art often symbolizes natural balance, though not related to marine life.",
+    "items": [{ "icon": "fas fa-leaf", "title": "Nature Motifs", "description": "Trees, rivers, and animals feature prominently." }],
+    "conclusion": ["Warli art is the rhythm of life painted in white on earth’s canvas."]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Nearest station: Dahanu Road or Palghar on Western Railway."]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": ["Connected by NH-48 from Mumbai (about 120 km)."]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/cultural/warli-art/gallery1.jpg", "thumb": "/images/cultural/warli-art/thumb1.jpg", "alt": "Warli Wall Painting" },
+    { "src": "/images/cultural/warli-art/gallery2.jpg", "thumb": "/images/cultural/warli-art/thumb2.jpg", "alt": "Tribal Artists" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-calendar", "description": "Attend workshops organized by local NGOs or art centers." },
+    { "icon": "fas fa-map", "description": "Respect village customs while visiting tribal areas." }
+  ]
+}

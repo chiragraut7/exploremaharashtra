@@ -1,0 +1,63 @@
+{
+  "id": "#britishModal",
+  "title": "🇬🇧 British Colonial Period (1818 – 1947)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-secondary fw-semibold mb-3",
+      "text": "Struggles, Reforms, and Rise of National Consciousness"
+    },
+    {
+      "type": "p",
+      "text": "After the fall of the Maratha Empire in 1818, Maharashtra came under the British East India Company’s control, later becoming part of British India. Despite oppression and exploitation, this era sparked an awakening of political, educational, and social reform movements that fueled India’s freedom struggle."
+    },
+    {
+      "type": "h5",
+      "class": "text-danger mt-4",
+      "text": "✊ Freedom Fighters and Movements"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bal Gangadhar Tilak – Known as the 'Father of Indian Unrest', he ignited nationalism with the slogan 'Swaraj is my birthright'.",
+        "Gopal Krishna Gokhale – A moderate reformer and mentor to Mahatma Gandhi.",
+        "Revolutionary activities emerged in cities like Pune and Mumbai, inspiring the youth."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-primary mt-4",
+      "text": "📚 Educational and Social Reforms"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Jyotirao Phule and Savitribai Phule pioneered education for girls and the underprivileged.",
+        "Dr. B.R. Ambedkar fought caste discrimination and laid the foundation for India’s constitutional vision.",
+        "Modern institutions like Fergusson College, Bombay University, and Deccan College were established, nurturing reformist thought."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🏙️ Industrial and Urban Development"
+    },
+    {
+      "type": "p",
+      "text": "Mumbai became a major port and textile hub under British rule. Railways, telegraph lines, and mills transformed urban Maharashtra, turning it into one of India’s key industrial centers."
+    },
+    {
+      "type": "h5",
+      "class": "text-dark mt-4",
+      "text": "🕊️ Towards Independence"
+    },
+    {
+      "type": "p",
+      "text": "From the Non-Cooperation and Civil Disobedience movements to the Quit India Movement, Maharashtra remained a stronghold of patriotic zeal. The efforts of reformers, revolutionaries, and common citizens paved the way for India’s independence in 1947."
+    },
+    {
+      "type": "p",
+      "text": "The colonial era, though marked by suffering, also witnessed the awakening of social consciousness and unity that eventually dismantled the British rule."
+    }
+  ]
+}

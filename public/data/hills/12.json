@@ -1,0 +1,181 @@
+{
+  "id": "12",
+  "title": "Ambaghat Hill Station",
+  "subtitle": "A Hidden Gem in the Western Ghats of Maharashtra",
+  "bannerImage": "/assets/images/hills/12.jpg",
+  "insideBannerImage": "/assets/images/hills/12/bannerimg.jpg",
+  "color": "#3c9d77",
+  "coordinates": {"lat": 17.0007, "lng": 73.7772},
+  "overview": [
+    "Ambaghat is a serene hill station located between Kolhapur and Ratnagiri districts in Maharashtra. Nestled in the Sahyadri mountain range, it is known for its misty hills, winding ghats, and lush greenery throughout the year.",
+    "This offbeat destination offers scenic beauty, calm weather, and panoramic views of the Western Ghats, making it a perfect escape for peace seekers and nature lovers.",
+    "Ambaghat is less commercialized compared to other popular hill stations, giving visitors a raw, untouched experience of nature."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Scenic Ghats",
+      "description": "Experience the beautiful winding ghats surrounded by mist and dense forests offering breathtaking valley views."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Peaceful Environment",
+      "description": "Ambaghat is known for its tranquility and pollution-free atmosphere — a true getaway from city life."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/12/info2.jpg",
+    "intro": "Ambaghat lies at an altitude of around 2000 feet above sea level, located between Amba village and Shahuwadi in Kolhapur district. It serves as a connecting route to Ratnagiri and the Konkan region.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Shahuwadi Taluka, Kolhapur District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Elevation",
+        "value": "Around 610 meters (2000 feet)"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearby Highway",
+        "value": "Kolhapur – Ratnagiri Highway (NH166)"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Terrain",
+        "value": "Hilly, forested region of the Western Ghats"
+      },
+      {
+        "icon": "fa-solid fa-cloud",
+        "label": "Climate Type",
+        "value": "Cool and humid throughout the year"
+      }
+    ],
+    "climate": {
+      "description": "The climate in Ambaghat remains pleasant year-round with mild temperatures, making it ideal for monsoon and winter visits.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (June–September): Heavy rainfall and lush greenery"
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (November–February): Cool and refreshing weather for sightseeing"
+        }
+      ]
+    },
+    "conclusion": "Ambaghat offers a rejuvenating climate throughout the year, perfect for relaxation and scenic drives through the ghats."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Nature Walks",
+      "description": "Enjoy peaceful walks through the misty ghats and forest trails surrounded by chirping birds.",
+      "info": [
+        "Morning walks with foggy views",
+        "Ideal for nature photographers"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture mesmerizing landscapes, waterfalls, and fog-covered valleys.",
+      "info": [
+        "Early morning mist views",
+        "Monsoon season is best for lush scenery"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "Scenic Drive",
+      "description": "Drive along the Amba Ghat route offering breathtaking views and smooth winding roads.",
+      "info": [
+        "Popular route for bikers and road trips",
+        "Stops at viewpoints for panoramic photos"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/12/img1.jpg",
+      "title": "Ambaghat Viewpoint",
+      "description": "A stunning spot offering panoramic views of the Sahyadri ranges and deep valleys below.",
+      "distance": "2 km from main Ambaghat road",
+      "icon": "fa-solid fa-eye",
+      "value": "Ideal for sunrise and sunset views"
+    },
+    {
+      "image": "/assets/images/hills/12/img2.jpg",
+      "title": "Amreshwar Temple",
+      "description": "A peaceful Shiva temple surrounded by forests and hills near Amba village.",
+      "distance": "5 km from Ambaghat",
+      "icon": "fa-solid fa-temple",
+      "value": "A serene spiritual spot amidst nature"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill station, Ambaghat doesn’t have marine life but is rich in flora and fauna typical of the Western Ghats.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Dense forests with evergreen and deciduous trees, medicinal plants, and wildflowers."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Home to monkeys, peacocks, and a variety of hill birds and reptiles."
+      }
+    ],
+    "conclusion": [
+      "Ambaghat’s natural ecosystem makes it a perfect destination for eco-tourism.",
+      "Ideal for birdwatchers and forest explorers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Kolhapur (65 km)",
+        "Regular trains from Pune, Mumbai, and Miraj"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Well-connected via NH166 between Kolhapur and Ratnagiri",
+        "Regular buses and taxis available from Kolhapur and Ratnagiri"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/12/img1.jpg",
+      "thumb": "/assets/images/hills/12/img1.jpg",
+      "alt": "Ambaghat valley view"
+    },
+    {
+      "src": "/assets/images/hills/12/img2.jpg",
+      "thumb": "/assets/images/hills/12/img2.jpg",
+      "alt": "Amba Ghat road surrounded by fog"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Visit during monsoon or winter for the best scenic experience."
+    },
+    {
+      "icon": "fa-solid fa-home",
+      "description": "Book stays in nearby resorts or homestays around Amba village."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Carry essential supplies as limited facilities are available along the ghat."
+    }
+  ]
+}

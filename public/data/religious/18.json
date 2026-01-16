@@ -1,0 +1,174 @@
+{
+  "id": "18",
+  "title": "Shri Vitthal-Rukmini Temple",
+  "subtitle": "Dehu, Pune",
+  "bannerImage": "/images/religious/vitthal-dehu/banner.jpg",
+  "color": "#f7e6b2",
+  "coordinates": { "lat": 16.3333, "lng": 73.3000 },
+  "overview": [
+    "The Shri Vitthal-Rukmini Temple in Dehu is one of the most sacred pilgrimage centers in Maharashtra. It is closely associated with the revered saint Sant Tukaram Maharaj, who was a key figure in the Bhakti movement. Dehu is considered his birthplace and the starting point of the famous Tukaram Palkhi Yatra to Pandharpur.",
+    "This temple is dedicated to Lord Vitthal and Goddess Rukmini, forms of Lord Vishnu and Goddess Lakshmi, and stands as a symbol of devotion and equality."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-church",
+      "title": "Sant Tukaram Legacy",
+      "description": "Dehu is the birthplace of Sant Tukaram Maharaj, whose abhangas (devotional hymns) continue to inspire devotees even today."
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Tukaram Palkhi Yatra",
+      "description": "Each year, thousands of devotees participate in the Palkhi procession from Dehu to Pandharpur, carrying the palkhi (palanquin) of Tukaram Maharaj."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/vitthal-dehu/geography.jpg",
+    "intro": "Dehu is located on the banks of the Indrayani River, around 30 km from Pune. The serene riverside setting and the constant chanting of abhangas create a deeply spiritual environment.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "574 meters"
+      },
+      {
+        "icon": "fas fa-location-arrow",
+        "label": "Coordinates",
+        "value": "18.7183° N, 73.7689° E"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "River",
+        "value": "Indrayani River"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest City",
+        "value": "Pune (30 km)"
+      }
+    ],
+    "climate": {
+      "description": "Dehu enjoys a moderate climate with warm summers, mild winters, and refreshing monsoons that enhance its lush greenery.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best visited from November to February."
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon adds charm to the riverside surroundings."
+        }
+      ]
+    },
+    "conclusion": "Dehu’s spiritual energy and continuous recitation of Tukaram’s abhangas make it a powerful place of devotion and introspection."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Offer prayers at the ancient temple dedicated to Lord Vitthal and Goddess Rukmini.",
+      "info": ["Open daily from 5 AM to 10 PM.", "Aarti timings are at sunrise and sunset."]
+    },
+    {
+      "icon": "fas fa-music",
+      "title": "Abhanga Recitations",
+      "description": "Listen to soulful abhangas of Sant Tukaram sung daily by local devotees.",
+      "info": ["Morning and evening sessions near the main temple.", "Visitors can join in singing."]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Palkhi Procession",
+      "description": "Participate in the annual Tukaram Palkhi procession to Pandharpur, a centuries-old devotional tradition.",
+      "info": ["Held before Ashadhi Ekadashi.", "Covers about 250 km from Dehu to Pandharpur."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/vitthal-dehu/tukaram-temple.jpg",
+      "title": "Sant Tukaram Temple",
+      "description": "A grand temple built in memory of Sant Tukaram Maharaj, featuring intricate carvings and a spiritual aura.",
+      "distance": "0.1 km",
+      "icon": "fas fa-church",
+      "value": "Dehu Village"
+    },
+    {
+      "image": "/images/religious/vitthal-dehu/indrayani-ghat.jpg",
+      "title": "Indrayani River Ghat",
+      "description": "The sacred ghat where Tukaram Maharaj performed kirtans and spiritual gatherings.",
+      "distance": "0.2 km",
+      "icon": "fas fa-water",
+      "value": "Riverside Dehu"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Dehu is not a coastal area, its connection with the Indrayani River represents purity, devotion, and the flow of spiritual energy.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Spiritual Purity",
+        "description": "The Indrayani River is regarded as sacred, symbolizing the purity of devotion and the Bhakti path."
+      },
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Unity in Devotion",
+        "description": "The annual Palkhi Yatra unites people across Maharashtra, transcending caste and class through faith."
+      }
+    ],
+    "conclusion": [
+      "Dehu’s devotion-filled air and musical bhajans create an immersive spiritual experience.",
+      "An essential stop for devotees following the Warkari tradition."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Nearest railway station: Pune Junction (30 km)", "Local trains and buses available to Dehu."]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["Accessible via Pune-Nashik Highway (NH60).", "Frequent MSRTC buses from Pune to Dehu."]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": ["Nearest airport: Pune International Airport (25 km)", "Cabs and buses available from the airport."]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/vitthal-dehu/gallery1.jpg",
+      "thumb": "/images/religious/vitthal-dehu/gallery1-thumb.jpg",
+      "alt": "Vitthal Temple at Dehu"
+    },
+    {
+      "src": "/images/religious/vitthal-dehu/gallery2.jpg",
+      "thumb": "/images/religious/vitthal-dehu/gallery2-thumb.jpg",
+      "alt": "Sant Tukaram Temple"
+    },
+    {
+      "src": "/images/religious/vitthal-dehu/gallery3.jpg",
+      "thumb": "/images/religious/vitthal-dehu/gallery3-thumb.jpg",
+      "alt": "Indrayani River Ghat"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Plan your visit around the Tukaram Palkhi festival for a vibrant spiritual experience."
+    },
+    {
+      "icon": "fas fa-umbrella",
+      "description": "Carry rain gear during monsoon months."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "description": "Book lodges or dharmashalas in Dehu or Pune for comfortable stay."
+    }
+  ]
+}

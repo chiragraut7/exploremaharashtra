@@ -1,0 +1,180 @@
+{
+  "id": "20",
+  "title": "Parli Vaijnath Temple",
+  "subtitle": "One of the Twelve Jyotirlingas of Lord Shiva",
+  "bannerImage": "/images/religious/parli-vaijnath/banner.jpg",
+  "color": "#B91C1C",
+  "coordinates": { "lat": 18.8486, "lng": 76.5367 },
+  "overview": [
+    "Parli Vaijnath Temple, situated in the Beed district of Maharashtra, is one of the twelve revered Jyotirlingas of Lord Shiva. It is said that worshipping here brings healing, peace, and liberation from worldly suffering.",
+    "The temple uniquely enshrines Lord Shiva and Goddess Parvati together, symbolizing divine balance and harmony. The site is also associated with mythological events from the Ramayana and Mahabharata eras.",
+    "Built in the Hemadpanti architectural style, the temple’s black stone structure and elevated position make it a spiritually powerful and visually striking destination."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-fire",
+      "title": "One of the Twelve Jyotirlingas",
+      "description": "Parli Vaijnath is one of the sacred Jyotirlingas where Lord Shiva manifests as light and energy."
+    },
+    {
+      "icon": "fas fa-torii-gate",
+      "title": "Hemadpanti Architecture",
+      "description": "Constructed without mortar using intricately cut black stones, the temple reflects the architectural brilliance of medieval Maharashtra."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/parli-vaijnath/map.jpg",
+    "intro": "Parli Vaijnath lies amidst the scenic Balaghat range in Beed district, surrounded by hills and greenery that enhance its spiritual ambiance.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Beed"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "472 meters"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Region",
+        "value": "Marathwada"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to February"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Mahashivratri"
+      }
+    ],
+    "climate": {
+      "description": "Parli experiences a tropical climate with hot summers, mild winters, and a refreshing monsoon season.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 15°C – 28°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "Surrounded by scenic hills, the peaceful atmosphere of Parli Vaijnath enhances its divine charm."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Jyotirlinga Darshan",
+      "description": "Experience divine energy while offering prayers to the self-manifested Shiva Lingam.",
+      "info": [
+        "Special aartis held every morning and evening.",
+        "Devotees offer Bilva leaves, milk, and flowers to the deity."
+      ]
+    },
+    {
+      "icon": "fas fa-fire-alt",
+      "title": "Attend Mahashivratri Festival",
+      "description": "The temple comes alive with thousands of devotees and grand processions celebrating Lord Shiva’s divine union.",
+      "info": [
+        "Cultural programs and devotional songs are organized.",
+        "Night-long celebrations and temple illuminations."
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Explore Surroundings",
+      "description": "The temple is surrounded by lush hills and small shrines dedicated to other deities.",
+      "info": [
+        "Ideal for meditation and nature walks.",
+        "Shiva devotees also visit Amrit Kund nearby."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/parli-vaijnath/amrit-kund.jpg",
+      "title": "Amrit Kund",
+      "description": "A sacred tank near the temple believed to possess healing powers.",
+      "distance": "0.5 km",
+      "icon": "fas fa-water",
+      "value": "Holy Water Pond"
+    },
+    {
+      "image": "/images/religious/parli-vaijnath/somnath-hill.jpg",
+      "title": "Somnath Hill",
+      "description": "A serene viewpoint offering panoramic views of Parli and its surrounding forests.",
+      "distance": "2 km",
+      "icon": "fas fa-mountain",
+      "value": "Scenic Hill Point"
+    }
+  ],
+  "marineLife": {
+    "intro": "Parli Vaijnath is far from the coast but deeply enriched with spiritual and mythological essence.",
+    "items": [
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Healing Energy",
+        "description": "Devotees believe prayers here can heal ailments and bring peace."
+      },
+      {
+        "icon": "fas fa-heart",
+        "title": "Spiritual Purification",
+        "description": "Bathing in the Amrit Kund is said to purify both body and soul."
+      }
+    ],
+    "conclusion": [
+      "The temple’s divinity uplifts every visitor spiritually and emotionally.",
+      "Parli Vaijnath represents faith, health, and devotion in perfect harmony."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "The nearest airport is Latur (100 km) and Aurangabad (120 km).",
+        "Taxis and buses are available from both cities to Parli."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train & Road",
+      "details": [
+        "Parli Vaijnath Railway Station connects with major Maharashtra cities.",
+        "Regular buses operate from Beed, Latur, Nanded, and Aurangabad."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/parli-vaijnath/1.jpg",
+      "thumb": "/images/religious/parli-vaijnath/thumb1.jpg",
+      "alt": "Parli Vaijnath Temple Front View"
+    },
+    {
+      "src": "/images/religious/parli-vaijnath/2.jpg",
+      "thumb": "/images/religious/parli-vaijnath/thumb2.jpg",
+      "alt": "Devotees performing Aarti"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Visit early morning for peaceful darshan and minimal queues."
+    },
+    {
+      "icon": "fas fa-bus",
+      "description": "Book state transport buses or private cabs in advance during festival seasons."
+    },
+    {
+      "icon": "fas fa-shoe-prints",
+      "description": "Footwear must be removed before entering the temple premises."
+    }
+  ]
+}

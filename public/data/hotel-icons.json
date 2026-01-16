@@ -1,0 +1,7 @@
+{
+  "wifi": "<i class='fas fa-wifi' title='Wi-Fi'></i>",
+  "parking": "<i class='fas fa-parking' title='Parking'></i>",
+  "ac": "<i class='fas fa-snowflake' title='AC'></i>",
+  "pool": "<i class='fas fa-swimming-pool' title='Pool'></i>",
+  "restaurant": "<i class='fas fa-utensils' title='Restaurant'></i>"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "tamasha",
+  "title": "Tamasha Folk Theatre",
+  "subtitle": "Traditional Folk Art of Maharashtra",
+  "bannerImage": "/images/cultural/tamasha/banner.jpg",
+  "color": "#f4b183",
+  "overview": [
+    "Tamasha is a traditional folk theatre form of Maharashtra known for its vibrant music, dance, and humor. Originating in the 16th century, Tamasha blends drama with folk songs (Lavani) and witty dialogues that reflect everyday life and social issues.",
+    "This colorful art form is an integral part of Maharashtra’s rural entertainment and continues to influence Marathi theatre and cinema even today."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-masks-theater",
+      "title": "Vibrant Folk Theatre",
+      "description": "Combines music, Lavani dance, and dramatic storytelling to create lively performances that entertain and educate."
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Cultural Symbol",
+      "description": "Tamasha represents the spirit of rural Maharashtra, showcasing local dialects, humor, and traditions."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/tamasha/geography.jpg",
+    "intro": "Tamasha performances are traditionally popular across rural Maharashtra, particularly in Pune, Satara, Kolhapur, and Solapur districts.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Origin Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fas fa-city",
+        "label": "Major Centres",
+        "value": "Pune, Satara, Kolhapur, Solapur"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Performers",
+        "value": "Kolhati and Mahar communities"
+      },
+      {
+        "icon": "fas fa-music",
+        "label": "Main Art Form",
+        "value": "Lavani and Folk Theatre"
+      },
+      {
+        "icon": "fas fa-language",
+        "label": "Language",
+        "value": "Marathi"
+      }
+    ],
+    "climate": {
+      "description": "Tamasha is typically performed during post-harvest seasons and festive occasions, in open-air settings under moderate weather.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Performances peak between November and February."
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Rare during monsoon due to open-air setups."
+        }
+      ]
+    },
+    "conclusion": "Tamasha thrives as a performing art that preserves Marathi culture through entertainment, satire, and music."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-theater-masks",
+      "title": "Watch Live Performances",
+      "description": "Experience the magic of Tamasha troupes performing live during village fairs and cultural events.",
+      "info": [
+        "Common during festivals like Holi and Diwali.",
+        "Night-long performances under decorated tents."
+      ]
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Lavani Dance Shows",
+      "description": "Enjoy the energetic Lavani dance that forms the heart of Tamasha, performed to rhythmic dholki beats.",
+      "info": [
+        "Performed by skilled Kolhati artists.",
+        "Known for expressive storytelling and grace."
+      ]
+    },
+    {
+      "icon": "fas fa-graduation-cap",
+      "title": "Cultural Workshops",
+      "description": "Attend folk art workshops that teach Tamasha music, dance, and costume traditions.",
+      "info": [
+        "Organized by cultural academies in Pune and Kolhapur.",
+        "Ideal for students of performing arts."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/tamasha/pune-festival.jpg",
+      "title": "Pune Cultural Festivals",
+      "description": "Tamasha performances are a highlight during Pune’s annual cultural and theatre festivals.",
+      "distance": "City Events",
+      "icon": "fas fa-calendar-alt",
+      "value": "Pune"
+    },
+    {
+      "image": "/images/cultural/tamasha/lavani-artists.jpg",
+      "title": "Lavani Artist Villages",
+      "description": "Visit villages like Kolhapur and Satara where traditional Lavani artists still keep the art alive.",
+      "distance": "Regional",
+      "icon": "fas fa-users",
+      "value": "Western Maharashtra"
+    }
+  ],
+  "marineLife": {
+    "intro": "While not coastal, Tamasha flourishes in Maharashtra’s cultural heartland, symbolizing the flow of art and emotion across communities.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Folk Passion",
+        "description": "The performers’ dedication keeps this centuries-old art form vibrant and relevant."
+      },
+      {
+        "icon": "fas fa-music",
+        "title": "Cultural Rhythm",
+        "description": "Music and rhythm connect the audience to the soul of Maharashtra."
+      }
+    ],
+    "conclusion": [
+      "Tamasha embodies Maharashtra’s living cultural heritage.",
+      "It bridges rural traditions with modern performing arts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway hubs: Pune and Kolhapur.",
+        "Tamasha events are accessible from these cities via local routes."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Frequent state buses connect major cultural centers across Western Maharashtra.",
+        "Local festivals often host dedicated Tamasha nights."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/tamasha/gallery1.jpg",
+      "thumb": "/images/cultural/tamasha/gallery1-thumb.jpg",
+      "alt": "Tamasha Folk Performance"
+    },
+    {
+      "src": "/images/cultural/tamasha/gallery2.jpg",
+      "thumb": "/images/cultural/tamasha/gallery2-thumb.jpg",
+      "alt": "Lavani Dancers on Stage"
+    },
+    {
+      "src": "/images/cultural/tamasha/gallery3.jpg",
+      "thumb": "/images/cultural/tamasha/gallery3-thumb.jpg",
+      "alt": "Traditional Musicians in Tamasha"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Check local event calendars for Tamasha schedules before visiting."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography is often allowed; capture moments respectfully."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Book festival passes early during major cultural events in Pune or Kolhapur."
+    }
+  ]
+}

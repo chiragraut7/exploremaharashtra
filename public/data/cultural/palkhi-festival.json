@@ -1,0 +1,53 @@
+{
+  "id": "palkhi-festival",
+  "title": "Palkhi Festival",
+  "subtitle": "A Sacred Pilgrimage of Devotion and Faith",
+  "bannerImage": "/images/cultural/palkhi-festival/banner.jpg",
+  "color": "#9c6b3f",
+  "overview": [
+    "The Palkhi Festival is an annual spiritual journey in Maharashtra where thousands of devotees walk together in devotion to Lord Vithoba of Pandharpur.",
+    "Originating over 700 years ago, it reflects Maharashtra’s deep-rooted bhakti movement traditions and community harmony."
+  ],
+  "highlights": [
+    { "icon": "fas fa-walking", "title": "Mass Pilgrimage", "description": "Devotees travel hundreds of kilometers on foot carrying the palkhi (palanquin)." },
+    { "icon": "fas fa-hands-praying", "title": "Devotion and Discipline", "description": "A unique blend of spirituality, culture, and selflessness." }
+  ],
+  "geography": {
+    "image": "/images/cultural/palkhi-festival/geography.jpg",
+    "intro": "The Palkhi Yatra travels from Alandi and Dehu to Pandharpur, covering hundreds of kilometers through villages and towns.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Route", "value": "Dehu/Alandi to Pandharpur" },
+      { "icon": "fas fa-calendar", "label": "Duration", "value": "Over 21 days" },
+      { "icon": "fas fa-users", "label": "Participants", "value": "Thousands of Warkaris" },
+      { "icon": "fas fa-gopuram", "label": "Main Shrine", "value": "Vithoba Temple, Pandharpur" },
+      { "icon": "fas fa-music", "label": "Cultural Element", "value": "Abhangas (devotional songs)" }
+    ],
+    "climate": { "description": "Held during the early monsoon, devotees experience both heat and rain.", "seasons": [{ "icon": "fas fa-cloud-rain", "text": "June to July (Ashadhi Ekadashi)" }] },
+    "conclusion": "The Palkhi Festival symbolizes Maharashtra’s faith, endurance, and collective devotion."
+  },
+  "activities": [
+    { "icon": "fas fa-music", "title": "Abhanga Singing", "description": "Devotees sing devotional hymns throughout the journey.", "info": ["Sung in Marathi", "Based on Sant literature"] },
+    { "icon": "fas fa-walking", "title": "Walking with Devotees", "description": "Join the palkhi procession to experience true spiritual unity.", "info": ["Participate for a day or the entire journey."] }
+  ],
+  "attractions": [
+    { "image": "/images/cultural/palkhi-festival/attraction1.jpg", "title": "Alandi & Dehu", "description": "Birthplaces of Saints Dnyaneshwar and Tukaram.", "icon": "fas fa-gopuram", "value": "Spiritual origin points" },
+    { "image": "/images/cultural/palkhi-festival/attraction2.jpg", "title": "Pandharpur", "description": "Final destination, home to the famous Vithoba temple.", "icon": "fas fa-landmark", "value": "Holy town on Bhima river" }
+  ],
+  "marineLife": {
+    "intro": "Not applicable for this cultural event.",
+    "items": [{ "icon": "fas fa-heart", "title": "Cultural Harmony", "description": "Pilgrims share food, prayers, and songs irrespective of caste or status." }],
+    "conclusion": ["The Palkhi Yatra is a moving example of Maharashtra’s living spirituality."]
+  },
+  "howToReach": [
+    { "icon": "fas fa-train", "title": "By Train", "details": ["Nearest railway station: Pune or Pandharpur."] },
+    { "icon": "fas fa-bus", "title": "By Road", "details": ["Regular state transport buses connect all pilgrimage points."] }
+  ],
+  "gallery": [
+    { "src": "/images/cultural/palkhi-festival/gallery1.jpg", "thumb": "/images/cultural/palkhi-festival/thumb1.jpg", "alt": "Devotees walking" },
+    { "src": "/images/cultural/palkhi-festival/gallery2.jpg", "thumb": "/images/cultural/palkhi-festival/thumb2.jpg", "alt": "Palkhi procession" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-shoe-prints", "description": "Carry comfortable footwear for walking." },
+    { "icon": "fas fa-water", "description": "Stay hydrated and travel light." }
+  ]
+}

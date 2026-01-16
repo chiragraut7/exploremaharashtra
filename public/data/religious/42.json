@@ -1,0 +1,180 @@
+{
+  "id": "42",
+  "title": "Shri Nrusinha Saraswati Temple, Narsobachi Wadi",
+  "subtitle": "A Sacred Abode of Lord Dattatreya on the Banks of River Krishna",
+  "bannerImage": "/images/religious/narsobachi-wadi/banner.jpg",
+  "color": "#8B0000",
+  "coordinates": { "lat": 16.6853, "lng": 74.6044 },
+  "overview": [
+    "Narsobachi Wadi, located near Sangli in Maharashtra, is a revered pilgrimage site dedicated to Shri Nrusinha Saraswati, an incarnation of Lord Dattatreya.",
+    "It is believed that Shri Nrusinha Saraswati lived here for 12 years, performing miracles and guiding his disciples. The temple, situated on the confluence of the Krishna and Panchganga rivers, radiates divine peace and spiritual energy.",
+    "Devotees from across India visit this site to seek blessings, offer prayers, and experience the calm presence of the Lord that continues to resonate in the surroundings."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-om",
+      "title": "Abode of Shri Nrusinha Saraswati",
+      "description": "One of the holiest places for Datta devotees, where the Lord is believed to have stayed for 12 years."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Situated at River Confluence",
+      "description": "The temple lies at the sacred meeting point of the Krishna and Panchganga rivers, believed to have purifying powers."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/narsobachi-wadi/map.jpg",
+    "intro": "Narsobachi Wadi is situated in Shirol taluka near Sangli, close to the Karnataka border, surrounded by fertile plains and riverbanks.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Kolhapur / Sangli"
+      },
+      {
+        "icon": "fas fa-river",
+        "label": "Rivers",
+        "value": "Krishna and Panchganga"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Region",
+        "value": "Southern Maharashtra"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to February"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Datta Jayanti"
+      }
+    ],
+    "climate": {
+      "description": "Narsobachi Wadi experiences a tropical climate with warm summers, pleasant winters, and moderate rainfall.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 15°C – 28°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "The riverside location and serene environment make Narsobachi Wadi a perfect destination for spiritual reflection."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Experience peace and devotion during the daily Aarti rituals dedicated to Shri Nrusinha Saraswati.",
+      "info": [
+        "Morning Kakad Aarti and evening Shej Aarti attract large gatherings.",
+        "Special rituals are performed on Thursdays and Datta Jayanti."
+      ]
+    },
+    {
+      "icon": "fas fa-book-open",
+      "title": "Reading Guru Charitra",
+      "description": "Devotees recite passages from the sacred 'Shri Guru Charitra', which narrates the life and teachings of the Lord.",
+      "info": [
+        "Continuous reading sessions are organized in the temple courtyard.",
+        "Believed to grant peace and spiritual upliftment."
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "River Bath and Meditation",
+      "description": "A holy dip in the confluence is said to cleanse sins and refresh the spirit.",
+      "info": [
+        "Devotees meditate on the riverbank after bath.",
+        "The calm surroundings enhance spiritual focus."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/narsobachi-wadi/audumbar-tree.jpg",
+      "title": "Audumbar Tree",
+      "description": "A sacred fig tree associated with Lord Dattatreya’s divine presence.",
+      "distance": "Within temple complex",
+      "icon": "fas fa-tree",
+      "value": "Holy Tree"
+    },
+    {
+      "image": "/images/religious/narsobachi-wadi/krishna-ghat.jpg",
+      "title": "Krishna Ghat",
+      "description": "A serene bathing ghat at the confluence of Krishna and Panchganga rivers.",
+      "distance": "0.2 km",
+      "icon": "fas fa-water",
+      "value": "Sacred River Ghat"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a riverside pilgrimage, Narsobachi Wadi holds natural and spiritual significance rather than marine life.",
+    "items": [
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Spiritual Healing",
+        "description": "The peaceful atmosphere and sacred rituals offer inner healing and calm."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Symbol of Peace",
+        "description": "The confluence of rivers represents harmony between nature and divinity."
+      }
+    ],
+    "conclusion": [
+      "Narsobachi Wadi offers a divine blend of spirituality and nature.",
+      "It remains one of the most sacred Datta pilgrimage centers in Maharashtra."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "The nearest railway station is Jaysingpur (13 km) or Miraj Junction (20 km).",
+        "Auto-rickshaws and buses are easily available from both stations."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Regular MSRTC buses run from Kolhapur, Sangli, and Miraj to Narsobachi Wadi.",
+        "Private vehicles can reach via NH48 through Jaysingpur."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/narsobachi-wadi/1.jpg",
+      "thumb": "/images/religious/narsobachi-wadi/thumb1.jpg",
+      "alt": "Main Temple of Shri Nrusinha Saraswati"
+    },
+    {
+      "src": "/images/religious/narsobachi-wadi/2.jpg",
+      "thumb": "/images/religious/narsobachi-wadi/thumb2.jpg",
+      "alt": "Krishna River Ghat near Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-sun",
+      "description": "Visit early morning or evening for peaceful darshan and pleasant weather."
+    },
+    {
+      "icon": "fas fa-bus",
+      "description": "Book accommodation in Sangli or Jaysingpur if visiting during Datta Jayanti."
+    },
+    {
+      "icon": "fas fa-hands-praying",
+      "description": "Maintain silence and devotion inside temple premises."
+    }
+  ]
+}

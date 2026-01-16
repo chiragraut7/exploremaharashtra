@@ -1,0 +1,65 @@
+{
+  "id": "blue-roof-sea-side",
+  "name": "Blue Roof Sea Side",
+  "beach": "kelwa",
+  "overview": "Deluxe beachfront hotel with pool, garden, luxurious clean rooms, LCD TVs, veg & non‑veg food.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "5 min walk",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "AC Deluxe Private Room",
+      "rate_for_two": "Call for pricing",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": ["Breakfast, lunch, evening tea, buffet served"],
+    "extended": ["Breakfast, lunch, dinner buffet, drinks on request"]
+  },
+  "facilities": [
+    "Swimming pool (20 × 30 ft)",
+    "Garden area",
+    "LCD TV in rooms",
+    "Veg & Non‑veg meals",
+    "Free parking"
+  ],
+  "policies": {
+    "allowed": ["Families & groups only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 per room",
+      "Music after 10 PM",
+      "Smoking inside rooms"
+    ],
+    "booking": ["Advance payment non‑refundable"],
+    "liability": [
+      "Guests responsible for any damage",
+      "Management not liable for loss of belongings"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": ["Beware of scammers; confirm identity before making any online payment."],
+  "contact": {
+    "host": "Blue Roof Sea Side Management",
+    "phone": null,
+    "email": null,
+    "website": "https://www.kelvabeach.in/blue-roof-sea-side-kelva-beach.php"
+  }
+}

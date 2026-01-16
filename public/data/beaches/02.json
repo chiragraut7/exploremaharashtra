@@ -1,0 +1,307 @@
+{
+  "id": "02",
+  "title": "Kelwa Beach",
+  "category": "Beach",
+  "subtitle": "Golden sands, shady trees, and tranquil vibes near Mumbai",
+  "bannerImage": "/assets/images/beaches/kelva-beach.jpg",
+  "insideBannerImage": "/assets/images/beaches/02/bannerimg.jpg",
+  "xPercent": 12,
+  "yPercent": 35,
+  "color": "#fea200",
+  "overview": [
+    "Kelwa Beach, also known as Kelva Beach, is a beautiful and serene destination located in the Palghar district of Maharashtra. Surrounded by Suru trees and stretching across several kilometers, it's popular for its peaceful vibe, less crowded shores, and accessibility from Mumbai."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Golden Beach",
+      "description": "Flat and wide coastline ideal for long walks and beach games."
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Suru Tree Forest",
+      "description": "Shaded beach edges perfect for relaxing under nature's canopy."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "title": "Resort Stays",
+      "description": "Variety of homely resorts and cottages available near the beach."
+    },
+    {
+      "icon": "fas fa-motorcycle",
+      "title": "Bike Friendly",
+      "description": "Wide open beach allows motorbike rides during low tides."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/02/info3.jpg",
+    "intro": "Kelwa Beach is located in the Palghar district of Maharashtra, situated along the Arabian Sea coast. It spans over 7 kilometers of golden shoreline and is surrounded by coconut plantations, dense Suru (Casuarina) trees, and small fishing villages. Its proximity to Mumbai makes it a popular weekend getaway.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Palghar District, Maharashtra, India"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 80 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Kelwa Road (Western Railway)"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Casuarina (Suru) tree belt, coconut groves"
+      }
+    ],
+    "climate": {
+      "description": "The region enjoys a tropical coastal climate. Summers are warm and humid, while the monsoon season brings lush greenery and heavy rainfall. Winters (October to February) are the most pleasant and attract the highest tourist footfall.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: October to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "The beach's geography features a wide, gently sloping shoreline that remains firm even during low tide, allowing for activities like bike rides and beach walks. The absence of rocky patches makes it safe and ideal for families and casual tourists."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-person-walking",
+      "title": "Beach Walks",
+      "description": "Take long peaceful walks along the 7 km stretch of golden sandy beach, surrounded by Suru trees and gentle waves.",
+      "details": [
+        { "label": "Best Time", "value": "Early mornings and evenings" },
+        { "label": "Ideal For", "value": "Families and couples" }
+      ]
+    },
+    {
+      "icon": "fas fa-bicycle",
+      "title": "Bike Rides",
+      "description": "Ride along the flat and firm shore during low tide for a thrilling and unique beach biking experience.",
+      "details": [
+        { "label": "Rental", "value": "Available locally on weekends" }
+      ]
+    },
+    {
+      "icon": "fas fa-volleyball-ball",
+      "title": "Beach Games",
+      "description": "Play beach volleyball, cricket, or frisbee with friends or family. The spacious and clean beach is perfect for outdoor games.",
+      "details": [
+        { "label": "Best Time", "value": "Morning or late afternoon" }
+      ]
+    },
+    {
+      "icon": "fas fa-hotel",
+      "title": "Resort Activities",
+      "description": "Several nearby resorts offer indoor games, swimming pools, and private beach access for guests to relax and enjoy.",
+      "details": [
+        { "label": "Includes", "value": "Bonfire nights, karaoke, and buffet meals" }
+      ]
+    },
+    {
+      "icon": "fas fa-camera-retro",
+      "title": "Photography",
+      "description": "Capture the natural beauty of sunrises, sunsets, casuarina groves, and traditional fishing boats along the beach.",
+      "details": [
+        { "label": "Ideal For", "value": "Landscape and travel photographers" }
+      ]
+    },
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Picnics & Relaxation",
+      "description": "Set up a picnic under the shade of Suru trees, enjoy homemade food from local vendors, or just relax by the waves.",
+      "details": [
+        { "label": "Tip", "value": "Bring mats and sunscreen for a comfortable experience" }
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/02/img11.jpg",
+      "title": "Shitladevi Temple",
+      "description": "A peaceful and spiritual temple located near the beach. The serene environment and traditional architecture make it a great place to unwind and offer prayers.",
+      "icon": "fas fa-pray",
+      "value": "Religious & Cultural"
+    },
+    {
+      "image": "/assets/images/beaches/010/img2.jpg",
+      "title": "Kelwa Fort",
+      "description": "A small but historically significant fort near the beach that offers a quick trek and scenic views. Perfect for history buffs and explorers.",
+      "icon": "fas fa-map-marker-alt",
+      "value": "1 km from Kelwa Beach"
+    },
+    {
+      "image": "/assets/images/beaches/02/img12.jpg",
+      "title": "Kelwa Dam",
+      "description": "A calm spot ideal for picnics and scenic photography. It's a popular weekend hangout for local families and nature lovers.",
+      "icon": "fas fa-camera",
+      "value": "Picnic & Photography"
+    },
+    {
+      "image": "/assets/images/beaches/02/img10.jpg",
+      "title": "Pankot Ruins",
+      "description": "Explore the lesser-known ruins of Pankot, which reflect the forgotten tales of Kelwa's past. A quiet and offbeat location.",
+      "icon": "fas fa-landmark",
+      "value": "Heritage Site"
+    },
+    {
+      "image": "/assets/images/beaches/010/img5.jpg",
+      "title": "Mahim Fort",
+      "description": "An old sea-facing fort near the Mahim creek. It offers picturesque views and an atmospheric setting for explorers.",
+      "icon": "fas fa-map-marker-alt",
+      "value": "Approx. 12 km"
+    },
+    {
+      "image": "/assets/images/beaches/010/img6.jpg",
+      "title": "Shirgaon Fort",
+      "description": "This 16th-century fort offers stunning views from the top and a quiet historical escape. A great place to click panoramic photos.",
+      "icon": "fas fa-camera",
+      "value": "Photography & History Lovers"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Kelwa Beach is not a scuba diving destination like Tarkarli, it still offers a modest yet interesting marine and coastal ecosystem. The expansive sandy shores, Suru tree surroundings, and occasional tidal pools provide a calm and family-friendly seaside experience.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Coastal Fish",
+        "description": "Local fishermen often spot small coastal fish near the shore and shallow waters—perfect for observing from the beachside."
+      },
+      {
+        "icon": "fas fa-seedling",
+        "title": "Suru Tree Belt",
+        "description": "The dense Suru (Casuarina) plantations along the coast provide shelter for small coastal birds and insects."
+      },
+      {
+        "icon": "fas fa-water",
+        "title": "Tidal Pools",
+        "description": "After high tides, small pools form along the shore, occasionally trapping tiny marine organisms that children love to explore."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Bird Watching",
+        "description": "Coastal birds such as herons, egrets, and seagulls can be spotted regularly, especially in early morning hours."
+      }
+    ],
+    "conclusion": [
+      "Although Kelwa's waters are not known for coral reefs or deep-sea creatures, they contribute to a quiet and biodiverse coastal experience. The gentle waves and clean shoreline encourage peaceful exploration of the beach and its natural surroundings.",
+      "The beach's low commercial activity and cleaner surroundings make it a suitable destination for families to enjoy the raw beauty of Maharashtra's coastline."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Chhatrapati Shivaji Maharaj International Airport, Mumbai (Approx. 110 km)",
+        "Alternative: Pune International Airport (Approx. 240 km)",
+        "Kelwa does not have its own airport. From Mumbai or Pune, one can take a taxi or train to reach Palghar and then travel to Kelwa Beach."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Palghar Railway Station (Approx. 12 km)",
+        "Major Connections: Trains from Mumbai, Surat, Vapi, Dahanu",
+        "From Palghar station, local auto-rickshaws or buses are available to reach Kelwa Beach within 20–25 minutes."
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "From Mumbai: Approx. 110 km via NH48 and Manor–Wada Road (2.5 to 3 hours)",
+        "From Pune: Approx. 240 km via NH48 (5 to 6 hours)",
+        "From Palghar: 12 km via Kelwa Road",
+        "Route: Scenic drive with multiple roadside restaurants and stops available."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Bus",
+      "details": [
+        "State Transport: MSRTC buses operate from Mumbai to Palghar frequently",
+        "Local Buses: Regular buses run between Palghar and Kelwa Beach",
+        "Private operators provide tourist buses and minivans on weekends and holidays"
+      ]
+    },
+    {
+      "icon": "fas fa-taxi",
+      "title": "Local Transportation",
+      "details": [
+        "Auto-rickshaws and shared rickshaws available from Palghar station to Kelwa",
+        "Private taxis can be booked in advance",
+        "Local bikes and scooters available for rent near the beach area"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/02/img14.jpg",
+      "thumb": "/assets/images/beaches/02/img14.jpg",
+      "alt": "Evening by the Beach"
+    },
+    {
+      "src": "/assets/images/beaches/02/img10.jpg",
+      "thumb": "/assets/images/beaches/02/img10.jpg",
+      "alt": "Evening by the Beach"
+    },
+    {
+      "src": "/assets/images/beaches/02/img13.jpg",
+      "thumb": "/assets/images/beaches/02/img13.jpg",
+      "alt": "Evening by the Beach"
+    },
+    {
+      "src": "/assets/images/beaches/02/img11.jpg",
+      "thumb": "/assets/images/beaches/02/img11.jpg",
+      "alt": "Evening by the Beach"
+    },
+    {
+      "src": "/assets/images/beaches/02/img12.jpg",
+      "thumb": "/assets/images/beaches/02/img12.jpg",
+      "alt": "Evening by the Beach"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Best Time to Book: 2–4 weeks in advance"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Peak Season: October to February"
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Monsoon: Discounted stays June–September"
+    },
+    {
+      "icon": "fas fa-gift",
+      "description": "Packages: Weekend combos & group discounts"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Pick-up: Some hotels offer Palghar station transfers"
+    }
+  ],
+  "coordinates": {
+    "lat": 19.6387,
+    "lng": 72.7188
+  }
+  
+}

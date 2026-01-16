@@ -1,0 +1,210 @@
+{
+  "id": "33",
+  "title": "Ramtek Temple",
+  "subtitle": "A Sacred Hill Shrine Dedicated to Lord Rama near Nagpur",
+  "bannerImage": "/images/religious/ramtek-temple/banner.jpg",
+  "color": "#C04000",
+  "coordinates": { "lat": 21.3931, "lng": 79.3275 },
+  "overview": [
+    "Ramtek Temple, located about 50 km from Nagpur in Maharashtra, is a revered pilgrimage site dedicated to Lord Rama. Legend says that Lord Rama rested here during his exile, and the town derives its name from ‘Rama-tek’, meaning Rama’s Vow.",
+    "Perched atop a hill, the temple offers panoramic views of the surrounding landscape and holds great mythological, spiritual, and architectural significance.",
+    "The temple complex also includes shrines of Lord Lakshmana, Goddess Sita, and Lord Hanuman, along with numerous smaller temples dating back to the 18th century."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-om",
+      "title": "Mythological Significance",
+      "description": "Believed to be the place where Lord Rama vowed to destroy evil, symbolizing divine determination."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Hilltop View",
+      "description": "Situated atop a scenic hill providing a peaceful and majestic view of the Ramtek town and Khindsi Lake."
+    },
+    {
+      "icon": "fas fa-archway",
+      "title": "Ancient Architecture",
+      "description": "The temple exhibits Hemadpanti-style architecture, with intricately carved stone pillars and sculptures."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/ramtek-temple/map.jpg",
+    "intro": "Ramtek lies in the northeastern part of Maharashtra, surrounded by hills, forests, and serene lakes near Nagpur.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Nagpur"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "345 meters above sea level"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Region",
+        "value": "Vidarbha"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to February"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Rama Navami and Kartik Fair"
+      }
+    ],
+    "climate": {
+      "description": "Ramtek experiences a tropical climate with hot summers, moderate monsoons, and pleasant winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 42°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: 22°C – 32°C (July–September)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 12°C – 26°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "The temple’s hilltop location, rich mythology, and scenic surroundings make Ramtek a must-visit spiritual and historical destination."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Seek blessings from Lord Rama and participate in daily poojas and Aartis held in the temple complex.",
+      "info": [
+        "Morning and evening Aartis are attended by hundreds of devotees daily.",
+        "Special rituals are performed during Ram Navami and Kartik Ekadashi."
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Hill Climb and Meditation",
+      "description": "Climb the sacred steps leading to the temple while chanting Lord Rama’s name, and meditate in the calm premises.",
+      "info": [
+        "There are nearly 700 steps to reach the temple from the base.",
+        "Resting points and refreshment stalls are available on the way."
+      ]
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Visit Khindsi Lake",
+      "description": "After your darshan, visit the nearby Khindsi Lake for boating, relaxation, and scenic beauty.",
+      "info": [
+        "Khindsi Lake is a popular picnic spot located just 5 km from Ramtek.",
+        "It offers boating, snacks, and serene sunset views."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/ramtek-temple/khindsi-lake.jpg",
+      "title": "Khindsi Lake",
+      "description": "A vast and picturesque lake near Ramtek, known for boating and serene views.",
+      "distance": "5 km",
+      "icon": "fas fa-water",
+      "value": "Boating & Nature"
+    },
+    {
+      "image": "/images/religious/ramtek-temple/kalidas-smarak.jpg",
+      "title": "Kalidas Smarak",
+      "description": "A memorial dedicated to the great Sanskrit poet Kalidasa, who is believed to have composed his works here.",
+      "distance": "1 km",
+      "icon": "fas fa-book",
+      "value": "Cultural Site"
+    },
+    {
+      "image": "/images/religious/ramtek-temple/nagardhan-fort.jpg",
+      "title": "Nagardhan Fort",
+      "description": "An ancient fort dating back to the Vakataka dynasty, showcasing medieval architecture.",
+      "distance": "9 km",
+      "icon": "fas fa-chess-rook",
+      "value": "Historical Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not coastal, Ramtek’s surroundings host tranquil lakes and lush flora supporting aquatic life.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Ecosystem",
+        "description": "Khindsi Lake is home to several freshwater fish species and local birdlife."
+      },
+      {
+        "icon": "fas fa-tree",
+        "title": "Eco Balance",
+        "description": "The natural water bodies and forests maintain ecological balance around the temple region."
+      }
+    ],
+    "conclusion": [
+      "Ramtek’s environment blends spirituality with natural harmony.",
+      "The sacred hills and serene lakes create a peaceful space for reflection and devotion."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "The nearest railway station is Ramtek (2 km) or Nagpur Junction (50 km).",
+        "Taxis and buses are easily available from Nagpur to Ramtek."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Ramtek is well connected by road to Nagpur, Kamptee, and Bhandara via NH44.",
+        "MSRTC buses and private cabs operate frequently."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Dr. Babasaheb Ambedkar International Airport (Nagpur) is 60 km away.",
+        "Regular taxis and buses are available from the airport."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/ramtek-temple/1.jpg",
+      "thumb": "/images/religious/ramtek-temple/thumb1.jpg",
+      "alt": "Ramtek Temple Hilltop View"
+    },
+    {
+      "src": "/images/religious/ramtek-temple/2.jpg",
+      "thumb": "/images/religious/ramtek-temple/thumb2.jpg",
+      "alt": "Main Shrine of Lord Rama at Ramtek"
+    },
+    {
+      "src": "/images/religious/ramtek-temple/3.jpg",
+      "thumb": "/images/religious/ramtek-temple/thumb3.jpg",
+      "alt": "Khindsi Lake near Ramtek"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-sun",
+      "description": "Visit early morning for peaceful darshan and beautiful sunrise views from the hilltop."
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Wear comfortable shoes for the climb and carry water during summer months."
+    },
+    {
+      "icon": "fas fa-calendar",
+      "description": "Plan your visit during Rama Navami or Kartik Mela for grand celebrations and cultural programs."
+    }
+  ]
+}

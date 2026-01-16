@@ -1,0 +1,192 @@
+{
+  "id": "30",
+  "title": "Mahaganapati Temple",
+  "subtitle": "Ranjangaon, Pune",
+  "bannerImage": "/images/religious/mahaganapati-ranjangaon/banner.jpg",
+  "color": "#f9c74f",
+  "coordinates": { "lat": 18.7533, "lng": 74.4753 },
+  "overview": [
+    "The Mahaganapati Temple in Ranjangaon is one of the eight revered Ashtavinayak Temples of Maharashtra, dedicated to Lord Ganesha. It is believed to be the place where Lord Shiva worshipped Lord Ganesha before his battle with Tripurasura.",
+    "The temple is known for its majestic idol of Mahaganapati, depicted with eight trunks and twenty arms, representing his supreme and powerful form. Devotees visit this temple to seek blessings for wisdom, strength, and protection from obstacles."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Ashtavinayak Shrine",
+      "description": "The eighth temple in the sacred Ashtavinayak pilgrimage, associated with Lord Ganesha’s powerful Mahaganapati form."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Divine Legend",
+      "description": "It is believed that Lord Shiva gained victory over the demon Tripurasura only after worshipping Mahaganapati here."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/mahaganapati-ranjangaon/geography.jpg",
+    "intro": "Ranjangaon is a small yet spiritually significant village located about 50 km from Pune on the Pune–Ahmednagar highway. The temple stands beautifully amid serene surroundings, drawing devotees throughout the year.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "539 meters"
+      },
+      {
+        "icon": "fas fa-location-arrow",
+        "label": "Coordinates",
+        "value": "18.7607° N, 74.2754° E"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "River Nearby",
+        "value": "Bhima River"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest City",
+        "value": "Pune (50 km)"
+      }
+    ],
+    "climate": {
+      "description": "Ranjangaon has a semi-arid climate with warm summers, mild winters, and moderate monsoon rainfall.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best visited between October and March for pleasant weather."
+        },
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon adds a lush green charm to the surroundings."
+        }
+      ]
+    },
+    "conclusion": "The Mahaganapati Temple’s peaceful ambiance and divine history make it one of Maharashtra’s most spiritually uplifting destinations."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Offer prayers to the powerful Mahaganapati idol known for granting strength and wisdom.",
+      "info": [
+        "Temple timings: 5:30 AM – 10:00 PM",
+        "Special aartis held on Sankashti Chaturthi and Ganesh Chaturthi."
+      ]
+    },
+    {
+      "icon": "fas fa-music",
+      "title": "Aarti & Bhajans",
+      "description": "Devotional songs and aartis are performed daily by devotees and priests, creating an enchanting atmosphere.",
+      "info": [
+        "Morning and evening aarti attract large gatherings.",
+        "Participate in community prayers during festivals."
+      ]
+    },
+    {
+      "icon": "fas fa-route",
+      "title": "Ashtavinayak Pilgrimage",
+      "description": "Include Mahaganapati Temple in your Ashtavinayak pilgrimage circuit for divine blessings.",
+      "info": [
+        "Usually visited as the eighth temple in the yatra.",
+        "Devotees often revisit Morgaon to complete the circuit."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/mahaganapati-ranjangaon/bhima-river.jpg",
+      "title": "Bhima River",
+      "description": "A calm river flowing near the temple, ideal for quiet reflection and spiritual connection.",
+      "distance": "1 km",
+      "icon": "fas fa-water",
+      "value": "Near Ranjangaon"
+    },
+    {
+      "image": "/images/religious/mahaganapati-ranjangaon/temple-view.jpg",
+      "title": "Temple Complex Architecture",
+      "description": "Marvel at the intricate Peshwa-era architecture, stone carvings, and beautifully adorned shikhara.",
+      "distance": "0 km",
+      "icon": "fas fa-monument",
+      "value": "Within Temple Complex"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not near the sea, Ranjangaon’s spiritual energy and river ecosystem contribute to its sacred environment.",
+    "items": [
+      {
+        "icon": "fas fa-leaf",
+        "title": "Sacred Vibes",
+        "description": "The area’s natural calmness enhances the temple’s divine atmosphere."
+      },
+      {
+        "icon": "fas fa-people-arrows",
+        "title": "Community Faith",
+        "description": "Locals actively engage in rituals and upkeep of the temple, showcasing strong devotional culture."
+      }
+    ],
+    "conclusion": [
+      "Ranjangaon’s peaceful setting and divine energy inspire deep devotion.",
+      "A perfect spot for reflection and spiritual rejuvenation."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Pune Junction (50 km)",
+        "Regular trains and taxis available from Pune to Ranjangaon."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Located on Pune–Ahmednagar Highway (NH60).",
+        "Frequent MSRTC and private buses operate to Ranjangaon."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (45 km)",
+        "Taxis and cabs easily available to reach the temple."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/mahaganapati-ranjangaon/gallery1.jpg",
+      "thumb": "/images/religious/mahaganapati-ranjangaon/gallery1-thumb.jpg",
+      "alt": "Mahaganapati Temple Front View"
+    },
+    {
+      "src": "/images/religious/mahaganapati-ranjangaon/gallery2.jpg",
+      "thumb": "/images/religious/mahaganapati-ranjangaon/gallery2-thumb.jpg",
+      "alt": "Mahaganapati Idol"
+    },
+    {
+      "src": "/images/religious/mahaganapati-ranjangaon/gallery3.jpg",
+      "thumb": "/images/religious/mahaganapati-ranjangaon/gallery3-thumb.jpg",
+      "alt": "Temple Complex Architecture"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Visit early morning to avoid crowds and enjoy peaceful darshan."
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Carry a cap or umbrella during summers as the area gets quite sunny."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "description": "Simple lodging available near temple; better stay options in Pune."
+    }
+  ]
+}

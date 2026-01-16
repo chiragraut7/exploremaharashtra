@@ -1,0 +1,64 @@
+{
+  "id": "vishranti-farm-house",
+  "name": "Vishranti Farm House",
+  "beach": "kelwa",
+  "overview": "Vishranti Farm House is a tranquil countryside stay located about 5–10 minutes from the beach, offering homemade meals and rustic ambiance among farm greenery.",
+  "location": {
+    "address": "Kelva Beach hinterlands, Palghar District, Maharashtra, India",
+    "distance_from_beach": "5–10 min drive",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non‑AC Farm Package",
+      "rate_for_two": "₹850–900 per person",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast",
+      "Tea/Coffee",
+      "Veg/Non‑Veg Lunch with home‑cooked style"
+    ],
+    "extended": []
+  },
+  "facilities": [
+    "Farmhouse ambiance",
+    "Open courtyard & garden",
+    "Home‑cooked meals",
+    "Clean rooms"
+  ],
+  "policies": {
+    "allowed": ["Families & groups only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "Music after 10 PM",
+      "Smoking indoors"
+    ],
+    "booking": ["Advance booking required (non‑refundable)"],
+    "liability": ["Guests responsible for damages; management not liable"]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": ["Confirm rates seasonally before booking"],
+  "contact": {
+    "host": "Vishranti Farm House Management",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/vishranti-farm-house-kelvabeach.php"
+  }
+}

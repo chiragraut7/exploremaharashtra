@@ -1,0 +1,201 @@
+{
+  "id": "21",
+  "title": "Mumbadevi Temple",
+  "subtitle": "The Ancient Goddess Who Gave Mumbai Its Name",
+  "bannerImage": "/images/religious/mumbadevi/banner.jpg",
+  "color": "#D97706",
+  "coordinates": { "lat": 18.9519, "lng": 72.8319 },
+  "overview": [
+    "The Mumbadevi Temple, nestled in the bustling Bhuleshwar area of South Mumbai, is dedicated to Goddess Mumbadevi — the patron goddess after whom the city of Mumbai derives its name. The temple is one of the oldest shrines in the city and a symbol of its cultural and spiritual heritage.",
+    "Believed to have been originally built in the 14th century and reconstructed in 1737, this temple attracts devotees from across Maharashtra and beyond, especially those seeking prosperity, protection, and success in business."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Historic Shrine",
+      "description": "Dedicated to Goddess Mumbadevi, who symbolizes power, protection, and fertility."
+    },
+    {
+      "icon": "fas fa-city",
+      "title": "Cultural Landmark",
+      "description": "Located in Mumbai’s traditional market area of Bhuleshwar, surrounded by heritage buildings and bustling bazaars."
+    },
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Spiritual Atmosphere",
+      "description": "Devotees offer flowers, coconuts, and sweets while chanting hymns in the temple’s calm yet vibrant ambiance."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/mumbadevi/map.jpg",
+    "intro": "The Mumbadevi Temple is situated in Bhuleshwar, near Zaveri Bazaar — the heart of South Mumbai’s traditional jewelry and textile markets.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Mumbai City"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Landmark",
+        "value": "Zaveri Bazaar"
+      },
+      {
+        "icon": "fas fa-plane",
+        "label": "Nearest Airport",
+        "value": "Chhatrapati Shivaji Maharaj International Airport (22 km)"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Railway Station",
+        "value": "Marine Lines (1.5 km)"
+      },
+      {
+        "icon": "fas fa-bus",
+        "label": "Connectivity",
+        "value": "Excellent local transport with nearby bus stops and taxis easily available."
+      }
+    ],
+    "climate": {
+      "description": "Mumbai has a coastal tropical climate characterized by hot, humid summers, heavy monsoon rains, and mild winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 28°C to 35°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: Heavy rainfall (June–September)"
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter: 20°C to 28°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "The temple is open year-round, but mornings are the best time for a peaceful darshan before the markets open."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan of Goddess Mumbadevi",
+      "description": "Witness the sacred idol adorned with traditional jewelry and flowers.",
+      "info": [
+        "Aarti timings: 7:00 AM and 7:00 PM.",
+        "Special poojas held during Navratri and major festivals."
+      ]
+    },
+    {
+      "icon": "fas fa-shopping-bag",
+      "title": "Explore Zaveri Bazaar",
+      "description": "After darshan, stroll through one of India’s oldest gold and jewelry markets.",
+      "info": [
+        "Perfect spot for cultural photography and street experiences.",
+        "Nearby eateries serve authentic Maharashtrian snacks."
+      ]
+    },
+    {
+      "icon": "fas fa-temple",
+      "title": "Visit Nearby Shrines",
+      "description": "Bhuleshwar area has many small temples dedicated to various Hindu deities.",
+      "info": [
+        "Walkable distance to Kalbadevi Temple.",
+        "Discover heritage lanes and architecture."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/mumbadevi/temple.jpg",
+      "title": "Main Sanctum",
+      "description": "The idol of Mumbadevi — dressed in red and adorned with nose rings and necklaces.",
+      "distance": "0 km",
+      "icon": "fas fa-place-of-worship",
+      "value": "Main Shrine"
+    },
+    {
+      "image": "/images/religious/mumbadevi/market.jpg",
+      "title": "Zaveri Bazaar",
+      "description": "Famous market surrounding the temple offering jewelry, flowers, and sweets.",
+      "distance": "0.5 km",
+      "icon": "fas fa-store",
+      "value": "Nearby Market"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although located in a coastal city, Mumbadevi Temple is more known for its spiritual energy than natural ecosystems.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Goddess of the Sea",
+        "description": "Mumbadevi was once worshipped by fishermen as the protector of Mumbai’s coast."
+      },
+      {
+        "icon": "fas fa-umbrella-beach",
+        "title": "Connection to the Coast",
+        "description": "Her blessings are invoked before voyages, symbolizing Mumbai’s maritime roots."
+      }
+    ],
+    "conclusion": [
+      "The temple connects Mumbai’s faith and its oceanic identity.",
+      "A spiritual anchor in the midst of a modern metropolis."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Marine Lines is the nearest station (1.5 km) on the Western Line.",
+        "From there, one can take a taxi or walk through Bhuleshwar."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Easily accessible by local buses, taxis, and auto-rickshaws.",
+        "Located centrally in South Mumbai, near Kalbadevi Road."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Chhatrapati Shivaji Maharaj International Airport (22 km).",
+        "Taxis and metro options connect directly to South Mumbai."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/mumbadevi/1.jpg",
+      "thumb": "/images/religious/mumbadevi/thumb1.jpg",
+      "alt": "Mumbadevi Temple Entrance"
+    },
+    {
+      "src": "/images/religious/mumbadevi/2.jpg",
+      "thumb": "/images/religious/mumbadevi/thumb2.jpg",
+      "alt": "Idol of Goddess Mumbadevi"
+    },
+    {
+      "src": "/images/religious/mumbadevi/3.jpg",
+      "thumb": "/images/religious/mumbadevi/thumb3.jpg",
+      "alt": "Zaveri Bazaar near Mumbadevi Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Visit early in the morning to avoid market crowds."
+    },
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Navratri is the grandest celebration; plan accommodation in advance."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography inside the temple is restricted — seek permission if required."
+    }
+  ]
+}

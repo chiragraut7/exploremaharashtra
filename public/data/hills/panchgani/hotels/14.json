@@ -1,0 +1,64 @@
+{
+  "id": "nishad-residency-inn",
+  "name": "Nishad Residency Inn",
+  "beach": "kelwa",
+  "overview": "Nishad Residency Inn features modest rooms with attached bathrooms, near Kelwa Beach. Known for friendly hosts and simple meals.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "Walkable",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non‑AC Room",
+      "rate_for_two": "₹900–1,200 per person",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast",
+      "Tea/Coffee",
+      "Veg/Non‑Veg Lunch"
+    ],
+    "extended": []
+  },
+  "facilities": [
+    "Attached bathrooms",
+    "Outdoor seating",
+    "Homemade meals",
+    "Clean rooms"
+  ],
+  "policies": {
+    "allowed": ["Families, married couples & groups"],
+    "not_allowed": [
+      "Unmarried couples",
+      "Music after 10 PM",
+      "Smoking indoors"
+    ],
+    "booking": ["Advance booking required (non‑refundable)"],
+    "liability": ["Guests responsible for damages; management not liable"]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": ["Confirm details and pricing before booking"],
+  "contact": {
+    "host": "Nishad Residency Inn Management",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/nishad-residency-inn-kelvabeach.php"
+  }
+}

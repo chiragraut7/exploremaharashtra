@@ -1,0 +1,179 @@
+{
+  "id": "14",
+  "title": "Karnala Fort",
+  "subtitle": "The Fort within a Bird Sanctuary",
+  "bannerImage": "/images/forts/karnala/karnala-banner.jpg",
+  "color": "#4b674a",
+  "coordinates": { "lat": 18.8878, "lng": 73.1167 },
+  "overview": [
+    "Karnala Fort, also known as Funnel Hill, is a hill fort situated within the lush Karnala Bird Sanctuary near Panvel in Raigad district, Maharashtra. The fort offers a perfect blend of natural beauty and historical importance.",
+    "The fort’s distinct thumb-shaped pinnacle is a landmark visible from miles away. Built during the Yadava dynasty and later captured by the Marathas, it served as a strategic watchtower overlooking trade routes between the Konkan coast and Deccan plateau."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Iconic Thumb-Shaped Pinnacle",
+      "description": "The fort’s unique thumb-like pinnacle is its most recognizable feature, offering stunning panoramic views."
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Located in Bird Sanctuary",
+      "description": "Surrounded by the Karnala Bird Sanctuary, home to over 200 species of resident and migratory birds."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/karnala/karnala-map.jpg",
+    "intro": "Karnala Fort lies at an elevation of about 440 meters (1,440 feet) above sea level inside the Karnala Bird Sanctuary, about 12 km from Panvel.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Panvel, Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "440 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Yadava Dynasty"
+      },
+      {
+        "icon": "fa-solid fa-binoculars",
+        "label": "Famous For",
+        "value": "Birdwatching and panoramic views"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Protected Area",
+        "value": "Karnala Bird Sanctuary"
+      }
+    ],
+    "climate": {
+      "description": "The region experiences tropical climate with pleasant winters and heavy monsoons that turn the forest lush green.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-sun",
+          "text": "Winter - Ideal for trekking and birdwatching (October to February)."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon - Forest turns vibrant and misty but trails can be slippery."
+        }
+      ]
+    },
+    "conclusion": "Karnala Fort combines history, adventure, and wildlife, making it a favorite weekend getaway for nature lovers and trekkers near Mumbai."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "The trek to Karnala Fort passes through dense forest trails within the bird sanctuary.",
+      "info": [
+        "Trek distance: ~2.5 km (moderate difficulty).",
+        "Carry water and snacks; no shops inside the sanctuary."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Birdwatching",
+      "description": "Spot rare species like the Malabar Whistling Thrush and Paradise Flycatcher.",
+      "info": [
+        "Early mornings are best for birdwatching.",
+        "Binoculars recommended for a better experience."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Nature Walk",
+      "description": "The sanctuary and the fort top offer excellent opportunities for nature photography.",
+      "info": [
+        "Capture misty forest views and the famous pinnacle.",
+        "Avoid loud noises to not disturb wildlife."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/karnala/karnala-top.jpg",
+      "title": "Karnala Fort Top",
+      "description": "The summit offers sweeping views of the surrounding forest, Mumbai Harbour, and Matheran ranges.",
+      "distance": "2.5 km trek from base",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Viewpoint"
+    },
+    {
+      "image": "/images/forts/karnala/karnala-pinnacle.jpg",
+      "title": "Pinnacle Point",
+      "description": "The distinctive thumb-shaped pinnacle makes Karnala one of the most recognizable forts in Maharashtra.",
+      "distance": "At the fort top",
+      "icon": "fa-solid fa-mountain",
+      "value": "Natural Formation"
+    }
+  ],
+  "marineLife": {
+    "intro": "While not a coastal fort, Karnala’s biodiversity compensates with rich forest and avian life.",
+    "items": [
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Bird Sanctuary Habitat",
+        "description": "Home to over 200 bird species, including hornbills and migratory birds."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora and Fauna",
+        "description": "Dense forest cover supports various plant species and small mammals."
+      }
+    ],
+    "conclusion": [
+      "The sanctuary setting enhances the fort’s appeal beyond history and adventure.",
+      "It’s an ecological haven for birdwatchers and trekkers alike."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Panvel (12 km).",
+        "Local transport and taxis are available from Panvel station."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Karnala is located on the Mumbai-Goa Highway (NH66).",
+        "Buses and private vehicles can reach Karnala Bird Sanctuary gate easily."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/karnala/karnala1.jpg",
+      "thumb": "/images/forts/karnala/karnala1-thumb.jpg",
+      "alt": "Karnala Fort pinnacle"
+    },
+    {
+      "src": "/images/forts/karnala/karnala2.jpg",
+      "thumb": "/images/forts/karnala/karnala2-thumb.jpg",
+      "alt": "View from Karnala Fort top"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-ticket",
+      "description": "An entry fee applies for Karnala Bird Sanctuary (separate from parking charges)."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "description": "Carry sufficient water and light snacks; no vendors inside sanctuary."
+    },
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Start trek early morning for birdwatching and to avoid afternoon heat."
+    }
+  ]
+}

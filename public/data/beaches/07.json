@@ -1,0 +1,140 @@
+{
+  "id": "07",
+  "title": "Bordi Beach",
+  "subtitle": "Tranquil shores, chikoo orchards, and cultural heritage",
+  "bannerImage": "/assets/images/beaches/bordi-beach.jpg",
+  "insideBannerImage": "/assets/images/beaches/07/bannerImg.jpg",
+  "color": "#09a5cf",
+  "coordinates": {
+    "lat": 20.1164,
+    "lng": 72.7400
+  },
+  "overview": [
+    "Bordi Beach is a tranquil and lesser-known coastal destination located in the Dahanu region of Maharashtra, near the Gujarat border. It features a long, clean shoreline lined with chikoo orchards and is known for its peaceful and unspoiled charm.",
+    "The beach offers a flat stretch of sand, gentle waves, and safe swimming areas, making it ideal for family outings and quiet retreats. The surrounding area has Parsi and Warli cultural influences, giving Bordi a unique historical and ethnic flavor.",
+    "Its proximity to Mumbai (approximately 145 km) makes it an easy weekend getaway. The area is also famous for its annual Chikoo Festival and eco-tourism initiatives that promote local art, farming, and sustainable travel."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-seedling",
+      "title": "Chikoo Orchards",
+      "description": "Rows of fruit-bearing chikoo trees line the village around the beach, offering agro-tourism experiences."
+    },
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Secluded Shore",
+      "description": "Long, uncrowded beach perfect for solitude, reading, or nature walks."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/07/info3.jpg",
+    "intro": "Bordi Beach lies in the northern coastal belt of Maharashtra, nestled between Dahanu and the Gujarat border. The beach is surrounded by lush chikoo orchards and traditional villages.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Dahanu Taluka, Palghar District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 145 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Gholvad (Western Railway)"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Chikoo trees, mango orchards, palms"
+      }
+    ],
+    "climate": {
+      "description": "Bordi enjoys a mild tropical coastal climate with hot summers, green monsoons, and pleasant winters. The best time to visit is between November and February.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: November to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "The flat terrain, chikoo groves, and undeveloped coastline make Bordi ideal for eco-tourism and slow travel."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-walking",
+      "title": "Beach Walks",
+      "description": "Enjoy peaceful walks along the long stretch of clean, black-sand beach surrounded by casuarina trees.",
+      "info": [
+        "Best during morning or sunset hours",
+        "Ideal for families and solo travelers"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/07/img1.jpg",
+      "title": "Bahrot Caves",
+      "description": "Historic rock-cut caves with Zoroastrian significance, located about 10 km from Bordi.",
+      "distance": "Religious & Historic",
+      "icon": "fas fa-landmark",
+      "value": "Historic Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Bordi Beach, while not known for deep-sea marine biodiversity, features a coastal ecosystem enriched by tidal waves and organic agriculture nearby.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Shoreline Fish",
+        "description": "Small fish and crabs can be seen during low tide across wet sand and rock pools."
+      }
+    ],
+    "conclusion": [
+      "The marine zone around Bordi promotes nature-based tourism with minimal environmental impact.",
+      "Its balance of farming and nature makes it an educational destination for families and eco-lovers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Mumbai (Chhatrapati Shivaji Maharaj International Airport)",
+        "From there, drive or take a train to Gholvad or Dahanu"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/07/img3.jpg",
+      "thumb": "/assets/images/beaches/07/img3.jpg",
+      "alt": "Warli Art Display"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Best Time to Book: 1–2 weeks in advance"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Peak Season: November to February"
+    }
+  ],
+  "rating": "4.5",
+  "amenities": [
+    "Beachfront Access",
+    "Chikoo Orchard Tours",
+    "Warli Art Workshops",
+    "Safe Swimming",
+    "Eco-stays"
+  ],
+  "category": "beaches"
+}

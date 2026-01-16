@@ -1,0 +1,180 @@
+{
+  "id": "06",
+  "title": "Torna Fort",
+  "subtitle": "Prachandgad – The First Fort Captured by Chhatrapati Shivaji Maharaj",
+  "bannerImage": "/images/forts/torna/torna-banner.jpg",
+  "color": "#6b3e26",
+  "coordinates": { "lat": 18.2764, "lng": 73.6128 },
+  "overview": [
+    "Torna Fort, also known as Prachandgad, is located in Pune district and holds a special place in Maratha history as the first fort captured by Chhatrapati Shivaji Maharaj at the young age of 16 in 1646.",
+    "Standing at an altitude of 1,403 meters (4,635 ft) above sea level, Torna is the highest fort in Pune district. Its massive size and strategic position earned it the name 'Prachandgad' meaning 'massive fort'.",
+    "The fort offers mesmerizing views of the Sahyadri range and nearby forts like Rajgad and Purandar, making it a favorite destination for trekkers and history enthusiasts."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Highest Fort in Pune",
+      "description": "At 1,403 meters, Torna stands as the tallest fort in Pune district, offering panoramic Sahyadri views."
+    },
+    {
+      "icon": "fa-solid fa-landmark-flag",
+      "title": "First Victory of Shivaji Maharaj",
+      "description": "The fort marks the beginning of the Maratha Empire’s glorious journey when Shivaji Maharaj captured it in 1646."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/torna/torna-map.jpg",
+    "intro": "Torna Fort lies approximately 50 km southwest of Pune, nestled amidst the Western Ghats. It offers scenic views of valleys, lush greenery, and nearby forts.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Velhe, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-ruler-vertical",
+        "label": "Altitude",
+        "value": "1,403 meters (4,635 ft)"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Region",
+        "value": "Sahyadri Range, Western Ghats"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Surroundings",
+        "value": "Dense forests, rocky terrain, and nearby rivers"
+      },
+      {
+        "icon": "fa-solid fa-city",
+        "label": "Nearest City",
+        "value": "Pune (50 km)"
+      }
+    ],
+    "climate": {
+      "description": "Torna experiences pleasant weather most of the year, with monsoon season turning the landscape lush green and winters offering clear trekking conditions.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon – June to September: Misty, lush, and beautiful but slippery paths."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter – October to February: Best time for trekking and fort exploration."
+        }
+      ]
+    },
+    "conclusion": "Torna’s grandeur and historical significance make it a must-visit for trekkers and heritage lovers exploring Maharashtra’s fort trails."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking Adventure",
+      "description": "One of the most challenging and scenic treks in the Pune region, offering breathtaking valley views.",
+      "info": [
+        "Ideal for experienced trekkers.",
+        "Trek duration: 3-4 hours one way from Velhe base village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture spectacular sunrise and sunset views from the Balekilla and Budhla Machi points.",
+      "info": [
+        "Carry a wide-angle lens for panoramic shots.",
+        "Morning fog adds dramatic effect to photographs."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-book-open",
+      "title": "Historical Exploration",
+      "description": "Explore ancient bastions, temples, and watchtowers narrating tales from Maratha history.",
+      "info": [
+        "Visit Menghai Devi Temple and remnants of the old fort walls.",
+        "The route showcases old fortifications and hidden gates."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/torna/menghai-temple.jpg",
+      "title": "Menghai Devi Temple",
+      "description": "A small but sacred temple dedicated to Goddess Menghai (Tornaji), considered the protector deity of the fort.",
+      "distance": "Inside Fort",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Spiritual center of the fort."
+    },
+    {
+      "image": "/images/forts/torna/budhla-machi.jpg",
+      "title": "Budhla Machi Point",
+      "description": "A massive plateau resembling an inverted pot, offering a perfect spot for camping and scenic views.",
+      "distance": "Short trek within fort",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "Ideal for photography and rest."
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not related to marine life, Torna Fort hosts diverse mountain flora and fauna native to the Sahyadri range.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Mountain Flora",
+        "description": "Varieties of wildflowers and shrubs bloom during the monsoon season."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Wildlife Sightings",
+        "description": "Occasional sightings of monkeys, birds, and reptiles along the trekking route."
+      }
+    ],
+    "conclusion": [
+      "Nature enthusiasts will love the biodiversity around the fort.",
+      "Preserve the ecosystem by avoiding litter during treks."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Torna is about 50 km from Pune via NH4 till Nasrapur, then towards Velhe village.",
+        "Private cabs and buses are available from Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train & Air",
+      "details": [
+        "Nearest railway station: Pune Junction (50 km).",
+        "Nearest airport: Pune International Airport (60 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/torna/gallery1.jpg",
+      "thumb": "/images/forts/torna/thumb1.jpg",
+      "alt": "Torna Fort aerial view"
+    },
+    {
+      "src": "/images/forts/torna/gallery2.jpg",
+      "thumb": "/images/forts/torna/thumb2.jpg",
+      "alt": "Sunrise from Torna Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Start your trek early morning to avoid afternoon heat and fog during monsoon."
+    },
+    {
+      "icon": "fa-solid fa-water-bottle",
+      "description": "Carry enough water and energy snacks as no facilities are available atop."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Avoid trekking during heavy rains; trails can be slippery and visibility low."
+    }
+  ]
+}

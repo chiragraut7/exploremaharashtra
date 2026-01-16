@@ -1,0 +1,108 @@
+{
+  "id": "#tourismModal",
+  "title": "🌍 Tourism Growth (2000s – Present)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-primary fw-semibold mb-3",
+      "text": "Rediscovering Maharashtra – A Journey of Culture, Nature, and Heritage"
+    },
+    {
+      "type": "p",
+      "text": "From the early 2000s, Maharashtra witnessed a dramatic transformation in its tourism landscape. Strategic government initiatives, global marketing, and infrastructural investment turned the state into one of India’s top tourist destinations—appealing to history lovers, spiritual seekers, nature enthusiasts, and adventure travelers alike."
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🏞️ Diverse Tourist Attractions"
+    },
+    {
+      "type": "p",
+      "text": "Maharashtra offers a rare blend of coastlines, mountains, temples, forts, caves, and wildlife that make it one of the most diverse travel destinations in India."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hill Stations: Lonavala, Mahabaleshwar, Matheran, Panchgani",
+        "Beaches: Alibaug, Kelwa, Ganpatipule, Tarkarli",
+        "Heritage Sites: Ajanta & Ellora, Elephanta Caves, Raigad & Sindhudurg Forts",
+        "Wildlife Sanctuaries: Tadoba, Pench, Bhimashankar"
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-warning mt-4",
+      "text": "🕌 Pilgrimage & Spiritual Circuits"
+    },
+    {
+      "type": "p",
+      "text": "The growth of religious tourism brought renewed attention to Maharashtra’s sacred sites, many of which are now major pilgrimage destinations."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Shirdi (Sai Baba)",
+        "Nashik (Kumbh Mela city)",
+        "Trimbakeshwar & Bhimashankar (Jyotirlingas)",
+        "Jejuri, Pandharpur, Tuljapur (major cultural devotion centers)"
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-info mt-4",
+      "text": "✈️ Infrastructure & Global Access"
+    },
+    {
+      "type": "p",
+      "text": "Tourism growth was supported by improved transport and government-led tourism programs that made destinations more accessible and visitor-friendly."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Expansion of Mumbai and Pune international airports",
+        "Improved road and rail connectivity to Konkan, Vidarbha, and Marathwada regions",
+        "Government-backed MTDC (Maharashtra Tourism Development Corporation) initiatives and eco-resorts"
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-secondary mt-4",
+      "text": "🎭 Cultural Festivals & Events"
+    },
+    {
+      "type": "p",
+      "text": "Maharashtra’s vibrant cultural scene became a major tourist attraction with annual festivals that celebrate art, faith, and music."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kala Ghoda Arts Festival, Mumbai",
+        "Ellora-Ajanta Festival, Aurangabad",
+        "Ganesh Utsav, statewide",
+        "Lavani Mahotsav and Folk Arts Fairs"
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-danger mt-4",
+      "text": "🏕️ Ecotourism & Agrotourism"
+    },
+    {
+      "type": "p",
+      "text": "Maharashtra became a pioneer in eco and rural tourism, offering authentic local experiences in tribal and agricultural regions that connect travelers to nature and tradition."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Agrotourism in Konkan and Vidarbha regions",
+        "Eco-friendly stays near forest reserves and hill areas",
+        "Rural tourism showcasing traditional farming, food, and crafts"
+      ]
+    },
+    {
+      "type": "p",
+      "class": "fw-bold mt-4",
+      "text": "Maharashtra today stands as a vibrant, culturally rich state that continues to welcome the world to explore its legacy, nature, cuisine, and people."
+    }
+  ]
+}

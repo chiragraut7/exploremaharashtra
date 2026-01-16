@@ -1,0 +1,152 @@
+{
+  "id": "nag-panchami",
+  "title": "Nag Panchami",
+  "subtitle": "A Sacred Festival Worshipping Serpents",
+  "bannerImage": "/images/cultural/nag-panchami-banner.jpg",
+  "color": "#7B3F00",
+  "overview": [
+    "Nag Panchami is one of the most revered festivals in Maharashtra, dedicated to the worship of serpents, especially the cobra (Nag). It falls on the fifth day of the bright half of the Shravan month (July–August) according to the Hindu calendar.",
+    "The festival celebrates the bond between humans and nature, showing gratitude towards snakes who are believed to safeguard crops and maintain ecological balance."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-sun",
+      "title": "Auspicious Day in Shravan",
+      "description": "Nag Panchami is celebrated on the fifth day (Panchami) of Shravan, marking deep reverence for serpents and nature."
+    },
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Snake Worship Rituals",
+      "description": "Devotees visit temples and offer milk, flowers, and turmeric to snake idols or live snakes handled by snake charmers."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/nagpanchami-temple.jpg",
+    "intro": "The festival is celebrated throughout Maharashtra, with special fervor in regions like Nashik, Pune, and rural Konkan areas where snake worship traditions are ancient.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Major Celebrating Regions", "value": "Nashik, Pune, Konkan, and Vidarbha" },
+      { "icon": "fas fa-calendar-alt", "label": "Festival Month", "value": "Shravan (July–August)" },
+      { "icon": "fas fa-om", "label": "Religious Significance", "value": "Worship of Nag Devta (Cobra God)" },
+      { "icon": "fas fa-water", "label": "Offerings", "value": "Milk, turmeric, flowers, and sweets" },
+      { "icon": "fas fa-home", "label": "Tradition", "value": "Women draw serpent images on door frames using cow dung and charcoal" }
+    ],
+    "climate": {
+      "description": "Nag Panchami occurs during the monsoon season, when snakes are often seen emerging from their burrows.",
+      "seasons": [
+        { "icon": "fas fa-cloud-showers-heavy", "text": "Monsoon – lush green surroundings add to the festival’s charm" },
+        { "icon": "fas fa-leaf", "text": "Celebrated after monsoon planting rituals" }
+      ]
+    },
+    "conclusion": "The worship of snakes during Nag Panchami reflects a blend of devotion, respect for ecology, and age-old traditions tied to Maharashtra’s agrarian roots."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Temple Worship",
+      "description": "Devotees visit Nag temples, offering milk and sweets to idols or live snakes as a symbol of reverence.",
+      "info": [
+        "Special pujas and aartis are performed at temples like Nagoba Temple in Nashik.",
+        "Women observe fasts for the protection of their families from snake bites."
+      ]
+    },
+    {
+      "icon": "fas fa-brush",
+      "title": "Traditional Art and Decor",
+      "description": "Rural households decorate walls and entrances with serpent motifs using natural dyes.",
+      "info": [
+        "Women draw intricate designs depicting cobras.",
+        "These drawings are believed to protect homes from misfortune."
+      ]
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Cultural Celebrations",
+      "description": "Villages host traditional music and dance performances, accompanied by folk rituals and processions.",
+      "info": [
+        "Local folk songs narrate mythological tales of the serpent gods.",
+        "Children participate in small parades carrying snake idols made of clay."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/nagoba-temple-nashik.jpg",
+      "title": "Nagoba Temple, Nashik",
+      "description": "One of the most famous temples dedicated to Nag Devta, attracting thousands of devotees on Nag Panchami.",
+      "distance": "5 km from Nashik city center",
+      "icon": "fas fa-temple-hindu",
+      "value": "Spiritual site"
+    },
+    {
+      "image": "/images/cultural/pune-nagpanchami.jpg",
+      "title": "Pune Celebrations",
+      "description": "Known for elaborate street processions and folk performances celebrating the bond between humans and serpents.",
+      "distance": "Across Pune city",
+      "icon": "fas fa-people-group",
+      "value": "Cultural attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not directly related to marine life, Nag Panchami underscores the deep connection between humans and animals within the ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-leaf",
+        "title": "Ecological Respect",
+        "description": "The festival promotes harmony with nature and protection of snake species vital to agriculture."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "Snake Conservation Awareness",
+        "description": "Modern celebrations include campaigns to prevent snake killing and promote wildlife conservation."
+      }
+    ],
+    "conclusion": [
+      "Nag Panchami symbolizes respect for all life forms.",
+      "It strengthens environmental awareness and traditional ecological balance."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nashik Road and Pune Junction are the nearest major railway stations for popular Nag Panchami celebrations.",
+        "Frequent trains connect these cities to Mumbai and other parts of Maharashtra."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "State transport buses and private cabs are available from Mumbai, Nashik, Pune, and Kolhapur.",
+        "Rural areas host localized celebrations accessible by village routes."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/nag-puja.jpg",
+      "thumb": "/images/cultural/nag-puja-thumb.jpg",
+      "alt": "Devotees offering milk to snake idols"
+    },
+    {
+      "src": "/images/cultural/snake-worship.jpg",
+      "thumb": "/images/cultural/snake-worship-thumb.jpg",
+      "alt": "Women performing Nag Panchami rituals at home"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Plan your visit during the Shravan month (July–August) to witness authentic Nag Panchami rituals."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Respect local customs — photography is restricted in temple areas during rituals."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Avoid disturbing or capturing live snakes during the festival; support awareness and rescue campaigns instead."
+    }
+  ]
+}

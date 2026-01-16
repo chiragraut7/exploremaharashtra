@@ -1,0 +1,180 @@
+{
+  "id": "23",
+  "title": "Matheran Hill Forest",
+  "subtitle": "A Tranquil Eco-Sensitive Hill with Red Soil Trails and Dense Greenery",
+  "bannerImage": "/images/nature/matheran/banner.jpg",
+  "color": "#4caf50",
+  "coordinates": { "lat": 18.9850, "lng": 73.2678 },
+  "overview": [
+    "Matheran, meaning ‘Forest on the Forehead’, is a serene hill station located near Mumbai and Pune. It’s one of the few places in India where vehicles are banned, making it a pollution-free natural haven.",
+    "Famous for its red soil paths, viewpoints, dense forest cover, and toy train, Matheran offers peace and stunning panoramic views of the Western Ghats.",
+    "Declared an eco-sensitive zone, Matheran attracts nature enthusiasts, trekkers, and photographers throughout the year."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Eco-Sensitive Hill",
+      "description": "Matheran is Asia’s only automobile-free hill station, preserving its pristine forest and clean air."
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "Toy Train Ride",
+      "description": "The UNESCO-recognized narrow-gauge train between Neral and Matheran offers a scenic 21 km journey through lush forested slopes."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/matheran/geo.jpg",
+    "intro": "Situated in the Raigad district, Matheran is perched at about 800 meters above sea level in the Western Ghats.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Around 800 meters"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Vegetation",
+        "value": "Evergreen and semi-deciduous forests"
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "label": "Average Rainfall",
+        "value": "Over 5000 mm annually"
+      },
+      {
+        "icon": "fa-solid fa-person-hiking",
+        "label": "Terrain",
+        "value": "Hill slopes, plateaus, and ridges"
+      }
+    ],
+    "climate": {
+      "description": "Matheran experiences a pleasant climate most of the year, with misty monsoons and cool winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (June to September): Lush greenery, waterfalls, and fog-covered trails."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (November to February): Ideal for sightseeing and trekking."
+        }
+      ]
+    },
+    "conclusion": "The blend of cool climate, natural beauty, and absence of vehicles makes Matheran a unique ecological retreat."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Viewpoint Exploration",
+      "description": "Matheran has over 30 scenic viewpoints offering panoramic views of valleys and peaks.",
+      "info": [
+        "Sunset Point, Panorama Point, Echo Point",
+        "Porcupine Point and Charlotte Lake views"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Nature Walks & Trekking",
+      "description": "Walk through red mud trails surrounded by dense forest, spotting monkeys and birds.",
+      "info": [
+        "Easy trails with no vehicles allowed",
+        "Horse riding also available"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "title": "Photography",
+      "description": "Capture misty valleys, lush forests, and colonial architecture.",
+      "info": [
+        "Perfect during monsoon and early mornings",
+        "Long exposure waterfall shots possible"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/matheran/charlotte.jpg",
+      "title": "Charlotte Lake",
+      "description": "A tranquil lake surrounded by forest, serving as Matheran’s main water source and a peaceful picnic spot.",
+      "distance": "1 km from main market",
+      "icon": "fa-solid fa-water",
+      "value": "Scenic lake and birdwatching"
+    },
+    {
+      "image": "/images/nature/matheran/panorama.jpg",
+      "title": "Panorama Point",
+      "description": "Offers a breathtaking 360° view of the Western Ghats, especially during sunrise.",
+      "distance": "4 km trek from market",
+      "icon": "fa-solid fa-mountain",
+      "value": "Sunrise and valley views"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill forest, Matheran doesn’t have marine life but hosts diverse flora and fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Wildlife",
+        "description": "Home to bonnet macaques, Malabar giant squirrels, and various bird species."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Rich in evergreen species, creepers, and medicinal plants."
+      }
+    ],
+    "conclusion": [
+      "The biodiversity here makes it an important ecological hotspot of Maharashtra.",
+      "Ideal for eco-tourism and nature photography."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Neral (21 km away).",
+        "Mini toy train connects Neral to Matheran."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Cars allowed only up to Dasturi Naka (2 km below Matheran).",
+        "Shared taxis available from Neral station."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/matheran/gallery1.jpg",
+      "thumb": "/images/nature/matheran/thumb1.jpg",
+      "alt": "Matheran valley view"
+    },
+    {
+      "src": "/images/nature/matheran/gallery2.jpg",
+      "thumb": "/images/nature/matheran/thumb2.jpg",
+      "alt": "Charlotte Lake Matheran"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Visit during winter or post-monsoon for best views and pleasant weather."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Avoid heavy monsoon if you dislike leeches or slippery trails."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear comfortable footwear as all sightseeing involves walking."
+    }
+  ]
+}

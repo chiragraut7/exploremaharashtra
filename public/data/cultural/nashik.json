@@ -1,0 +1,147 @@
+{
+  "id": "cultural-nashik",
+  "title": "Nashik – Spiritual & Cultural Heritage City",
+  "subtitle": "Where divine traditions meet modern culture on the banks of Godavari",
+  "bannerImage": "/images/cultural/nashik/banner.jpg",
+  "color": "#b7791f",
+  "overview": [
+    "Nashik, one of the holiest cities in India, beautifully blends spirituality, heritage, and contemporary culture. Known for hosting the world-famous Kumbh Mela every twelve years, the city resonates with devotion and ancient legends from the Ramayana.",
+    "Apart from its religious essence, Nashik is also the ‘Wine Capital of India,’ home to picturesque vineyards and cultural festivals that celebrate art, tradition, and local life."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-om",
+      "title": "Spiritual Significance",
+      "description": "One of the four sacred Kumbh Mela locations and associated with Lord Rama’s exile years."
+    },
+    {
+      "icon": "fas fa-wine-glass-alt",
+      "title": "Cultural Fusion",
+      "description": "Home to traditional temples and modern vineyards like Sula, showcasing a unique blend of old and new."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/nashik/geography.jpg",
+    "intro": "Situated on the banks of the Godavari River, Nashik lies in the northwestern region of Maharashtra surrounded by hills and lush greenery.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Region", "value": "North Maharashtra" },
+      { "icon": "fas fa-city", "label": "District", "value": "Nashik" },
+      { "icon": "fas fa-mountain", "label": "Elevation", "value": "560 meters" },
+      { "icon": "fas fa-water", "label": "River", "value": "Godavari" },
+      { "icon": "fas fa-sun", "label": "Best Season", "value": "November to February" }
+    ],
+    "climate": {
+      "description": "Nashik has a moderate climate, pleasant in winter and refreshing during monsoon with scenic beauty all around.",
+      "seasons": [
+        { "icon": "fas fa-sun", "text": "Summer: 22°C–38°C" },
+        { "icon": "fas fa-cloud-rain", "text": "Monsoon & Winter: 12°C–30°C" }
+      ]
+    },
+    "conclusion": "The calm riverbanks, historic temples, and artistic vibes make Nashik a cultural retreat for all ages."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Kumbh Mela Experience",
+      "description": "Participate in the holy dip at the Godavari during the grand Kumbh Mela festival.",
+      "info": ["Held every 12 years.", "Witness millions of devotees and sadhus in a spiritual gathering."]
+    },
+    {
+      "icon": "fas fa-wine-bottle",
+      "title": "Wine Tourism",
+      "description": "Visit Sula and other vineyards to enjoy Maharashtra’s finest wines.",
+      "info": ["SulaFest in February combines wine, food, and music.", "Guided vineyard tours available."]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Temple Trail",
+      "description": "Walk through Panchavati and visit sacred temples linked to Lord Rama’s exile.",
+      "info": ["Explore Kalaram Temple, Sita Gufa, and Kapaleshwar Temple.", "Best explored early morning."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/nashik/kalaram.jpg",
+      "title": "Kalaram Temple",
+      "description": "A revered temple dedicated to Lord Rama, known for its black stone idol.",
+      "distance": "City Center",
+      "icon": "fas fa-temple",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/cultural/nashik/sula.jpg",
+      "title": "Sula Vineyards",
+      "description": "India’s most famous vineyard offering wine tasting and scenic views.",
+      "distance": "10 km from city center",
+      "icon": "fas fa-wine-glass",
+      "value": "Cultural Modernity"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Nashik is not coastal, its ‘cultural life’ flows like the Godavari—nurturing devotion, music, and celebration.",
+    "items": [
+      {
+        "icon": "fas fa-gopuram",
+        "title": "Religious Harmony",
+        "description": "Temples, ghats, and rituals preserve the age-old spiritual energy of Maharashtra."
+      },
+      {
+        "icon": "fas fa-glass-cheers",
+        "title": "Modern Celebration",
+        "description": "Cultural events and wine festivals add vibrancy to Nashik’s spiritual landscape."
+      }
+    ],
+    "conclusion": [
+      "Nashik stands as a rare city where devotion and modernity coexist gracefully.",
+      "It’s both a pilgrim’s paradise and a cultural traveller’s delight."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Nashik Road Railway Station connects to Mumbai, Pune, and Delhi.", "Local transport available to city landmarks."]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["Located on NH60 (Pune-Nashik Highway) and NH160 (Mumbai-Nashik).", "Frequent MSRTC and private buses from major cities."]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": ["Nearest airport: Ozar Airport (20 km).", "Alternatively, Mumbai International Airport (170 km)."]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/nashik/gallery1.jpg",
+      "thumb": "/images/cultural/nashik/gallery1-thumb.jpg",
+      "alt": "Godavari River Ghats"
+    },
+    {
+      "src": "/images/cultural/nashik/gallery2.jpg",
+      "thumb": "/images/cultural/nashik/gallery2-thumb.jpg",
+      "alt": "Sula Vineyards"
+    },
+    {
+      "src": "/images/cultural/nashik/gallery3.jpg",
+      "thumb": "/images/cultural/nashik/gallery3-thumb.jpg",
+      "alt": "Kalaram Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Plan visits around February for SulaFest or during Kumbh Mela for a grand experience."
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Avoid peak summer afternoons for outdoor temple visits."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "description": "Book stays near Panchavati or vineyards based on your interest."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "32",
+  "title": "Yogeshwari Devi Temple",
+  "subtitle": "Ambajogai, Beed District",
+  "bannerImage": "/images/religious/yogeshwari-ambajogai/banner.jpg",
+  "color": "#f8e5cc",
+  "coordinates": { "lat": 18.7303, "lng": 76.4464 },
+  "overview": [
+    "The Yogeshwari Devi Temple in Ambajogai is one of Maharashtra’s most revered Shakti Peethas and an important pilgrimage site in the Marathwada region. The temple is dedicated to Goddess Yogeshwari, considered a manifestation of Goddess Parvati and worshipped as the divine mother of the universe.",
+    "The temple holds immense cultural, historical, and spiritual importance, with its origins dating back to the 8th century. It is said to have been built during the Yadava dynasty and stands as a symbol of the region’s deep-rooted devotion."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-church",
+      "title": "Ancient Shakti Peetha",
+      "description": "One of Maharashtra’s oldest temples dedicated to Goddess Yogeshwari, revered as an incarnation of Adi Shakti."
+    },
+    {
+      "icon": "fas fa-scroll",
+      "title": "Historical Significance",
+      "description": "The temple’s inscriptions, architecture, and sculptures date back over 1,200 years, reflecting Yadava and Hemadpanti styles."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/yogeshwari-ambajogai/geography.jpg",
+    "intro": "Ambajogai is located in the Beed district of Maharashtra and is often referred to as the 'Cultural Capital of Marathwada.' The town is surrounded by small hills and has numerous ancient temples and caves nearby.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Beed"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "639 meters"
+      },
+      {
+        "icon": "fas fa-location-arrow",
+        "label": "Coordinates",
+        "value": "18.7333° N, 76.3833° E"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Temple Architecture",
+        "value": "Hemadpanti style with basalt stone carvings"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Major City",
+        "value": "Latur (50 km)"
+      }
+    ],
+    "climate": {
+      "description": "Ambajogai experiences a semi-arid climate with pleasant winters, warm summers, and moderate monsoons.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Ideal time to visit: October to February."
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "The temple surroundings become lush during monsoon."
+        }
+      ]
+    },
+    "conclusion": "Ambajogai’s rich cultural heritage and tranquil surroundings make it a peaceful yet spiritually charged pilgrimage destination."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Seek blessings of Goddess Yogeshwari and attend the morning and evening aarti ceremonies.",
+      "info": ["Temple opens at 5 AM and closes by 10 PM.", "Aarti timings: 6 AM and 7 PM."]
+    },
+    {
+      "icon": "fas fa-female",
+      "title": "Navratri Festival",
+      "description": "Experience the grandeur of Navratri celebrations with nine days of devotion, music, and cultural performances.",
+      "info": ["Huge crowds gather during Navratri for special poojas.", "Garba and Dandiya nights held in temple premises."]
+    },
+    {
+      "icon": "fas fa-torii-gate",
+      "title": "Explore Ancient Temples",
+      "description": "Visit nearby shrines like Kholeshwar Temple, Kundalika Temple, and ancient rock-cut caves.",
+      "info": ["All within 2 km radius of Yogeshwari Temple.", "Best explored on foot or via local auto."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/yogeshwari-ambajogai/kundalika.jpg",
+      "title": "Kundalika Temple",
+      "description": "A nearby ancient temple carved in stone, dedicated to Lord Shiva, showcasing exquisite Hemadpanti architecture.",
+      "distance": "1.5 km",
+      "icon": "fas fa-landmark",
+      "value": "Ambajogai"
+    },
+    {
+      "image": "/images/religious/yogeshwari-ambajogai/akhil-cave.jpg",
+      "title": "Akhil Cave Temples",
+      "description": "A series of rock-cut caves believed to have been meditation sites of saints in ancient times.",
+      "distance": "2 km",
+      "icon": "fas fa-mountain",
+      "value": "Ambajogai"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though far from the sea, Ambajogai’s natural charm lies in its cultural and spiritual depth rather than aquatic surroundings.",
+    "items": [
+      {
+        "icon": "fas fa-leaf",
+        "title": "Cultural Ecology",
+        "description": "The temple town flourishes around devotion and art, nurturing a spiritual ecosystem."
+      },
+      {
+        "icon": "fas fa-om",
+        "title": "Spiritual Resonance",
+        "description": "The rhythmic chanting and temple bells create an atmosphere of divine energy."
+      }
+    ],
+    "conclusion": [
+      "Ambajogai stands as a sacred confluence of spirituality, architecture, and devotion.",
+      "A must-visit for devotees of Shakti and admirers of ancient Indian heritage."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Nearest railway station: Latur Road (20 km)", "Regular trains connect to Pune, Aurangabad, and Hyderabad."]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["Well connected via Beed-Latur highway.", "MSRTC buses and private cabs available from Latur and Beed."]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": ["Nearest airport: Latur Airport (60 km)", "Aurangabad Airport (210 km) serves as a major alternative."]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/yogeshwari-ambajogai/gallery1.jpg",
+      "thumb": "/images/religious/yogeshwari-ambajogai/gallery1-thumb.jpg",
+      "alt": "Yogeshwari Devi Temple"
+    },
+    {
+      "src": "/images/religious/yogeshwari-ambajogai/gallery2.jpg",
+      "thumb": "/images/religious/yogeshwari-ambajogai/gallery2-thumb.jpg",
+      "alt": "Temple Entrance"
+    },
+    {
+      "src": "/images/religious/yogeshwari-ambajogai/gallery3.jpg",
+      "thumb": "/images/religious/yogeshwari-ambajogai/gallery3-thumb.jpg",
+      "alt": "Temple Architecture"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Visit during Navratri for vibrant celebrations and special rituals."
+    },
+    {
+      "icon": "fas fa-map-signs",
+      "description": "Hire a local guide to explore nearby caves and temples."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "description": "Book accommodation in Ambajogai or Latur in advance, especially during festivals."
+    }
+  ]
+}

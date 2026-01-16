@@ -1,0 +1,106 @@
+{
+  "id": "06",
+  "title": "Arnala Beach",
+  "subtitle": "A Serene Coastal Escape in Vasai–Virar",
+  "bannerImage": "/assets/images/beaches/arnala-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/06/bannerImg.jpg",
+  "color": "#007B84",
+  "overview": [
+    "Arnala Beach, located in the Palghar district near Virar, is one of the most popular beaches in North Konkan. Known for its black sand and gentle waves, Arnala offers a perfect blend of serenity and local coastal culture.",
+    "The nearby Arnala Fort adds historical significance to this location, while its proximity to Mumbai makes it a convenient weekend getaway. The beach is lined with coconut trees, food stalls, and small resorts catering to tourists.",
+    "Evenings at Arnala Beach are lively, filled with local vendors, horse rides, and breathtaking sunsets over the Arabian Sea."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Black Sand Shoreline",
+      "description": "Unique black sand and calm waters ideal for evening walks and beach activities."
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historic Arnala Fort",
+      "description": "A small island fort accessible by boat, offering great views and history dating back to the Portuguese era."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/06/info3.jpg",
+    "intro": "Arnala Beach lies around 8 km from Virar and is part of the Vasai-Virar coastal belt in Palghar district.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Palghar District, Maharashtra" },
+      { "icon": "fa-solid fa-water", "label": "Coastline", "value": "Arabian Sea" },
+      { "icon": "fa-solid fa-tree", "label": "Surroundings", "value": "Coconut plantations and coastal villages" }
+    ],
+    "climate": {
+      "description": "The beach enjoys a humid tropical climate, with heavy rains during the monsoon and pleasant evenings during winter.",
+      "seasons": [
+        { "icon": "fa-solid fa-sun", "text": "Best Season: October to March" },
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon: June to September" }
+      ]
+    },
+    "conclusion": "Its proximity to the railway line and peaceful shoreline makes it a top choice for day-trippers from Mumbai."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Arnala Fort Visit",
+      "description": "Take a short boat ride from the shore to explore the historic Arnala Fort.",
+      "info": ["Boat services run based on tides", "Explore the old watchtowers and water tanks"]
+    },
+    {
+      "icon": "fa-solid fa-horse",
+      "title": "Beach Rides",
+      "description": "Enjoy traditional horse and camel rides along the sandy stretches of the beach.",
+      "info": ["Popular during weekends", "Managed by local operators"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/06/img3.jpg",
+      "title": "Arnala Fort",
+      "description": "An island fort featuring strong bastions and a history involving Portuguese and Maratha forces.",
+      "distance": "1 km (by boat)",
+      "icon": "fas fa-chess-rook",
+      "value": "Island Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "The waters around Arnala are rich in local fish species and support a thriving traditional fishing community.",
+    "items": [
+      { "icon": "fa-solid fa-fish", "title": "Local Catch", "description": "Common sightings of Pomfret, Bombay Duck, and Mackerel at the local landing sites." },
+      { "icon": "fa-solid fa-water", "title": "Tidal Life", "description": "Shellfish, crabs, and small mollusks can often be spotted near the rocks." }
+    ],
+    "conclusion": [
+      "Fishing remains an integral part of local livelihood.",
+      "Visitors are encouraged to keep the beach clean and respect marine life."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Virar (Western Railway line)",
+        "Auto rickshaws and buses available from Virar to Arnala Beach (approx. 8 km)"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located about 70 km from Mumbai via NH48 and Virar–Arnala Road",
+        "Regular buses available from Vasai and Virar"
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/assets/images/beaches/06/img2.jpg", "thumb": "/assets/images/beaches/06/img2.jpg", "alt": "Arnala Beach sunset view" },
+    { "src": "/assets/images/beaches/06/img3.jpg", "thumb": "/assets/images/beaches/06/img3.jpg", "alt": "Arnala Fort boat ride" }
+  ],
+  "bookingTips": [
+    { "icon": "fa-solid fa-hotel", "description": "Resorts are available for day-use and overnight stays; book in advance for weekends." }
+  ],
+  "coordinates": {
+    "lat": 19.4528,
+    "lng": 72.7389
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "id": "40",
+  "title": "Mahalaxmi Temple, Mumbai",
+  "subtitle": "A Sacred Seaside Shrine Dedicated to Goddess Mahalaxmi",
+  "bannerImage": "/images/religious/test/mahalaxmi-mumbai/banner.jpg",
+  "color": "#b22222",
+  "coordinates": { "lat": 18.9772, "lng": 72.8067 },
+  "overview": [
+    "The Mahalaxmi Temple in Mumbai is one of the city’s most visited and spiritually significant temples, dedicated to Goddess Mahalaxmi — the Goddess of Wealth, Prosperity, and Fortune.",
+    "Built in the 18th century by Dhakji Dadaji, the temple stands gracefully on the seashore at Breach Candy, overlooking the Arabian Sea.",
+    "It is believed that worshipping Goddess Mahalaxmi here brings wealth and prosperity, and devotees from across India visit during the grand Navratri festival.",
+    "The temple complex also houses idols of Mahakali and Mahasaraswati, completing the holy trinity of feminine divine power."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Iconic Seaside Shrine",
+      "description": "Located beside the Arabian Sea, offering divine tranquility with ocean views."
+    },
+    {
+      "icon": "fa-solid fa-om",
+      "title": "Tri-Devi Worship",
+      "description": "Dedicated to Goddess Mahalaxmi, Mahakali, and Mahasaraswati — symbolizing power, knowledge, and wealth."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/mahalaxmi-mumbai/geography.jpg",
+    "intro": "The temple sits on the western coast of Mumbai, near the Mahalaxmi area, overlooking the sea.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Mahalaxmi, Bhulabhai Desai Road, Mumbai, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Nearby Landmark",
+        "value": "Breach Candy and Haji Ali Dargah"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Architecture Style",
+        "value": "South Indian Dravidian temple design"
+      },
+      {
+        "icon": "fa-solid fa-person-praying",
+        "label": "Presiding Deity",
+        "value": "Goddess Mahalaxmi"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Major Festival",
+        "value": "Navratri and Diwali"
+      }
+    ],
+    "climate": {
+      "description": "Mumbai has a tropical climate with warm temperatures year-round and heavy monsoon rains from June to September.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Avoid monsoon months for better accessibility and outdoor visits."
+        }
+      ]
+    },
+    "conclusion": "The temple’s coastal setting and historic aura make it a divine landmark amidst Mumbai’s bustling urban life."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan and Offerings",
+      "description": "Devotees offer lotus flowers, coconuts, and sweets to Goddess Mahalaxmi for blessings of prosperity.",
+      "info": [
+        "Morning and evening aarti are spiritually uplifting experiences.",
+        "Queue management is smooth even during festive rush."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-music",
+      "title": "Navratri Celebrations",
+      "description": "During Navratri, the temple is beautifully decorated with lights and flowers, attracting thousands of devotees.",
+      "info": [
+        "Special pujas and cultural events are held daily.",
+        "Shobha Yatras and devotional songs fill the atmosphere."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Seaside Serenity",
+      "description": "The temple overlooks the Arabian Sea, offering a tranquil environment for meditation and reflection.",
+      "info": [
+        "Sunset views from the temple steps are mesmerizing.",
+        "Photography of the temple exterior is permitted."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/mahalaxmi-mumbai/attraction1.jpg",
+      "title": "Haji Ali Dargah",
+      "description": "An iconic mosque and tomb located on an islet off the coast, symbolizing Mumbai’s secular spirit.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-mosque",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/religious/test/mahalaxmi-mumbai/attraction2.jpg",
+      "title": "Worli Sea Face",
+      "description": "A popular promenade offering stunning views of the Bandra-Worli Sea Link.",
+      "distance": "3 km",
+      "icon": "fa-solid fa-water",
+      "value": "Scenic Promenade"
+    },
+    {
+      "image": "/images/religious/test/mahalaxmi-mumbai/attraction3.jpg",
+      "title": "Nehru Planetarium",
+      "description": "An educational and fun destination dedicated to astronomy and space science.",
+      "distance": "2 km",
+      "icon": "fa-solid fa-star",
+      "value": "Cultural Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being located along the Arabian Sea, the area around Mahalaxmi Temple offers glimpses of coastal ecology and marine activity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Coastal Marine Life",
+        "description": "Fishing boats and seagulls are common sights along the nearby shores."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Sea Breeze and Flora",
+        "description": "The surrounding area is often filled with the scent of sea air and tropical vegetation."
+      }
+    ],
+    "conclusion": [
+      "The Arabian Sea adds a calm and refreshing backdrop to the temple’s divine atmosphere.",
+      "It enhances the spiritual energy of the location, especially during sunrise and sunset."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Mahalaxmi Railway Station (0.5 km).",
+        "Well connected to Western Railway suburban lines."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "The temple is easily accessible by BEST buses, taxis, and private cars.",
+        "Located near key city roads like Annie Besant Road and Bhulabhai Desai Road."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Chhatrapati Shivaji Maharaj International Airport (18 km).",
+        "Cabs and metro connections are available from the airport."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/mahalaxmi-mumbai/1.jpg",
+      "thumb": "/images/religious/test/mahalaxmi-mumbai/thumb1.jpg",
+      "alt": "Mahalaxmi Temple view from the entrance"
+    },
+    {
+      "src": "/images/religious/test/mahalaxmi-mumbai/2.jpg",
+      "thumb": "/images/religious/test/mahalaxmi-mumbai/thumb2.jpg",
+      "alt": "Devotees offering prayers during Navratri"
+    },
+    {
+      "src": "/images/religious/test/mahalaxmi-mumbai/3.jpg",
+      "thumb": "/images/religious/test/mahalaxmi-mumbai/thumb3.jpg",
+      "alt": "Seaside view near Mahalaxmi Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Stay in nearby hotels or guesthouses in Mahalaxmi or Worli for convenience."
+    },
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Visit early morning or late evening to avoid crowds and enjoy the peaceful atmosphere."
+    },
+    {
+      "icon": "fa-solid fa-gift",
+      "description": "Shops near the temple sell idols, garlands, and religious souvenirs."
+    }
+  ]
+}

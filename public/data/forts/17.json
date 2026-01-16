@@ -1,0 +1,156 @@
+{
+  "id": "17",
+  "title": "Sindhudurg Fort",
+  "subtitle": "The Impregnable Sea Fortress of the Konkan Coast",
+  "bannerImage": "/images/forts/sindhudurg/sindhudurg-banner.jpg",
+  "color": "#005b96",
+  "overview": [
+    "Sindhudurg Fort, located on the scenic Malvan coast, is one of Maharashtra’s most iconic sea forts. Built by Chhatrapati Shivaji Maharaj in the 17th century, the fort stands proudly on an island surrounded by the Arabian Sea.",
+    "Designed to safeguard the Maratha Empire’s western coastline from foreign invaders, the fort covers 48 acres. It remains a masterpiece of naval military architecture, featuring massive walls and the world's only temple dedicated to Shivaji Maharaj."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Shivaji Maharaj Temple",
+      "description": "Contains the rare and only temple where Chhatrapati Shivaji Maharaj is worshipped as a deity."
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Naval Defense",
+      "description": "Built using over 4,000 mounds of iron to lead the foundations, making the walls resistant to fierce sea waves."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/sindhudurg/gallery1.jpg",
+    "intro": "Located on the Kurte island in the Malvan region of Sindhudurg district, the fort is completely surrounded by the Arabian Sea.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Malvan, Sindhudurg, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Area", "value": "48 Acres" },
+      { "icon": "fa-solid fa-ruler-combined", "label": "Wall Height", "value": "9 Meters (30 feet)" },
+      { "icon": "fa-solid fa-landmark", "label": "Built By", "value": "Chhatrapati Shivaji Maharaj" },
+      { "icon": "fa-solid fa-clock", "label": "Best Time to Visit", "value": "October to March" }
+    ],
+    "climate": {
+      "description": "The Malvan coast features a tropical climate with high humidity. Monsoons are intense, making the fort inaccessible during peak rainy months.",
+      "seasons": [
+        { "icon": "fa-solid fa-sun", "text": "Best season: Winter (Nov–Feb) for calm boat rides." },
+        { "icon": "fa-solid fa-cloud-showers-heavy", "text": "Closed during Monsoon (Jun–Sep) due to rough sea conditions." }
+      ]
+    },
+    "conclusion": "The fort's strategic island location provided the Marathas a dominant view of the naval routes along the Western Ghats."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Boat Expedition",
+      "description": "Access the fort via a scenic boat ride from the Malvan jetty, navigating through the turquoise coastal waters.",
+      "info": [
+        "Boat services depend strictly on tide and weather.",
+        "Tickets are available at the Malvan Jetty."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Historical Walkthrough",
+      "description": "Explore the massive bastions, the hand and foot impressions of Shivaji Maharaj, and the hidden entrances.",
+      "info": [
+        "Carry water as the walk around the perimeter is extensive.",
+        "Hire a guide to see the 'hidden' main entrance."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-mask-snorkel",
+      "title": "Water Sports",
+      "description": "Engage in scuba diving and snorkeling in the nearby Tarkarli and Malvan waters to see vibrant coral reefs.",
+      "info": [
+        "Sindhudurg is one of the few places in India with scuba-friendly waters.",
+        "Best enjoyed in early morning for high visibility."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/sindhudurg/gallery2.jpg",
+      "title": "Shiv Rajeshwar Temple",
+      "description": "Built by Shivaji Maharaj's son, Rajaram, it commemorates the legacy of the Great Maratha King.",
+      "distance": "Within fort complex",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/forts/sindhudurg/gallery3.jpg",
+      "title": "Tarkarli Beach",
+      "description": "A pristine white-sand beach known for its backwaters and watersports located very close to Malvan.",
+      "distance": "6 km",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Scenic Beach Destination"
+    }
+  ],
+  "marineLife": {
+    "intro": "The waters surrounding Sindhudurg Fort are part of a protected marine zone, home to diverse aquatic species and coral formations.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish-fins",
+        "title": "Coral Reefs",
+        "description": "Fringing reefs around the fort host colorful fish, sea anemones, and sponges."
+      },
+      {
+        "icon": "fa-solid fa-feather",
+        "title": "Coastal Avifauna",
+        "description": "Spot seagulls, terns, and plovers that inhabit the rocky outcrops of the fort walls."
+      }
+    ],
+    "conclusion": [
+      "The rocky seabed creates a perfect natural habitat for marine biodiversity.",
+      "Considered a top destination for underwater exploration in Maharashtra."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Approximately 530 km from Mumbai via NH66.",
+        "Regular state transport and private luxury buses run to Malvan."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail & Air",
+      "details": [
+        "Nearest railway station: Kudal (30 km).",
+        "Nearest airport: Chipi Airport / Sindhudurg Airport (12 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/sindhudurg/gallery1.jpg",
+      "thumb": "/images/forts/sindhudurg/gallery1.jpg",
+      "alt": "Aerial view of Sindhudurg Island Fort"
+    },
+    {
+      "src": "/images/forts/sindhudurg/gallery4.jpg",
+      "thumb": "/images/forts/sindhudurg/gallery4.jpg",
+      "alt": "Sunset over the Arabian Sea from the bastions"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-cloud-sun",
+      "description": "Check local weather forecasts as boat services are suspended during high winds."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear sturdy footwear; the fort paths are made of rough laterite stone."
+    },
+    {
+      "icon": "fa-solid fa-bottle-water",
+      "description": "Carry eco-friendly water bottles and avoid littering this heritage site."
+    }
+  ],
+  "coordinates": {
+    "lat": 16.04279,
+    "lng": 73.4600899
+  }
+}

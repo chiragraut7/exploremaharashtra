@@ -1,0 +1,181 @@
+{
+  "id": "23",
+  "title": "Mayureshwar Temple, Morgaon",
+  "subtitle": "The first and foremost Ashtavinayak Temple of Lord Ganesha",
+  "bannerImage": "/images/religious/mayureshwar/banner.jpg",
+  "color": "#f5c542",
+  "coordinates": { "lat": 18.2758, "lng": 74.3167 },
+  "overview": [
+    "Mayureshwar Temple at Morgaon is considered the first among the eight revered Ashtavinayak temples dedicated to Lord Ganesha.",
+    "It is located on the banks of the Karha River in Pune district and is the starting and ending point of the Ashtavinayak pilgrimage.",
+    "The temple derives its name from the legend of Lord Ganesha defeating the demon Sindhu while riding a peacock (Mayura).",
+    "The temple’s black stone architecture, serene surroundings, and rich rituals attract thousands of devotees throughout the year."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Spiritual Significance",
+      "description": "Considered the most important Ashtavinayak shrine, symbolizing the beginning and completion of the pilgrimage."
+    },
+    {
+      "icon": "fa-solid fa-peace",
+      "title": "Sacred Idol",
+      "description": "The idol of Lord Ganesha has his trunk turned to the left and is worshiped as Mayureshwar — the remover of obstacles."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/mayureshwar/geo.jpg",
+    "intro": "Morgaon lies in Baramati Taluka of Pune district, about 65 km from Pune city. The area is part of the Deccan plateau and is surrounded by agricultural land and gentle hills.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Morgaon, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Around 550 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "River",
+        "value": "Karha River"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Pune",
+        "value": "65 km"
+      }
+    ],
+    "climate": {
+      "description": "Morgaon experiences a moderate climate with hot summers and pleasant winters, making it suitable for pilgrimage year-round.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer (March–June): Warm but manageable for morning visits."
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon & Winter (July–February): Ideal time to visit, with greenery and festive atmosphere."
+        }
+      ]
+    },
+    "conclusion": "The temple’s location amid lush fields and the gentle flow of the Karha River adds a divine tranquility to the pilgrimage experience."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Witness the sacred idol of Lord Mayureshwar and participate in daily rituals.",
+      "info": [
+        "Morning Aarti: 5:00 AM",
+        "Evening Aarti: 7:30 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-torii-gate",
+      "title": "Festivals & Celebrations",
+      "description": "Experience the grandeur of Ganesh Chaturthi and Maghi Chaturthi celebrated with devotion and traditional processions.",
+      "info": [
+        "Cultural programs and bhajans during festivals",
+        "Special prasad offerings and rituals"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Exploration & Photography",
+      "description": "Capture the intricate Peshwa-era architecture and the peaceful surroundings of the temple.",
+      "info": [
+        "Photography allowed in outer areas",
+        "Avoid taking photos near sanctum"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/mayureshwar/attraction1.jpg",
+      "title": "Mayureshwar Temple",
+      "description": "The main shrine dedicated to Lord Ganesha, showcasing beautiful carvings and a spiritual aura.",
+      "distance": "Within Morgaon",
+      "icon": "fa-solid fa-om",
+      "value": "Main attraction"
+    },
+    {
+      "image": "/images/religious/mayureshwar/attraction2.jpg",
+      "title": "Karha River Ghats",
+      "description": "Peaceful riverbanks ideal for meditation and performing holy rituals.",
+      "distance": "0.5 km",
+      "icon": "fa-solid fa-water",
+      "value": "Nearby spiritual site"
+    }
+  ],
+  "marineLife": {
+    "intro": "As an inland pilgrimage site, Morgaon does not feature marine life. Instead, it is rich in spiritual and cultural essence.",
+    "items": [
+      {
+        "icon": "fa-solid fa-ankh",
+        "title": "Spiritual Harmony",
+        "description": "The temple’s surroundings foster deep spiritual connection and inner peace."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Cultural Heritage",
+        "description": "The temple preserves ancient traditions, architecture, and rituals from the Peshwa era."
+      }
+    ],
+    "conclusion": [
+      "Visitors experience tranquility and devotion rather than natural marine diversity.",
+      "Morgaon stands as a cultural and spiritual landmark of Maharashtra."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune International Airport (70 km away).",
+        "Regular taxis and buses connect Pune to Morgaon."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail & Road",
+      "details": [
+        "Nearest Railway Stations: Baramati (18 km) and Pune Junction (65 km).",
+        "Regular MSRTC and private buses operate from Pune and Baramati."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/mayureshwar/1.jpg",
+      "thumb": "/images/religious/mayureshwar/thumb1.jpg",
+      "alt": "Mayureshwar Temple Front View"
+    },
+    {
+      "src": "/images/religious/mayureshwar/2.jpg",
+      "thumb": "/images/religious/mayureshwar/thumb2.jpg",
+      "alt": "Inner Sanctum and Carvings"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Visit early morning to avoid crowds, especially on weekends and Chaturthi days."
+    },
+    {
+      "icon": "fa-solid fa-hotel",
+      "description": "Stay at nearby dharmashalas or small lodges; book in advance during festivals."
+    },
+    {
+      "icon": "fa-solid fa-ban",
+      "description": "Footwear and photography inside sanctum are not permitted."
+    }
+  ]
+}

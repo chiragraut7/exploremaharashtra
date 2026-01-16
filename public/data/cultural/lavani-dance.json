@@ -1,0 +1,163 @@
+{
+  "id": "lavani-dance",
+  "title": "Lavani Dance",
+  "subtitle": "The Soulful Rhythm of Maharashtra",
+  "bannerImage": "/images/cultural/lavani-dance/banner.jpg",
+  "color": "#f6b2c2",
+  "overview": [
+    "Lavani is a traditional dance form of Maharashtra that beautifully combines grace, rhythm, and storytelling. It is performed to the beats of the dholki and expresses the emotions of love, valor, and devotion.",
+    "Originating during the Peshwa era, Lavani became a medium to inspire soldiers and celebrate life through music and dance."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-drum",
+      "title": "Energetic Beats",
+      "description": "Lavani is performed on the pulsating rhythm of the dholki, creating a captivating energy on stage."
+    },
+    {
+      "icon": "fas fa-theater-masks",
+      "title": "Expressive Art Form",
+      "description": "The dance uses facial expressions and storytelling to depict themes of romance, devotion, and folklore."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/lavani-dance/geography.jpg",
+    "intro": "Lavani originated in the cultural heartland of Maharashtra, especially in Pune, Solapur, and Kolhapur districts.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fas fa-city",
+        "label": "Popular Cities",
+        "value": "Pune, Solapur, Kolhapur"
+      },
+      {
+        "icon": "fas fa-calendar",
+        "label": "Era",
+        "value": "Peshwa Period (18th Century)"
+      },
+      {
+        "icon": "fas fa-music",
+        "label": "Musical Instrument",
+        "value": "Dholki"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Performers",
+        "value": "Lavani Artists and Tamasha Troupes"
+      }
+    ],
+    "climate": {
+      "description": "Most Lavani performances are held indoors or during cultural festivals across Maharashtra.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Performed during winter and festive months."
+        },
+        {
+          "icon": "fas fa-calendar-check",
+          "text": "Often featured in Maharashtra cultural programs year-round."
+        }
+      ]
+    },
+    "conclusion": "Lavani remains a living symbol of Maharashtra’s cultural identity, admired for its vibrancy and emotional depth."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-dance",
+      "title": "Live Performances",
+      "description": "Enjoy Lavani shows in cultural festivals like Pune Festival and Maharashtra Day celebrations.",
+      "info": ["Watch live at local theatres or cultural stages.", "Performed by renowned Lavani troupes."]
+    },
+    {
+      "icon": "fas fa-graduation-cap",
+      "title": "Workshops",
+      "description": "Participate in Lavani workshops that teach dance techniques and storytelling.",
+      "info": ["Conducted by folk art academies.", "Open for all age groups."]
+    },
+    {
+      "icon": "fas fa-video",
+      "title": "Film & Media",
+      "description": "Lavani has featured in Marathi cinema, promoting the art globally.",
+      "info": ["Popular movies: Pinjara, Natarang.", "Fusion Lavani gaining modern recognition."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/lavani-dance/attraction1.jpg",
+      "title": "Tamasha Performances",
+      "description": "Lavani often features in Tamasha — a rural folk theatre combining dance, music, and satire.",
+      "distance": "Cultural Circuits",
+      "icon": "fas fa-masks-theater",
+      "value": "Maharashtra-wide"
+    },
+    {
+      "image": "/images/cultural/lavani-dance/attraction2.jpg",
+      "title": "Lavani Competitions",
+      "description": "Annual competitions promote young artists preserving Lavani’s traditional charm.",
+      "distance": "Seasonal",
+      "icon": "fas fa-trophy",
+      "value": "State Events"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Lavani is not linked to marine life, it represents the cultural rhythm of Maharashtra’s inland traditions.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Cultural Emotion",
+        "description": "Reflects joy, sorrow, and devotion through dance and music."
+      },
+      {
+        "icon": "fas fa-drum",
+        "title": "Folk Harmony",
+        "description": "A living bridge between ancient Marathi poetry and performing arts."
+      }
+    ],
+    "conclusion": [
+      "Lavani unites people through rhythm and storytelling.",
+      "A must-experience cultural gem of Maharashtra."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["Easily accessible from Pune, Kolhapur, and Mumbai by road.", "Frequent buses to festival venues."]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Major performances happen in Pune and Kolhapur, both well connected by rail.", "Cabs available from nearby stations."]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/lavani-dance/gallery1.jpg",
+      "thumb": "/images/cultural/lavani-dance/thumb1.jpg",
+      "alt": "Lavani Performance"
+    },
+    {
+      "src": "/images/cultural/lavani-dance/gallery2.jpg",
+      "thumb": "/images/cultural/lavani-dance/thumb2.jpg",
+      "alt": "Lavani Artists in Traditional Attire"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Book early during festival seasons for live Lavani shows."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography may be restricted during performances — check venue rules."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Purchase tickets from official cultural event portals."
+    }
+  ]
+}

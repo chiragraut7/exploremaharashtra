@@ -1,0 +1,179 @@
+{
+  "id": "02",
+  "title": "Bhandardara",
+  "subtitle": "A Serene Hill Station by the Pravara River",
+  "bannerImage": "/images/nature/bhandardara/banner.jpg",
+  "color": "#4a90e2",
+  "coordinates": { "lat": 19.5447, "lng": 73.7706 },
+  "overview": [
+    "Bhandardara, located in the Ahmednagar district of Maharashtra, is a tranquil hill station nestled on the banks of the Pravara River. Surrounded by lush greenery, waterfalls, and misty mountains, it is often called the 'Hidden Paradise of Maharashtra.'",
+    "This charming retreat offers a mix of natural beauty, historical significance, and adventure activities, making it a perfect getaway for nature lovers and trekkers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-water",
+      "title": "Arthur Lake and Wilson Dam",
+      "description": "The picturesque Arthur Lake and the massive Wilson Dam are the heart of Bhandardara, offering scenic beauty and peaceful surroundings."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Gateway to Harishchandragad",
+      "description": "Bhandardara serves as the base for treks to the famous Harishchandragad Fort and Kalsubai Peak, the highest point in Maharashtra."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/bhandardara/geography.jpg",
+    "intro": "Located in the Sahyadri range, Bhandardara lies at an altitude of about 750 meters. It is surrounded by rugged hills, dense forests, and cascading waterfalls.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Ahmednagar District, Maharashtra, India"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "750 meters above sea level"
+      },
+      {
+        "icon": "fas fa-river",
+        "label": "River",
+        "value": "Pravara River"
+      },
+      {
+        "icon": "fas fa-cloud",
+        "label": "Average Rainfall",
+        "value": "3,000 mm annually (mostly during monsoon)"
+      },
+      {
+        "icon": "fas fa-route",
+        "label": "Nearest Town",
+        "value": "Igatpuri (45 km)"
+      }
+    ],
+    "climate": {
+      "description": "Bhandardara experiences pleasant weather throughout the year, with heavy rainfall during monsoon and cool winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June to September): Waterfalls in full glory and lush greenery everywhere."
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter (November to February): Ideal for camping, stargazing, and trekking."
+        }
+      ]
+    },
+    "conclusion": "The combination of lakes, waterfalls, and mountains makes Bhandardara a must-visit destination for anyone seeking natural serenity."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking and Camping",
+      "description": "Explore scenic trails leading to Kalsubai Peak and Harishchandragad while enjoying riverside camping under starry skies.",
+      "info": [
+        "Popular campsites near Arthur Lake.",
+        "Guided treks available for all skill levels."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture reflections of mountains in Arthur Lake and the beauty of Randha Falls.",
+      "info": [
+        "Sunrise and sunset views from the dam area are mesmerizing.",
+        "A paradise for astrophotography enthusiasts."
+      ]
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Waterfall Visits",
+      "description": "Visit the famous Randha and Umbrella Falls that come alive during monsoon.",
+      "info": [
+        "Umbrella Falls flows directly below Wilson Dam.",
+        "Best visited during July–September."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/bhandardara/arthur-lake.jpg",
+      "title": "Arthur Lake",
+      "description": "A calm lake formed by the Pravara River, perfect for boating and relaxation.",
+      "distance": "2 km",
+      "icon": "fas fa-water",
+      "value": "Best visited during sunrise and sunset."
+    },
+    {
+      "image": "/images/nature/bhandardara/randha-falls.jpg",
+      "title": "Randha Falls",
+      "description": "A spectacular 170-ft waterfall, one of the most beautiful in Maharashtra.",
+      "distance": "10 km",
+      "icon": "fas fa-tint",
+      "value": "Popular for monsoon photography."
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Bhandardara is a freshwater region, it supports a variety of aquatic and avian life.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Fish",
+        "description": "Species such as mahseer and catfish thrive in Arthur Lake and the Pravara River."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birdlife",
+        "description": "The region attracts kingfishers, herons, and migratory birds during winter."
+      }
+    ],
+    "conclusion": [
+      "Bhandardara’s balanced ecosystem supports rich biodiversity.",
+      "It is a haven for birdwatchers and eco-tourism enthusiasts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest station: Igatpuri (45 km) on the Mumbai–Nashik route.",
+        "Regular trains connect Igatpuri to major cities like Mumbai and Pune."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Well-connected via NH160 and NH61 from Mumbai (165 km) and Pune (180 km).",
+        "State transport and private buses available up to Shendi village."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/bhandardara/bhandardara1.jpg",
+      "thumb": "/images/nature/bhandardara/bhandardara1_thumb.jpg",
+      "alt": "Arthur Lake and Wilson Dam"
+    },
+    {
+      "src": "/images/nature/bhandardara/bhandardara2.jpg",
+      "thumb": "/images/nature/bhandardara/bhandardara2_thumb.jpg",
+      "alt": "Randha Waterfalls during Monsoon"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-info-circle",
+      "description": "Book campsites or homestays early during weekends and monsoon months."
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Carry sufficient fuel; petrol stations are limited near Shendi."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Maintain cleanliness and avoid plastic waste around the lakeside."
+    }
+  ]
+}

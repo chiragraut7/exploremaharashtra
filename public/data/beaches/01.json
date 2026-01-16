@@ -1,0 +1,259 @@
+{
+  "id": "01",
+  "title": "Alibaug Beach",
+  "subtitle": "A perfect blend of sun, sand, and historic charm near Mumbai",
+  "bannerImage": "/assets/images/beaches/alibaug-beach.jpg",
+  "insideBannerImage": "/assets/images/beaches/01/bannerimg.jpg",
+  "color": "#f25135",
+  "overview": [
+    "Alibaug Beach is one of the most popular coastal destinations in Maharashtra, located about 100 kilometers from Mumbai. It offers a wide sandy stretch, coconut groves, and a stunning view of the Arabian Sea.",
+    "This beach is also known for the iconic Kolaba Fort, which can be accessed during low tide by foot or horse cart. The area is famous for its scenic sunsets, beach sports, and local seafood cuisine.",
+    "Being close to Mumbai and accessible by road and ferry, Alibaug is a favored weekend getaway for families, friends, and solo travelers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-landmark",
+      "title": "Kolaba Fort",
+      "description": "A historic sea fort accessible during low tide from the beach."
+    },
+    {
+      "icon": "fas fa-sun",
+      "title": "Sunset Views",
+      "description": "Golden hour views over the Arabian Sea make Alibaug a romantic escape."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Beach Activities",
+      "description": "Horse cart rides, ATV biking, and parasailing along the beach."
+    },
+    {
+      "icon": "fas fa-ship",
+      "title": "Ferry Access",
+      "description": "Reach Alibaug via Mandwa Jetty and enjoy a scenic boat ride from Mumbai."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/01/info2.jpg",
+    "intro": "Alibaug lies in the Raigad district along the western coast of Maharashtra and features several beaches like Varsoli, Kihim, and Nagaon nearby.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 100 kilometers"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Palm trees, coconut groves, and tropical plants"
+      }
+    ],
+    "climate": {
+      "description": "Alibaug enjoys a humid tropical climate. The winters are pleasant and summers are warm with sea breeze.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: November to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "Alibaug is known for its strategic coastal geography, beautiful beaches, and accessibility from Mumbai."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-water",
+      "title": "Water Sports",
+      "description": "Engage in parasailing, jet skiing, and banana boat rides.",
+      "info": [
+        "Operated on Alibaug and Nagaon Beach",
+        "Seasonal availability"
+      ]
+    },
+    {
+      "icon": "fas fa-horse",
+      "title": "Horse Cart Rides",
+      "description": "Traditional horse-drawn cart rides along the shore.",
+      "info": [
+        "Popular among families",
+        "Best during evening time"
+      ]
+    },
+    {
+      "icon": "fas fa-ship",
+      "title": "Ferry Ride",
+      "description": "Take a ferry from Gateway of India to Mandwa Jetty and a short ride to Alibaug.",
+      "info": [
+        "Available year-round",
+        "Quicker than road travel"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/01/img1.jpg",
+      "title": "Kolaba Fort",
+      "description": "Sea fort with historical cannons and panoramic views.",
+      "distance": "1.5 km from beach",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic Island Fort"
+    },
+    {
+      "image": "/assets/images/beaches/01/img2.jpg",
+      "title": "Varsoli Beach",
+      "description": "A quieter beach ideal for swimming and relaxation.",
+      "distance": "2 km from Alibaug Beach",
+      "icon": "fas fa-water",
+      "value": "Quiet Beach"
+    },
+    {
+      "image": "/assets/images/beaches/01/img3.jpg",
+      "title": "Kihim Beach",
+      "description": "Famous for birdwatching, dense flora, and clean sand.",
+      "distance": "12 km north",
+      "icon": "fas fa-binoculars",
+      "value": "Nature Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Alibaug Beach supports moderate marine biodiversity due to its clean tidal shores and low industrial activity.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Crabs & Shells",
+        "description": "Commonly found across the wet sandy zones during low tide."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Bird Species",
+        "description": "Frequent sightings of sea gulls, herons, and other migratory birds."
+      },
+      {
+        "icon": "fas fa-water",
+        "title": "Tide Pools",
+        "description": "Small pools that trap marine organisms offer natural exploration zones."
+      }
+    ],
+    "conclusion": [
+      "Alibaug offers a simple marine experience perfect for kids and casual visitors.",
+      "Clean beaches help promote sustainable beach tourism and local fishing economy."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-ship",
+      "title": "By Ferry",
+      "details": [
+        "Regular ferries from Gateway of India to Mandwa Jetty",
+        "20-minute bus/cab ride to Alibaug from Mandwa"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Approx. 3-hour drive from Mumbai via NH66",
+        "Buses and private cabs are easily available"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Pen (30 km from Alibaug)",
+        "Connects to Mumbai and Konkan Railway routes"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/01/img1.jpg",
+      "thumb": "/assets/images/beaches/01/img1.jpg",
+      "alt": "Alibaug Beach Shoreline"
+    },
+    {
+      "src": "/assets/images/beaches/01/img2.jpg",
+      "thumb": "/assets/images/beaches/01/img2.jpg",
+      "alt": "Kolaba Fort Entrance"
+    },
+    {
+      "src": "/assets/images/beaches/01/img3.jpg",
+      "thumb": "/assets/images/beaches/01/img3.jpg",
+      "alt": "Sunset at Alibaug"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Radisson Blu Resort & Spa",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.5",
+      "url": "https://example.com/radisson-alibaug",
+      "facilities": [
+        "wifi",
+        "parking",
+        "ac",
+        "pool"
+      ]
+    },
+    {
+      "name": "Outpost@Alibaug",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.2",
+      "url": "https://example.com/outpost-alibaug",
+      "facilities": [
+        "wifi",
+        "ac",
+        "parking"
+      ]
+    },
+    {
+      "name": "SaffronStays Aranya",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.6",
+      "url": "https://example.com/saffron-alibaug",
+      "facilities": [
+        "wifi",
+        "ac",
+        "pool"
+      ]
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Plan 2 weeks ahead during weekends and holidays"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Best time: November to February"
+    },
+    {
+      "icon": "fas fa-ship",
+      "description": "Use ferry services to avoid road traffic"
+    },
+    {
+      "icon": "fas fa-gift",
+      "description": "Look for stay-meal combos with activities"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Parking can be limited during peak hours"
+    }
+  ],
+  "coordinates": {
+    "lat": 18.6423,
+    "lng": 72.8715
+  }
+}

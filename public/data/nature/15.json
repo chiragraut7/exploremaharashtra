@@ -1,0 +1,200 @@
+{
+  "id": "15",
+  "title": "Chandoli National Park",
+  "subtitle": "A Tranquil Haven of Wildlife and Nature in the Sahyadris",
+  "bannerImage": "/images/nature/chandoli/banner.jpg",
+  "color": "#2e7d32",
+  "coordinates": { "lat": 17.1558, "lng": 73.8569 },
+  "overview": [
+    "Chandoli National Park, located in the Sahyadri range of Maharashtra, is a lush green sanctuary known for its rich biodiversity, dense forests, and scenic landscapes. Spread across Sangli, Satara, Kolhapur, and Ratnagiri districts, it is part of the Sahyadri Tiger Reserve and offers a serene natural retreat for wildlife enthusiasts.",
+    "The park features grasslands, plateaus, rivers, and evergreen forests that support a wide variety of flora and fauna, including tigers, leopards, deer, and numerous bird species."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-paw",
+      "title": "Rich Wildlife Habitat",
+      "description": "Home to tigers, leopards, Indian bison, and over 120 bird species within the Sahyadri Tiger Reserve."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Scenic Sahyadri Terrain",
+      "description": "Rolling hills, waterfalls, and lush greenery create a picturesque setting perfect for eco-tourism and trekking."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/chandoli/geography.jpg",
+    "intro": "Chandoli National Park is located in the western part of Maharashtra within the Sahyadri range, forming part of the UNESCO-recognized Western Ghats.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Between Sangli, Kolhapur, Satara, and Ratnagiri districts, Maharashtra"
+      },
+      {
+        "icon": "fas fa-expand",
+        "label": "Area",
+        "value": "Approx. 317.67 sq km"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Altitude",
+        "value": "589 to 1044 meters above sea level"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Rivers",
+        "value": "Warna and Morna Rivers flow through the park"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Vegetation",
+        "value": "Moist deciduous and evergreen forests"
+      }
+    ],
+    "climate": {
+      "description": "Chandoli enjoys a pleasant climate year-round, with monsoons bringing lush greenery and winter offering cool, comfortable weather.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June to September): The park comes alive with vibrant greenery and flowing streams."
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter (October to February): Ideal time for wildlife viewing and nature exploration."
+        }
+      ]
+    },
+    "conclusion": "Nestled in the Sahyadris, Chandoli’s diverse geography supports rich ecosystems and forms a critical link in the Western Ghats biodiversity corridor."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Explore the park on guided jeep safaris and witness tigers, leopards, sambar deer, and other wildlife.",
+      "info": [
+        "Safaris are available during morning and evening hours.",
+        "Advance booking required through the Forest Department."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking & Nature Trails",
+      "description": "The park offers scenic trekking routes through forests and hilltops.",
+      "info": [
+        "Popular routes include Kandati and Zolambi trails.",
+        "Carry essentials like water, binoculars, and proper footwear."
+      ]
+    },
+    {
+      "icon": "fas fa-camera-retro",
+      "title": "Birdwatching & Photography",
+      "description": "Capture the beauty of nature and its inhabitants, including hornbills, flycatchers, and raptors.",
+      "info": [
+        "Early mornings are best for birdwatching.",
+        "Avoid flash photography near animals."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/chandoli/waterfall.jpg",
+      "title": "Chandoli Waterfalls",
+      "description": "Numerous waterfalls and streams dot the park, offering beautiful natural viewpoints.",
+      "distance": "Within park limits",
+      "icon": "fas fa-water",
+      "value": "Best viewed during monsoon"
+    },
+    {
+      "image": "/images/nature/chandoli/prachitgad.jpg",
+      "title": "Prachitgad Fort",
+      "description": "An ancient fort within the park that offers panoramic views of the Western Ghats.",
+      "distance": "Inside the park",
+      "icon": "fas fa-chess-rook",
+      "value": "Historical significance and scenic views"
+    },
+    {
+      "image": "/images/nature/chandoli/warna-dam.jpg",
+      "title": "Warna Dam",
+      "description": "A nearby attraction known for its tranquil backwaters and boating options.",
+      "distance": "18 km from Chandoli",
+      "icon": "fas fa-ship",
+      "value": "Great picnic and photography spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "As an inland forest reserve, Chandoli National Park does not feature marine life but supports a vibrant terrestrial ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-dog",
+        "title": "Wildlife",
+        "description": "Home to tigers, Indian bison (gaur), deer, leopards, sloth bears, and wild boars."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birds",
+        "description": "Over 120 bird species including Malabar grey hornbill, paradise flycatcher, and jungle fowl."
+      }
+    ],
+    "conclusion": [
+      "Chandoli is a crucial part of the Sahyadri Tiger Reserve network.",
+      "Its diverse fauna and rich forest cover make it a paradise for nature lovers and wildlife photographers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Railway Station: Sangli (75 km), Karad (85 km).",
+        "Regular trains connect from Mumbai, Pune, and Kolhapur."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Accessible via NH4 through Sangli or Karad.",
+        "State transport buses and private cabs available from nearby cities."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Kolhapur Airport (80 km), Pune Airport (200 km).",
+        "Taxis available from both airports."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/chandoli/chandoli1.jpg",
+      "thumb": "/images/nature/chandoli/chandoli1_thumb.jpg",
+      "alt": "Dense forest trails in Chandoli National Park"
+    },
+    {
+      "src": "/images/nature/chandoli/chandoli2.jpg",
+      "thumb": "/images/nature/chandoli/chandoli2_thumb.jpg",
+      "alt": "Wildlife spotting at Chandoli"
+    },
+    {
+      "src": "/images/nature/chandoli/chandoli3.jpg",
+      "thumb": "/images/nature/chandoli/chandoli3_thumb.jpg",
+      "alt": "Scenic views from Prachitgad Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Best time to visit is from November to February for comfortable weather and better wildlife sightings."
+    },
+    {
+      "icon": "fas fa-user-shield",
+      "description": "Follow all park regulations and stay within designated safari routes."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Carry reusable bottles and avoid littering to maintain the park’s pristine environment."
+    }
+  ]
+}

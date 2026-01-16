@@ -1,0 +1,181 @@
+{
+  "id": "24",
+  "title": "Siddhivinayak Temple, Siddhatek",
+  "subtitle": "The second Ashtavinayak shrine – Lord Ganesha as the Bestower of Success",
+  "bannerImage": "/images/religious/siddhatek/banner.jpg",
+  "color": "#e07b39",
+  "coordinates": { "lat": 18.3333, "lng": 74.8333 },
+  "overview": [
+    "Siddhivinayak Temple at Siddhatek, located on the banks of the Bhima River in Ahmednagar district, is the second temple in the Ashtavinayak pilgrimage circuit.",
+    "It is believed that Lord Vishnu performed penance here to seek Lord Ganesha’s blessings before battling demons, earning this temple its name — Siddhivinayak, the Giver of Success.",
+    "The temple is built from black stone, featuring a beautiful shikhara and a serene riverside setting that enhances its divinity.",
+    "Devotees undertake a *pradakshina* (circumambulation) of the hill, considered highly meritorious though it spans nearly 5 km."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Swayambhu Idol",
+      "description": "The idol of Lord Ganesha is self-manifested, facing north, symbolizing wisdom and prosperity."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Riverside Serenity",
+      "description": "Situated beside the Bhima River, the temple offers a tranquil atmosphere ideal for meditation and worship."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/siddhatek/geo.jpg",
+    "intro": "Siddhatek is a small village on the Bhima River in Karjat Taluka of Ahmednagar district. The temple sits atop a small hillock surrounded by natural beauty and calm waters.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Siddhatek, Karjat Taluka, Ahmednagar District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "River",
+        "value": "Bhima River"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "About 530 meters"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Pune",
+        "value": "110 km"
+      }
+    ],
+    "climate": {
+      "description": "Siddhatek has a semi-arid climate with hot summers and pleasant winters. The river breeze provides a soothing experience year-round.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer (March–June): 25°C – 40°C"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon & Winter (July–February): Ideal for pilgrimage with cool weather and greenery."
+        }
+      ]
+    },
+    "conclusion": "The temple’s hilltop position and river proximity make it both spiritually uplifting and scenically beautiful."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan & Aarti",
+      "description": "Participate in daily rituals and witness the serene early morning aarti of Lord Siddhivinayak.",
+      "info": [
+        "Morning Aarti: 5:30 AM",
+        "Evening Aarti: 7:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-walking",
+      "title": "Pradakshina Path",
+      "description": "Perform a sacred 5 km circumambulation around the hill, believed to fulfill wishes and remove obstacles.",
+      "info": [
+        "Takes about 1.5 to 2 hours to complete.",
+        "Best done early morning before sunrise."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "River Meditation",
+      "description": "Spend peaceful time near the Bhima River ghats, ideal for reflection and chanting.",
+      "info": [
+        "Avoid visiting during heavy rains.",
+        "Photography allowed near river banks."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/siddhatek/attraction1.jpg",
+      "title": "Bhima River Ghats",
+      "description": "Scenic and peaceful riverbanks where devotees perform rituals and meditate.",
+      "distance": "0.2 km",
+      "icon": "fa-solid fa-water",
+      "value": "Sacred River Spot"
+    },
+    {
+      "image": "/images/religious/siddhatek/attraction2.jpg",
+      "title": "Vishnu Temple Ruins",
+      "description": "Ancient remains of a temple dedicated to Lord Vishnu, linked with the Ganesha legend.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-landmark-dome",
+      "value": "Historical Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being an inland shrine, Siddhatek does not have marine life, but its surroundings brim with divine calmness and rural biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Spiritual Vibration",
+        "description": "The temple radiates peace and contentment, enhancing the devotee’s focus and devotion."
+      },
+      {
+        "icon": "fa-solid fa-seedling",
+        "title": "Natural Harmony",
+        "description": "The riverside and surrounding farmlands create a refreshing spiritual environment."
+      }
+    ],
+    "conclusion": [
+      "Siddhatek’s sanctity and natural charm make it an integral part of Maharashtra’s Ashtavinayak circuit.",
+      "The temple unites spirituality and simplicity in perfect balance."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune International Airport (120 km).",
+        "Taxis and buses available from Pune to Siddhatek."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail & Road",
+      "details": [
+        "Nearest Railway Station: Daund (18 km) and Ahmadnagar (100 km).",
+        "Regular buses from Pune, Daund, and Baramati operate to Siddhatek."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/siddhatek/1.jpg",
+      "thumb": "/images/religious/siddhatek/thumb1.jpg",
+      "alt": "Siddhivinayak Temple Front View"
+    },
+    {
+      "src": "/images/religious/siddhatek/2.jpg",
+      "thumb": "/images/religious/siddhatek/thumb2.jpg",
+      "alt": "Bhima River near Siddhatek Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Visit early morning or late evening to avoid heat during the 5 km pradakshina."
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "description": "Book your bus or cab from Pune in advance during festival weekends."
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "description": "Simple vegetarian meals and prasad are available near the temple complex."
+    }
+  ]
+}

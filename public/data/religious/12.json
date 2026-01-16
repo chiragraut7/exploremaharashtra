@@ -1,0 +1,128 @@
+{
+  "id": "12",
+  "title": "Shani Shingnapur Temple",
+  "subtitle": "The village protected by Lord Shani — where doors have no locks",
+  "bannerImage": "/images/religious/shani-shingnapur/banner.jpg",
+  "color": "#d9c6a5",
+  "coordinates": { "lat": 19.3989, "lng": 74.8219 },
+  "overview": [
+    "Shani Shingnapur, located in Ahmednagar district, is one of Maharashtra’s most mystical and unique religious sites. Dedicated to Lord Shani, the village is renowned for its faith-driven tradition where houses have no doors or locks — a testament to the villagers’ belief in Lord Shani’s protection.",
+    "The open-air temple houses a large black stone symbolizing Lord Shani. Devotees from across India visit here to seek blessings for justice, protection, and prosperity."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Open-Air Shrine",
+      "description": "The idol of Lord Shani is placed on an open platform under the sky, symbolizing divine vigilance."
+    },
+    {
+      "icon": "fas fa-unlock-alt",
+      "title": "No-Lock Tradition",
+      "description": "The entire village practices a unique tradition — homes and shops have no doors, trusting Lord Shani to guard them."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/shani-shingnapur/map.jpg",
+    "intro": "Situated near Ahmednagar, the temple is surrounded by serene rural landscapes and farmlands that reflect peace and devotion.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Location", "value": "Ahmednagar District, Maharashtra" },
+      { "icon": "fas fa-mountain", "label": "Elevation", "value": "558 m above sea level" },
+      { "icon": "fas fa-tree", "label": "Environment", "value": "Rural and peaceful" },
+      { "icon": "fas fa-water", "label": "Nearest River", "value": "Pravara River" },
+      { "icon": "fas fa-city", "label": "Nearest City", "value": "Ahmednagar (35 km)" }
+    ],
+    "climate": {
+      "description": "The area experiences moderate weather, with cool winters and warm summers.",
+      "seasons": [
+        { "icon": "fas fa-sun", "text": "Best visited between October and February" },
+        { "icon": "fas fa-cloud-sun", "text": "Avoid peak summer afternoons" }
+      ]
+    },
+    "conclusion": "The temple’s divine aura and the villagers’ unwavering faith make Shani Shingnapur one of the most spiritually charged destinations in Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan & Puja",
+      "description": "Seek blessings of Lord Shani by offering oil and performing prayers in the temple premises.",
+      "info": [
+        "Devotees offer sesame oil to the deity.",
+        "Women are allowed to enter the sanctum for darshan since 2016."
+      ]
+    },
+    {
+      "icon": "fas fa-book-bible",
+      "title": "Learn Shani Dev Legends",
+      "description": "Discover the mythological tales associated with Shani Dev’s power and justice.",
+      "info": [
+        "Guides are available for explaining stories and traditions.",
+        "Many nearby shops sell Shani-related books and idols."
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Village Exploration",
+      "description": "Experience the trust-filled life of villagers who live without locks or fear.",
+      "info": [
+        "Visit homes and shops showcasing devotion-based simplicity.",
+        "Interact with locals about their faith in Lord Shani’s justice."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/shani-shingnapur/ahmednagar-fort.jpg",
+      "title": "Ahmednagar Fort",
+      "description": "A historic Mughal-era fort located nearby — once a stronghold of Maratha history.",
+      "distance": "35 km",
+      "icon": "fas fa-landmark",
+      "value": "Historical Site"
+    },
+    {
+      "image": "/images/religious/shani-shingnapur/sai-baba-temple.jpg",
+      "title": "Shirdi Sai Baba Temple",
+      "description": "The world-famous shrine of Sai Baba is only an hour’s drive away from Shani Shingnapur.",
+      "distance": "70 km",
+      "icon": "fas fa-om",
+      "value": "Religious Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not a coastal location, the temple’s essence lies in its spiritual energy and the simplicity of rural life.",
+    "items": [
+      { "icon": "fas fa-hands-helping", "title": "Faith & Trust", "description": "A society built purely on trust and belief in divine justice." },
+      { "icon": "fas fa-heart", "title": "Devotion", "description": "Unwavering faith of villagers has made this site a symbol of spiritual purity." }
+    ],
+    "conclusion": [
+      "The open-air temple design symbolizes transparency and faith.",
+      "Visitors leave inspired by the harmony between spirituality and community life."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Well connected via Ahmednagar–Aurangabad Highway.",
+        "Regular buses and taxis operate from Shirdi and Ahmednagar."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Ahmednagar (35 km).",
+        "Frequent trains from Pune, Nashik, and Mumbai."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/religious/shani-shingnapur/1.jpg", "thumb": "/images/religious/shani-shingnapur/thumb1.jpg", "alt": "Shani Shingnapur Temple" },
+    { "src": "/images/religious/shani-shingnapur/2.jpg", "thumb": "/images/religious/shani-shingnapur/thumb2.jpg", "alt": "Open-Air Idol of Lord Shani" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-calendar-check", "description": "Visit on Saturdays or Amavasya for special rituals and large gatherings." },
+    { "icon": "fas fa-water-bottle", "description": "Carry water and an umbrella during summer visits." },
+    { "icon": "fas fa-user-shield", "description": "Dress modestly and follow temple traditions respectfully." }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "08",
+  "title": "Jejuri Khandoba Temple",
+  "subtitle": "The Golden Hill Shrine of Lord Khandoba — Guardian Deity of Maharashtra",
+  "bannerImage": "/images/religious/jejuri/banner.jpg",
+  "color": "#D97706",
+  "coordinates": { "lat": 18.2753, "lng": 74.1594 },
+  "overview": [
+    "Jejuri, located near Pune, is one of the most famous pilgrimage centers in Maharashtra dedicated to Lord Khandoba, an incarnation of Lord Shiva. The temple, perched atop a hill, offers panoramic views of the surrounding region and holds immense cultural and spiritual significance.",
+    "The site is known for its golden hues — the air filled with turmeric powder, symbolizing prosperity and auspiciousness. Pilgrims climb nearly 200 stone steps to reach the temple, chanting 'Yelkot Yelkot Jai Malhar!' along the way."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-church",
+      "title": "Khandoba Temple",
+      "description": "An ancient hilltop shrine devoted to Lord Khandoba, also known as Malhari Martand, worshipped as the guardian deity of Maharashtra."
+    },
+    {
+      "icon": "fas fa-sun",
+      "title": "Golden Turmeric Festival",
+      "description": "During Bhandara Festival, devotees throw turmeric in the air, turning the entire temple and hillside golden."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/jejuri/map.jpg",
+    "intro": "Jejuri is situated about 50 km southeast of Pune city, on the banks of the Karha River in Purandar taluka.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "718 meters"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Highway",
+        "value": "Pune–Pandharpur Highway (NH 965)"
+      },
+      {
+        "icon": "fas fa-plane",
+        "label": "Nearest Airport",
+        "value": "Pune Airport (52 km)"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Railway Station",
+        "value": "Jejuri Railway Station (2 km)"
+      }
+    ],
+    "climate": {
+      "description": "Jejuri has a semi-arid climate with hot summers and mild winters. The best time to visit is during winter and major festivals.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 30°C to 40°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: Moderate rainfall (July–September)"
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter: Pleasant weather (October–February)"
+        }
+      ]
+    },
+    "conclusion": "Jejuri is best visited during the Bhandara Festival or winter months when the temple’s spiritual ambiance is at its peak."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-walking",
+      "title": "Climb the Hill Steps",
+      "description": "Devotees climb nearly 200 steps to reach the temple, enjoying scenic views and chanting prayers.",
+      "info": [
+        "Steps lined with small shrines and idols.",
+        "Vendors sell turmeric, coconuts, and offerings along the way."
+      ]
+    },
+    {
+      "icon": "fas fa-sun",
+      "title": "Bhandara Festival",
+      "description": "Celebrate Jejuri’s iconic festival where clouds of turmeric turn the temple golden.",
+      "info": [
+        "Held annually in February–March.",
+        "Devotees from across Maharashtra participate."
+      ]
+    },
+    {
+      "icon": "fas fa-hand-holding-heart",
+      "title": "Khandoba Pooja",
+      "description": "Perform ritual offerings and witness traditional 'arti' ceremonies dedicated to Lord Khandoba.",
+      "info": [
+        "Offer turmeric, flowers, and jaggery to the deity.",
+        "Aarti timings: Morning 6 AM, Evening 7 PM."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/jejuri/temple.jpg",
+      "title": "Main Khandoba Temple",
+      "description": "A grand temple built with yellow basalt stone, featuring exquisite carvings and a tall Dipmal (lamp tower).",
+      "distance": "0 km",
+      "icon": "fas fa-place-of-worship",
+      "value": "Main Shrine"
+    },
+    {
+      "image": "/images/religious/jejuri/dipmal.jpg",
+      "title": "Deepmal (Lamp Tower)",
+      "description": "A magnificent stone lamp tower lit during special occasions, illuminating the entire temple hill.",
+      "distance": "0.2 km",
+      "icon": "fas fa-fire",
+      "value": "Historic Monument"
+    },
+    {
+      "image": "/images/religious/jejuri/karha.jpg",
+      "title": "Karha River Ghats",
+      "description": "Sacred riverbank where devotees perform ritual baths before visiting the temple.",
+      "distance": "1 km",
+      "icon": "fas fa-water",
+      "value": "Holy River"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Jejuri is not coastal, its spiritual aura symbolizes Maharashtra’s deep-rooted cultural and divine life force.",
+    "items": [
+      {
+        "icon": "fas fa-dove",
+        "title": "Faith and Devotion",
+        "description": "The temple celebrates devotion, discipline, and the victory of good over evil."
+      },
+      {
+        "icon": "fas fa-sun",
+        "title": "Symbol of Prosperity",
+        "description": "The turmeric used in rituals symbolizes purity, wealth, and spiritual energy."
+      }
+    ],
+    "conclusion": [
+      "Jejuri is a radiant symbol of faith and heritage.",
+      "Its golden aura continues to bless devotees across generations."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Regular buses and private vehicles connect Jejuri with Pune, Baramati, and Satara.",
+        "The temple hill is a short walk from Jejuri town."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail & Air",
+      "details": [
+        "Jejuri has its own railway station with direct trains from Pune and Daund.",
+        "Pune Airport is the nearest air connection, about 52 km away."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/jejuri/1.jpg",
+      "thumb": "/images/religious/jejuri/thumb1.jpg",
+      "alt": "Jejuri Khandoba Temple Hill"
+    },
+    {
+      "src": "/images/religious/jejuri/2.jpg",
+      "thumb": "/images/religious/jejuri/thumb2.jpg",
+      "alt": "Bhandara Festival Turmeric Clouds"
+    },
+    {
+      "src": "/images/religious/jejuri/3.jpg",
+      "thumb": "/images/religious/jejuri/thumb3.jpg",
+      "alt": "Devotees at Jejuri Steps"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Plan visits early in the morning to avoid crowds during weekends and festivals."
+    },
+    {
+      "icon": "fas fa-box-open",
+      "description": "Carry turmeric packets carefully — avoid opening during travel to prevent staining."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography is allowed outside the sanctum but avoid flash inside the temple."
+    }
+  ]
+}

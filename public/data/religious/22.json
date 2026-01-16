@@ -1,0 +1,181 @@
+{
+  "id": "22",
+  "title": "Baneshwar Temple, Nasrapur",
+  "subtitle": "An Ancient Shiva Temple Amidst Nature near Pune",
+  "bannerImage": "/images/religious/test/baneshwar-nasrapur/banner.jpg",
+  "color": "#4b6043",
+  "coordinates": { "lat": 18.2567, "lng": 73.8822 },
+  "overview": [
+    "Baneshwar Temple, located in Nasrapur near Pune, is a serene and historic temple dedicated to Lord Shiva.",
+    "Built in the 18th century by Peshwa Balaji Baji Rao, it is surrounded by lush greenery and a small forest reserve.",
+    "The temple lies beside a beautiful stream and small waterfalls, creating a tranquil setting ideal for meditation and family outings.",
+    "Baneshwar is both a spiritual and natural retreat, attracting devotees and nature lovers throughout the year."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-temple",
+      "title": "Historical Heritage",
+      "description": "Built by Peshwa Balaji Baji Rao, the temple architecture reflects traditional Hemadpanthi style."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Natural Sanctuary",
+      "description": "Surrounded by dense forest and a wildlife sanctuary, the area is a paradise for bird watchers and trekkers."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/baneshwar-nasrapur/geography.jpg",
+    "intro": "Baneshwar Temple lies in the Sahyadri foothills, about 35 km southwest of Pune, offering scenic beauty and a cool atmosphere.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Nasrapur, near Pune, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Approx. 700 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Architecture Style",
+        "value": "Hemadpanthi (Stone Masonry)"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Built By",
+        "value": "Peshwa Balaji Baji Rao (18th century)"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Surroundings",
+        "value": "Dense forest and wildlife sanctuary"
+      }
+    ],
+    "climate": {
+      "description": "The temple enjoys a moderate climate, cool throughout the year due to its forest surroundings.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-leaf",
+          "text": "Best time to visit: June to February"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon enhances the beauty with waterfalls and lush greenery."
+        }
+      ]
+    },
+    "conclusion": "Baneshwar’s unique combination of spiritual charm and natural splendor makes it a must-visit for both devotees and explorers."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hands-praying",
+      "title": "Temple Darshan & Worship",
+      "description": "Devotees visit daily for Shivlinga darshan and Abhishek rituals.",
+      "info": [
+        "Morning Aarti: 6:30 AM",
+        "Evening Aarti: 7:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Nature Walks & Picnics",
+      "description": "The surrounding forest trails and riverside spots make it ideal for family picnics.",
+      "info": [
+        "Easy walking trails available.",
+        "Ideal for bird watching and short treks."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Exploration",
+      "description": "A small scenic waterfall near the temple becomes active during monsoon.",
+      "info": [
+        "Safe for short visits.",
+        "Avoid slippery areas during heavy rainfall."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/baneshwar-nasrapur/attraction1.jpg",
+      "title": "Baneshwar Wildlife Sanctuary",
+      "description": "A small sanctuary rich in flora and fauna, managed by the Forest Department.",
+      "distance": "Adjacent to the temple",
+      "icon": "fa-solid fa-paw",
+      "value": "Wildlife spot"
+    },
+    {
+      "image": "/images/religious/test/baneshwar-nasrapur/attraction2.jpg",
+      "title": "Balaji Temple, Ketkawale",
+      "description": "A popular replica of Tirupati Balaji Temple located nearby on Pune–Bangalore Highway.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Religious attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although inland, Baneshwar’s surroundings are full of natural streams and small aquatic life.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Local Streams",
+        "description": "Freshwater fish and turtles are occasionally seen in the nearby river."
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "title": "Waterfall Habitat",
+        "description": "During monsoon, tiny crabs and aquatic insects thrive around the waterfall zone."
+      }
+    ],
+    "conclusion": [
+      "The temple’s location near natural water bodies adds to its serene charm.",
+      "Visitors can enjoy light nature exploration along with their spiritual visit."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Located on Pune–Bangalore Highway (NH48).",
+        "Take a right turn at Nasrapur village towards Baneshwar Temple (approx. 2 km inside)."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Bus",
+      "details": [
+        "Regular MSRTC buses available from Swargate, Pune, to Nasrapur.",
+        "Auto-rickshaws and local taxis available till the temple gate."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/baneshwar-nasrapur/1.jpg",
+      "thumb": "/images/religious/test/baneshwar-nasrapur/thumb1.jpg",
+      "alt": "Baneshwar Temple main entrance"
+    },
+    {
+      "src": "/images/religious/test/baneshwar-nasrapur/2.jpg",
+      "thumb": "/images/religious/test/baneshwar-nasrapur/thumb2.jpg",
+      "alt": "Baneshwar Waterfall near the temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-sun",
+      "description": "Visit early morning or evening for peaceful darshan and pleasant weather."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "description": "Carry eco-friendly items; avoid littering inside forest areas."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Photography allowed outside; avoid flash inside temple premises."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "18",
+  "title": "Radhanagari Wildlife Sanctuary",
+  "subtitle": "A Haven for the Mighty Indian Bison",
+  "bannerImage": "/images/nature/radhanagari/banner.jpg",
+  "color": "#1B5E20",
+  "coordinates": { "lat": 16.3683, "lng": 73.9317 },
+  "overview": [
+    "Radhanagari Wildlife Sanctuary, also known as Dajipur Sanctuary, is one of Maharashtra’s most scenic and biodiverse protected areas, nestled in the Sahyadri ranges of the Western Ghats.",
+    "Spread over 351 square kilometers in Kolhapur district, the sanctuary is famed for its population of the Indian Bison (Gaur), lush green forests, and picturesque landscapes.",
+    "Declared a World Heritage Site by UNESCO, it’s a paradise for nature lovers, photographers, and wildlife enthusiasts alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-paw",
+      "title": "Home of the Indian Bison",
+      "description": "Radhanagari is renowned for its large herds of Gaur, often spotted grazing in open meadows."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Radhanagari Dam and Lakes",
+      "description": "Picturesque water bodies like Radhanagari and Kalammawadi dams enhance the sanctuary’s charm."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/radhanagari/geography.jpg",
+    "intro": "Located about 55 km from Kolhapur, Radhanagari Wildlife Sanctuary lies in the Sahyadri hill ranges, characterized by dense forests, hills, and water reservoirs.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Kolhapur District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-arrows-alt",
+        "label": "Area",
+        "value": "351 sq. km"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "Approx. 600–900 meters"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Rivers",
+        "value": "Bhogawati and Tulshi"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Forest Type",
+        "value": "Tropical evergreen and moist deciduous"
+      }
+    ],
+    "climate": {
+      "description": "Radhanagari experiences a moderate climate with heavy rainfall during monsoon and pleasant winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon (June–September): Forests turn lush green; perfect for scenic beauty lovers."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (October–February): Ideal for wildlife safaris and birdwatching."
+        }
+      ]
+    },
+    "conclusion": "With its tranquil forests, thriving wildlife, and scenic lakes, Radhanagari offers a refreshing experience for every nature enthusiast."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Embark on jeep safaris to witness the sanctuary’s rich fauna including the majestic Indian Bison.",
+      "info": [
+        "Morning safaris offer better chances of animal sightings.",
+        "Permits are available at the forest office near Dajipur."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Nature Trails",
+      "description": "Explore scenic trails passing through dense forests, rivers, and hilly terrains.",
+      "info": [
+        "Popular trails lead to the Radhanagari Dam viewpoint and scenic ridges.",
+        "Best visited post-monsoon for clear visibility."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture mesmerizing landscapes, wildlife, and waterfalls within the sanctuary.",
+      "info": [
+        "Ideal lighting during early mornings and evenings.",
+        "Carry zoom lenses for bird and wildlife photography."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/radhanagari/dam.jpg",
+      "title": "Radhanagari Dam",
+      "description": "A scenic dam built across the Bhogawati River offering panoramic views and serene surroundings.",
+      "distance": "Within Sanctuary",
+      "icon": "fas fa-water",
+      "value": "Scenic Spot"
+    },
+    {
+      "image": "/images/nature/radhanagari/viewpoint.jpg",
+      "title": "Sunset Point",
+      "description": "A popular viewpoint overlooking the lush valleys and reservoir, offering stunning sunset views.",
+      "distance": "3 km from Dajipur Entrance",
+      "icon": "fas fa-mountain",
+      "value": "Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though the sanctuary is landlocked, its aquatic systems support a range of freshwater species.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Fish",
+        "description": "Numerous fish species inhabit the reservoirs and rivers within the sanctuary."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birdlife",
+        "description": "Home to hornbills, kingfishers, and herons that thrive near water bodies."
+      }
+    ],
+    "conclusion": [
+      "Radhanagari’s ecosystem sustains a rich web of aquatic and terrestrial life.",
+      "It is a key conservation site for Western Ghats biodiversity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": [
+        "Located 55 km from Kolhapur and 440 km from Mumbai.",
+        "Regular state transport buses and private taxis are available."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest station: Kolhapur (55 km).",
+        "From Kolhapur, local buses or jeeps are available to Dajipur gate."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/radhanagari/gallery1.jpg",
+      "thumb": "/images/nature/radhanagari/thumb1.jpg",
+      "alt": "Indian Bison in Radhanagari Sanctuary"
+    },
+    {
+      "src": "/images/nature/radhanagari/gallery2.jpg",
+      "thumb": "/images/nature/radhanagari/thumb2.jpg",
+      "alt": "Radhanagari Dam and forest landscape"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Best time to visit: October to February for pleasant weather and clear trails."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Obtain entry permits from the Dajipur forest office before the safari."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Avoid visiting during heavy monsoon due to slippery trails and leeches."
+    }
+  ]
+}

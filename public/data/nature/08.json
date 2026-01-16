@@ -1,0 +1,180 @@
+{
+  "id": "08",
+  "title": "Koyna Wildlife Sanctuary",
+  "subtitle": "A Biodiversity Gem in the Western Ghats",
+  "bannerImage": "/images/nature/koyna/banner.jpg",
+  "color": "#2E4600",
+  "coordinates": { "lat": 17.5500, "lng": 73.7167 },
+  "overview": [
+    "Koyna Wildlife Sanctuary is a UNESCO World Heritage Site nestled in the Satara district of Maharashtra. It forms an integral part of the Western Ghats and is known for its rich biodiversity, dense evergreen forests, and pristine water bodies.",
+    "Spread over 423 square kilometers, this sanctuary surrounds the famous Koyna Dam and Shivsagar Lake, making it one of the most scenic protected regions in Maharashtra.",
+    "The sanctuary provides shelter to tigers, leopards, sloth bears, Indian bison, and a variety of bird species, making it a paradise for wildlife lovers and eco-tourists."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-tree",
+      "title": "Lush Evergreen Forests",
+      "description": "The sanctuary is blanketed with dense evergreen and semi-evergreen forests that host rare flora."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Koyna Dam & Shivsagar Lake",
+      "description": "Massive backwaters and rolling hills offer breathtaking landscapes and boat rides."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/koyna/geography.jpg",
+    "intro": "Koyna Wildlife Sanctuary lies in the Satara district of Maharashtra, covering the catchment area of the Koyna Dam and forming part of the Sahyadri Tiger Reserve.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Satara District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-arrows-alt",
+        "label": "Area",
+        "value": "423 sq. km"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "600 to 1100 meters"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Main River",
+        "value": "Koyna River"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Forest Type",
+        "value": "Tropical evergreen and moist deciduous"
+      }
+    ],
+    "climate": {
+      "description": "The sanctuary enjoys a cool and humid climate throughout the year, with heavy monsoons and misty winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon (June–September): Lush greenery and full waterfalls."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (October–February): Pleasant weather and best time for wildlife viewing."
+        }
+      ]
+    },
+    "conclusion": "Surrounded by misty hills and clear backwaters, Koyna Wildlife Sanctuary offers an unmatched combination of tranquility and adventure."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Experience jeep safaris through the dense forests, spotting bison, deer, and exotic birds.",
+      "info": [
+        "Safaris usually start early morning or late afternoon.",
+        "Guides and permits available from the forest office at Koynanagar."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking & Nature Walks",
+      "description": "Explore trails through thick woods and enjoy panoramic views of the Sahyadris.",
+      "info": [
+        "Popular treks include Vasota Fort trail and Shivsagar Lake viewpoint.",
+        "Carry essentials and water for long routes."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Bird Watching & Photography",
+      "description": "Ideal for capturing Malabar whistling thrushes, hornbills, and misty forest landscapes.",
+      "info": [
+        "Use silent mode and camouflage clothing.",
+        "Best photography hours: dawn and dusk."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/koyna/vasota-fort.jpg",
+      "title": "Vasota Fort",
+      "description": "An ancient hill fort inside the sanctuary accessible via a thrilling forest and lake trek.",
+      "distance": "25 km from Koynanagar",
+      "icon": "fas fa-chess-rook",
+      "value": "Historical Trek Spot"
+    },
+    {
+      "image": "/images/nature/koyna/shivsagar-lake.jpg",
+      "title": "Shivsagar Lake",
+      "description": "A serene reservoir formed by Koyna Dam, perfect for boating and nature photography.",
+      "distance": "Within Sanctuary",
+      "icon": "fas fa-water",
+      "value": "Scenic Lake"
+    }
+  ],
+  "marineLife": {
+    "intro": "Koyna’s vast water bodies and rivers sustain a variety of freshwater aquatic life.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Fish",
+        "description": "Species like mahseer and catfish thrive in the Shivsagar backwaters."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Water Birds",
+        "description": "Kingfishers, herons, and ducks can be seen near the lakes and streams."
+      }
+    ],
+    "conclusion": [
+      "Koyna’s aquatic ecosystems play a crucial role in the region’s biodiversity.",
+      "Its blend of forest and water habitats make it a living paradise for wildlife."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": [
+        "Koyna is 75 km from Satara and 200 km from Pune.",
+        "Regular buses and private vehicles connect to Koynanagar."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Station: Karad (60 km).",
+        "Taxis and jeeps available to reach the sanctuary."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/koyna/gallery1.jpg",
+      "thumb": "/images/nature/koyna/thumb1.jpg",
+      "alt": "Misty Forest Trails at Koyna"
+    },
+    {
+      "src": "/images/nature/koyna/gallery2.jpg",
+      "thumb": "/images/nature/koyna/thumb2.jpg",
+      "alt": "Koyna Dam Backwaters and Green Hills"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Best time to visit: October to February for wildlife and treks."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Entry passes available at Koynanagar forest office."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Avoid monsoon travel due to heavy rains and leeches."
+    }
+  ]
+}

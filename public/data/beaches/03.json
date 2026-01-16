@@ -1,0 +1,278 @@
+{
+  "id": "03",
+  "title": "Kashid Beach",
+  "subtitle": "White sands, turquoise waters, and lush green hills",
+  "bannerImage": "/assets/images/beaches/kashid.jpg",
+  "insideBannerImage": "/assets/images/beaches/03/bannerImg.jpg",
+  "color": "#201f22",
+  "overview": [
+    "Kashid Beach is a picturesque seaside destination located along the Konkan coast between Alibaug and Murud in Maharashtra. Known for its white sand, clear blue waters, and green surroundings, it is a favorite weekend retreat for Mumbaikars and Punekars.",
+    "The beach is relatively clean and well-maintained, stretching over 3 kilometers. It's nestled between two hills and surrounded by casuarina groves, making it ideal for relaxing, photography, and gentle adventure activities.",
+    "Kashid offers the perfect blend of scenic beauty and accessibility, being just around 125 km from Mumbai. It attracts families, couples, and solo travelers looking for peace, fun, and nature."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "White Sand Beach",
+      "description": "Soft, white sands and turquoise waves give Kashid a tropical vibe."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Clean Waters",
+      "description": "Crystal-clear waters ideal for safe swimming and beach sports."
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Casuarina Groves",
+      "description": "Tree-lined beach provides natural shade and picnic spots."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Hill Views",
+      "description": "The beach is flanked by forested hills, adding to its secluded beauty."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/03/info3.jpg",
+    "intro": "Kashid Beach lies on the Arabian Sea coastline in the Raigad district, about 30 km from Alibaug.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 125 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Roha Railway Station (50 km)"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Casuarinas, coconut palms, and coastal shrubs"
+      }
+    ],
+    "climate": {
+      "description": "Kashid experiences tropical weather with warm summers, lush monsoons, and cool winters. Best season is post-monsoon through February.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: November to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "Its flat beach, scenic backdrop, and proximity to Alibaug make Kashid a perfect coastal retreat."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-jet-ski",
+      "title": "Water Sports",
+      "description": "Enjoy jet skiing, banana boat rides, and bumper rides along the beach.",
+      "info": [
+        "Available on weekends and holidays",
+        "Organized by licensed local vendors"
+      ]
+    },
+    {
+      "icon": "fas fa-campground",
+      "title": "Camping",
+      "description": "Experience beachside camping under the stars with bonfires and barbeques.",
+      "info": [
+        "Pre-book with local operators",
+        "Tents and meals provided in packages"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture panoramic views, sunsets, and lush casuarina backdrops.",
+      "info": [
+        "Early mornings and evenings are best",
+        "Drone shots permitted with permission"
+      ]
+    },
+    {
+      "icon": "fas fa-palette",
+      "title": "Sketching & Painting",
+      "description": "Ideal setting for artists to draw landscapes or seascapes.",
+      "info": [
+        "Beach benches and quiet zones available",
+        "Bring your own supplies"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/03/img1.jpg",
+      "title": "Murud-Janjira Fort",
+      "description": "A majestic sea fort located 20 km from Kashid, famous for its stronghold history and architecture.",
+      "distance": "20 km from Kashid",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic Sea Fort"
+    },
+    {
+      "image": "/assets/images/beaches/03/img2.jpg",
+      "title": "Phansad Wildlife Sanctuary",
+      "description": "Lush forest reserve home to leopards, birds, and medicinal plants.",
+      "distance": "12 km from Kashid",
+      "icon": "fas fa-leaf",
+      "value": "Nature Reserve"
+    },
+    {
+      "image": "/assets/images/beaches/03/img3.jpg",
+      "title": "Datta Mandir Hill",
+      "description": "Small hilltop temple offering panoramic views of the beach.",
+      "distance": "2 km from beach",
+      "icon": "fas fa-place-of-worship",
+      "value": "Viewpoint & Temple"
+    }
+  ],
+  "marineLife": {
+    "intro": "Kashid's clean, undeveloped shoreline allows a modest variety of intertidal life to thrive in tide pools and shallow zones.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Tide Pool Fish",
+        "description": "Small fish and marine insects visible in rocky edges during low tide."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Shore Birds",
+        "description": "Watch herons, kingfishers, and seagulls early in the morning."
+      },
+      {
+        "icon": "fas fa-seedling",
+        "title": "Seaweed & Shells",
+        "description": "Beach is lined with natural shells, coral pieces, and occasional seaweed mats."
+      }
+    ],
+    "conclusion": [
+      "Kashid's clean shoreline makes it a great spot for families and nature lovers.",
+      "While not ideal for diving, its calm environment supports small marine and bird life."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Chhatrapati Shivaji Maharaj International Airport, Mumbai (125 km)",
+        "Hire taxi or drive via Alibaug–Revdanda–Kashid coastal route"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Roha Railway Station (Konkan Line, 50 km away)",
+        "Local taxis or buses available"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Mumbai to Kashid: 125 km via NH66 and Alibaug road",
+        "Private cars, MSRTC buses, and local taxis available"
+      ]
+    },
+    {
+      "icon": "fas fa-ship",
+      "title": "By Ferry",
+      "details": [
+        "Ferries available from Gateway of India to Mandwa Jetty",
+        "From Mandwa, travel by road via Alibaug to Kashid"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/03/img1.jpg",
+      "thumb": "/assets/images/beaches/03/img1.jpg",
+      "alt": "Kashid Beach White Sands"
+    },
+    {
+      "src": "/assets/images/beaches/03/img2.jpg",
+      "thumb": "/assets/images/beaches/03/img2.jpg",
+      "alt": "Casuarina Tree Line"
+    },
+    {
+      "src": "/assets/images/beaches/03/img3.jpg",
+      "thumb": "/assets/images/beaches/03/img3.jpg",
+      "alt": "Sunset at Kashid"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Kashid Beach Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.2",
+      "url": "https://example.com/kashid-beach-resort",
+      "facilities": [
+        "wifi",
+        "parking",
+        "ac"
+      ]
+    },
+    {
+      "name": "Royal Villa Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.0",
+      "url": "https://example.com/royal-villa",
+      "facilities": [
+        "parking",
+        "pool"
+      ]
+    },
+    {
+      "name": "Casuarina Homestay",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.3",
+      "url": "https://example.com/casuarina-home",
+      "facilities": [
+        "wifi",
+        "ac"
+      ]
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Best to book 1–2 weeks ahead for weekends"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Peak Season: November to February"
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Monsoon Season: Avoid water activities due to high tides"
+    },
+    {
+      "icon": "fas fa-gift",
+      "description": "Combo Packages: Camping + Water Sports deals"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Transport: Hire cars or bikes from Alibaug for flexibility"
+    }
+  ],
+  "coordinates": {
+    "lat": 18.4419,
+    "lng": 72.9105
+  }
+}

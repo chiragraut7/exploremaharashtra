@@ -1,0 +1,65 @@
+{
+  "id": "harsh-home-stay",
+  "name": "Harsh Home Stay",
+  "beach": "kelwa",
+  "overview": "Harsh Home Stay provides clean, budget accommodation within walking distance of Kelwa Beach. Ideal for small groups or families seeking affordable comfort.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "Walking distance",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non‑AC Room",
+      "rate_for_two": "₹800–900 per person",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast",
+      "Tea/Coffee",
+      "Veg/Non‑Veg Lunch"
+    ],
+    "extended": []
+  },
+  "facilities": [
+    "Walking distance to beach",
+    "Attached bathrooms",
+    "Outdoor seating",
+    "Veg & Non‑Veg food",
+    "Budget‑friendly"
+  ],
+  "policies": {
+    "allowed": ["Families, married couples, & groups"],
+    "not_allowed": [
+      "Unmarried couples",
+      "Music after 10 PM",
+      "Smoking in rooms"
+    ],
+    "booking": ["Advance booking required (non‑refundable)"],
+    "liability": ["Guests responsible for damages; management not liable"]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": ["Verify rates before booking (rates change seasonally)"],
+  "contact": {
+    "host": "Harsh Home Stay Owner",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/harsh-home-stay-kelvabeach.php"
+  }
+}

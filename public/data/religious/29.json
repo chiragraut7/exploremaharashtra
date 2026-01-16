@@ -1,0 +1,194 @@
+{
+  "id": "29",
+  "title": "Vighneshwar Temple, Ozar",
+  "subtitle": "The Remover of Obstacles – One of the Sacred Ashtavinayak Temples",
+  "bannerImage": "/images/religious/vighneshwar-ozar/banner.jpg",
+  "color": "#f5a623",
+  "coordinates": { "lat": 19.1667, "lng": 74.0000 },
+  "overview": [
+    "The Vighneshwar Temple, located in the tranquil village of Ozar in Pune district, is one of the revered Ashtavinayak shrines dedicated to Lord Ganesha.",
+    "Lord Ganesha is worshipped here as 'Vighneshwar', the remover of all obstacles and harbinger of success and prosperity.",
+    "This temple was built during the Peshwa era and showcases exquisite stone carvings, sculpted pillars, and a golden dome (Kalash) that glows magnificently under the sun.",
+    "According to legend, Lord Ganesha defeated the demon Vighnasura here, who later became His devoted follower."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Architectural Beauty",
+      "description": "The temple’s stone structure with intricate carvings and a gold-plated dome reflects fine Peshwa-era artistry."
+    },
+    {
+      "icon": "fa-solid fa-feather-pointed",
+      "title": "Spiritual Importance",
+      "description": "Devotees believe that worshipping Vighneshwar removes all obstacles and grants peace and success in life."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/vighneshwar-ozar/geography.jpg",
+    "intro": "Ozar is located on the banks of the Kukadi River, surrounded by lush greenery and serene landscapes that enhance the spiritual aura of the temple.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ozar Village, Junnar Taluka, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Approximately 650 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "River",
+        "value": "Kukadi River"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Nearby City",
+        "value": "Junnar (10 km)"
+      }
+    ],
+    "climate": {
+      "description": "Ozar experiences a pleasant climate throughout the year, making it ideal for pilgrimage and sightseeing.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoons enhance the natural beauty of the surroundings."
+        }
+      ]
+    },
+    "conclusion": "The serene environment and the divine aura make Vighneshwar Temple a perfect blend of spirituality and nature."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Participate in daily rituals and the peaceful morning and evening Aartis dedicated to Lord Vighneshwar.",
+      "info": [
+        "Morning Aarti: 6:00 AM",
+        "Evening Aarti: 7:30 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-festival",
+      "title": "Ganesh Jayanti Celebration",
+      "description": "A grand festival celebrated with processions, devotional singing, and cultural events.",
+      "info": [
+        "Held in Magh month (January–February)",
+        "Thousands of devotees visit during this period"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-store",
+      "title": "Local Shopping",
+      "description": "Purchase traditional sweets like Modak and handicrafts from local shops near the temple.",
+      "info": [
+        "Shops open from early morning till night",
+        "Local artisans sell devotional souvenirs"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/vighneshwar-ozar/attraction1.jpg",
+      "title": "Lenyadri Caves",
+      "description": "A series of 30 ancient rock-cut Buddhist caves, also home to the Girijatmaj Temple, another Ashtavinayak shrine.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "15 km away"
+    },
+    {
+      "image": "/images/religious/vighneshwar-ozar/attraction2.jpg",
+      "title": "Shivneri Fort",
+      "description": "The birthplace of Chhatrapati Shivaji Maharaj, this historic fort is located close to Ozar.",
+      "distance": "20 km",
+      "icon": "fas fa-chess-rook",
+      "value": "20 km away"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not a coastal destination, Ozar’s surroundings are rich in flora and fauna that add to its serene charm.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Lush greenery and riverside vegetation enhance the spiritual ambiance of Ozar."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "The region is home to various bird species, making it peaceful for meditation and nature walks."
+      }
+    ],
+    "conclusion": [
+      "Ozar’s natural surroundings complement the divine presence of Lord Vighneshwar.",
+      "Pilgrims often spend quiet time near the Kukadi River for reflection."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train-subway",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Pune Junction (85 km)",
+        "Trains connect Pune to Mumbai, Nashik, and major Indian cities."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Ozar is well connected by road via Pune–Nashik Highway (NH 60).",
+        "State transport and private buses operate regularly from Pune and Junnar."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (90 km)",
+        "Cabs and buses are easily available from the airport."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/vighneshwar-ozar/1.jpg",
+      "thumb": "/images/religious/vighneshwar-ozar/thumb1.jpg",
+      "alt": "Vighneshwar Temple Front View"
+    },
+    {
+      "src": "/images/religious/vighneshwar-ozar/2.jpg",
+      "thumb": "/images/religious/vighneshwar-ozar/thumb2.jpg",
+      "alt": "Golden Dome of Vighneshwar Temple"
+    },
+    {
+      "src": "/images/religious/vighneshwar-ozar/3.jpg",
+      "thumb": "/images/religious/vighneshwar-ozar/thumb3.jpg",
+      "alt": "Temple Entrance at Ozar"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Book hotels or dharmashalas near the temple or in Junnar for convenient access."
+    },
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Plan your visit during weekdays to avoid heavy crowds during weekends or festivals."
+    },
+    {
+      "icon": "fa-solid fa-hand-holding-heart",
+      "description": "Respect temple traditions and avoid photography during Aarti and rituals."
+    }
+  ]
+}

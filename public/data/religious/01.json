@@ -1,0 +1,179 @@
+{
+  "id": "01",
+  "title": "Shirdi Sai Baba Temple",
+  "subtitle": "The Sacred Abode of Shri Sai Baba in Ahmednagar",
+  "bannerImage": "/images/religious/shirdi/banner.jpg",
+  "color": "#FFB300",
+  "coordinates": { "lat": 19.7663, "lng": 74.4764 },
+  "overview": [
+    "Shirdi, located in the Ahmednagar district of Maharashtra, is the sacred home of Shri Sai Baba, one of India’s most loved saints. The temple complex attracts millions of devotees from around the world every year, offering a deeply spiritual experience.",
+    "Sai Baba’s teachings of love, faith, and unity continue to inspire devotees across religions. The temple is managed by the Shirdi Sai Baba Sansthan Trust, ensuring a peaceful and well-organized pilgrimage for all visitors."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-church",
+      "title": "Samadhi Mandir",
+      "description": "The final resting place of Sai Baba, housing his marble idol and samadhi."
+    },
+    {
+      "icon": "fas fa-mosque",
+      "title": "Dwarkamai",
+      "description": "The mosque where Sai Baba spent most of his life blessing devotees."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/shirdi/map.jpg",
+    "intro": "Shirdi is a small town located in the Rahata taluka of Ahmednagar district, around 240 km from Mumbai and Pune.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Ahmednagar"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "504 meters"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Highway",
+        "value": "Ahmednagar–Manmad Highway"
+      },
+      {
+        "icon": "fas fa-plane",
+        "label": "Nearest Airport",
+        "value": "Shirdi International Airport (14 km)"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Railway Station",
+        "value": "Sainagar Shirdi"
+      }
+    ],
+    "climate": {
+      "description": "Shirdi experiences pleasant winters and hot summers, making October to February the best time to visit.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 28°C to 42°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: Moderate rainfall (July–September)"
+        }
+      ]
+    },
+    "conclusion": "Ideal for spiritual travelers, Shirdi remains serene yet vibrant throughout the year."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Attend Aarti Rituals",
+      "description": "Participate in daily Kakad, Madhyan, Dhoop, and Shej Aartis conducted at the Samadhi Mandir.",
+      "info": [
+        "Morning and evening aartis attract thousands of devotees.",
+        "Free prasad is distributed after every session."
+      ]
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Visit Lendi Baug",
+      "description": "A peaceful garden where Sai Baba used to meditate daily.",
+      "info": [
+        "Maintained beautifully with flowers and fountains.",
+        "Features the sacred Nanda Deep lamp."
+      ]
+    },
+    {
+      "icon": "fas fa-hand-holding-heart",
+      "title": "Charity Meals (Prasadalaya)",
+      "description": "Enjoy free vegetarian meals served daily to thousands of devotees.",
+      "info": [
+        "Managed by the Sai Sansthan Trust.",
+        "Open to visitors of all faiths."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/shirdi/dwarkamai.jpg",
+      "title": "Dwarkamai Mosque",
+      "description": "Historic mosque where Sai Baba lived, offering blessings to all.",
+      "distance": "0.2 km",
+      "icon": "fas fa-place-of-worship",
+      "value": "Spiritual Heritage"
+    },
+    {
+      "image": "/images/religious/shirdi/shanishingnapur.jpg",
+      "title": "Shani Shingnapur Temple",
+      "description": "Famous temple dedicated to Lord Shani, about 70 km away from Shirdi.",
+      "distance": "70 km",
+      "icon": "fas fa-sun",
+      "value": "Nearby Pilgrimage"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Shirdi doesn’t have marine life, its spiritual energy nourishes the soul of every devotee.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Faith and Devotion",
+        "description": "Sai Baba’s message emphasizes love and compassion across all religions."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Harmony and Peace",
+        "description": "The temple represents unity among people of all faiths."
+      }
+    ],
+    "conclusion": [
+      "Sai Baba’s teachings continue to inspire millions across the world.",
+      "Visiting Shirdi offers peace, faith, and a divine connection."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Shirdi International Airport (14 km) connects major cities like Mumbai, Delhi, and Hyderabad.",
+        "Taxis and buses are available from the airport to the temple complex."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train & Road",
+      "details": [
+        "Sainagar Shirdi Railway Station connects to Mumbai, Pune, and Manmad.",
+        "Regular buses and private cabs operate from Nashik (90 km), Pune (185 km), and Mumbai (240 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/shirdi/1.jpg",
+      "thumb": "/images/religious/shirdi/thumb1.jpg",
+      "alt": "Shirdi Sai Baba Temple Front View"
+    },
+    {
+      "src": "/images/religious/shirdi/2.jpg",
+      "thumb": "/images/religious/shirdi/thumb2.jpg",
+      "alt": "Devotees during Aarti"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Book darshan slots online in advance during festival seasons."
+    },
+    {
+      "icon": "fas fa-clock",
+      "description": "Morning hours are less crowded compared to weekends and holidays."
+    },
+    {
+      "icon": "fas fa-shoe-prints",
+      "description": "Footwear must be removed before entering the temple premises."
+    }
+  ]
+}

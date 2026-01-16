@@ -1,0 +1,179 @@
+{
+  "id": "25",
+  "title": "Tung Fort (Kathingad)",
+  "subtitle": "The Needle-Shaped Fort Overlooking Pawna Lake",
+  "bannerImage": "/images/forts/tung/tung-banner.jpg",
+  "color": "#6b4f3f",
+  "coordinates": { "lat": 18.6564, "lng": 73.4406 },
+  "overview": [
+    "Tung Fort, also known as Kathingad, is a stunning conical hill fort located near Pawna Lake in Maharashtra. Its name 'Kathingad' literally means 'difficult fort,' owing to its steep and narrow ascent.",
+    "Built during the Adil Shahi dynasty, Tung later came under the control of the Marathas. Despite its small size, it served as a watchtower fort due to its commanding view of the surrounding valleys and nearby forts like Lohagad, Tikona, and Visapur."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Conical Hill Fort",
+      "description": "The fort’s distinct needle-like shape makes it one of the most visually striking forts in the Sahyadris."
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Short But Steep Trek",
+      "description": "A quick but challenging trek offering mesmerizing views of Pawna Lake and the Western Ghats."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/tung/tung-map.jpg",
+    "intro": "Tung Fort stands at about 1,075 meters (3,526 feet) above sea level near Lonavala, surrounded by lush hills and Pawna Lake.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Pawna Lake, Lonavala, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "1,075 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Adil Shahi Dynasty"
+      },
+      {
+        "icon": "fa-solid fa-clock",
+        "label": "Best Time to Visit",
+        "value": "November to February"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Trek Duration",
+        "value": "1 to 1.5 hours one way"
+      }
+    ],
+    "climate": {
+      "description": "Tung experiences cool, breezy weather throughout most of the year. The monsoon months add misty beauty but make the trail slippery.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-sun",
+          "text": "Winter - Ideal season for trekking with clear skies and cool weather."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon - Lush greenery and foggy peaks enhance the scenic appeal."
+        }
+      ]
+    },
+    "conclusion": "Though small, Tung’s location and topography make it one of the most thrilling and picturesque treks near Lonavala."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "A short but steep trek from Tungwadi village leading to the top of the fort.",
+      "info": [
+        "Approx. 2 km climb with a sharp incline.",
+        "Carry enough water; limited shade on the route."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Views",
+      "description": "Capture 360° panoramic views of Pawna Lake, Tikona, and Lohagad from the top.",
+      "info": [
+        "Sunrise and sunset photography is spectacular.",
+        "Best spots near the main bastion and temple."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-church",
+      "title": "Temple Visit",
+      "description": "The small temple of Tung Devi atop the fort is revered by locals.",
+      "info": [
+        "The temple serves as a resting spot for trekkers.",
+        "A small water tank nearby provides cool spring water."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/tung/tung-top.jpg",
+      "title": "Fort Top and Bastion",
+      "description": "The fort top offers a breathtaking 360° view of the Sahyadris and surrounding forts.",
+      "distance": "At the summit",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Viewpoint"
+    },
+    {
+      "image": "/images/forts/tung/tung-temple.jpg",
+      "title": "Tung Devi Temple",
+      "description": "A small shrine dedicated to the local goddess Tung Devi stands on the peak.",
+      "distance": "Near the summit",
+      "icon": "fa-solid fa-church",
+      "value": "Religious Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Tung Fort has no marine life, but its natural surroundings are rich in flora and fauna typical of the Western Ghats.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Western Ghats Biodiversity",
+        "description": "Home to several bird species and monsoon flora that thrive around Pawna Lake."
+      },
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Pawna Lake Ecosystem",
+        "description": "The lake below supports freshwater fish and attracts migratory birds."
+      }
+    ],
+    "conclusion": [
+      "The eco-diversity around Tung enhances its charm for nature lovers and photographers.",
+      "Visitors can enjoy both adventure and serenity in one place."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Lonavala (30 km).",
+        "Regular trains from Mumbai and Pune connect to Lonavala."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Drive from Lonavala to Tungwadi village (base village).",
+        "From Tungwadi, trek up to the fort takes about 1 to 1.5 hours."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/tung/tung1.jpg",
+      "thumb": "/images/forts/tung/tung1-thumb.jpg",
+      "alt": "Tung Fort peak view"
+    },
+    {
+      "src": "/images/forts/tung/tung2.jpg",
+      "thumb": "/images/forts/tung/tung2-thumb.jpg",
+      "alt": "View of Pawna Lake from Tung Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Start the trek early morning to avoid afternoon heat."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear good trekking shoes as the climb is steep and narrow."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear during monsoon; trail becomes slippery."
+    }
+  ]
+}

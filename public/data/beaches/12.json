@@ -1,0 +1,260 @@
+{
+  "id": "12",
+  "title": "Harihareshwar Beach",
+  "subtitle": "Spiritual bliss, scenic shores, and sacred temples",
+  "bannerImage": "/assets/images/beaches/harihareshwar.jpg",
+  "insideBannerImage": "/assets/images/beaches/12/bannerImg.jpg",
+  "color": "#104644",
+  "coordinates": {
+    "lat": 17.9947,
+    "lng": 73.0189
+  },
+  "overview": [
+    "Harihareshwar Beach is a picturesque coastal town located in the Raigad district of Maharashtra, known for its spiritual significance and scenic beauty. The beach is flanked by hills, temples, and a tranquil shoreline.",
+    "Often referred to as the 'Kashi of the South', Harihareshwar is home to an ancient Shiva temple and attracts pilgrims as well as tourists seeking a serene escape.",
+    "The town offers a blend of heritage, nature, and calm waters, making it ideal for peaceful beach holidays and spiritual retreats."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-church",
+      "title": "Harihareshwar Temple",
+      "description": "A revered Shiva temple located near the beach, drawing pilgrims and spiritual seekers."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Tranquil Beach",
+      "description": "Clean and calm waters ideal for meditation, walks, and family picnics."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Harihareshwar Hills",
+      "description": "Surrounding hills offer scenic viewpoints and nature trails."
+    },
+    {
+      "icon": "fas fa-road",
+      "title": "Pradakshina Path",
+      "description": "A rocky coastal path that circumvents the temple—especially beautiful during low tide."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/12/info3.jpg",
+    "intro": "Harihareshwar is located on the Konkan coast in Raigad district, surrounded by the Sahyadri hills and the Arabian Sea.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 190 kilometers"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Terrain",
+        "value": "Coastal cliffs and rolling hills"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      }
+    ],
+    "climate": {
+      "description": "Harihareshwar has a tropical coastal climate with warm summers, lush monsoons, and pleasant winters. Best time to visit is between October and February.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: October to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "The unique combination of hills, sea, and sacred paths makes Harihareshwar a balanced destination for both nature and culture lovers."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-walking",
+      "title": "Pradakshina Walk",
+      "description": "Take the scenic circumambulatory path around the temple by the rocky coastline.",
+      "info": [
+        "Only accessible during low tide",
+        "Carry good footwear for the uneven terrain"
+      ],
+      "value": "Spiritual Trek"
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Beach Relaxation",
+      "description": "Relax on the soft sands and enjoy the calming waves of the beach.",
+      "info": [
+        "Best during mornings and sunsets",
+        "Avoid swimming during high tide"
+      ],
+      "value": "Leisure"
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture stunning views of sea, hills, and coastal life.",
+      "info": [
+        "Ideal spots: temple complex, beachside, and viewpoints",
+        "Best light during sunrise/sunset"
+      ],
+      "value": "Scenic Exploration"
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/12/img1.jpg",
+      "title": "Harihareshwar Temple",
+      "description": "A sacred temple dedicated to Lord Shiva with rich history and architectural beauty.",
+      "distance": "At the beach entrance",
+      "icon": "fas fa-pray"
+    },
+    {
+      "image": "/assets/images/beaches/12/img2.jpg",
+      "title": "Bagmandala",
+      "description": "A serene riverside village where Savitri River meets the sea—ideal for boating.",
+      "distance": "4 km from Harihareshwar",
+      "icon": "fas fa-water"
+    },
+    {
+      "image": "/assets/images/beaches/12/img3.jpg",
+      "title": "Diveagar Beach",
+      "description": "A nearby beach with golden sand and an ancient temple of Lord Ganesha.",
+      "distance": "35 km from Harihareshwar",
+      "icon": "fas fa-umbrella-beach"
+    }
+  ],
+  "marineLife": {
+    "intro": "Harihareshwar is more known for its spiritual and geographical beauty than deep-sea biodiversity, but still supports a modest coastal ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Tidal Pools",
+        "description": "Tiny marine life and algae thrive in natural rock pools along the pradakshina path."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Seaside Birds",
+        "description": "Regular sightings of gulls, egrets, and kingfishers add to the natural charm."
+      }
+    ],
+    "conclusion": [
+      "Harihareshwar offers a peaceful coastal environment enriched by clean shores and undisturbed marine patches.",
+      "While not suited for scuba diving, it's ideal for mindful nature observation and relaxation."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune (approx. 190 km), Mumbai (approx. 210 km)",
+        "Taxis and buses available from both cities"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Mangaon (65 km)",
+        "Regular trains from Mumbai and Pune to Mangaon",
+        "Take a bus or taxi to reach Harihareshwar"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "From Mumbai: 210 km via NH66 and Goregaon-Mandangad route",
+        "From Pune: 190 km via Tamhini Ghat and Mandangad"
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Bus",
+      "details": [
+        "MSRTC and private buses from Mumbai, Pune to Shrivardhan (16 km away)",
+        "Local transport to Harihareshwar available"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/12/img1.jpg",
+      "thumb": "/assets/images/beaches/12/img1.jpg",
+      "alt": "Harihareshwar Temple View"
+    },
+    {
+      "src": "/assets/images/beaches/12/img2.jpg",
+      "thumb": "/assets/images/beaches/12/img2.jpg",
+      "alt": "Pradakshina Path Cliff"
+    },
+    {
+      "src": "/assets/images/beaches/12/img3.jpg",
+      "thumb": "/assets/images/beaches/12/img3.jpg",
+      "alt": "Peaceful Beach"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "MTDC Resort Harihareshwar",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.2",
+      "url": "https://mtdc.co.in",
+      "facilities": [
+        "wifi",
+        "parking",
+        "ac"
+      ]
+    },
+    {
+      "name": "Tranquil Beach Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.0",
+      "url": "https://example.com/tranquil",
+      "facilities": [
+        "wifi",
+        "parking"
+      ]
+    },
+    {
+      "name": "Sahyadri Homestay",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.1",
+      "url": "https://example.com/sahyadri",
+      "facilities": [
+        "ac",
+        "parking"
+      ]
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Book 1–2 weeks early for weekend stays"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Best months: October to February"
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Avoid monsoon if planning pradakshina walk"
+    },
+    {
+      "icon": "fas fa-gift",
+      "description": "Temple darshan + homestay packages available"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Limited autos – prebook taxis for return travel"
+    }
+  ]
+}

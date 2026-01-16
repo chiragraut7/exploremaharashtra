@@ -1,0 +1,180 @@
+{
+  "id": "06",
+  "title": "Chikhaldara Wildlife Sanctuary",
+  "subtitle": "A Scenic Hill Retreat and Wildlife Haven in the Satpura Ranges",
+  "bannerImage": "/images/nature/chikhaldara/banner.jpg",
+  "color": "#2e7d32",
+  "coordinates": { "lat": 21.2100, "lng": 77.7200 },
+  "overview": [
+    "Chikhaldara, located in the Amravati district, is the only hill station in the Vidarbha region of Maharashtra. Nestled at an altitude of about 1118 meters, it offers a rare combination of lush forests, wildlife, waterfalls, and panoramic viewpoints.",
+    "The Chikhaldara Wildlife Sanctuary, part of the Melghat Tiger Reserve, is home to tigers, leopards, sloth bears, and a rich variety of flora and fauna.",
+    "With its cool climate, mist-covered valleys, and scenic spots, Chikhaldara is a must-visit nature and wildlife destination in Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-paw",
+      "title": "Wildlife Sanctuary",
+      "description": "Part of Melghat Tiger Reserve, offering sightings of tigers, deer, and numerous bird species."
+    },
+    {
+      "icon": "fa-solid fa-waterfall",
+      "title": "Scenic Waterfalls & Valleys",
+      "description": "Chikhaldara boasts cascading waterfalls, green valleys, and mesmerizing viewpoints."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/chikhaldara/geo.jpg",
+    "intro": "Situated in the Satpura mountain ranges, Chikhaldara is surrounded by dense forests and deep valleys, making it an ecological treasure.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Amravati District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Around 1118 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Forest Type",
+        "value": "Tropical Dry Deciduous Forest"
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "label": "Rainfall",
+        "value": "About 1600 mm annually"
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "label": "Flora",
+        "value": "Teak, bamboo, and medicinal herbs"
+      }
+    ],
+    "climate": {
+      "description": "Chikhaldara enjoys a cool climate throughout the year, ideal for both summer retreats and winter adventures.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (June to September): Forests turn lush green with mist and waterfalls."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (November to February): Pleasant weather for sightseeing and safaris."
+        }
+      ]
+    },
+    "conclusion": "With its rich biodiversity and serene landscape, Chikhaldara is a paradise for nature lovers and wildlife enthusiasts."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Explore the dense forests of Melghat Tiger Reserve and Chikhaldara Sanctuary.",
+      "info": [
+        "Jeep safaris and guided forest tours available",
+        "Spot tigers, sambars, gaurs, and various birds"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Nature Trails & Trekking",
+      "description": "Enjoy scenic treks through forested paths and viewpoints overlooking valleys.",
+      "info": [
+        "Gavilgad Fort trek is a popular route",
+        "Trail passes through rich forest terrain"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Visits",
+      "description": "Chikhaldara has several picturesque waterfalls formed by seasonal streams.",
+      "info": [
+        "Panchbol Point and Bakadari Waterfall are must-visits",
+        "Best seen during monsoon"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/chikhaldara/gavilgad.jpg",
+      "title": "Gavilgad Fort",
+      "description": "An ancient hill fort offering panoramic views of the surrounding forest and valleys.",
+      "distance": "3 km from Chikhaldara town",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic fort and scenic viewpoint"
+    },
+    {
+      "image": "/images/nature/chikhaldara/panchbol.jpg",
+      "title": "Panchbol Point",
+      "description": "A natural acoustic wonder where sounds echo five times — a fascinating natural phenomenon.",
+      "distance": "4 km from main town",
+      "icon": "fa-solid fa-soundcloud",
+      "value": "Echo point and viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Chikhaldara is a landlocked hill forest region, so it has no marine life. However, it’s rich in terrestrial biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Avian Diversity",
+        "description": "Over 200 species of birds, including peafowl, owls, and eagles."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Wild Animals",
+        "description": "Home to tigers, leopards, sloth bears, and Indian gaurs."
+      }
+    ],
+    "conclusion": [
+      "A key part of Maharashtra’s tiger conservation zone.",
+      "Perfect destination for eco-tourism and nature education."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Amravati (85 km away).",
+        "Regular trains from Nagpur and Mumbai."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Connected by road from Amravati and Paratwada.",
+        "State transport buses and private taxis available."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/chikhaldara/gallery1.jpg",
+      "thumb": "/images/nature/chikhaldara/thumb1.jpg",
+      "alt": "Chikhaldara valley view"
+    },
+    {
+      "src": "/images/nature/chikhaldara/gallery2.jpg",
+      "thumb": "/images/nature/chikhaldara/thumb2.jpg",
+      "alt": "Gavilgad Fort Chikhaldara"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Best time to visit is between October and March for wildlife sightings."
+    },
+    {
+      "icon": "fa-solid fa-binoculars",
+      "description": "Carry binoculars and cameras for birdwatching."
+    },
+    {
+      "icon": "fa-solid fa-jacket",
+      "description": "Nights can be chilly, so pack light woolens."
+    }
+  ]
+}

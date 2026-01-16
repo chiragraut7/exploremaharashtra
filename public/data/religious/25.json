@@ -1,0 +1,181 @@
+{
+  "id": "25",
+  "title": "Ballaleshwar Temple, Pali",
+  "subtitle": "The only Ashtavinayak temple named after its devotee Ballal",
+  "bannerImage": "/images/religious/pali/banner.jpg",
+  "color": "#f97316",
+  "coordinates": { "lat": 18.5364, "lng": 73.2208 },
+  "overview": [
+    "The Ballaleshwar Temple at Pali in Raigad district is one of the eight revered Ashtavinayak shrines dedicated to Lord Ganesha. It holds the unique distinction of being the only temple named after a devotee — Ballal.",
+    "According to legend, Lord Ganesha appeared before the young devotee Ballal to bless him for his unwavering faith and declared that He would henceforth be worshipped here as 'Ballaleshwar'.",
+    "Built in traditional Peshwa-era architecture, the temple faces east so that the morning sun's first rays illuminate the idol — symbolizing divine enlightenment and wisdom.",
+    "Nestled between the Amba River and scenic hills, Pali is a serene pilgrimage spot visited by thousands of devotees throughout the year."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-child-reaching",
+      "title": "Named After Devotee Ballal",
+      "description": "The only Ganesha temple named after a devotee, representing pure devotion and divine compassion."
+    },
+    {
+      "icon": "fa-solid fa-sun",
+      "title": "Sunlit Idol",
+      "description": "The temple is built in such a way that the first rays of the rising sun fall directly on Lord Ganesha’s idol."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/pali/map.jpg",
+    "intro": "Pali is located in the Sudhagad taluka of Raigad district, surrounded by lush hills and near the Amba River. The temple’s setting combines nature’s calm with spiritual grace.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "District",
+        "value": "Raigad"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "River",
+        "value": "Amba River"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Region",
+        "value": "Konkan"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Pune",
+        "value": "120 km"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Mumbai",
+        "value": "110 km"
+      }
+    ],
+    "climate": {
+      "description": "Pali experiences warm summers and mild winters. The monsoon brings lush greenery, making it an ideal season for temple visits.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 28°C – 36°C (March–June)"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon & Winter: 20°C – 30°C (July–February)"
+        }
+      ]
+    },
+    "conclusion": "Set amidst nature and history, Pali offers a divine and refreshing experience for pilgrims and travelers alike."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Offer prayers and witness the daily morning and evening aartis dedicated to Lord Ballaleshwar.",
+      "info": [
+        "Morning Aarti: 5:30 AM – Sunlight illuminates the idol.",
+        "Evening Aarti: 7:00 PM with devotional hymns."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Visit Dhundi Vinayak",
+      "description": "Pay homage to Dhundi Vinayak, the self-manifested Ganesha idol where Ballal’s devotion began.",
+      "info": [
+        "Located just behind the main temple.",
+        "Considered the starting point of the divine legend."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Explore Sudhagad Fort",
+      "description": "A short trek from Pali takes you to the historic Sudhagad Fort, offering stunning valley views.",
+      "info": [
+        "Perfect one-day trek for visitors.",
+        "Carry water and wear comfortable shoes."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/pali/attraction1.jpg",
+      "title": "Dhundi Vinayak Shrine",
+      "description": "A small temple behind the main shrine marking the spot where Ganesha appeared before Ballal.",
+      "distance": "0.1 km",
+      "icon": "fa-solid fa-hands-praying",
+      "value": "Sacred Shrine"
+    },
+    {
+      "image": "/images/religious/pali/attraction2.jpg",
+      "title": "Sudhagad Fort",
+      "description": "An ancient fort offering picturesque views of Raigad’s natural beauty and history.",
+      "distance": "8 km",
+      "icon": "fa-solid fa-mountain",
+      "value": "Trekking Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though inland, Pali thrives with spiritual energy and natural life surrounded by rivers and hills.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Natural Harmony",
+        "description": "The temple’s riverside setting enhances peace and mental tranquility."
+      },
+      {
+        "icon": "fa-solid fa-heart",
+        "title": "Devotional Aura",
+        "description": "Faith and devotion fill the air, inspiring spiritual connection among visitors."
+      }
+    ],
+    "conclusion": [
+      "Ballaleshwar Temple embodies pure devotion and divine blessings.",
+      "It remains one of the most spiritually charged places in the Ashtavinayak pilgrimage."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Mumbai International Airport (110 km).",
+        "Regular taxis and buses available to Pali from Mumbai and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail & Road",
+      "details": [
+        "Nearest Railway Station: Khopoli (13 km).",
+        "Pali is well connected by roads via Khopoli–Pali Highway from both Mumbai and Pune."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/pali/1.jpg",
+      "thumb": "/images/religious/pali/thumb1.jpg",
+      "alt": "Ballaleshwar Temple Pali Front View"
+    },
+    {
+      "src": "/images/religious/pali/2.jpg",
+      "thumb": "/images/religious/pali/thumb2.jpg",
+      "alt": "Devotees offering prayers at Ballaleshwar Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Visit early morning to witness the sunrise illuminating the idol."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Plan your travel from Mumbai or Pune for a one-day round trip."
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "description": "Free prasad and local vegetarian food are available near the temple."
+    }
+  ]
+}

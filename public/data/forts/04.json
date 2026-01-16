@@ -1,0 +1,200 @@
+{
+  "id": "04",
+  "title": "Sinhagad Fort",
+  "subtitle": "The Fort of the Brave Lion",
+  "bannerImage": "/images/forts/sinhagad/sinhagad-banner.jpg",
+  "color": "#6a3b12",
+  "coordinates": { "lat": 18.3663, "lng": 73.7554 },
+  "overview": [
+    "Sinhagad Fort, perched atop the Bhuleshwar range of the Sahyadri Mountains near Pune, is one of Maharashtra’s most famous hill forts. Its name translates to 'Fort of the Lion,' commemorating the bravery of Maratha warrior Tanaji Malusare.",
+    "The fort has witnessed many historical battles, the most notable being the 1670 Battle of Sinhagad, where Tanaji sacrificed his life to recapture the fort from the Mughals under the command of Shivaji Maharaj."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historic Battle Site",
+      "description": "The site of the legendary battle where Tanaji Malusare fought valiantly against the Mughals, earning the fort its name – Sinhagad, or 'Fort of the Lion'."
+    },
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Panoramic Views",
+      "description": "The fort offers spectacular views of the Sahyadri ranges, Khadakwasla Dam, and the surrounding valleys."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/sinhagad/sinhagad-geography.jpg",
+    "intro": "Sinhagad Fort stands about 35 km southwest of Pune at an elevation of around 4,300 feet. Its strategic location made it a vital defensive fortification during the Maratha Empire.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Kondhana Hill, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Altitude",
+        "value": "4,320 feet above sea level"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest City",
+        "value": "Pune (35 km)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Originally by Kalyani Chalukyas; later rebuilt by Marathas"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Construction Period",
+        "value": "Medieval Era (11th Century)"
+      }
+    ],
+    "climate": {
+      "description": "Sinhagad experiences a moderate climate with pleasant winters, hot summers, and misty monsoons.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February for clear skies and cool weather."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September) offers lush greenery but slippery trails."
+        }
+      ]
+    },
+    "conclusion": "Its elevated position and natural defenses made Sinhagad one of the most formidable forts guarding Pune."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking Adventure",
+      "description": "The short trek to Sinhagad from Atkarwadi base is popular among beginners and fitness enthusiasts.",
+      "info": [
+        "Trek duration: 45 minutes to 1 hour (one way).",
+        "Ideal for sunrise or early morning hikes."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sightseeing",
+      "description": "Capture panoramic views of Khadakwasla Dam, Panshet Lake, and the lush valleys from the fort top.",
+      "info": [
+        "Sunrise and sunset are the most photogenic moments.",
+        "Carry a wide-angle lens for sweeping landscape shots."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "title": "Local Cuisine",
+      "description": "Relish authentic Maharashtrian food served at local shacks atop the fort.",
+      "info": [
+        "Must-try: Pitla-Bhakri, Thecha, and Dahi.",
+        "Served by local villagers maintaining old traditions."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/sinhagad/tanaji-samadhi.jpg",
+      "title": "Tanaji Malusare Samadhi",
+      "description": "The memorial of the brave Maratha warrior Tanaji Malusare who laid down his life in the 1670 battle.",
+      "distance": "Fort interior",
+      "icon": "fa-solid fa-monument",
+      "value": "Historic Memorial"
+    },
+    {
+      "image": "/images/forts/sinhagad/kalyan-darwaza.jpg",
+      "title": "Kalyan Darwaza",
+      "description": "One of the main entrances of the fort, showcasing ancient Maratha architecture and defensive design.",
+      "distance": "Eastern entrance",
+      "icon": "fa-solid fa-door-open",
+      "value": "Architectural Heritage"
+    },
+    {
+      "image": "/images/forts/sinhagad/khadakwasla-view.jpg",
+      "title": "Khadakwasla Viewpoint",
+      "description": "A stunning viewpoint overlooking Khadakwasla Dam and the city of Pune in the distance.",
+      "distance": "Fort top",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Scenic Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Sinhagad Fort lies inland, surrounded by the Sahyadri range, hosting a rich ecosystem of flora and fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "The fort is covered with wild grasses, shrubs, and seasonal flowers during the monsoon."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Monkeys, peacocks, and several bird species like bulbuls and drongos are common here."
+      }
+    ],
+    "conclusion": [
+      "Sinhagad is a nature lover’s delight, combining history with ecology.",
+      "Early morning treks often reveal mist-covered peaks and bird calls."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Pune: 35 km via Sinhagad Road (approx. 1.5 hours).",
+        "Local jeeps and buses available from base villages."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Pune Junction (35 km).",
+        "From there, hire a cab or take a bus to Sinhagad base."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (45 km).",
+        "Cabs available from the airport to Sinhagad."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/sinhagad/gallery1.jpg",
+      "thumb": "/images/forts/sinhagad/thumb1.jpg",
+      "alt": "View of Sinhagad Fort from base village"
+    },
+    {
+      "src": "/images/forts/sinhagad/gallery2.jpg",
+      "thumb": "/images/forts/sinhagad/thumb2.jpg",
+      "alt": "Tanaji Malusare Samadhi at Sinhagad"
+    },
+    {
+      "src": "/images/forts/sinhagad/gallery3.jpg",
+      "thumb": "/images/forts/sinhagad/thumb3.jpg",
+      "alt": "Sunrise view from Sinhagad Fort top"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Start early in the morning to avoid crowd and heat."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry water and rain protection during monsoon treks."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear comfortable trekking shoes; paths can be rocky and steep."
+    }
+  ]
+}

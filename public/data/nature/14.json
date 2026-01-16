@@ -1,0 +1,187 @@
+{
+  "id": "14",
+  "title": "Navegaon National Park",
+  "subtitle": "A Serene Forest Haven in Gondia",
+  "bannerImage": "/images/nature/navegaon/banner.jpg",
+  "color": "#388e3c",
+  "coordinates": { "lat": 20.9403, "lng": 80.1706 },
+  "overview": [
+    "Navegaon National Park, located in the Gondia district of eastern Maharashtra, is one of the most scenic wildlife sanctuaries in the Vidarbha region. It is famous for its lush forests, a large picturesque lake, and a beautiful watchtower offering panoramic views.",
+    "Spread over an area of around 133 square kilometers, the park is home to leopards, deer, wild boars, sloth bears, and more than 130 species of birds, making it a paradise for nature and bird lovers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-feather",
+      "title": "Birdwatcher’s Paradise",
+      "description": "Navegaon attracts migratory birds, including herons, egrets, and ducks, especially during winter."
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Scenic Lake and Forest Views",
+      "description": "The massive Navegaon Lake and dense greenery make it a perfect spot for nature walks and boating."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/navegaon/geography.jpg",
+    "intro": "Situated near Arjuni Morgaon in Gondia, Navegaon National Park forms part of the central Indian landscape characterized by undulating hills, dense forests, and rich biodiversity.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Gondia District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Area",
+        "value": "133 sq km"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Vegetation",
+        "value": "Southern tropical dry deciduous forest"
+      },
+      {
+        "icon": "fas fa-temperature-low",
+        "label": "Best Season",
+        "value": "November to February"
+      },
+      {
+        "icon": "fas fa-map",
+        "label": "Nearest City",
+        "value": "Gondia (65 km)"
+      }
+    ],
+    "climate": {
+      "description": "Navegaon experiences a moderate climate with pleasant winters, warm summers, and abundant rainfall during monsoon.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer (March to June): Warm but suitable for boating and short treks."
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter (November to February): Ideal for birdwatching and wildlife exploration."
+        }
+      ]
+    },
+    "conclusion": "With its combination of a tranquil lake, dense forest cover, and vibrant wildlife, Navegaon offers a complete eco-tourism experience in eastern Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Bird Watching",
+      "description": "Spot migratory and resident bird species, especially around the lake during winter.",
+      "info": [
+        "Ideal time: November to February.",
+        "Carry binoculars for a better view."
+      ]
+    },
+    {
+      "icon": "fas fa-ship",
+      "title": "Boating in Navegaon Lake",
+      "description": "Enjoy a peaceful boat ride across the expansive Navegaon Lake surrounded by forests.",
+      "info": [
+        "Boating available at the main dam area.",
+        "Evening rides offer mesmerizing sunsets."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Nature Trails & Trekking",
+      "description": "Explore forest trails rich in flora and fauna, suitable for both beginners and seasoned trekkers.",
+      "info": [
+        "Guided nature walks available near the interpretation center.",
+        "Moderate trails with scenic viewpoints."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/navegaon/watchtower.jpg",
+      "title": "Navegaon Watchtower",
+      "description": "A tall structure overlooking the lake and forest, offering a breathtaking view of the entire park.",
+      "distance": "Inside park",
+      "icon": "fas fa-binoculars",
+      "value": "Ideal spot for sunrise and sunset views."
+    },
+    {
+      "image": "/images/nature/navegaon/lake.jpg",
+      "title": "Navegaon Lake",
+      "description": "A serene waterbody at the heart of the park, perfect for boating and birdwatching.",
+      "distance": "Within park",
+      "icon": "fas fa-water",
+      "value": "Centerpiece of the park’s ecosystem."
+    }
+  ],
+  "marineLife": {
+    "intro": "The massive lake inside the park supports a variety of aquatic species and provides water to the surrounding wildlife.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Fish Diversity",
+        "description": "The lake hosts several local fish species that attract water birds throughout the year."
+      },
+      {
+        "icon": "fas fa-water",
+        "title": "Wetland Ecosystem",
+        "description": "The wetlands around the lake nurture frogs, turtles, and numerous migratory birds."
+      }
+    ],
+    "conclusion": [
+      "Navegaon’s water systems sustain both aquatic and terrestrial life forms.",
+      "The lake’s ecosystem is vital to the region’s biodiversity balance."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Dr. Babasaheb Ambedkar International Airport, Nagpur (160 km).",
+        "Regular taxis and buses connect Nagpur to Gondia and Navegaon."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Railway Station: Gondia (65 km).",
+        "Trains available from Mumbai, Nagpur, and Raipur."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Connected via NH-6 and state highways to Gondia and Sakoli.",
+        "Regular MSRTC buses and private cabs available."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/navegaon/navegaon1.jpg",
+      "thumb": "/images/nature/navegaon/navegaon1_thumb.jpg",
+      "alt": "Navegaon Lake"
+    },
+    {
+      "src": "/images/nature/navegaon/navegaon2.jpg",
+      "thumb": "/images/nature/navegaon/navegaon2_thumb.jpg",
+      "alt": "Navegaon Forest and Birds"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Entry passes and boating tickets can be booked at the park gate."
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "description": "Best time for birdwatching is early morning or just before sunset."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography enthusiasts should bring telephoto lenses for wildlife shots."
+    }
+  ]
+}

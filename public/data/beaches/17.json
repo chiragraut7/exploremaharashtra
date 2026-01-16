@@ -1,0 +1,183 @@
+{
+  "id": "17",
+  "title": "Vengurla Beach",
+  "subtitle": "A Serene Coastal Paradise in Sindhudurg",
+  "bannerImage": "/assets/images/beaches/vengurla-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/17/bannerImg.jpg",
+  "color": "#00796B",
+  "coordinates": {
+    "lat": 15.8611,
+    "lng": 73.6339
+  },
+  "overview": [
+    "Vengurla Beach, nestled in the Sindhudurg district of Maharashtra, is known for its crystal-clear waters, pristine white sands, and peaceful surroundings. This unspoiled coastal destination offers a perfect escape for travelers seeking tranquility away from crowded beaches.",
+    "Surrounded by lush green coconut groves and cashew orchards, Vengurla is also a hub for nature lovers and photographers. The beach stretches for several kilometers, offering panoramic views of the Arabian Sea, making it a must-visit spot on the Konkan coastline."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Crystal Clear Waters",
+      "description": "The turquoise sea and clean sands make Vengurla one of the most scenic beaches in Maharashtra."
+    },
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Lush Surroundings",
+      "description": "Coconut groves, cashew plantations, and peaceful ambiance enhance the natural charm of this beach."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/17/info3.jpg",
+    "intro": "Located near the southern tip of Maharashtra’s coastline, Vengurla Beach lies close to the Goa border, offering a blend of cultural influences and natural beauty.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Sindhudurg District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Sea Level"
+      },
+      {
+        "icon": "fa-solid fa-ruler-combined",
+        "label": "Length",
+        "value": "Around 7 km"
+      },
+      {
+        "icon": "fa-solid fa-temperature-three-quarters",
+        "label": "Best Time to Visit",
+        "value": "October to March"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Nearby Places",
+        "value": "Sagareshwar, Shiroda, Redi, Malvan"
+      }
+    ],
+    "climate": {
+      "description": "Vengurla enjoys a tropical coastal climate with pleasant winters and humid summers.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 26°C - 35°C"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon: Heavy rainfall with lush greenery"
+        }
+      ]
+    },
+    "conclusion": "The geography of Vengurla blends pristine beach landscapes with rich biodiversity and a mild tropical climate ideal for year-round tourism."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-swimming",
+      "title": "Swimming & Sunbathing",
+      "description": "The calm sea and clean shoreline make it ideal for swimming and relaxing under the sun.",
+      "info": [
+        "Gentle waves, safe for families",
+        "Soft sands perfect for long walks"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Dolphin Spotting",
+      "description": "Boat rides often take tourists offshore where dolphins can be seen playfully leaping out of the water.",
+      "info": [
+        "Morning boat rides offer the best sightings",
+        "Guided local tours available"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Nature Walks",
+      "description": "The scenic coastline, fishing villages, and palm-lined beaches provide stunning photographic opportunities.",
+      "info": [
+        "Capture golden sunsets over the Arabian Sea",
+        "Explore nearby coastal trails"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/17/img1.jpg",
+      "title": "Sagareshwar Temple",
+      "description": "A serene seaside temple dedicated to Lord Shiva, located right by the coast.",
+      "distance": "2 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Religious & Scenic Spot"
+    },
+    {
+      "image": "/assets/images/beaches/17/img2.jpg",
+      "title": "Shiroda Beach",
+      "description": "Another pristine beach known for its peaceful ambiance and golden sands.",
+      "distance": "10 km",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Nearby Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Vengurla’s clear waters and rocky seabeds are home to diverse marine life, including small fish species and coral growth.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Variety of Fish",
+        "description": "Fishing villages nearby thrive on the local fish varieties found near the coast."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Coral Patches",
+        "description": "Small coral patches and marine flora contribute to the ecological diversity."
+      }
+    ],
+    "conclusion": [
+      "Marine biodiversity adds to Vengurla’s natural charm.",
+      "It’s a great destination for eco-tourists and sea-life enthusiasts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Sawantwadi Road (20 km)",
+        "Taxis and autos are easily available to the beach."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Well connected via NH-66 from Mumbai, Pune, and Goa.",
+        "MSRTC buses and private cabs available regularly."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/17/img1.jpg",
+      "thumb": "/assets/images/beaches/17/img1.jpg",
+      "alt": "Vengurla Beach Aerial View"
+    },
+    {
+      "src": "/assets/images/beaches/17/img2.jpg",
+      "thumb": "/assets/images/beaches/17/img2.jpg",
+      "alt": "Golden Sands of Vengurla"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-hotel",
+      "description": "Book beachside cottages or homestays early during the winter season."
+    },
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Avoid monsoon months for water activities as tides are rough."
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "description": "Carry sunscreen and hats to enjoy long beach walks comfortably."
+    }
+  ]
+}

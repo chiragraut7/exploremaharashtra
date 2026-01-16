@@ -1,0 +1,138 @@
+{
+  "id": "15",
+  "title": "Gajanan Maharaj Temple",
+  "subtitle": "Sacred Shrine of Saint Gajanan Maharaj, Shegaon",
+  "bannerImage": "/images/religious/shegaon/banner.jpg",
+  "color": "#e0b45c",
+  "coordinates": { "lat": 20.8419, "lng": 76.6931 },
+  "overview": [
+    "The Gajanan Maharaj Temple in Shegaon is one of the most revered spiritual centers in Maharashtra. Dedicated to Saint Gajanan Maharaj, who is believed to be a self-manifested saint with divine powers, this temple attracts millions of devotees from across India.",
+    "The temple complex is beautifully maintained by the Gajanan Maharaj Sansthan and includes prayer halls, meditation areas, and accommodation facilities for pilgrims. It stands as a symbol of devotion, peace, and community service."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-hands-praying",
+      "title": "Spiritual Peace",
+      "description": "The temple exudes a serene and divine atmosphere that soothes the minds of devotees."
+    },
+    {
+      "icon": "fa-solid fa-building-columns",
+      "title": "Architectural Grandeur",
+      "description": "Constructed with intricate carvings and marble, the temple structure reflects a blend of tradition and modernity."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/shegaon/map.jpg",
+    "intro": "Shegaon is located in the Buldhana district of Maharashtra, well-connected by road and rail, and surrounded by scenic rural landscapes.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "District", "value": "Buldhana" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "274 meters" },
+      { "icon": "fa-solid fa-globe", "label": "Region", "value": "Vidarbha" },
+      { "icon": "fa-solid fa-language", "label": "Primary Language", "value": "Marathi" },
+      { "icon": "fa-solid fa-water", "label": "Nearby River", "value": "Purna River" }
+    ],
+    "climate": {
+      "description": "Shegaon experiences a tropical climate with hot summers, moderate monsoons, and mild winters.",
+      "seasons": [
+        { "icon": "fa-solid fa-sun", "text": "Best visited during the winter months (October to February)" },
+        { "icon": "fa-solid fa-cloud-showers-heavy", "text": "Avoid visiting during heavy monsoon rains" }
+      ]
+    },
+    "conclusion": "The pleasant winter weather makes this period ideal for spiritual visits and sightseeing in Shegaon."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-place-of-worship",
+      "title": "Darshan of Gajanan Maharaj",
+      "description": "Witness the peaceful darshan of the saint’s idol and participate in daily aarti.",
+      "info": [
+        "Morning Aarti: 5:00 AM",
+        "Evening Aarti: 7:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-hand-holding-heart",
+      "title": "Annadan Seva",
+      "description": "The temple provides free meals to devotees every day through its community kitchen.",
+      "info": [
+        "Serves thousands of devotees daily",
+        "Operated by the Gajanan Maharaj Sansthan"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-meditating",
+      "title": "Meditation and Bhajans",
+      "description": "Engage in peaceful meditation and devotional bhajans conducted throughout the day.",
+      "info": [
+        "Bhajan sessions held in the morning and evening",
+        "Special kirtans on festival days"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/shegaon/anand-sagar.jpg",
+      "title": "Anand Sagar",
+      "description": "A spiritual and recreational complex with gardens, fountains, temples, and boating, developed by the Gajanan Sansthan.",
+      "distance": "2 km",
+      "icon": "fa-solid fa-tree",
+      "value": "Serene and family-friendly destination"
+    },
+    {
+      "image": "/images/religious/shegaon/museum.jpg",
+      "title": "Gajanan Maharaj Museum",
+      "description": "Showcases artifacts, photographs, and stories about the life and teachings of Gajanan Maharaj.",
+      "distance": "Within temple complex",
+      "icon": "fa-solid fa-landmark",
+      "value": "Spiritual and cultural insight"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not coastal, Shegaon’s spiritual ecosystem thrives through its social harmony and charitable works.",
+    "items": [
+      { "icon": "fa-solid fa-handshake-angle", "title": "Charity", "description": "The temple manages hospitals, schools, and shelters as part of its community initiatives." },
+      { "icon": "fa-solid fa-people-group", "title": "Volunteerism", "description": "Devotees from all over the state volunteer in temple operations and community services." }
+    ],
+    "conclusion": [
+      "The Gajanan Sansthan has set a remarkable example of devotion through service.",
+      "Its inclusive and compassionate philosophy continues to inspire millions."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Shegaon Railway Station is a major stop on the Mumbai–Nagpur line.",
+        "Regular trains connect Shegaon with Mumbai, Nagpur, and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Frequent state transport and private buses operate from Akola, Amravati, and Nagpur.",
+        "Shegaon is easily accessible via NH 6."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Akola (45 km) or Nagpur (300 km).",
+        "Taxis and buses available from both airports."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/religious/shegaon/1.jpg", "thumb": "/images/religious/shegaon/thumb1.jpg", "alt": "Main temple complex" },
+    { "src": "/images/religious/shegaon/2.jpg", "thumb": "/images/religious/shegaon/thumb2.jpg", "alt": "Anand Sagar lake" },
+    { "src": "/images/religious/shegaon/3.jpg", "thumb": "/images/religious/shegaon/thumb3.jpg", "alt": "Gajanan Maharaj idol" },
+    { "src": "/images/religious/shegaon/4.jpg", "thumb": "/images/religious/shegaon/thumb4.jpg", "alt": "Temple premises" }
+  ],
+  "bookingTips": [
+    { "icon": "fa-solid fa-hotel", "description": "Book accommodation in advance, especially during festivals like Gajanan Maharaj Jayanti." },
+    { "icon": "fa-solid fa-utensils", "description": "Enjoy the free prasad and annadan at the temple canteen." },
+    { "icon": "fa-solid fa-person-walking-luggage", "description": "Footwear and mobile phones are not allowed inside the sanctum; lockers are available." }
+  ]
+}

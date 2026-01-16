@@ -1,0 +1,200 @@
+{
+  "id": "22",
+  "title": "Randha Falls",
+  "subtitle": "Majestic Waterfall on the Pravara River near Bhandardara",
+  "bannerImage": "/images/nature/randha/banner.jpg",
+  "color": "#00796b",
+  "coordinates": { "lat": 19.5478, "lng": 73.7444 },
+  "overview": [
+    "Randha Falls, located near Bhandardara in Ahmednagar district, is one of the most spectacular waterfalls in Maharashtra. The Pravara River plunges from a height of about 170 feet into a deep gorge, creating a mesmerizing view surrounded by lush greenery.",
+    "It is especially popular during the monsoon season when the waterfall roars with full force, offering a breathtaking sight for photographers and nature lovers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-water",
+      "title": "Spectacular Monsoon Waterfall",
+      "description": "Witness the Pravara River cascade into a deep gorge, forming a thunderous and misty waterfall."
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography Paradise",
+      "description": "Capture dramatic landscapes, rainbows over the waterfall, and lush monsoon greenery."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/randha/geography.jpg",
+    "intro": "Randha Falls is formed by the Pravara River near Bhandardara, located in the Sahyadri mountain range of western Maharashtra.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Near Bhandardara, Akole Taluka, Ahmednagar District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-ruler-vertical",
+        "label": "Height",
+        "value": "Approximately 170 feet (52 meters)"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "River",
+        "value": "Pravara River"
+      },
+      {
+        "icon": "fas fa-cloud-sun-rain",
+        "label": "Climate",
+        "value": "Pleasant; heavy rainfall during monsoon"
+      },
+      {
+        "icon": "fas fa-city",
+        "label": "Nearest Town",
+        "value": "Bhandardara (10 km)"
+      }
+    ],
+    "climate": {
+      "description": "Randha Falls enjoys a moderate climate throughout the year, but it’s most majestic during the monsoon season when the Pravara River is at its peak.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June to September): Best time to visit; the falls are at their most powerful."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (October to February): Calm weather; ideal for sightseeing and photography."
+        }
+      ]
+    },
+    "conclusion": "The geographical beauty of Randha Falls makes it one of the key attractions in the Bhandardara region, blending natural power and scenic elegance."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Nature Walks",
+      "description": "Stroll through scenic trails around Bhandardara that offer different viewing angles of the falls.",
+      "info": [
+        "Well-maintained viewpoints are available near the main fall area.",
+        "Monsoon trails become slippery — wear sturdy footwear."
+      ]
+    },
+    {
+      "icon": "fas fa-camera-retro",
+      "title": "Photography",
+      "description": "Randha Falls offers incredible photo opportunities, especially with misty backdrops and rainbows.",
+      "info": [
+        "Best lighting is during early morning or late afternoon.",
+        "Keep your camera gear safe from water spray."
+      ]
+    },
+    {
+      "icon": "fas fa-spa",
+      "title": "Spiritual and Cultural Visit",
+      "description": "A small temple near the falls adds a spiritual touch to the natural setting.",
+      "info": [
+        "Locals visit the temple regularly during festivals.",
+        "The area offers a peaceful environment for meditation."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/randha/bhandardara-dam.jpg",
+      "title": "Bhandardara Dam (Wilson Dam)",
+      "description": "One of the oldest dams in India, known for its scenic reservoir and boating.",
+      "distance": "10 km from Randha Falls",
+      "icon": "fas fa-water",
+      "value": "Ideal for sunrise and sunset views."
+    },
+    {
+      "image": "/images/nature/randha/arthur-lake.jpg",
+      "title": "Arthur Lake",
+      "description": "A serene lake surrounded by mountains, perfect for picnics and boating.",
+      "distance": "12 km from Randha Falls",
+      "icon": "fas fa-umbrella-beach",
+      "value": "Peaceful lakeside environment."
+    },
+    {
+      "image": "/images/nature/randha/ratangad-fort.jpg",
+      "title": "Ratangad Fort",
+      "description": "A popular trekking destination offering panoramic views of Bhandardara valley.",
+      "distance": "25 km from Randha Falls",
+      "icon": "fas fa-chess-rook",
+      "value": "Trek level: Moderate"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a freshwater waterfall in the Sahyadris, Randha Falls is surrounded by rich terrestrial biodiversity rather than marine life.",
+    "items": [
+      {
+        "icon": "fas fa-paw",
+        "title": "Wildlife",
+        "description": "The surrounding forests are home to monkeys, deer, and various bird species."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birds",
+        "description": "Spot kingfishers, egrets, and parakeets near the river and waterfall."
+      }
+    ],
+    "conclusion": [
+      "Randha Falls provides a soothing natural experience amidst scenic mountain beauty.",
+      "Its biodiversity and surroundings make it a perfect eco-tourism destination."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Railway Station: Igatpuri (41 km).",
+        "Regular trains from Mumbai, Pune, and Nashik to Igatpuri."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Accessible via Bhandardara road from Igatpuri or Sangamner.",
+        "Private cabs and state transport buses are available."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Nashik Airport (90 km) or Pune Airport (185 km).",
+        "Taxis available from both airports."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/randha/randha1.jpg",
+      "thumb": "/images/nature/randha/randha1_thumb.jpg",
+      "alt": "Randha Falls during monsoon"
+    },
+    {
+      "src": "/images/nature/randha/randha2.jpg",
+      "thumb": "/images/nature/randha/randha2_thumb.jpg",
+      "alt": "Misty gorge view of Randha Falls"
+    },
+    {
+      "src": "/images/nature/randha/randha3.jpg",
+      "thumb": "/images/nature/randha/randha3_thumb.jpg",
+      "alt": "Surrounding greenery of Randha Falls"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Visit between July and September for the best waterfall flow."
+    },
+    {
+      "icon": "fas fa-shoe-prints",
+      "description": "Carry non-slip footwear and rain protection during monsoon."
+    },
+    {
+      "icon": "fas fa-exclamation-triangle",
+      "description": "Avoid standing near the cliff edges; the rocks are slippery and steep."
+    }
+  ]
+}

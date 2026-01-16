@@ -1,0 +1,205 @@
+{
+  "id": "16",
+  "title": "Chikhaldara Hill Station",
+  "subtitle": "The Verdant Retreat of Vidarbha",
+  "bannerImage": "/assets/images/hills/16.jpg",
+  "insideBannerImage": "/assets/images/hills/16/bannerimg.jpg",
+  "color": "#4b7d4a",
+  "coordinates": {"lat": 21.2100, "lng": 77.7200},
+  "overview": [
+    "Chikhaldara, the only coffee-growing hill station in Vidarbha, is a picturesque getaway located in the Amravati district of Maharashtra. Situated at an altitude of 1118 meters, it offers a pleasant climate, scenic viewpoints, and rich wildlife.",
+    "Legend says this is the place where Bheema from the Mahabharata killed the demon Keechaka — hence the name 'Keechakadara,' which evolved into Chikhaldara. The town is surrounded by the lush Satpura ranges and dense Melghat forests.",
+    "With misty valleys, waterfalls, coffee plantations, and nearby wildlife sanctuaries, Chikhaldara is a hidden gem for nature lovers and adventure seekers."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Breathtaking Viewpoints",
+      "description": "Several viewpoints like Hurricane Point, Devi Point, and Sunset Point offer mesmerizing vistas of the Satpura ranges."
+    },
+    {
+      "icon": "fa-solid fa-paw",
+      "title": "Wildlife Sanctuary",
+      "description": "Chikhaldara is the gateway to the Melghat Tiger Reserve — a paradise for wildlife enthusiasts."
+    },
+    {
+      "icon": "fa-solid fa-mug-hot",
+      "title": "Coffee Plantations",
+      "description": "The only hill station in Maharashtra where coffee is grown commercially."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/16/info2.jpg",
+    "intro": "Nestled in the Satpura mountain ranges, Chikhaldara lies at an elevation of 1118 meters above sea level and is known for its cool climate and lush valleys.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Amravati District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Altitude", "value": "1118 meters" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Satpura Hills, Vidarbha" },
+      { "icon": "fa-solid fa-temperature-low", "label": "Average Temperature", "value": "12°C - 28°C" },
+      { "icon": "fa-solid fa-cloud-rain", "label": "Annual Rainfall", "value": "1500 mm (approx.)" }
+    ],
+    "climate": {
+      "description": "Chikhaldara enjoys a moderate climate year-round with cool breezes and misty monsoons. Winters are particularly pleasant.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter (November–February): Ideal for sightseeing and outdoor activities."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): Lush greenery and beautiful waterfalls."
+        }
+      ]
+    },
+    "conclusion": "Its high elevation and rich biodiversity make Chikhaldara one of the most scenic and eco-friendly destinations in Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking & Nature Walks",
+      "description": "Explore trails through coffee estates and forested paths leading to scenic viewpoints.",
+      "info": [
+        "Ideal for beginners and nature lovers",
+        "Carry light jackets during mornings and evenings"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Visit Melghat Tiger Reserve to spot tigers, leopards, deer, and various bird species.",
+      "info": [
+        "Safari timings vary by season",
+        "Best during early mornings and late afternoons"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sightseeing",
+      "description": "Capture stunning views of valleys, waterfalls, and historic forts like Gawilgad.",
+      "info": [
+        "Use wide-angle lenses for panoramic shots",
+        "Golden hours offer the best lighting"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/16/img1.jpg",
+      "title": "Hurricane Point",
+      "description": "Offers panoramic views of the surrounding valleys and forests — especially beautiful during sunrise.",
+      "distance": "2 km from main town",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Scenic viewpoint"
+    },
+    {
+      "image": "/assets/images/hills/16/img2.jpg",
+      "title": "Gawilgad Fort",
+      "description": "An ancient hill fort built during the 12th century, featuring Persian inscriptions and old fort walls.",
+      "distance": "3 km from Chikhaldara",
+      "icon": "fa-solid fa-landmark",
+      "value": "Historical monument"
+    },
+    {
+      "image": "/assets/images/hills/16/img3.jpg",
+      "title": "Melghat Tiger Reserve",
+      "description": "One of India’s oldest tiger reserves, known for its dense forests and rich wildlife.",
+      "distance": "25 km from Chikhaldara",
+      "icon": "fa-solid fa-paw",
+      "value": "Wildlife sanctuary"
+    },
+    {
+      "image": "/assets/images/hills/16/img4.jpg",
+      "title": "Devi Point",
+      "description": "Named after a temple nearby, this viewpoint overlooks the stunning Sakkar Lake valley.",
+      "distance": "1.5 km from town",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "Popular viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Chikhaldara, being a hill station far from the sea, is instead home to rich terrestrial wildlife and forest biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Wildlife",
+        "description": "Includes tigers, sloth bears, gaurs, sambar deer, and various species of monkeys."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Birdlife",
+        "description": "A birdwatcher’s paradise — with over 250 recorded species, including eagles and hornbills."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Teak, bamboo, and medicinal herbs dominate the lush forests of the region."
+      }
+    ],
+    "conclusion": [
+      "Chikhaldara’s ecosystem supports diverse flora and fauna.",
+      "Ideal for eco-tourism and wildlife exploration."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Chikhaldara is 25 km from Paratwada and about 100 km from Amravati.",
+        "Regular MSRTC and private buses operate from Nagpur, Amravati, and Akola."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Badnera Junction (110 km).",
+        "Taxis and local buses available from Badnera to Chikhaldara."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Nagpur (230 km).",
+        "Well-connected to major Indian cities with cab services to Chikhaldara."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/16/img1.jpg",
+      "thumb": "/assets/images/hills/16/img1.jpg",
+      "alt": "Hurricane Point View"
+    },
+    {
+      "src": "/assets/images/hills/16/img2.jpg",
+      "thumb": "/assets/images/hills/16/img2.jpg",
+      "alt": "Gawilgad Fort Ruins"
+    },
+    {
+      "src": "/assets/images/hills/16/img3.jpg",
+      "thumb": "/assets/images/hills/16/img3.jpg",
+      "alt": "Melghat Forest Safari"
+    },
+    {
+      "src": "/assets/images/hills/16/img4.jpg",
+      "thumb": "/assets/images/hills/16/img4.jpg",
+      "alt": "Melghat Forest Safari"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Best time to visit: October to March for cool and pleasant weather."
+    },
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Book government guesthouses or eco-resorts early, especially during holidays."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry binoculars and a zoom lens for birdwatching and landscape photography."
+    }
+  ]
+}

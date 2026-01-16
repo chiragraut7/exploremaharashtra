@@ -1,0 +1,240 @@
+{
+  "id": "00",
+  "title": "Malvan Beach",
+  "subtitle": "Adventure, coral reefs, and the historic Sindhudurg Fort",
+  "bannerImage": "/assets/images/beaches/malvan.jpg",
+  "insideBannerImage": "/assets/images/beaches/00/bannerimg.jpg",
+  "color": "#1a2a3a",
+  "overview": [
+    "Malvan Beach, located in the Sindhudurg district of Maharashtra, is a paradise for adventure lovers and history enthusiasts alike. Known for its crystal-clear waters, coral reefs, and the iconic Sindhudurg Fort, this coastal town offers a perfect blend of natural beauty and heritage.",
+    "The beach is calm and clean, making it ideal for swimming, scuba diving, and snorkeling. Malvan’s vibrant marine life and underwater visibility attract divers from all over India.",
+    "The nearby market and restaurants serve authentic Malvani cuisine — a treat for seafood lovers. With sun-kissed sands, tranquil sunsets, and historic charm, Malvan stands out as a gem of the Konkan coast."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-water",
+      "title": "Scuba Diving & Snorkeling",
+      "description": "Malvan is Maharashtra’s most famous diving destination, known for coral reefs and rich marine life."
+    },
+    {
+      "icon": "fas fa-chess-rook",
+      "title": "Sindhudurg Fort",
+      "description": "An architectural marvel built by Chhatrapati Shivaji Maharaj on an island off the coast."
+    },
+    {
+      "icon": "fas fa-fish",
+      "title": "Marine Life",
+      "description": "See colorful fish, corals, and sea plants during underwater exploration."
+    },
+    {
+      "icon": "fas fa-utensils",
+      "title": "Malvani Cuisine",
+      "description": "Taste delicious local seafood like bombil fry, prawns curry, and solkadhi."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/00/info3.jpg",
+    "intro": "Malvan Beach lies along the southern Konkan coast, near the town of Malvan in Sindhudurg district.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Sindhudurg District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 530 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Kudal Railway Station (28 km)"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Coconut palms, coastal shrubs, and mangroves"
+      }
+    ],
+    "climate": {
+      "description": "Malvan has a tropical coastal climate. Summers are warm, monsoons are lush and vibrant, while winters are pleasant and ideal for water sports.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: November to March"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September (Avoid diving)"
+        }
+      ]
+    },
+    "conclusion": "With pristine waters, coral reefs, and historical forts, Malvan is a must-visit destination for both relaxation and adventure."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-person-swimming",
+      "title": "Scuba Diving",
+      "description": "Explore underwater coral gardens and marine life near Sindhudurg Fort.",
+      "info": [
+        "Ideal for beginners and professionals",
+        "Training and equipment available on-site"
+      ]
+    },
+    {
+      "icon": "fas fa-mask-snorkel",
+      "title": "Snorkeling",
+      "description": "Enjoy shallow-water exploration and view coral reefs up close.",
+      "info": [
+        "Available throughout the tourist season",
+        "Local guides ensure safe experiences"
+      ]
+    },
+    {
+      "icon": "fas fa-ship",
+      "title": "Boat Ride to Sindhudurg Fort",
+      "description": "Take a short ferry ride to visit the historic sea fort built by Shivaji Maharaj.",
+      "info": [
+        "Ferries available from Dandi Beach",
+        "Entry ticket required at the fort gate"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Sunset Photography",
+      "description": "Capture vivid sunsets over the Arabian Sea with Sindhudurg in the backdrop.",
+      "info": [
+        "Best spots near Chivla Beach and Rock Garden"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/00/img5.jpg",
+      "title": "Sindhudurg Fort",
+      "description": "A historic sea fort built in 1664 by Chhatrapati Shivaji Maharaj, located on an island near Malvan coast.",
+      "distance": "2 km from Malvan Jetty",
+      "icon": "fas fa-landmark",
+      "value": "Historical Fort"
+    },
+    {
+      "image": "/assets/images/beaches/00/img6.jpg",
+      "title": "Tarkarli Beach",
+      "description": "Famous for scuba diving and long sandy stretches; just a few kilometers from Malvan.",
+      "distance": "6 km from Malvan",
+      "icon": "fas fa-umbrella-beach",
+      "value": "Water Sports Destination"
+    },
+    {
+      "image": "/assets/images/beaches/00/img11.jpg",
+      "title": "Rock Garden",
+      "description": "A landscaped viewpoint on Malvan’s rocky shore offering panoramic sunset views.",
+      "distance": "1 km from Malvan Town",
+      "icon": "fas fa-tree",
+      "value": "Viewpoint"
+    },
+    {
+      "image": "/assets/images/beaches/00/img10.jpg",
+      "title": "Tsunami Island",
+      "description": "A small island formed by a 2004 tsunami, now a hotspot for water sports and boating.",
+      "distance": "5 km from Malvan",
+      "icon": "fas fa-island-tropical",
+      "value": "Adventure Island"
+    }
+  ],
+  "marineLife": {
+    "intro": "Malvan’s underwater biodiversity is among the richest along the Konkan coast, home to colorful coral reefs and numerous marine species.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Reef Fish",
+        "description": "See clownfish, angelfish, and butterflyfish during diving excursions."
+      },
+      {
+        "icon": "fas fa-coral",
+        "title": "Coral Reefs",
+        "description": "Vibrant coral colonies flourish near Sindhudurg, creating an underwater spectacle."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Sea Birds",
+        "description": "Spot herons, kingfishers, and cormorants along the shoreline."
+      }
+    ],
+    "conclusion": [
+      "Malvan’s crystal-clear waters and healthy coral reefs make it a must-visit for marine enthusiasts.",
+      "It’s Maharashtra’s premier destination for scuba diving and snorkeling."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Chipi (Sindhudurg Airport) – 13 km",
+        "Regular flights from Mumbai and Pune"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Kudal (Konkan Railway) – 28 km",
+        "Local taxis and autos available from station"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Mumbai to Malvan: 530 km via NH66",
+        "Buses and private cars available from Mumbai, Pune, and Goa"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/00/img1.jpg",
+      "thumb": "/assets/images/beaches/00/img1.jpg",
+      "alt": "Malvan Beach View"
+    },
+    {
+      "src": "/assets/images/beaches/00/img2.jpg",
+      "thumb": "/assets/images/beaches/00/img2.jpg",
+      "alt": "Boats at Malvan"
+    },
+    {
+      "src": "/assets/images/beaches/00/img5.jpg",
+      "thumb": "/assets/images/beaches/00/img5.jpg",
+      "alt": "Sindhudurg Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Plan your trip between November and March for best visibility for scuba diving."
+    },
+    {
+      "icon": "fas fa-life-ring",
+      "description": "Always choose licensed instructors for water activities."
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Avoid monsoon season as boat rides and diving are suspended."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Carry waterproof gear for photography during beach and diving activities."
+    }
+  ],
+  "coordinates": {
+    "lat": 16.0617,
+    "lng": 73.4619
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "23",
+  "title": "Daulatabad Fort (Devgiri Fort)",
+  "subtitle": "A Marvel of Defense and Architecture near Aurangabad",
+  "bannerImage": "/images/forts/daulatabad/daulatabad-banner.jpg",
+  "color": "#8b7355",
+  "coordinates": { "lat": 19.9406, "lng": 75.2117 },
+  "overview": [
+    "Daulatabad Fort, also known as Devgiri Fort, is an architectural masterpiece located about 15 km from Aurangabad, Maharashtra. Originally built in the 12th century by King Bhillama V of the Yadava dynasty, this fort later became one of the most powerful and impregnable strongholds in India.",
+    "The fort is famous for its complex defense mechanisms, intricate design, and strategic hilltop location. It was briefly the capital of India during Muhammad bin Tughlaq’s reign when he renamed Devgiri to Daulatabad. Today, it stands as a magnificent reminder of medieval engineering and Maratha valor."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Architectural Wonder",
+      "description": "Daulatabad’s triple fortification walls, moats, and secret passages make it one of the most secure forts ever built."
+    },
+    {
+      "icon": "fa-solid fa-torii-gate",
+      "title": "Historical Capital",
+      "description": "Once the capital of Tughlaq’s empire, the fort played a major role in India’s medieval history."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/daulatabad/daulatabad-map.jpg",
+    "intro": "Situated atop a conical hill 650 feet above the plains, Daulatabad Fort dominates the landscape around Aurangabad with panoramic views of the Deccan plateau.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Aurangabad District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "650 feet (198 meters)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "King Bhillama V of the Yadava Dynasty (12th century)"
+      },
+      {
+        "icon": "fa-solid fa-clock",
+        "label": "Best Time to Visit",
+        "value": "October to February"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Entry Timing",
+        "value": "8:00 AM to 6:00 PM"
+      }
+    ],
+    "climate": {
+      "description": "The fort experiences a hot and dry climate for most of the year, with pleasant weather during the winter months.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer - Hot and dry; best avoided for long treks."
+        },
+        {
+          "icon": "fa-solid fa-leaf",
+          "text": "Winter - Cool and ideal for exploring the fort’s vast expanse."
+        }
+      ]
+    },
+    "conclusion": "Daulatabad Fort’s formidable defense systems and historical legacy make it one of the most fascinating and enduring symbols of medieval India."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Fort Exploration",
+      "description": "Climb the steep pathways and explore the intricate defense structures of Daulatabad.",
+      "info": [
+        "Don’t miss Chand Minar and the royal chambers.",
+        "The climb takes around 2 hours."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture stunning panoramic views and ancient architecture.",
+      "info": [
+        "Best captured during early morning or sunset light.",
+        "Drone photography is restricted without permission."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-book",
+      "title": "History Walk",
+      "description": "Understand the fort’s architectural and cultural significance with guided tours.",
+      "info": [
+        "Audio and local guides available at the entrance.",
+        "Learn about Tughlaq’s capital shift and its downfall."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/daulatabad/chand-minar.jpg",
+      "title": "Chand Minar",
+      "description": "A 210-feet tall tower built in Persian style to commemorate victory in war.",
+      "distance": "Inside the fort complex",
+      "icon": "fa-solid fa-tower-cell",
+      "value": "Historical Landmark"
+    },
+    {
+      "image": "/images/forts/daulatabad/moat.jpg",
+      "title": "Moat and Tunnel System",
+      "description": "Ingenious traps, twisting tunnels, and moats designed to confuse and capture invaders.",
+      "distance": "Surrounding the main citadel",
+      "icon": "fa-solid fa-water",
+      "value": "Defense System"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill fort, Daulatabad doesn’t have marine life but features ancient water systems and reservoirs.",
+    "items": [
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Reservoirs",
+        "description": "Massive rainwater harvesting tanks carved into the rock."
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "title": "Wells and Aqueducts",
+        "description": "Used to supply fresh water to soldiers and inhabitants during sieges."
+      }
+    ],
+    "conclusion": [
+      "Daulatabad’s water management systems reflect advanced engineering of the Yadava and Tughlaq eras.",
+      "These ancient systems still hold water during monsoons."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Aurangabad (15 km away).",
+        "Regular trains available from Mumbai, Pune, and Nashik."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Located on the Aurangabad–Ellora route, accessible by car or local buses.",
+        "Regular buses and taxis operate from Aurangabad city."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/daulatabad/daulatabad1.jpg",
+      "thumb": "/images/forts/daulatabad/daulatabad1-thumb.jpg",
+      "alt": "Daulatabad Fort view"
+    },
+    {
+      "src": "/images/forts/daulatabad/daulatabad2.jpg",
+      "thumb": "/images/forts/daulatabad/daulatabad2-thumb.jpg",
+      "alt": "Chand Minar at Daulatabad"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Start early to avoid afternoon heat; the climb can be steep."
+    },
+    {
+      "icon": "fa-solid fa-hat-cowboy",
+      "description": "Carry a hat, sunscreen, and at least 2 liters of water per person."
+    },
+    {
+      "icon": "fa-solid fa-ticket",
+      "description": "Entry tickets can be purchased at the gate; carry cash for convenience."
+    }
+  ]
+}

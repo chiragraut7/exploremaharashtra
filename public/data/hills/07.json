@@ -1,0 +1,163 @@
+{
+  "id": "07",
+  "title": "Igatpuri",
+  "subtitle": "Gateway to the Sahyadris and the Monsoon Haven",
+  "bannerImage": "/assets/images/hills/07.jpg",
+  "insideBannerImage": "/assets/images/hills/07/bannerimg.jpg",
+  "color": "#38664a",
+  "coordinates": {"lat": 19.6967, "lng": 73.5516},
+  "overview": [
+    "Igatpuri, located in the Nashik district of Maharashtra, is a serene hill station surrounded by the rugged peaks of the Western Ghats.",
+    "Known for its misty monsoon beauty, lush greenery, and ancient forts, Igatpuri is a popular weekend getaway from Mumbai and Pune.",
+    "The town also houses the world’s largest Vipassana Meditation Center, attracting spiritual seekers and peace lovers from around the globe."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Vaitarna Dam",
+      "description": "A massive dam set amidst forested hills, perfect for photography and boating during monsoons."
+    },
+    {
+      "icon": "fa-solid fa-church",
+      "title": "Vipassana Center",
+      "description": "One of the largest meditation centers in the world, offering courses on mindfulness and inner peace."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/07/info2.jpg",
+    "intro": "Located at an altitude of 600 meters in the Western Ghats, Igatpuri lies on the Mumbai–Nashik highway and is surrounded by Sahyadri peaks.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Nashik District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "600 meters above sea level" },
+      { "icon": "fa-solid fa-map", "label": "Coordinates", "value": "19.69°N, 73.56°E" },
+      { "icon": "fa-solid fa-water", "label": "Nearest River", "value": "Vaitarna River" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Western Ghats (Sahyadri Range)" }
+    ],
+    "climate": {
+      "description": "Igatpuri enjoys a pleasant climate year-round, with heavy rainfall during monsoon and cool winters.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon (June–September): Misty hills and flowing waterfalls." },
+        { "icon": "fa-solid fa-snowflake", "text": "Winter (November–February): Ideal for trekking and sightseeing." }
+      ]
+    },
+    "conclusion": "The mix of natural charm and spiritual ambiance makes Igatpuri an enchanting monsoon retreat."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "Igatpuri offers exciting treks to Kalsubai Peak, Tringalwadi Fort, and Sandhan Valley.",
+      "info": [
+        "Kalsubai is the highest peak in Maharashtra.",
+        "Guided treks available during monsoon."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Visits",
+      "description": "Explore seasonal waterfalls and streams cascading through the Sahyadris.",
+      "info": [
+        "Best during July–September.",
+        "Carry waterproof gear for hikes."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-meditation",
+      "title": "Meditation Retreats",
+      "description": "Experience peace at the world-famous Vipassana International Academy (Dhamma Giri).",
+      "info": [
+        "Courses offered throughout the year.",
+        "Pre-registration required."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/07/img1.jpg",
+      "title": "Vipassana International Academy",
+      "description": "A serene meditation center surrounded by hills, promoting mindfulness and tranquility.",
+      "distance": "2 km from Igatpuri Station",
+      "icon": "fa-solid fa-om",
+      "value": "Spiritual Center"
+    },
+    {
+      "image": "/assets/images/hills/07/img2.jpg",
+      "title": "Kalsubai Peak",
+      "description": "The highest peak in Maharashtra offering breathtaking sunrise views and thrilling treks.",
+      "distance": "32 km from Igatpuri",
+      "icon": "fa-solid fa-mountain",
+      "value": "Trekking Point"
+    }
+  ],
+  "marineLife": {
+    "intro": "Igatpuri is a landlocked hill station, but it hosts diverse Western Ghats biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Dense forests, monsoon flowers, and grasslands dominate the region."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Wild boars, monkeys, and various bird species are found in the forests."
+      }
+    ],
+    "conclusion": [
+      "Igatpuri is an ecological treasure ideal for photographers and trekkers.",
+      "A perfect escape into Sahyadri wilderness."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail",
+      "details": [
+        "Igatpuri has its own railway station on the Mumbai–Nashik line.",
+        "Regular trains connect from Mumbai, Pune, and Nashik."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located 120 km from Mumbai via NH 160.",
+        "State transport and private buses operate daily."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Nashik Airport (70 km) or Mumbai Airport (130 km).",
+        "Taxis available from both airports."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/07/img1.jpg",
+      "thumb": "/assets/images/hills/07/img1.jpg",
+      "alt": "Vipassana Igatpuri"
+    },
+    {
+      "src": "/assets/images/hills/07/img2.jpg",
+      "thumb": "/assets/images/hills/07/img2.jpg",
+      "alt": "Kalsubai Peak"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Book treks or meditation sessions in advance during weekends."
+    },
+    {
+      "icon": "fa-solid fa-cloud-showers-heavy",
+      "description": "Visit during July–September for the best waterfall views."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry waterproof covers for electronics in monsoon."
+    }
+  ]
+}

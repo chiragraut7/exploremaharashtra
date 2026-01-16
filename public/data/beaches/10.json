@@ -1,0 +1,367 @@
+{
+  "id": "10",
+  "title": "Tarkarli Beach",
+  "subtitle": "Golden sands, clear waters, and scuba diving paradise",
+  "bannerImage": "/assets/images/beaches/tarkarli-beache.jpg",
+  "insideBannerImage": "/assets/images/beaches/10/bannerImg.jpg",
+  "color": "#008d6e",
+  "coordinates": {
+    "lat": 16.0355,
+    "lng": 73.4912
+  },
+  "overview": [
+    "Tarkarli Beach is a pristine coastal gem located in the Sindhudurg district of Maharashtra, India. This stunning beach destination sits at the confluence of the Karli River and the Arabian Sea, offering visitors a unique blend of river and ocean experiences.",
+    "Located approximately 8 kilometers south of Malvan and 546 kilometers from Mumbai, Tarkarli Beach is renowned for its pristine beauty and is considered one of the hidden treasures of Maharashtra's Konkan coast. The beach is particularly famous for its excellent scuba diving opportunities.",
+    "What makes Tarkarli special are its magical mornings when the golden rays of the sun strike against the turquoise waters, creating a mesmerizing spectacle. The beach offers a perfect escape with its serene atmosphere and unspoiled natural beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Pristine Beach",
+      "description": "Clean sandy shores with crystal-clear waters perfect for swimming and relaxation."
+    },
+    {
+      "icon": "fas fa-swimmer",
+      "title": "Scuba Diving Paradise",
+      "description": "Excellent underwater visibility and rich marine life make it ideal for diving enthusiasts."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Karli Backwaters",
+      "description": "Scenic backwaters surrounded by lush greenery perfect for boat rides and sunset viewing."
+    },
+    {
+      "icon": "fas fa-landmark",
+      "title": "Historical Significance",
+      "description": "Close proximity to the historic Sindhudurg Fort built by Chhatrapati Shivaji Maharaj."
+    },
+    {
+      "icon": "fas fa-sunset",
+      "title": "Spectacular Sunsets",
+      "description": "Breathtaking sunset views at nearby Chivla Beach with golden rays on turquoise waters."
+    },
+    {
+      "icon": "fas fa-jet-ski",
+      "title": "Water Sports Hub",
+      "description": "Wide range of water sports activities including jet skiing, banana boat rides, and parasailing."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/10/info3.jpg",
+    "intro": "Tarkarli Beach is strategically located in the Sindhudurg district of Maharashtra, positioned at the unique confluence of the Karli River and the Arabian Sea. This geographical positioning gives the beach its distinctive character, offering both riverine and marine experiences to visitors.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Sindhudurg District, Maharashtra, India"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "546 kilometers"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Malvan",
+        "value": "8 kilometers south"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-river",
+        "label": "River System",
+        "value": "Karli River confluence"
+      }
+    ],
+    "climate": {
+      "description": "The beach is part of the famous Konkan coast, known for its scenic beauty and biodiversity. The region features a tropical climate with distinct wet and dry seasons. The monsoon season (June to September) brings heavy rainfall, while the post-monsoon and winter months (October to March) offer the best weather for tourism.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: October to March"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "The coastal geography is characterized by clean sandy beaches, rocky outcrops, and mangrove ecosystems along the river confluence. The underwater terrain is ideal for marine life, with coral formations and diverse aquatic species thriving in the clear waters of the Arabian Sea."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-swimmer",
+      "title": "Scuba Diving",
+      "description": "Excellent visibility, coral reefs, reef fish, rays, and sea turtles.",
+      "info": [
+        "Best Time: October to March",
+        "Cost: Starting from ₹1,000 per person"
+      ]
+    },
+    {
+      "icon": "fas fa-jet-ski",
+      "title": "Water Sports",
+      "description": "Jet skiing, speed boat, banana boat, bumper rides, kayaking.",
+      "info": [
+        "Package Options: Individual or combo packages"
+      ]
+    },
+    {
+      "icon": "fas fa-parachute-box",
+      "title": "Parasailing",
+      "description": "Fly above the turquoise waters of Tarkarli coast.",
+      "info": [
+        "Duration: 5–10 minutes flight time"
+      ]
+    },
+    {
+      "icon": "fas fa-fish",
+      "title": "Dolphin Safari",
+      "description": "Spot playful dolphins near Kawada Rock Island and Talashil.",
+      "info": [
+        "Duration: 2 hours"
+      ]
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Boat Rides",
+      "description": "Sunset rides through scenic Karli backwaters.",
+      "info": [
+        "Best Time: Evening"
+      ]
+    },
+    {
+      "icon": "fas fa-volleyball-ball",
+      "title": "Beach Activities",
+      "description": "Relax, play beach games, or enjoy the serene coast.",
+      "info": [
+        "Ideal For: All age groups"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "title": "Sindhudurg Fort",
+      "description": "Historic sea fort by Chhatrapati Shivaji Maharaj offering ocean views.",
+      "icon": "fas fa-map-marker-alt",
+      "distance": "2 km from Tarkarli",
+      "value": "Historic Fort",
+      "image": "/assets/images/beaches/10/img4.jpg"
+    },
+    {
+      "title": "Chivla Beach",
+      "description": "1.5 km golden sandy beach with breathtaking sunsets.",
+      "icon": "fas fa-clock",
+      "distance": "Evening for sunset views",
+      "value": "Sunset Beach",
+      "image": "/assets/images/beaches/10/img1.jpg"
+    },
+    {
+      "title": "Malvan Beach",
+      "description": "Hub for markets, seafood, and cultural attractions.",
+      "icon": "fas fa-map-marker-alt",
+      "distance": "8 km from Tarkarli",
+      "value": "Town Beach",
+      "image": "/assets/images/beaches/10/img2.jpg"
+    },
+    {
+      "title": "Rameshwar Temple",
+      "description": "Ancient Shiva temple with deep spiritual roots.",
+      "icon": "fas fa-pray",
+      "distance": "Religious and cultural heritage site",
+      "value": "Religious Site",
+      "image": "/assets/images/beaches/10/img3.jpg"
+    },
+    {
+      "title": "Tsunami Island",
+      "description": "Walk on seabed during low tide & explore marine life.",
+      "icon": "fas fa-clock",
+      "distance": "Low tide periods",
+      "value": "Marine Spot",
+      "image": "/assets/images/beaches/10/tsunami-island.jpg"
+    },
+    {
+      "title": "Sarjekot",
+      "description": "Panoramic coastal views and photo-friendly spots.",
+      "icon": "fas fa-camera",
+      "distance": "Photography & sightseeing",
+      "value": "Viewpoint",
+      "image": "/assets/images/beaches/10/img5.jpg"
+    }
+  ],
+  "marineLife": {
+    "intro": "Tarkarli Beach boasts a rich and diverse marine ecosystem that makes it one of the premier scuba diving destinations on the west coast of India. The clear waters of the Arabian Sea provide excellent conditions for marine life to thrive.",
+    "items": [
+      {
+        "icon": "fas fa-water",
+        "title": "Coral Reefs",
+        "description": "Colorful coral reefs thriving in clean waters."
+      },
+      {
+        "icon": "fas fa-fish",
+        "title": "Reef Fish",
+        "description": "Angelfish, parrotfish, and butterflyfish dominate the waters."
+      },
+      {
+        "icon": "fas fa-turtle",
+        "title": "Sea Turtles",
+        "description": "Endangered sea turtles occasionally visit the coast."
+      },
+      {
+        "icon": "fas fa-fish",
+        "title": "Rays",
+        "description": "Graceful rays glide through Tarkarli’s underwater world."
+      }
+    ],
+    "conclusion": [
+      "The marine environment around Tarkarli is particularly rich due to the confluence of the Karli River and the Arabian Sea, which brings nutrients that support diverse aquatic life. The excellent underwater visibility, often extending several meters, allows divers to fully appreciate the beauty of the marine ecosystem.",
+      "The waters around Tarkarli are also known for their population of dolphins, which can often be spotted during boat rides and dolphin safaris. The region's commitment to sustainable tourism practices helps preserve this delicate marine ecosystem for future generations."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Sindhudurg Airport (Chipi, 30 km)",
+        "Alternative: Goa International Airport (150 km)",
+        "From the airport, local transport is easily available."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest: Kudal Railway Station (35 km), Sawantwadi (40 km)",
+        "Trains from: Mumbai, Pune, Bangalore, Delhi",
+        "Taxis and buses available to reach Tarkarli."
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Mumbai: 546 km via NH66 (10–12 hrs)",
+        "Pune: 450 km via NH48 (8–10 hrs)",
+        "Goa: 150 km via NH66 (3–4 hrs)"
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Bus",
+      "details": [
+        "MSRTC buses from Mumbai, Pune, Kolhapur",
+        "Private luxury buses available",
+        "Local buses run between Malvan and Tarkarli"
+      ]
+    },
+    {
+      "icon": "fas fa-taxi",
+      "title": "Local Transportation",
+      "details": [
+        "Auto-rickshaws within Malvan–Tarkarli",
+        "Private taxis & app-based cabs",
+        "Bike rentals available near beach"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/10/img4.jpg",
+      "thumb": "/assets/images/beaches/10/img4.jpg",
+      "alt": "Sindhudurg Fort"
+    },
+    {
+      "src": "/assets/images/beaches/10/img1.jpg",
+      "thumb": "/assets/images/beaches/10/img1.jpg",
+      "alt": "Chivla Beach"
+    },
+    {
+      "src": "/assets/images/beaches/10/img2.jpg",
+      "thumb": "/assets/images/beaches/10/img2.jpg",
+      "alt": "Malvan Beach"
+    },
+    {
+      "src": "/assets/images/beaches/10/img3.jpg",
+      "thumb": "/assets/images/beaches/10/img3.jpg",
+      "alt": "Rameshwar Temple"
+    },
+    {
+      "src": "/assets/images/beaches/10/tsunami-island.jpg",
+      "thumb": "/assets/images/beaches/10/tsunami-island.jpg",
+      "alt": "Tsunami Island"
+    },
+    {
+      "src": "/assets/images/beaches/10/img5.jpg",
+      "thumb": "/assets/images/beaches/10/img5.jpg",
+      "alt": "Sarjekot View"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Atlantis Devbag",
+      "image": "/assets/images/beaches.jpg",
+      "rating": 4.5,
+      "facilities": [
+        "wifi",
+        "pool",
+        "parking"
+      ],
+      "url": "#"
+    },
+    {
+      "name": "Avisa Nila Beach Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": 5.0,
+      "facilities": [
+        "wifi",
+        "restaurant"
+      ],
+      "url": "#"
+    },
+    {
+      "name": "Funtastico Beach Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": 4.0,
+      "facilities": [
+        "wifi",
+        "parking"
+      ],
+      "url": "#"
+    },
+    {
+      "name": "Blue Sea Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": 4.0,
+      "facilities": [
+        "wifi"
+      ],
+      "url": "#"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Best Time to Book: 2–3 months in advance for peak season"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Peak Season: December to February (higher rates)"
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Monsoon: June to September (discounts available)"
+    },
+    {
+      "icon": "fas fa-gift",
+      "description": "Packages: Many resorts offer scuba and sports combos"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Pick-up: Most hotels provide Malvan transfers"
+    }
+  ]
+}

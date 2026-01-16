@@ -1,0 +1,179 @@
+{
+  "id": "09",
+  "title": "Visapur Fort",
+  "subtitle": "Twin of Lohagad with Majestic Views of the Sahyadris",
+  "bannerImage": "/images/forts/visapur/visapur-banner.jpg",
+  "color": "#b38b6d",
+  "coordinates": { "lat": 18.7208, "lng": 73.4861 },
+  "overview": [
+    "Visapur Fort, located near Lonavala in the Pune district, is a twin fort of Lohagad and one of the most popular trekking destinations in Maharashtra. Built during the early 18th century, this fort stands taller than its twin and offers sweeping views of the surrounding valleys and hills.",
+    "Constructed by Balaji Vishwanath, the first Peshwa of the Maratha Empire, Visapur served as a watchtower fort due to its strategic location. Today, it attracts trekkers, history buffs, and photographers for its scenic beauty and ancient ruins."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Panoramic Hilltop Views",
+      "description": "Enjoy 360° views of Lohagad Fort, Pawna Lake, and lush green valleys."
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Ancient Structures",
+      "description": "Explore old fort walls, water tanks, and British-era caves scattered across the fort."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/visapur/visapur-map.jpg",
+    "intro": "Visapur Fort lies at an elevation of 3,556 feet above sea level, overlooking the Pawna region of the Western Ghats, close to Lonavala and Malavli.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Lonavala, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "3,556 feet (1,084 meters)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Balaji Vishwanath, the first Peshwa of the Maratha Empire"
+      },
+      {
+        "icon": "fa-solid fa-clock",
+        "label": "Best Time to Visit",
+        "value": "June to February"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Trek Duration",
+        "value": "Around 1.5 to 2 hours from Malavli base village"
+      }
+    ],
+    "climate": {
+      "description": "The fort experiences pleasant weather for most of the year, with misty monsoons and cool winters enhancing its beauty.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon - Waterfalls and mist-covered pathways create a magical experience."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter - Clear skies and comfortable temperatures ideal for trekking."
+        }
+      ]
+    },
+    "conclusion": "Visapur’s charm lies in its vast plateau, ancient ruins, and its role in the Maratha and British history, making it an unmissable fort trek near Lonavala."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Trekking",
+      "description": "Visapur offers a moderate trek filled with waterfalls, caves, and rocky patches.",
+      "info": [
+        "Trek difficulty: Moderate",
+        "Base village: Malavli or Lohagadwadi"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture panoramic shots of valleys, Lohagad Fort, and Pawna Lake from the top.",
+      "info": [
+        "Sunrise and sunset views are spectacular.",
+        "Monsoon mist adds a mysterious charm."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Explore Ruins",
+      "description": "Discover ancient water cisterns, fort walls, and Lord Hanuman carvings on stones.",
+      "info": [
+        "Two large water tanks are found at the top.",
+        "Hanuman sculptures adorn several walls."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/visapur/hanuman-sculpture.jpg",
+      "title": "Hanuman Sculptures",
+      "description": "Intricate carvings of Lord Hanuman found across the fort walls.",
+      "distance": "On the fort plateau",
+      "icon": "fa-solid fa-hands-praying",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/forts/visapur/lohagadvue.jpg",
+      "title": "Lohagad Viewpoint",
+      "description": "A scenic point offering a perfect view of the twin Lohagad Fort.",
+      "distance": "Short walk from fort top",
+      "icon": "fa-solid fa-eye",
+      "value": "Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill fort, Visapur doesn’t have marine life, but it features ancient water systems that showcase Maratha engineering.",
+    "items": [
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Cisterns",
+        "description": "Stone-built water tanks that hold rainwater throughout the year."
+      },
+      {
+        "icon": "fa-solid fa-droplet",
+        "title": "Natural Streams",
+        "description": "Small seasonal streams flow down during monsoons, adding to the fort’s charm."
+      }
+    ],
+    "conclusion": [
+      "Visapur’s rain-fed reservoirs are a testament to Maratha water management.",
+      "Please avoid littering near natural water sources."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Malavli (5 km from base).",
+        "Regular trains available from Lonavala and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Accessible via Mumbai-Pune Expressway till Lonavala, then via Malavli.",
+        "Private cabs and jeeps are available from Lonavala."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/visapur/visapur1.jpg",
+      "thumb": "/images/forts/visapur/visapur1-thumb.jpg",
+      "alt": "Visapur Fort plateau"
+    },
+    {
+      "src": "/images/forts/visapur/visapur2.jpg",
+      "thumb": "/images/forts/visapur/visapur2-thumb.jpg",
+      "alt": "View of Lohagad from Visapur"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear trekking shoes with a good grip; the path can be slippery during monsoon."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear during monsoon season."
+    },
+    {
+      "icon": "fa-solid fa-bottle-water",
+      "description": "Bring sufficient drinking water as there are no stalls on the trek route."
+    }
+  ]
+}

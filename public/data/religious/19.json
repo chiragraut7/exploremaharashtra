@@ -1,0 +1,156 @@
+{
+  "id": "19",
+  "title": "Kunkeshwar Temple",
+  "subtitle": "Seaside Shiva Temple of Devotion and Beauty in Sindhudurg",
+  "bannerImage": "/images/religious/kunkeshwar/banner.jpg",
+  "color": "#0f766e",
+  "coordinates": { "lat": 16.3333, "lng": 73.3000 },
+  "overview": [
+    "Kunkeshwar Temple, located on the serene Konkan coast of Sindhudurg district, is an ancient and revered shrine dedicated to Lord Shiva. Known as the 'Kashi of the South Konkan', this temple stands majestically on the shores of the Arabian Sea, offering both spiritual peace and natural splendor.",
+    "Built in the 11th century by Yadava rulers, the temple showcases beautiful Hemadpanthi architecture and has been a place of worship for generations. The rhythmic waves and tranquil sea breeze create a divine atmosphere for devotees and travelers alike.",
+    "The temple becomes a hub of devotion during Maha Shivaratri, attracting pilgrims from across Maharashtra and neighboring states."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-torii-gate",
+      "title": "Seaside Temple",
+      "description": "Situated right on the beach, the temple offers a stunning view of the Arabian Sea alongside a divine atmosphere."
+    },
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Ancient Shiva Shrine",
+      "description": "Believed to be over 900 years old, dedicated to Lord Kunkeshwar — a coastal form of Lord Shiva."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Kashi of Konkan",
+      "description": "Revered as the southern Kashi of Maharashtra due to its sanctity and location by the sea."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/kunkeshwar/map.jpg",
+    "intro": "Kunkeshwar Temple is located in Devgad Taluka, Sindhudurg district, on the western coast of Maharashtra, overlooking the vast Arabian Sea.",
+    "details": [
+      { "icon": "fa-solid fa-map-marker-alt", "label": "District", "value": "Sindhudurg" },
+      { "icon": "fa-solid fa-water", "label": "Location", "value": "Kunkeshwar Beach" },
+      { "icon": "fa-solid fa-road", "label": "Nearest Town", "value": "Devgad (14 km)" },
+      { "icon": "fa-solid fa-calendar-day", "label": "Major Festival", "value": "Maha Shivaratri" },
+      { "icon": "fa-solid fa-sun", "label": "Climate", "value": "Tropical coastal climate with moderate temperatures year-round." }
+    ],
+    "climate": {
+      "description": "The coastal region enjoys pleasant winters, humid summers, and heavy monsoon rains. The temple looks particularly divine in the monsoon mist.",
+      "seasons": [
+        { "icon": "fa-solid fa-sun", "text": "Winter (November–February): Pleasant for temple visits and beach walks." },
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon (June–September): The temple appears mystical amidst sea mist and rain." }
+      ]
+    },
+    "conclusion": "Set between sea and sky, Kunkeshwar Temple embodies devotion, tranquility, and the timeless charm of Konkan’s coastal spirituality."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hands-praying",
+      "title": "Offer Prayers to Lord Kunkeshwar",
+      "description": "Perform traditional rituals and offer milk and bel leaves to Lord Shiva during early morning hours.",
+      "info": [
+        "Special abhishekams are conducted daily.",
+        "Maha Shivaratri is celebrated with grandeur and night-long prayers."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Relax at Kunkeshwar Beach",
+      "description": "Enjoy the golden sands and serene waves of Kunkeshwar Beach right beside the temple.",
+      "info": [
+        "Perfect spot for meditation and photography.",
+        "Less crowded compared to other Konkan beaches."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-archway",
+      "title": "Explore Devgad Fort & Lighthouse",
+      "description": "A short drive from Kunkeshwar leads to Devgad Fort, known for its scenic sea views and historical significance."
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/kunkeshwar/beach.jpg",
+      "title": "Kunkeshwar Beach",
+      "description": "A pristine and clean beach located adjacent to the temple, offering stunning sunset views.",
+      "distance": "0 km",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Natural Beauty"
+    },
+    {
+      "image": "/images/religious/kunkeshwar/devgad-fort.jpg",
+      "title": "Devgad Fort",
+      "description": "A coastal fort built in the 18th century by Kanhoji Angre, offering a glimpse into Maratha maritime history.",
+      "distance": "14 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Historical Site"
+    },
+    {
+      "image": "/images/religious/kunkeshwar/mitbhav.jpg",
+      "title": "Mitbhav Beach",
+      "description": "Another scenic beach near Kunkeshwar, known for its quiet surroundings and natural beauty.",
+      "distance": "20 km",
+      "icon": "fa-solid fa-water",
+      "value": "Nearby Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Kunkeshwar’s coastal setting supports a variety of marine life typical of the Konkan region.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Marine Biodiversity",
+        "description": "The Arabian Sea near Kunkeshwar supports fish species, shells, and coral fragments."
+      },
+      {
+        "icon": "fa-solid fa-seedling",
+        "title": "Eco Harmony",
+        "description": "The temple area is maintained with environmental awareness to preserve its coastal ecosystem."
+      }
+    ],
+    "conclusion": [
+      "The proximity to the sea adds a unique charm to the temple’s serene ambiance.",
+      "Kunkeshwar symbolizes harmony between nature and divinity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Kankavli (52 km).",
+        "From there, buses and taxis are available to reach the temple."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Well connected by road via NH-66 from Mumbai and Goa.",
+        "Regular buses operate from Devgad, Malvan, and Kankavli."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Chipi (Sindhudurg Airport) at 80 km distance.",
+        "Also accessible from Goa (150 km) and Ratnagiri (130 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/religious/kunkeshwar/1.jpg", "thumb": "/images/religious/kunkeshwar/thumb1.jpg", "alt": "Kunkeshwar Temple sea view" },
+    { "src": "/images/religious/kunkeshwar/2.jpg", "thumb": "/images/religious/kunkeshwar/thumb2.jpg", "alt": "Lord Shiva idol at Kunkeshwar" },
+    { "src": "/images/religious/kunkeshwar/3.jpg", "thumb": "/images/religious/kunkeshwar/thumb3.jpg", "alt": "Kunkeshwar Beach at sunset" },
+    { "src": "/images/religious/kunkeshwar/4.jpg", "thumb": "/images/religious/kunkeshwar/thumb4.jpg", "alt": "Devotees during Maha Shivaratri festival" }
+  ],
+  "bookingTips": [
+    { "icon": "fa-solid fa-hotel", "description": "Stay in nearby Devgad or Malvan for better accommodation options." },
+    { "icon": "fa-solid fa-umbrella-beach", "description": "Carry light clothes and sun protection for beach visits." },
+    { "icon": "fa-solid fa-praying-hands", "description": "Morning and evening aartis offer the most divine experience with sea breeze and chants." }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "39",
+  "title": "Balaji Temple, Nerul",
+  "subtitle": "A Majestic Replica of Tirupati Balaji in Navi Mumbai",
+  "bannerImage": "/images/religious/test/balaji-nerul/banner.jpg",
+  "color": "#b48a3b",
+  "coordinates": { "lat": 19.0225, "lng": 73.0186 },
+  "overview": [
+    "Balaji Temple in Nerul, Navi Mumbai, is a serene South Indian-style temple dedicated to Lord Venkateswara (Balaji).",
+    "Built as a smaller replica of the famous Tirumala Tirupati Temple, it reflects the architectural brilliance of Dravidian culture.",
+    "Set atop a small hill surrounded by greenery, it offers a peaceful environment for worship and meditation.",
+    "The temple serves as a major spiritual hub for devotees in Mumbai and nearby areas."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Architectural Beauty",
+      "description": "Constructed in authentic South Indian Dravidian style using granite and marble, featuring detailed carvings and towering gopurams."
+    },
+    {
+      "icon": "fa-solid fa-festival",
+      "title": "Major Festivals",
+      "description": "Brahmotsavam, Vaikunta Ekadashi, and Rath Yatra are celebrated with grandeur and traditional rituals."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/balaji-nerul/geography.jpg",
+    "intro": "Situated on a hillock in Nerul, Navi Mumbai, the temple offers panoramic views of the surrounding cityscape and greenery.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Nerul, Navi Mumbai, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Approx. 100 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-building",
+        "label": "Architecture Style",
+        "value": "Dravidian South Indian"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Established",
+        "value": "1998"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Temple Complex Area",
+        "value": "Over 2 acres"
+      }
+    ],
+    "climate": {
+      "description": "Nerul experiences a tropical climate with humid summers and pleasant winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February"
+        },
+        {
+          "icon": "fa-solid fa-cloud-sun-rain",
+          "text": "Avoid heavy monsoon months (June–August)"
+        }
+      ]
+    },
+    "conclusion": "The temple’s hilltop setting combined with its architectural splendor makes it both a spiritual and visual delight."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hands-praying",
+      "title": "Daily Pooja & Darshan",
+      "description": "Devotees can participate in regular poojas and seek blessings of Lord Balaji.",
+      "info": [
+        "Morning aarti: 6:00 AM",
+        "Evening aarti: 7:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bell",
+      "title": "Festivals and Events",
+      "description": "Major South Indian festivals and annual Brahmotsavam draw large crowds.",
+      "info": [
+        "Rath Yatra and Deepavali are celebrated grandly.",
+        "Traditional food and prasadam served during festivals."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-spa",
+      "title": "Meditation & Spiritual Sessions",
+      "description": "Special sessions for chanting, meditation, and spiritual discourses are conducted on weekends.",
+      "info": [
+        "Spiritual talks by visiting scholars.",
+        "Quiet spaces for reflection available in temple premises."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/balaji-nerul/attraction1.jpg",
+      "title": "ISKCON Temple, Kharghar",
+      "description": "A beautifully designed temple dedicated to Lord Krishna, located nearby in Kharghar.",
+      "distance": "10 km",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Spiritual attraction"
+    },
+    {
+      "image": "/images/religious/test/balaji-nerul/attraction2.jpg",
+      "title": "Wonder Park, Nerul",
+      "description": "A recreational park ideal for families and children, near the temple area.",
+      "distance": "2 km",
+      "icon": "fa-solid fa-tree",
+      "value": "Leisure spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "While not a coastal temple, its proximity to Navi Mumbai’s seashore allows visitors to explore nearby natural beauty.",
+    "items": [
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Nearby Waterfronts",
+        "description": "Palm Beach Road offers stunning sunset views over Thane Creek."
+      },
+      {
+        "icon": "fa-solid fa-ship",
+        "title": "Seaside Calm",
+        "description": "The area’s fresh sea breeze adds to the temple’s serene atmosphere."
+      }
+    ],
+    "conclusion": [
+      "Although not directly by the sea, the surrounding environment offers peace and natural beauty.",
+      "Perfect for combining spiritual visits with scenic relaxation."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train-subway",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Nerul (Harbour Line).",
+        "Temple is about 1.5 km from the station."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Easily accessible via Palm Beach Road and Sion-Panvel Highway.",
+        "Regular buses and auto-rickshaws available from Nerul and Vashi."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/balaji-nerul/1.jpg",
+      "thumb": "/images/religious/test/balaji-nerul/thumb1.jpg",
+      "alt": "Balaji Temple main gopuram"
+    },
+    {
+      "src": "/images/religious/test/balaji-nerul/2.jpg",
+      "thumb": "/images/religious/test/balaji-nerul/thumb2.jpg",
+      "alt": "Temple entrance and steps"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-sun",
+      "description": "Visit early morning or evening to avoid heat and crowds."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Remove footwear before entering temple premises."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Photography may be restricted inside sanctum; check local guidelines."
+    }
+  ]
+}

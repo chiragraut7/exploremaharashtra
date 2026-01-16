@@ -1,0 +1,190 @@
+{
+  "id": "01",
+  "title": "Amboli Ghat",
+  "subtitle": "The Queen of Sahyadri – A misty paradise in the Western Ghats",
+  "bannerImage": "/assets/images/nature/amboli-ghat.jpg",
+  "color": "#2d5b4c",
+  "coordinates": { "lat": 15.9625, "lng": 73.9978 },
+  "overview": [
+    "Amboli Ghat, located in the Sindhudurg district of Maharashtra, is one of the most scenic hill regions of the Western Ghats. It is known for its lush green forests, numerous waterfalls, and breathtaking viewpoints overlooking the Konkan coast.",
+    "Situated at an altitude of about 690 meters, Amboli receives one of the highest rainfalls in Maharashtra, making it a misty retreat and a favorite destination for nature lovers, trekkers, and photographers."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-cloud-sun-rain",
+      "title": "Monsoon Beauty",
+      "description": "Amboli turns into a magical landscape of fog, waterfalls, and vibrant greenery during the monsoon."
+    },
+    {
+      "icon": "fas fa-camera-retro",
+      "title": "Picturesque Viewpoints",
+      "description": "Several viewpoints offer panoramic views of valleys and the Arabian Sea in the distance."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/nature/amboli-map.jpg",
+    "intro": "Amboli lies in the southern range of the Sahyadris, near the Goa-Maharashtra border, overlooking the lush Konkan plains.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Amboli, Sindhudurg District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Altitude",
+        "value": "Approx. 690 meters above sea level"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "River System",
+        "value": "Part of the Hiranyakeshi River basin"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Terrain",
+        "value": "Dense tropical evergreen forests and steep ghats"
+      }
+    ],
+    "climate": {
+      "description": "Amboli experiences a cool and pleasant climate throughout the year, with heavy rainfall from June to September. Winters are crisp and foggy, perfect for sightseeing.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon: June to September – best time to see waterfalls"
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter: October to February – ideal for nature walks and photography"
+        }
+      ]
+    },
+    "conclusion": "Amboli is one of the last pristine ecosystems of the Western Ghats, offering unspoiled natural beauty and a refreshing climate."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking",
+      "description": "Explore short treks to waterfalls, viewpoints, and the surrounding forest trails.",
+      "info": [
+        "Popular trek: Amboli Waterfall Trail",
+        "Guides available locally"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture the charm of misty roads, waterfalls, and rich flora and fauna.",
+      "info": [
+        "Morning fog adds magical lighting for photos",
+        "Carry waterproof camera covers"
+      ]
+    },
+    {
+      "icon": "fas fa-frog",
+      "title": "Wildlife Watching",
+      "description": "Spot rare amphibians and endemic species of the Western Ghats.",
+      "info": [
+        "Amboli Bush Frog and Flying Frog are highlights",
+        "Night walks reveal fascinating biodiversity"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/nature/amboli-waterfall.jpg",
+      "title": "Amboli Waterfall",
+      "description": "A popular attraction cascading down rocky cliffs, surrounded by dense greenery.",
+      "distance": "2 km from Amboli town",
+      "icon": "fas fa-water",
+      "value": "Main Waterfall Spot"
+    },
+    {
+      "image": "/assets/images/nature/hiranyakeshi-temple.jpg",
+      "title": "Hiranyakeshi Temple",
+      "description": "Ancient Shiva temple near the source of the Hiranyakeshi River.",
+      "distance": "5 km from Amboli",
+      "icon": "fas fa-om",
+      "value": "Religious & Natural Site"
+    },
+    {
+      "image": "/assets/images/nature/sea-view-point.jpg",
+      "title": "Sea View Point",
+      "description": "Offers breathtaking panoramic views of the Konkan coastline.",
+      "distance": "3 km from main Amboli",
+      "icon": "fas fa-binoculars",
+      "value": "Scenic Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not coastal, Amboli is part of the biodiversity-rich Western Ghats, home to countless freshwater and forest species.",
+    "items": [
+      {
+        "icon": "fas fa-frog",
+        "title": "Endemic Amphibians",
+        "description": "Species like the Amboli Bush Frog are unique to this region."
+      },
+      {
+        "icon": "fas fa-spider",
+        "title": "Forest Insects & Reptiles",
+        "description": "Home to rare snakes, insects, and lizards thriving in the moist ecosystem."
+      }
+    ],
+    "conclusion": [
+      "Amboli’s biodiversity is one of the richest in Maharashtra.",
+      "It plays a crucial role in the conservation of Western Ghats wildlife."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Amboli is 30 km from Sawantwadi via SH 121.",
+        "Well connected by road from Kolhapur, Belgaum, and Goa."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Sawantwadi Road (30 km)",
+        "Regular trains from Mumbai, Pune, and Goa"
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Dabolim (Goa) – 90 km",
+        "Taxis and buses available from airport"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/nature/amboli-fog.jpg",
+      "thumb": "/assets/images/nature/amboli-fog-thumb.jpg",
+      "alt": "Misty roads at Amboli Ghat"
+    },
+    {
+      "src": "/assets/images/nature/amboli-forest.jpg",
+      "thumb": "/assets/images/nature/amboli-forest-thumb.jpg",
+      "alt": "Dense forests around Amboli"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-home",
+      "description": "Several homestays and eco-resorts are available in Amboli town."
+    },
+    {
+      "icon": "fas fa-clock",
+      "description": "Best visiting time: June to February for pleasant weather."
+    },
+    {
+      "icon": "fas fa-umbrella",
+      "description": "Carry rain gear and proper footwear during the monsoon."
+    }
+  ]
+}

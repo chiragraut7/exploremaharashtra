@@ -1,0 +1,180 @@
+{
+  "id": "17",
+  "title": "Lonar Lake",
+  "subtitle": "The Meteoric Marvel of Maharashtra",
+  "bannerImage": "/images/nature/lonar/banner.jpg",
+  "color": "#3A8D8E",
+  "coordinates": { "lat": 19.9761, "lng": 76.5072 },
+  "overview": [
+    "Lonar Lake, located in the Buldhana district of Maharashtra, is one of the world’s only hyper-velocity impact crater lakes formed by a meteor strike about 52,000 years ago.",
+    "This stunning natural wonder is surrounded by lush green forests, ancient temples, and unique biodiversity, making it both a geological and ecological treasure.",
+    "Recognized as a National Geo-heritage Monument, Lonar Lake attracts scientists, nature enthusiasts, and pilgrims alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-meteor",
+      "title": "Meteor Impact Crater",
+      "description": "Formed by a meteor strike, Lonar Lake is one of the few hyper-velocity impact craters in basalt rock on Earth."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Saline & Alkaline Lake",
+      "description": "The lake features both saline and alkaline water layers, a rare natural phenomenon found nowhere else in India."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/lonar/geography.jpg",
+    "intro": "Lonar Lake sits inside a massive basaltic crater that spans over 1.8 km in diameter and plunges nearly 150 meters deep, surrounded by dense forest and temple ruins.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Buldhana District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "563 meters above sea level"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Diameter",
+        "value": "1.8 kilometers"
+      },
+      {
+        "icon": "fas fa-tint",
+        "label": "Lake Type",
+        "value": "Saline and Alkaline Crater Lake"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Surroundings",
+        "value": "Forests and ancient temple ruins"
+      }
+    ],
+    "climate": {
+      "description": "Lonar experiences a dry tropical climate with pleasant winters and hot summers. The best time to visit is post-monsoon, when the surroundings are green and the lake’s colors are vibrant.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer (March–June): Hot and dry, with temperatures up to 40°C."
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon & Winter (July–February): Ideal for travel with lush greenery and cooler weather."
+        }
+      ]
+    },
+    "conclusion": "The geological significance and ecological diversity of Lonar Lake make it one of Maharashtra’s most unique natural wonders."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Crater Trekking",
+      "description": "Hike around the crater rim or descend into the bowl to experience the lake up close.",
+      "info": [
+        "Trekking trails offer panoramic views of the lake.",
+        "Moderate-level trek suitable for nature lovers."
+      ]
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Bird Watching",
+      "description": "Spot migratory and resident bird species that thrive in this rare ecosystem.",
+      "info": [
+        "Species like peafowls, herons, and flamingos visit the lake.",
+        "Best during winter migration season."
+      ]
+    },
+    {
+      "icon": "fas fa-camera-retro",
+      "title": "Photography",
+      "description": "Capture the striking contrast of the lake’s turquoise water and surrounding basalt formations.",
+      "info": [
+        "Sunrise and sunset shots offer the best lighting.",
+        "Bring a wide-angle lens for crater panoramas."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/lonar/daitya-sudan.jpg",
+      "title": "Daitya Sudan Temple",
+      "description": "An ancient temple dedicated to Lord Vishnu, showcasing intricate Hemadpanthi architecture near the lake.",
+      "distance": "1 km from Lonar Lake",
+      "icon": "fas fa-gopuram",
+      "value": "Historical Site"
+    },
+    {
+      "image": "/images/nature/lonar/gomukh-temple.jpg",
+      "title": "Gomukh Temple",
+      "description": "Located near the crater rim, this temple features a freshwater spring believed to originate from the lake’s sacred source.",
+      "distance": "2 km from lake center",
+      "icon": "fas fa-water",
+      "value": "Religious Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Despite its saline and alkaline nature, Lonar Lake supports unique microbial life that thrives in extreme conditions.",
+    "items": [
+      {
+        "icon": "fas fa-bacterium",
+        "title": "Microbial Diversity",
+        "description": "The lake hosts rare bacteria and algae species adapted to its unusual chemistry."
+      },
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians and Birds",
+        "description": "The surrounding forest shelters frogs, reptiles, and migratory birds that depend on the lake ecosystem."
+      }
+    ],
+    "conclusion": [
+      "Lonar Lake is an ecological wonder, balancing fragile biodiversity with geological history.",
+      "Visitors are advised to avoid disturbing the lake’s delicate ecosystem."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Jalna (90 km) or Malkapur (105 km).",
+        "Regular trains connect these towns with major cities like Mumbai, Pune, and Nagpur."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Lonar is well-connected by road from Aurangabad (140 km) and Akola (135 km).",
+        "Maharashtra State Transport buses and private taxis are easily available."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/lonar/gallery1.jpg",
+      "thumb": "/images/nature/lonar/thumb1.jpg",
+      "alt": "Aerial view of Lonar Crater Lake"
+    },
+    {
+      "src": "/images/nature/lonar/gallery2.jpg",
+      "thumb": "/images/nature/lonar/thumb2.jpg",
+      "alt": "Sunset over Lonar Lake rim"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Visit between October and February for the best weather and birdwatching opportunities."
+    },
+    {
+      "icon": "fas fa-shoe-prints",
+      "description": "Carry good walking shoes if you plan to trek down to the lake or explore temple ruins."
+    },
+    {
+      "icon": "fas fa-ban",
+      "description": "Avoid littering or entering the lake water—it is protected and scientifically sensitive."
+    }
+  ]
+}

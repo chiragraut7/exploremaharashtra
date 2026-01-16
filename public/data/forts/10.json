@@ -1,0 +1,179 @@
+{
+  "id": "10",
+  "title": "Shivneri Fort",
+  "subtitle": "Birthplace of Chhatrapati Shivaji Maharaj – Symbol of Maratha Pride",
+  "bannerImage": "/images/forts/shivneri/shivneri-banner.jpg",
+  "color": "#4b3621",
+  "coordinates": { "lat": 19.1983, "lng": 73.8617 },
+  "overview": [
+    "Shivneri Fort, located near Junnar in Pune district, holds immense historical importance as the birthplace of Chhatrapati Shivaji Maharaj in 1630. It stands as a symbol of Maratha pride, courage, and the beginnings of the Swarajya movement.",
+    "The fort, known for its strong defensive architecture and spiritual significance, features several ancient structures, water reservoirs, and scenic views of the surrounding Sahyadri ranges."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-baby",
+      "title": "Birthplace of Shivaji Maharaj",
+      "description": "A historic monument marking the birthplace of the founder of the Maratha Empire, Chhatrapati Shivaji Maharaj."
+    },
+    {
+      "icon": "fas fa-chess-rook",
+      "title": "Ancient Fort Architecture",
+      "description": "Famous for its strong walls, seven gates, and rock-cut water tanks, representing classic Maratha military design."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/shivneri/shivneri-map.jpg",
+    "intro": "Shivneri Fort is situated near Junnar in Pune district, at an elevation of about 1,050 meters above sea level. It overlooks the ancient trade routes and provides a commanding view of the region.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Junnar, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-ruler-vertical",
+        "label": "Altitude",
+        "value": "1,050 meters (3,445 ft)"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Region",
+        "value": "Sahyadri Ranges, Western Ghats"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Structure Type",
+        "value": "Hill Fort with 7 fortified gates"
+      },
+      {
+        "icon": "fa-solid fa-city",
+        "label": "Nearest City",
+        "value": "Junnar (2 km), Pune (95 km)"
+      }
+    ],
+    "climate": {
+      "description": "The fort experiences pleasant weather most of the year, though the monsoon season brings misty conditions and lush greenery.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon – June to September: Scenic and lush surroundings with moderate rainfall."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter – November to February: Cool weather ideal for trekking and sightseeing."
+        }
+      ]
+    },
+    "conclusion": "Shivneri Fort’s serene environment and historical aura make it a must-visit for those interested in Maratha heritage and early Indian fort design."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Fort Trekking",
+      "description": "A short and easy trek ideal for beginners and families, offering a historical exploration with scenic Sahyadri views.",
+      "info": [
+        "Approx. trek time: 1.5 hours from base.",
+        "Path is well-paved and maintained."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historical Exploration",
+      "description": "Discover ancient gates, Shivaji’s birthplace monument, and several water cisterns within the fort complex.",
+      "info": [
+        "Visit Ganga and Yamuna ponds and Shivai Devi Temple.",
+        "Don’t miss the beautiful fort entrance gates."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Heritage Walks",
+      "description": "Capture the essence of Maratha history amidst the stone walls and panoramic views.",
+      "info": [
+        "Perfect for heritage photography enthusiasts.",
+        "Early mornings provide the best light."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/shivneri/shivaji-birthplace.jpg",
+      "title": "Birthplace Monument of Shivaji Maharaj",
+      "description": "A beautifully preserved structure marking the room where Chhatrapati Shivaji Maharaj was born in 1630.",
+      "distance": "Inside Fort",
+      "icon": "fa-solid fa-crown",
+      "value": "Major heritage attraction"
+    },
+    {
+      "image": "/images/forts/shivneri/shivai-devi-temple.jpg",
+      "title": "Shivai Devi Temple",
+      "description": "A temple dedicated to Goddess Shivai Devi, after whom Shivaji Maharaj was named.",
+      "distance": "Near entrance gate",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Spiritual significance"
+    }
+  ],
+  "marineLife": {
+    "intro": "While not coastal, Shivneri Fort’s ecosystem includes dry deciduous vegetation and occasional sightings of birds and small animals.",
+    "items": [
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Birdlife",
+        "description": "Commonly spotted species include mynas, bulbuls, and eagles."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Fort Vegetation",
+        "description": "Sparse dry shrubs and grasses typical of the Deccan plateau."
+      }
+    ],
+    "conclusion": [
+      "The natural environment around Shivneri adds to the beauty of the fort.",
+      "Visitors are encouraged to keep the fort premises clean."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Shivneri is 95 km from Pune and 150 km from Mumbai via NH60.",
+        "Buses and private taxis are available till Junnar town."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train & Air",
+      "details": [
+        "Nearest railway station: Pune Junction (95 km).",
+        "Nearest airport: Pune International Airport (100 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/shivneri/gallery1.jpg",
+      "thumb": "/images/forts/shivneri/thumb1.jpg",
+      "alt": "View of Shivneri Fort entrance gate"
+    },
+    {
+      "src": "/images/forts/shivneri/gallery2.jpg",
+      "thumb": "/images/forts/shivneri/thumb2.jpg",
+      "alt": "Birthplace monument inside Shivneri Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Visit early morning to enjoy peaceful surroundings and soft sunlight for photography."
+    },
+    {
+      "icon": "fa-solid fa-water-bottle",
+      "description": "Carry water and snacks; limited facilities near the fort."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear comfortable shoes for climbing the stone steps leading up to the fort."
+    }
+  ]
+}

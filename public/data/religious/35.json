@@ -1,0 +1,202 @@
+{
+  "id": "35",
+  "title": "Sant Tukaram Maharaj Temple, Dehu",
+  "subtitle": "A Sacred Abode of the Great Saint Tukaram Maharaj near Pune",
+  "bannerImage": "/images/religious/tukaram-dehu/banner.jpg",
+  "color": "#C67C2F",
+  "coordinates": { "lat": 18.7189, "lng": 73.7667 },
+  "overview": [
+    "Sant Tukaram Maharaj Temple in Dehu is one of the most revered pilgrimage sites in Maharashtra, dedicated to the great Marathi saint and poet, Sant Tukaram Maharaj. Situated on the banks of the Indrayani River, the temple is a key stop for Warkaris during the annual Pandharpur pilgrimage.",
+    "Sant Tukaram, known for his Abhangas (devotional poetry) and spiritual teachings, preached equality, devotion, and simplicity. The temple complex celebrates his life and message through regular kirtans and spiritual events.",
+    "The temple stands as a spiritual beacon for devotees, symbolizing the Bhakti movement that shaped Marathi culture and spirituality."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-book-open",
+      "title": "Sant Tukaram’s Legacy",
+      "description": "Dedicated to the saint-poet who composed thousands of Abhangas inspiring devotion and moral living."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Riverbank Serenity",
+      "description": "Located on the banks of the Indrayani River, offering peaceful surroundings for meditation and prayer."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Annual Palkhi Festival",
+      "description": "The famous Tukaram Palkhi starts from Dehu every year, attracting lakhs of Warkaris walking to Pandharpur."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/tukaram-dehu/map.jpg",
+    "intro": "Dehu is a town in the Pune district of Maharashtra, located along the Indrayani River and surrounded by gentle hills and fertile plains.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Pune"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Region",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Pune",
+        "value": "30 km"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "November to February"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Ashadhi Wari and Tukaram Palkhi"
+      }
+    ],
+    "climate": {
+      "description": "Dehu experiences a moderate climate with warm summers, pleasant winters, and refreshing monsoons.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 24°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: 22°C – 30°C (June–September)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 12°C – 26°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "Dehu’s spiritual aura and connection with Sant Tukaram Maharaj make it a sacred destination for devotees across Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Pay respects to the Samadhi of Sant Tukaram Maharaj and attend the soulful Aartis and Abhanga sessions.",
+      "info": [
+        "Darshan timings: 5 AM to 9 PM.",
+        "Daily Bhajans and Kirtans held in the main temple courtyard."
+      ]
+    },
+    {
+      "icon": "fas fa-music",
+      "title": "Abhanga Kirtan",
+      "description": "Experience devotional singing of Tukaram’s Abhangas, filling the air with spiritual energy.",
+      "info": [
+        "Regular sessions by Warkari groups.",
+        "Special performances during Ekadashi and Palkhi season."
+      ]
+    },
+    {
+      "icon": "fas fa-route",
+      "title": "Palkhi Procession",
+      "description": "Join the grand Tukaram Palkhi procession that travels from Dehu to Pandharpur each year.",
+      "info": [
+        "Begins 18–20 days before Ashadhi Ekadashi.",
+        "An inspiring spiritual walk of 250 km with thousands of devotees."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/tukaram-dehu/indrayani-river.jpg",
+      "title": "Indrayani River Ghat",
+      "description": "A serene riverbank where devotees bathe and perform rituals before visiting the temple.",
+      "distance": "0.2 km",
+      "icon": "fas fa-water",
+      "value": "Holy River"
+    },
+    {
+      "image": "/images/religious/tukaram-dehu/tukaram-gatha-temple.jpg",
+      "title": "Tukaram Gatha Mandir",
+      "description": "A newer temple displaying inscriptions of Tukaram’s famous Abhangas on its walls.",
+      "distance": "0.5 km",
+      "icon": "fas fa-book",
+      "value": "Cultural Monument"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Dehu is inland, the Indrayani River supports a simple aquatic ecosystem that nourishes the nearby environment.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Life",
+        "description": "The river hosts small freshwater fish and supports local bird species."
+      },
+      {
+        "icon": "fas fa-leaf",
+        "title": "Eco Harmony",
+        "description": "The riverside greenery and tranquil water create a balanced, calming atmosphere."
+      }
+    ],
+    "conclusion": [
+      "The Indrayani’s flow symbolizes the river of devotion and purity in Sant Tukaram’s teachings.",
+      "The peaceful ghats make Dehu an ideal place for reflection and prayer."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Dehu Road Railway Station (8 km) connects to Pune, Lonavala, and Mumbai.",
+        "Autos and buses available to reach the temple."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Dehu is 30 km from Pune on the Pune–Nashik Highway.",
+        "Regular MSRTC and private buses operate from Pune and Pimpri-Chinchwad."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Pune International Airport is about 35 km away.",
+        "Taxis and buses available from the airport."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/tukaram-dehu/1.jpg",
+      "thumb": "/images/religious/tukaram-dehu/thumb1.jpg",
+      "alt": "Sant Tukaram Maharaj Temple Dehu"
+    },
+    {
+      "src": "/images/religious/tukaram-dehu/2.jpg",
+      "thumb": "/images/religious/tukaram-dehu/thumb2.jpg",
+      "alt": "Indrayani River Ghat near Dehu Temple"
+    },
+    {
+      "src": "/images/religious/tukaram-dehu/3.jpg",
+      "thumb": "/images/religious/tukaram-dehu/thumb3.jpg",
+      "alt": "Devotees during Tukaram Palkhi"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Visit during the Tukaram Palkhi Yatra to witness the devotional energy of Warkaris."
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Early morning is ideal for peaceful darshan and riverfront serenity."
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Avoid peak pilgrimage dates if you prefer a quieter experience."
+    }
+  ]
+}

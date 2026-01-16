@@ -1,0 +1,200 @@
+{
+  "id": "11",
+  "title": "Rajmachi Fort & Nature Trail",
+  "subtitle": "A Scenic Trek Amidst the Sahyadri Mountains",
+  "bannerImage": "/images/nature/rajmachi/banner.jpg",
+  "color": "#2e7d32",
+  "coordinates": { "lat": 18.8286, "lng": 73.3953 },
+  "overview": [
+    "Rajmachi Fort, located near Lonavala in the Sahyadri mountain range, is one of Maharashtra’s most beloved trekking and nature destinations. Surrounded by dense forests, waterfalls, and misty hills, it offers breathtaking views and a rich historical legacy.",
+    "The region consists of two fortified peaks — Shrivardhan and Manaranjan — along with a small scenic village that attracts trekkers, campers, and nature photographers throughout the year."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-mountain",
+      "title": "Twin Forts of Rajmachi",
+      "description": "Explore the twin fortresses of Shrivardhan and Manaranjan offering panoramic views of the Sahyadris and Kondane Caves below."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Waterfalls and Forest Trails",
+      "description": "Witness seasonal waterfalls and lush green forest trails that come alive during the monsoon."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/rajmachi/geography.jpg",
+    "intro": "Rajmachi lies between the famous hill stations of Lonavala and Karjat, offering scenic trekking routes through forested hills and valleys.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Near Lonavala, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Elevation",
+        "value": "2,710 feet (826 meters)"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Vegetation",
+        "value": "Evergreen and semi-deciduous forest cover"
+      },
+      {
+        "icon": "fas fa-cloud-sun-rain",
+        "label": "Climate",
+        "value": "Cool and pleasant; lush green during monsoon"
+      },
+      {
+        "icon": "fas fa-city",
+        "label": "Nearest Town",
+        "value": "Lonavala (16 km)"
+      }
+    ],
+    "climate": {
+      "description": "Rajmachi experiences moderate to cool weather throughout the year, with misty monsoons and clear winter skies ideal for trekking.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June to September): Waterfalls and greenery in full bloom; most scenic season."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (November to February): Cool, dry, and perfect for camping and star-gazing."
+        }
+      ]
+    },
+    "conclusion": "Rajmachi’s geography offers the perfect blend of adventure and tranquility, with scenic landscapes and historical charm."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking",
+      "description": "The Rajmachi trek from Lonavala or Karjat is one of Maharashtra’s most popular weekend adventures.",
+      "info": [
+        "The Lonavala route is easier and accessible by road.",
+        "The Karjat route is steeper and best for experienced trekkers."
+      ]
+    },
+    {
+      "icon": "fas fa-campground",
+      "title": "Camping and Stargazing",
+      "description": "Set up camp under the stars amidst the serene Sahyadris and enjoy the sound of waterfalls and night breezes.",
+      "info": [
+        "Local villagers offer homestays and camping facilities.",
+        "Ideal in winter and post-monsoon months."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography and Birdwatching",
+      "description": "Capture landscapes, historic ruins, and diverse flora and fauna.",
+      "info": [
+        "Rajmachi is home to several bird species and butterflies.",
+        "Drone photography offers stunning aerial views of the twin forts."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/rajmachi/shrivardhan.jpg",
+      "title": "Shrivardhan Fort",
+      "description": "One of the twin peaks, offering panoramic views of the Sahyadri range and lush valleys.",
+      "distance": "Within the fort complex",
+      "icon": "fas fa-landmark",
+      "value": "Ideal for sunrise views."
+    },
+    {
+      "image": "/images/nature/rajmachi/manaranjan.jpg",
+      "title": "Manaranjan Fort",
+      "description": "The second fortified peak with ancient walls and bastions overlooking deep gorges.",
+      "distance": "Within the fort complex",
+      "icon": "fas fa-chess-rook",
+      "value": "Less crowded and perfect for solitude seekers."
+    },
+    {
+      "image": "/images/nature/rajmachi/kondane.jpg",
+      "title": "Kondane Caves",
+      "description": "Ancient Buddhist rock-cut caves located near the base of the Karjat route.",
+      "distance": "5 km from Rajmachi base",
+      "icon": "fas fa-spa",
+      "value": "Cultural and archaeological site."
+    }
+  ],
+  "marineLife": {
+    "intro": "Rajmachi is a hill region, so marine life is absent. However, its forests teem with biodiversity.",
+    "items": [
+      {
+        "icon": "fas fa-paw",
+        "title": "Wildlife",
+        "description": "Home to monkeys, deer, civet cats, and a variety of reptiles."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birds",
+        "description": "Commonly spotted species include bulbuls, drongos, and Indian rollers."
+      }
+    ],
+    "conclusion": [
+      "Rajmachi offers a peaceful escape into nature.",
+      "Its balanced mix of history, adventure, and natural beauty makes it a top eco-tourism spot."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Railway Station: Lonavala (16 km).",
+        "Regular trains connect Lonavala with Mumbai and Pune."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Rajmachi can be reached via Lonavala or Karjat by private vehicles and jeeps.",
+        "During monsoon, the road is muddy; trekking is preferred."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune Airport (90 km).",
+        "Taxis and private cabs are available from Pune and Mumbai."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/rajmachi/rajmachi1.jpg",
+      "thumb": "/images/nature/rajmachi/rajmachi1_thumb.jpg",
+      "alt": "Rajmachi Fort and Green Valleys"
+    },
+    {
+      "src": "/images/nature/rajmachi/rajmachi2.jpg",
+      "thumb": "/images/nature/rajmachi/rajmachi2_thumb.jpg",
+      "alt": "Misty Trails of Rajmachi"
+    },
+    {
+      "src": "/images/nature/rajmachi/rajmachi3.jpg",
+      "thumb": "/images/nature/rajmachi/rajmachi3_thumb.jpg",
+      "alt": "Camping under the stars at Rajmachi"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-campground",
+      "description": "Carry tents or book local homestays for night stays; basic facilities available."
+    },
+    {
+      "icon": "fas fa-cloud-showers-heavy",
+      "description": "Avoid visiting during heavy monsoon; roads may become slippery and difficult to navigate."
+    },
+    {
+      "icon": "fas fa-bolt",
+      "description": "Carry power banks, flashlights, and rain gear for safe trekking."
+    }
+  ]
+}

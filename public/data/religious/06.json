@@ -1,0 +1,201 @@
+{
+  "id": "06",
+  "title": "Aundha Nagnath Temple",
+  "subtitle": "The First Jyotirlinga of Lord Shiva in Maharashtra",
+  "bannerImage": "/images/religious/aundha-nagnath/banner.jpg",
+  "color": "#5c4b8a",
+  "coordinates": { "lat": 19.5336, "lng": 77.0422 },
+  "overview": [
+    "Aundha Nagnath Temple, located in Hingoli district, is revered as the first of the twelve Jyotirlingas of Lord Shiva. This ancient temple holds immense significance among Shaivites and is believed to have been built by the Yadava dynasty in the 13th century.",
+    "The temple’s grand stone structure and spiritual atmosphere attract thousands of devotees annually, especially during the holy month of Shravan. The Shivalinga here is said to have been worshipped by the Pandavas during their exile."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-torii-gate",
+      "title": "Jyotirlinga Shrine",
+      "description": "Recognized as the first Jyotirlinga of Lord Shiva, representing immense spiritual power."
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Yadava-Era Architecture",
+      "description": "Built in the 13th century with intricate carvings and strong stone construction."
+    },
+    {
+      "icon": "fa-solid fa-users",
+      "title": "Major Pilgrimage Site",
+      "description": "Visited by millions of devotees during festivals like Shravan and Maha Shivaratri."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/aundha-nagnath/map.jpg",
+    "intro": "Situated in Aundha town, Hingoli district, the temple stands amidst serene rural surroundings with historical and mythological significance.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "Location",
+        "value": "Aundha, Hingoli District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Altitude",
+        "value": "Approximately 650 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Region",
+        "value": "Marathwada"
+      },
+      {
+        "icon": "fa-solid fa-clock",
+        "label": "Best Time to Visit",
+        "value": "July to March"
+      },
+      {
+        "icon": "fa-solid fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Maha Shivaratri, Shravan Maas"
+      }
+    ],
+    "climate": {
+      "description": "The climate in Aundha is generally dry with moderate winters and warm summers.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summers (March–June): Hot, up to 38°C"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (July–September): Moderate rainfall and greenery"
+        },
+        {
+          "icon": "fa-solid fa-leaf",
+          "text": "Winters (October–February): Pleasant and ideal for temple visits"
+        }
+      ]
+    },
+    "conclusion": "Aundha Nagnath stands as a sacred testimony to Maharashtra’s deep-rooted Shaivite traditions and ancient heritage."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-pray",
+      "title": "Temple Darshan",
+      "description": "Seek blessings of Lord Nagnath during daily rituals and aarti ceremonies.",
+      "info": [
+        "Morning and evening aartis attract large gatherings.",
+        "Special poojas can be arranged by devotees."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Explore Temple Architecture",
+      "description": "Admire the stunning stone carvings, sculptures, and heritage design.",
+      "info": [
+        "13th-century Yadava-style construction.",
+        "Walls depict stories from Shiva Purana."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-people-group",
+      "title": "Attend Festivals",
+      "description": "Experience the energy and devotion during Maha Shivaratri and Shravan Utsav.",
+      "info": [
+        "Cultural programs and spiritual events.",
+        "Community meals (Annadan) organized for pilgrims."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/aundha-nagnath/nearby1.jpg",
+      "title": "Sant Namdev Samadhi",
+      "description": "A revered shrine dedicated to Sant Namdev, who is believed to have meditated here.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-hands-praying",
+      "value": "Spiritual site"
+    },
+    {
+      "image": "/images/religious/aundha-nagnath/nearby2.jpg",
+      "title": "Nanded Gurudwara",
+      "description": "A sacred Sikh pilgrimage site — Takht Sri Hazur Sahib — located in nearby Nanded.",
+      "distance": "65 km",
+      "icon": "fa-solid fa-gurdwara",
+      "value": "Religious site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Aundha is inland, its surroundings are home to diverse flora and fauna that add to its serene environment.",
+    "items": [
+      {
+        "icon": "fa-solid fa-seedling",
+        "title": "Flora",
+        "description": "Rich greenery with banyan, peepal, and neem trees around the temple complex."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "Commonly spotted birds and animals include peacocks, sparrows, and squirrels."
+      }
+    ],
+    "conclusion": [
+      "The natural beauty around the temple enhances the pilgrimage experience.",
+      "Peaceful surroundings provide an ideal environment for meditation and devotion."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Hingoli Deccan (22 km).",
+        "Regular trains from Mumbai, Aurangabad, and Nanded."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Well-connected via state highways to Parbhani, Nanded, and Hingoli.",
+        "Frequent MSRTC and private buses available."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Nanded Airport (70 km).",
+        "Aurangabad Airport is about 200 km away."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/aundha-nagnath/1.jpg",
+      "thumb": "/images/religious/aundha-nagnath/thumb1.jpg",
+      "alt": "Aundha Nagnath Temple Entrance"
+    },
+    {
+      "src": "/images/religious/aundha-nagnath/2.jpg",
+      "thumb": "/images/religious/aundha-nagnath/thumb2.jpg",
+      "alt": "Temple Architecture and Carvings"
+    },
+    {
+      "src": "/images/religious/aundha-nagnath/3.jpg",
+      "thumb": "/images/religious/aundha-nagnath/thumb3.jpg",
+      "alt": "Devotees during Maha Shivaratri"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Stay at local dharmashalas or nearby hotels in Hingoli or Nanded."
+    },
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Visit early morning or during aarti for peaceful darshan."
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "description": "Carry water and light snacks; the area can get hot during daytime."
+    }
+  ]
+}

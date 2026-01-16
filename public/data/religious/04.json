@@ -1,0 +1,180 @@
+{
+  "id": "04",
+  "title": "Mahalaxmi Temple, Kolhapur",
+  "subtitle": "One of the Shakti Peethas of Goddess Laxmi",
+  "bannerImage": "/images/religious/mahalaxmi-kolhapur/banner.jpg",
+  "color": "#B91C1C",
+  "coordinates": { "lat": 16.6944, "lng": 74.2239 },
+  "overview": [
+    "The Mahalaxmi Temple in Kolhapur, also known as Ambabai Temple, is one of the most revered Shakti Peethas in India. It is believed that the temple marks the spot where the eyes of Goddess Sati fell, making it a sacred place of immense spiritual power.",
+    "Built in the 7th century by the Chalukya rulers, the temple features exquisite Hemadpanti architecture and intricate stone carvings. Devotees believe that visiting the temple brings prosperity, health, and spiritual fulfillment.",
+    "The temple complex houses several shrines, including those dedicated to Lord Vishnu, Mahakali, and Mahasaraswati, symbolizing divine harmony."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Shakti Peeth of Goddess Mahalaxmi",
+      "description": "One of the 51 Shakti Peethas, where Goddess Laxmi is worshipped as Ambabai—the goddess of wealth and prosperity."
+    },
+    {
+      "icon": "fas fa-archway",
+      "title": "Chalukyan Architecture",
+      "description": "Intricate carvings and beautifully sculpted pillars from the 7th century make it a heritage and spiritual marvel."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/mahalaxmi-kolhapur/map.jpg",
+    "intro": "The Mahalaxmi Temple is located in the heart of Kolhapur city on the banks of the Panchganga River in southern Maharashtra.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Kolhapur"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "569 meters"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Built By",
+        "value": "Chalukya Dynasty"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to February"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Navratri and Kirnotsav"
+      }
+    ],
+    "climate": {
+      "description": "Kolhapur enjoys a pleasant tropical climate with moderate rainfall and cool winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 15°C – 28°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "Set against the scenic Sahyadri hills, the Mahalaxmi Temple blends natural beauty with divine serenity."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan of Goddess Ambabai",
+      "description": "Offer prayers to Goddess Mahalaxmi and seek blessings for prosperity and happiness.",
+      "info": [
+        "Morning and evening aartis are deeply spiritual experiences.",
+        "Special poojas are organized during Fridays and Navratri."
+      ]
+    },
+    {
+      "icon": "fas fa-sun",
+      "title": "Kirnotsav Celebration",
+      "description": "Witness the divine phenomenon when the sun’s rays directly illuminate the idol of Goddess Mahalaxmi.",
+      "info": [
+        "Occurs twice a year during January and November.",
+        "Devotees gather in large numbers to witness this celestial event."
+      ]
+    },
+    {
+      "icon": "fas fa-shopping-basket",
+      "title": "Explore Local Markets",
+      "description": "Visit the famous Mahalaxmi market for Kolhapuri chappals, jewelry, and local delicacies.",
+      "info": [
+        "Located close to the temple entrance.",
+        "Shops open from early morning till late evening."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/mahalaxmi-kolhapur/rankala-lake.jpg",
+      "title": "Rankala Lake",
+      "description": "A scenic lake near the temple ideal for evening strolls and local food stalls.",
+      "distance": "2 km",
+      "icon": "fas fa-water",
+      "value": "Scenic Spot"
+    },
+    {
+      "image": "/images/religious/mahalaxmi-kolhapur/jyotiba-temple.jpg",
+      "title": "Jyotiba Temple",
+      "description": "A revered temple dedicated to Lord Jyotiba, located on a hill about 17 km from Kolhapur.",
+      "distance": "17 km",
+      "icon": "fas fa-gopuram",
+      "value": "Nearby Pilgrimage"
+    }
+  ],
+  "marineLife": {
+    "intro": "Kolhapur is inland, but its spiritual and cultural richness forms the essence of life here.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Spiritual Prosperity",
+        "description": "Devotees believe visiting the temple ensures wealth, happiness, and spiritual growth."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Peaceful Devotion",
+        "description": "The temple exudes a tranquil aura that calms the mind and soul."
+      }
+    ],
+    "conclusion": [
+      "The Mahalaxmi Temple symbolizes divine power, grace, and abundance.",
+      "It stands as a beacon of faith and prosperity for devotees worldwide."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Kolhapur Airport (10 km) connects with major cities like Mumbai and Pune.",
+        "Taxis and auto-rickshaws are available to reach the temple."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train & Road",
+      "details": [
+        "Kolhapur Railway Station is just 5 km from the temple.",
+        "Well-connected by state transport buses and private vehicles via NH48."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/mahalaxmi-kolhapur/1.jpg",
+      "thumb": "/images/religious/mahalaxmi-kolhapur/thumb1.jpg",
+      "alt": "Mahalaxmi Temple Kolhapur Front View"
+    },
+    {
+      "src": "/images/religious/mahalaxmi-kolhapur/2.jpg",
+      "thumb": "/images/religious/mahalaxmi-kolhapur/thumb2.jpg",
+      "alt": "Devotees during Kirnotsav"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Early mornings are ideal for peaceful darshan before the crowds arrive."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Online pooja bookings are available via the Kolhapur Temple Trust website."
+    },
+    {
+      "icon": "fas fa-shoe-prints",
+      "description": "Footwear and cameras are not allowed inside the temple premises."
+    }
+  ]
+}

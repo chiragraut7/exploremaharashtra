@@ -1,0 +1,181 @@
+{
+  "id": "11",
+  "title": "Dajipur Hill Station",
+  "subtitle": "The Wildlife Heaven in the Sahyadri Range near Radhanagari",
+  "bannerImage": "/assets/images/hills/11.jpg",
+  "insideBannerImage": "/assets/images/hills/11/bannerimg.jpg",
+  "color": "#2c5f2d",
+  "coordinates": {"lat": 16.3837, "lng": 73.8635},
+  "overview": [
+    "Nestled in the dense forests of the Sahyadri mountain range, Dajipur Hill Station, also known as the Dajipur Wildlife Sanctuary, is a tranquil retreat located near Radhanagari in Kolhapur district.",
+    "This region is a paradise for nature lovers, offering scenic hills, lush greenery, cascading waterfalls, and the chance to spot rare wildlife including the Indian bison (Gaur), deer, and a variety of bird species.",
+    "The untouched charm of Dajipur makes it an ideal destination for trekking, jungle safaris, and peaceful nature walks away from the bustling city life."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-paw",
+      "title": "Dajipur Wildlife Sanctuary",
+      "description": "Home to Indian bison, deer, peacocks, and leopards spread across the verdant Western Ghats."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Radhanagari Dam Backwaters",
+      "description": "A scenic water reservoir offering picturesque views and boating opportunities amid misty hills."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/11/info2.jpg",
+    "intro": "Located about 120 km from Kolhapur, Dajipur sits on the border of Sindhudurg and Kolhapur districts, surrounded by dense forests and rolling Sahyadri hills.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "Location",
+        "value": "Near Radhanagari, Kolhapur District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Around 1200 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Region",
+        "value": "Sahyadri Mountain Range"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Nearby Rivers",
+        "value": "Bhogawati River, Kalammawadi Dam"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Distance from Kolhapur",
+        "value": "Approx. 120 km"
+      }
+    ],
+    "climate": {
+      "description": "Dajipur experiences a cool and refreshing climate throughout the year, with heavy monsoon rains enhancing its green beauty.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer (March–May): Mild temperatures, pleasant mornings and evenings."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): Ideal for greenery and waterfalls; trekking may be challenging due to heavy rain."
+        }
+      ]
+    },
+    "conclusion": "The geographical diversity of Dajipur, with its forested slopes and water bodies, makes it a perfect spot for eco-tourism and adventure."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Explore the Dajipur Sanctuary in jeeps to spot Indian bison, sambar, barking deer, and peacocks.",
+      "info": [
+        "Guided forest safaris available through local forest department.",
+        "Best time: Early morning or late evening."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Trekking Trails",
+      "description": "Several trails wind through lush forests and hills, ideal for beginners and moderate trekkers.",
+      "info": [
+        "Carry proper gear and insect repellent.",
+        "Trekking permits may be required in certain areas."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Boating & Nature Walks",
+      "description": "Enjoy boating near Radhanagari Dam or take peaceful walks through the sanctuary pathways.",
+      "info": [
+        "Local guides available for nature walks.",
+        "Avoid visiting during heavy rainfall."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/11/img1.jpg",
+      "title": "Radhanagari Dam",
+      "description": "Built on the Bhogawati River, this massive dam is surrounded by misty hills and serves as a scenic picnic spot.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-water",
+      "value": "Beautiful backwaters and panoramic views."
+    },
+    {
+      "image": "/assets/images/hills/11/img2.jpg",
+      "title": "Kalammawadi Dam",
+      "description": "A serene dam located nearby offering calm waters, boating, and beautiful sunset views.",
+      "distance": "25 km",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Ideal for photography and relaxation."
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a forested hill area, Dajipur does not feature marine life but is rich in terrestrial and avian biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Bird Watching",
+        "description": "Spot hornbills, peacocks, and various migratory birds in the sanctuary."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Forest Fauna",
+        "description": "Indian bison, leopards, deer, and wild boar inhabit the dense forest."
+      }
+    ],
+    "conclusion": [
+      "Dajipur is a wildlife haven within Maharashtra’s hill belts.",
+      "It provides an immersive experience of the Western Ghats’ natural wealth."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Dajipur is well connected via Kolhapur–Radhanagari road.",
+        "Buses and private vehicles are available from Kolhapur (120 km)."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train & Air",
+      "details": [
+        "Nearest railway station: Kolhapur (120 km).",
+        "Nearest airport: Kolhapur Airport (130 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/11/img1.jpg",
+      "thumb": "/assets/images/hills/11/img1.jpg",
+      "alt": "Dajipur Wildlife Sanctuary Forest"
+    },
+    {
+      "src": "/assets/images/hills/11/img2.jpg",
+      "thumb": "/assets/images/hills/11/img2.jpg",
+      "alt": "Radhanagari Dam Backwaters"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Plan your visit between October and February for the most pleasant weather."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "description": "Carry eco-friendly items and avoid plastic waste within sanctuary limits."
+    },
+    {
+      "icon": "fa-solid fa-hotel",
+      "description": "Limited accommodation available near sanctuary; advance booking is recommended."
+    }
+  ]
+}

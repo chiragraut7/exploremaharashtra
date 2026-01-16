@@ -1,0 +1,186 @@
+{
+  "id": "jatra-festival",
+  "title": "Jatra Festival",
+  "subtitle": "Vibrant Rural Fairs of Maharashtra",
+  "bannerImage": "/images/cultural/jatra-festival/banner.jpg",
+  "color": "#e48a3c",
+  "overview": [
+    "Jatra, meaning a village fair or religious gathering, is an integral part of Maharashtra’s cultural and spiritual life. Rooted in devotion and community celebration, these fairs revolve around local deities and are marked by processions, folk performances, markets, and traditional food.",
+    "Every Jatra is a blend of faith, festivity, and social bonding — drawing thousands of devotees from nearby villages and towns. It offers a glimpse into the deep cultural rhythm of rural Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Religious Significance",
+      "description": "Each Jatra honors a local deity, celebrated with rituals, prayers, and offerings."
+    },
+    {
+      "icon": "fas fa-music",
+      "title": "Folk and Cultural Displays",
+      "description": "Traditional performances like Tamasha, Gondhal, and Lezim add color and rhythm to the festivities."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/jatra-festival/geography.jpg",
+    "intro": "Jatras are celebrated throughout Maharashtra — from the plains of Vidarbha to the hills of Western Ghats. Every region has its signature fairs, often held near temples or sacred groves.",
+    "details": [
+      {
+        "icon": "fas fa-map-marked-alt",
+        "label": "Famous Jatras",
+        "value": "Pandharpur, Jejuri, Tuljapur, Shirdi, and Kolhapur"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Visitors",
+        "value": "Thousands of devotees and traders from across Maharashtra"
+      },
+      {
+        "icon": "fas fa-store",
+        "label": "Local Bazaar",
+        "value": "Traditional goods, toys, ornaments, and local cuisine"
+      },
+      {
+        "icon": "fas fa-drum",
+        "label": "Entertainment",
+        "value": "Folk music, dance, and dramatic plays like Bharud and Tamasha"
+      },
+      {
+        "icon": "fas fa-flag",
+        "label": "Special Attractions",
+        "value": "Palkhi processions, temple rituals, and nighttime illumination"
+      }
+    ],
+    "climate": {
+      "description": "Jatras usually take place in cooler or dry seasons, making it comfortable for large outdoor gatherings.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter and post-monsoon seasons (October–February) are ideal for major Jatras."
+        },
+        {
+          "icon": "fas fa-cloud-sun",
+          "text": "Smaller regional fairs continue during summer, especially around local harvest festivals."
+        }
+      ]
+    },
+    "conclusion": "From devotion to dance, Jatras are a living tradition — celebrating the bond between faith, culture, and community."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-walking",
+      "title": "Join the Procession",
+      "description": "Experience the spiritual grandeur of Palkhi processions, temple rituals, and drum beats.",
+      "info": [
+        "Best experienced in Pandharpur and Jejuri Jatras.",
+        "Witness villagers dressed in traditional attire carrying deity palanquins."
+      ]
+    },
+    {
+      "icon": "fas fa-store",
+      "title": "Explore Local Bazaars",
+      "description": "Wander through colorful markets filled with toys, jewelry, and local food specialties.",
+      "info": [
+        "Taste rural delicacies like bhajani, modak, and jaggery sweets.",
+        "Support artisans and traditional craftsmen."
+      ]
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Enjoy Folk Performances",
+      "description": "Watch live Tamasha, Bharud, Lezim, and Gondhal — the heartbeat of rural entertainment.",
+      "info": [
+        "Performed by local artists on open stages.",
+        "Every act reflects devotion, humor, and cultural pride."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/jatra-festival/pandharpur.jpg",
+      "title": "Pandharpur Wari Jatra",
+      "description": "Maharashtra’s most famous pilgrimage fair dedicated to Lord Vitthal, attracting millions of devotees.",
+      "distance": "Pandharpur, Solapur",
+      "icon": "fas fa-praying-hands",
+      "value": "Spiritual Pilgrimage"
+    },
+    {
+      "image": "/images/cultural/jatra-festival/jejuri.jpg",
+      "title": "Jejuri Bhandara Festival",
+      "description": "A spectacular Jatra where devotees shower turmeric powder in devotion to Lord Khandoba.",
+      "distance": "Jejuri, Pune District",
+      "icon": "fas fa-sun",
+      "value": "Golden Festival"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not related to marine life, the Jatra embodies a spiritual ecosystem — connecting faith, culture, and local livelihood.",
+    "items": [
+      {
+        "icon": "fas fa-leaf",
+        "title": "Sustainability and Tradition",
+        "description": "Jatras preserve folk art and rural craftsmanship across generations."
+      },
+      {
+        "icon": "fas fa-heart",
+        "title": "Cultural Harmony",
+        "description": "Unites diverse communities in shared devotion and celebration."
+      }
+    ],
+    "conclusion": [
+      "The Jatra is more than a fair — it is a vibrant reflection of Maharashtra’s soul.",
+      "Its traditions continue to keep rural culture alive and thriving."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Major railway stations: Pune, Solapur, Kolhapur, and Nashik.",
+        "Many Jatras are held near temple towns connected by local trains."
+      ]
+    },
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": [
+        "State transport and private buses connect all major Jatra towns.",
+        "Best to reach early to avoid heavy festival crowds."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airports: Pune, Mumbai, and Aurangabad.",
+        "Local transport options like jeeps or rickshaws are available from nearby towns."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/jatra-festival/gallery1.jpg",
+      "thumb": "/images/cultural/jatra-festival/gallery1-thumb.jpg",
+      "alt": "Devotees at a Jatra fair"
+    },
+    {
+      "src": "/images/cultural/jatra-festival/gallery2.jpg",
+      "thumb": "/images/cultural/jatra-festival/gallery2-thumb.jpg",
+      "alt": "Colorful night illumination during Jatra"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Check local temple calendars for Jatra dates — usually linked with lunar festivals."
+    },
+    {
+      "icon": "fas fa-users",
+      "description": "Arrive early to avoid crowds and witness morning rituals and processions."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography is allowed in fairs, but avoid using flash during temple rituals."
+    }
+  ]
+}

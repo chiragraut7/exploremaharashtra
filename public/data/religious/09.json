@@ -1,0 +1,181 @@
+{
+  "id": "siddhivinayak-temple",
+  "title": "Siddhivinayak Temple",
+  "subtitle": "The Most Revered Ganesh Temple of Mumbai",
+  "bannerImage": "/images/religious/siddhivinayak/banner.jpg",
+  "color": "#f4b400",
+  "coordinates": { "lat": 19.0169, "lng": 72.8303 },
+  "overview": [
+    "The Siddhivinayak Temple, located in Prabhadevi, Mumbai, is one of the most famous and revered temples dedicated to Lord Ganesha in India.",
+    "Built in 1801 by Laxman Vithu and Deubai Patil, the temple has become a spiritual landmark attracting millions of devotees from all walks of life.",
+    "The black stone idol of Lord Ganesha, with its right-curved trunk, is considered extremely sacred and powerful.",
+    "The temple’s calm atmosphere and intricate architecture blend faith and heritage beautifully."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Ancient Temple",
+      "description": "Built in 1801, Siddhivinayak Temple stands as a historic and spiritual symbol of Mumbai."
+    },
+    {
+      "icon": "fas fa-hands-praying",
+      "title": "Spiritual Power",
+      "description": "The temple’s idol of Ganesha is said to grant the wishes of true devotees."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/siddhivinayak/location.jpg",
+    "intro": "Siddhivinayak Temple is situated in Prabhadevi, South Mumbai, amidst the bustling heart of India’s financial capital.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Prabhadevi, Mumbai"
+      },
+      {
+        "icon": "fas fa-city",
+        "label": "District",
+        "value": "Mumbai City"
+      },
+      {
+        "icon": "fas fa-ruler",
+        "label": "Altitude",
+        "value": "14 m above sea level"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Founded",
+        "value": "1801 AD"
+      },
+      {
+        "icon": "fas fa-crosshairs",
+        "label": "Coordinates",
+        "value": "19.0169° N, 72.8303° E"
+      }
+    ],
+    "climate": {
+      "description": "Mumbai has a coastal tropical climate with warm weather throughout the year, making the temple accessible year-round.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best time to visit is November to February when the weather is pleasant."
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon (June–September) adds charm but may cause heavy crowding."
+        }
+      ]
+    },
+    "conclusion": "Being in the heart of Mumbai, Siddhivinayak Temple is easily accessible and can be visited comfortably any time of the year."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-om",
+      "title": "Aarti & Darshan",
+      "description": "Witness the divine morning and evening Aartis, offering spiritual peace and blessings.",
+      "info": [
+        "Kakad Aarti: 5:30 AM – 6:00 AM",
+        "Shej Aarti: 9:50 PM – 10:00 PM"
+      ]
+    },
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Offer Modaks",
+      "description": "Devotees offer Modaks, Lord Ganesha’s favorite sweet, as a sign of devotion.",
+      "info": [
+        "Fresh modaks available near temple premises.",
+        "Special offerings during Ganesh Chaturthi."
+      ]
+    },
+    {
+      "icon": "fas fa-hands-helping",
+      "title": "Charity & Seva",
+      "description": "Participate in temple-run charities supporting education, healthcare, and welfare.",
+      "info": [
+        "Temple Trust conducts numerous social activities.",
+        "You can contribute online or in person."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/siddhivinayak/attraction1.jpg",
+      "title": "Haji Ali Dargah",
+      "description": "A beautiful Indo-Islamic structure located in the middle of the Arabian Sea, symbolizing Mumbai’s spiritual harmony.",
+      "distance": "5 km",
+      "icon": "fas fa-mosque",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/religious/siddhivinayak/attraction2.jpg",
+      "title": "Worli Sea Face",
+      "description": "A scenic seaside promenade offering panoramic views and a relaxing environment.",
+      "distance": "3 km",
+      "icon": "fas fa-water",
+      "value": "Seaside Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Siddhivinayak Temple is a religious landmark rather than a coastal site, the nearby Arabian Sea adds a soothing charm to the environment.",
+    "items": [
+      {
+        "icon": "fas fa-water",
+        "title": "Coastal Serenity",
+        "description": "The temple’s proximity to the sea gives a calm and rejuvenating ambiance."
+      },
+      {
+        "icon": "fas fa-umbrella-beach",
+        "title": "Nearby Beaches",
+        "description": "Visit Girgaon Chowpatty or Dadar Beach for sunset views after your darshan."
+      }
+    ],
+    "conclusion": [
+      "Enjoy the coastal charm of Mumbai alongside your spiritual visit.",
+      "Ideal for travelers seeking both peace and city exploration."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Dadar (1.5 km).",
+        "Local trains from Western, Central, and Harbour lines stop here."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Chhatrapati Shivaji Maharaj International Airport (16 km).",
+        "Cabs and app-based taxis easily available from the airport."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/siddhivinayak/gallery1.jpg",
+      "thumb": "/images/religious/siddhivinayak/thumb1.jpg",
+      "alt": "Main Sanctum of Siddhivinayak Temple"
+    },
+    {
+      "src": "/images/religious/siddhivinayak/gallery2.jpg",
+      "thumb": "/images/religious/siddhivinayak/thumb2.jpg",
+      "alt": "Devotees during Aarti"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Visit early morning (5:30–8:00 AM) to avoid long queues."
+    },
+    {
+      "icon": "fas fa-calendar-day",
+      "description": "Tuesdays and festivals see huge crowds—plan accordingly."
+    },
+    {
+      "icon": "fas fa-globe",
+      "description": "Use the official temple website for online darshan and donation."
+    }
+  ]
+}

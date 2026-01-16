@@ -1,0 +1,184 @@
+{
+  "id": "12",
+  "title": "Tikona Fort",
+  "subtitle": "The Triangular Fort of the Sahyadris",
+  "bannerImage": "/images/forts/tikona/tikona-banner.jpg",
+  "color": "#9c6b30",
+  "coordinates": { "lat": 18.6300, "lng": 73.5133 },
+  "overview": [
+    "Tikona Fort, also known as Vitandgad, is a beautiful hill fort located near Lonavala in Maharashtra. The name 'Tikona' comes from its triangular shape, and it stands as one of the most scenic trekking destinations in the Sahyadri mountain range.",
+    "The fort dates back to the 15th century and played a key role in guarding the Maval region. It was later captured by Chhatrapati Shivaji Maharaj and served as an important watchtower fort due to its strategic location and commanding views of the surrounding valleys and lakes."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Scenic Trek",
+      "description": "A popular short trek with panoramic views of Pawna Lake, Tung Fort, and Lohagad-Vishapur range."
+    },
+    {
+      "icon": "fa-solid fa-landmark-dome",
+      "title": "Historical Significance",
+      "description": "Once under the control of the Nizam Shahi dynasty and later captured by Chhatrapati Shivaji Maharaj."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Pawna Lake View",
+      "description": "The fort offers mesmerizing views of Pawna Lake and lush green valleys during the monsoon season."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/tikona/tikona-map.jpg",
+    "intro": "Tikona Fort rises to about 3,500 feet above sea level and is located near Kamshet, close to Lonavala. Its triangular shape gives it its name and distinct identity among Maharashtra’s hill forts.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Kamshet, near Lonavala, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-ruler-vertical",
+        "label": "Altitude",
+        "value": "3,500 feet (1,068 meters)"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Region",
+        "value": "Sahyadri Range (Western Ghats)"
+      },
+      {
+        "icon": "fa-solid fa-map-pin",
+        "label": "Coordinates",
+        "value": "18.6476° N, 73.4809° E"
+      },
+      {
+        "icon": "fa-solid fa-city",
+        "label": "Nearest Town",
+        "value": "Lonavala (25 km)"
+      }
+    ],
+    "climate": {
+      "description": "The fort enjoys a cool and refreshing climate most of the year. The monsoon season brings misty trails and lush greenery, making it ideal for trekkers.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (June–September): Best time for scenic treks and nature photography."
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter (November–February): Pleasant weather for trekking and exploring ruins."
+        }
+      ]
+    },
+    "conclusion": "Tikona Fort offers a perfect mix of adventure and history — ideal for trekkers, photographers, and history lovers seeking a short getaway near Lonavala."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking Adventure",
+      "description": "A moderate-level trek with stone steps and scenic plateaus offering panoramic Sahyadri views.",
+      "info": [
+        "Duration: 1.5–2 hours (ascent)",
+        "Difficulty: Easy to Moderate"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Nature",
+      "description": "Capture breathtaking views of Pawna Lake and the mist-covered peaks during monsoon.",
+      "info": [
+        "Best spots: Top of the fort, watchtower area, lake view points",
+        "Ideal time: Early morning or post-monsoon"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historic Exploration",
+      "description": "Explore the remnants of old gates, water tanks, a small temple, and watchtowers that tell the story of Maratha architecture.",
+      "info": [
+        "Main sites: Trimbakeshwar Mahadev Temple, fort bastions, old caves",
+        "Time needed: 2–3 hours for complete exploration"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/tikona/pawna-lake.jpg",
+      "title": "Pawna Lake",
+      "description": "A serene lake popular for camping and boating, offering stunning views from Tikona Fort.",
+      "distance": "5 km",
+      "icon": "fa-solid fa-water",
+      "value": "Nearby Lake"
+    },
+    {
+      "image": "/images/forts/tikona/tung-fort.jpg",
+      "title": "Tung Fort",
+      "description": "Another beautiful hill fort across Pawna Lake, often visited together with Tikona.",
+      "distance": "10 km",
+      "icon": "fa-solid fa-mountain",
+      "value": "Nearby Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Tikona is a hill fort, its surrounding valleys and Pawna Lake nurture rich biodiversity and scenic beauty.",
+    "items": [
+      {
+        "icon": "fa-solid fa-tree",
+        "title": "Flora",
+        "description": "Dense green vegetation, wildflowers, and unique monsoon plants along the trek."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "Local bird species like bulbuls, drongos, and eagles can often be seen gliding over the valleys."
+      }
+    ],
+    "conclusion": [
+      "Tikona Fort offers a peaceful connection with nature through its lush greenery and clean air.",
+      "Perfect for eco-tourism enthusiasts and trekkers alike."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Kamshet (16 km)",
+        "Regular trains from Pune and Lonavala"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Distance from Pune: 60 km via Paud Road",
+        "Accessible by car till Tikona Peth village"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/tikona/gallery1.jpg",
+      "thumb": "/images/forts/tikona/gallery1-thumb.jpg",
+      "alt": "Tikona Fort top view"
+    },
+    {
+      "src": "/images/forts/tikona/gallery2.jpg",
+      "thumb": "/images/forts/tikona/gallery2-thumb.jpg",
+      "alt": "Pawna Lake view from Tikona Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-sun",
+      "description": "Start your trek early morning to avoid afternoon heat and crowd."
+    },
+    {
+      "icon": "fa-solid fa-cloud-rain",
+      "description": "Carry rainwear and non-slip shoes during monsoon season."
+    },
+    {
+      "icon": "fa-solid fa-bottle-water",
+      "description": "Bring enough drinking water and light snacks; limited facilities available near the base village."
+    }
+  ]
+}

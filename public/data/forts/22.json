@@ -1,0 +1,159 @@
+{
+  "id": "22",
+  "title": "Panhala",
+  "subtitle": "The Historic Hill Station of Shivaji Maharaj",
+  "bannerImage": "/images/hillstations/panhala/banner.jpg",
+  "color": "#4a5d73",
+  "coordinates": { "lat": 16.8114, "lng": 74.1103 },
+  "overview": [
+    "Panhala, located near Kolhapur in Maharashtra, is a charming hill station steeped in history. It is most famous for the majestic Panhala Fort, closely associated with Chhatrapati Shivaji Maharaj.",
+    "At an altitude of around 977 meters, Panhala offers cool breezes, lush landscapes, and panoramic views of the Sahyadri range.",
+    "Apart from its historical importance, Panhala also delights visitors with serene nature trails, scenic viewpoints, and pleasant weather all year round."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-chess-rook",
+      "title": "Historic Panhala Fort",
+      "description": "A grand fort built in the 12th century that played a crucial role during the Maratha Empire, offering a glimpse into Maharashtra’s glorious past."
+    },
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Scenic Hills & Valleys",
+      "description": "Panhala’s elevated position provides breathtaking views of the verdant Sahyadri ranges and Kolhapur plains below."
+    },
+    {
+      "icon": "fa-solid fa-cloud-sun-rain",
+      "title": "Pleasant Climate",
+      "description": "Enjoy cool, breezy weather throughout the year, making it an ideal retreat from the city heat."
+    }
+  ],
+  "geography": {
+    "image": "/images/hillstations/panhala/geography.jpg",
+    "intro": "Situated about 20 km northwest of Kolhapur, Panhala lies in the Western Ghats at an altitude of 977 meters, surrounded by dense forests and historic ramparts.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Kolhapur District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "977 meters above sea level" },
+      { "icon": "fa-solid fa-map", "label": "Coordinates", "value": "16.81°N, 74.11°E" },
+      { "icon": "fa-solid fa-landmark", "label": "Main Landmark", "value": "Panhala Fort" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Western Ghats (Sahyadri Range)" }
+    ],
+    "climate": {
+      "description": "Panhala has a temperate climate with pleasant summers, misty monsoons, and cool winters.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon (June–September): Ideal for enjoying misty landscapes and waterfalls." },
+        { "icon": "fa-solid fa-snowflake", "text": "Winter (November–February): Perfect time for sightseeing and historical exploration." }
+      ]
+    },
+    "conclusion": "Panhala’s natural beauty combined with its historical grandeur makes it one of Maharashtra’s most unique hill getaways."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-landmark-flag",
+      "title": "Fort Exploration",
+      "description": "Walk through the massive Panhala Fort, exploring its ancient gateways, secret passages, and watchtowers.",
+      "info": ["Key spots: Teen Darwaza, Ambarkhana, Sajja Kothi", "Guided tours available on weekends"]
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking & Nature Walks",
+      "description": "Enjoy gentle treks around the fort or longer trails leading into the surrounding forests and viewpoints.",
+      "info": ["Popular: Ambarkhana trek, Sunset Point trail"]
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "title": "Photography & Heritage Tours",
+      "description": "Capture the fort’s grandeur, scenic hills, and cloud-kissed landscapes.",
+      "info": ["Morning and sunset light ideal for photography"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/hillstations/panhala/panhala-fort.jpg",
+      "title": "Panhala Fort",
+      "description": "A massive fort with historic importance in Maratha history, featuring ancient architecture and panoramic views.",
+      "distance": "Within town limits",
+      "icon": "fa-solid fa-shield-halved",
+      "value": "Historic Fort"
+    },
+    {
+      "image": "/images/hillstations/panhala/sajja-kothi.jpg",
+      "title": "Sajja Kothi",
+      "description": "An elegant structure built by the Adil Shahi rulers, offering sweeping valley views and historical significance.",
+      "distance": "Inside Panhala Fort complex",
+      "icon": "fa-solid fa-tower-observation",
+      "value": "Historic Monument"
+    },
+    {
+      "image": "/images/hillstations/panhala/pariksha-point.jpg",
+      "title": "Pariksha Point",
+      "description": "A serene viewpoint offering mesmerizing sunsets and panoramic views of the Kolhapur valley.",
+      "distance": "2 km from Panhala Fort",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill station located far from the coast, Panhala doesn’t have marine life but is rich in mountain flora and fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Evergreen forests with bamboo, teak, and monsoon wildflowers enhance the hill’s charm."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Home to various birds, monkeys, and small mammals common to the Sahyadri region."
+      }
+    ],
+    "conclusion": [
+      "Panhala’s ecosystem supports abundant greenery and diverse bird species.",
+      "Nature lovers will enjoy the clean air, peaceful walks, and scenic viewpoints."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Kolhapur (20 km away).",
+        "Taxis and buses are available from Kolhapur to Panhala."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Panhala is well connected by road to Kolhapur (20 km) and Pune (240 km).",
+        "Regular MSRTC buses and private taxis are available."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Kolhapur Airport (30 km).",
+        "Pune International Airport is about 240 km away."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/hillstations/panhala/gallery1.jpg", "thumb": "/images/hillstations/panhala/thumb1.jpg", "alt": "Panhala Fort" },
+    { "src": "/images/hillstations/panhala/gallery2.jpg", "thumb": "/images/hillstations/panhala/thumb2.jpg", "alt": "Sajja Kothi" },
+    { "src": "/images/hillstations/panhala/gallery3.jpg", "thumb": "/images/hillstations/panhala/thumb3.jpg", "alt": "Sunset at Pariksha Point" }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-hotel",
+      "description": "Book heritage stays or hilltop resorts near Panhala Fort for an authentic experience."
+    },
+    {
+      "icon": "fa-solid fa-sun",
+      "description": "Best time to visit: October to February for cool, pleasant weather."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry your camera — early mornings offer stunning misty views and heritage backdrops."
+    }
+  ]
+}

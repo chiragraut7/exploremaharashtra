@@ -1,0 +1,179 @@
+{
+  "id": "15",
+  "title": "Vasai Fort",
+  "subtitle": "Historic Portuguese Citadel near Mumbai",
+  "bannerImage": "/images/forts/vasai/vasai-banner.jpg",
+  "color": "#4338ca",
+  "coordinates": { "lat": 19.3303, "lng": 72.7936 },
+  "overview": [
+    "Vasai Fort, also known as Fort Bassein, is a massive coastal fort located in Vasai near Mumbai. Built by the Portuguese in the 16th century, it served as the northern capital of Portuguese India before falling to the Marathas under Chimaji Appa in 1739.",
+    "Today, the fort stands as a picturesque ruin surrounded by palm groves and the Arabian Sea, offering a glimpse into the colonial era of India’s western coast."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Portuguese Architecture",
+      "description": "The fort showcases stunning remnants of Portuguese churches, watchtowers, and massive stone walls."
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "title": "Popular Film Location",
+      "description": "Vasai Fort’s atmospheric ruins have appeared in several Bollywood films and music videos."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/vasai/vasai-geo.jpg",
+    "intro": "Spread across 110 acres, Vasai Fort is situated along the Arabian Sea, about 50 km north of Mumbai. The fort’s three main gates face the sea and the land, designed to guard the Bassein Creek.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Vasai, Palghar District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-ruler-combined",
+        "label": "Area",
+        "value": "Approximately 110 acres"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Surroundings",
+        "value": "Bassein Creek and Arabian Sea"
+      },
+      {
+        "icon": "fa-solid fa-building",
+        "label": "Built By",
+        "value": "Portuguese, 1533 CE"
+      },
+      {
+        "icon": "fa-solid fa-tower-observation",
+        "label": "Key Features",
+        "value": "Watchtowers, Churches, Sea Bastions"
+      }
+    ],
+    "climate": {
+      "description": "Vasai has a humid tropical coastal climate, with heavy monsoon rains and mild winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best visited from November to February."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Avoid during monsoon (June–September) due to slippery terrain."
+        }
+      ]
+    },
+    "conclusion": "The fort’s weathered stone walls and sea-facing bastions make it a haven for history lovers, photographers, and explorers alike."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-walking",
+      "title": "Historical Exploration",
+      "description": "Explore the vast ruins and imagine the bustling port city it once was.",
+      "info": [
+        "Carry water and wear comfortable shoes.",
+        "Hire local guides for detailed historical insights."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Film Shoots",
+      "description": "Capture cinematic views of ruined arches, old chapels, and sea walls.",
+      "info": [
+        "Early morning offers the best light.",
+        "Tripods are allowed; drone use may need permission."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Nature Walk",
+      "description": "Enjoy a peaceful walk through palm groves and overgrown walls surrounding the fort.",
+      "info": [
+        "The fort is home to several bird species.",
+        "Avoid wandering alone after dark."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/vasai/attraction1.jpg",
+      "title": "Old Portuguese Churches",
+      "description": "Ruins of ancient churches inside the fort reflect the Portuguese era of dominance.",
+      "distance": "Inside Fort",
+      "icon": "fa-solid fa-church",
+      "value": "Historic Ruins"
+    },
+    {
+      "image": "/images/forts/vasai/attraction2.jpg",
+      "title": "Sea-Facing Bastions",
+      "description": "Strong bastions built to defend the fort against sea attacks offer stunning sunset views.",
+      "distance": "Western Wall",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Scenic Points"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Vasai is more historical than marine, its coastline supports a thriving coastal ecosystem.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Coastal Biodiversity",
+        "description": "The nearby creeks are home to fish, crabs, and mangrove habitats."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Scenic Shoreline",
+        "description": "The coastal waters around Vasai provide a calm and scenic backdrop for the fort."
+      }
+    ],
+    "conclusion": [
+      "Vasai Fort offers a rare blend of nature and history by the Arabian Sea.",
+      "It remains a favorite weekend destination for Mumbaikars and history enthusiasts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Take a Western Line train from Mumbai to Vasai Road station.",
+        "Autos and local buses connect the fort from the station (10 km)."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Vasai is around 50 km from Mumbai via the Western Express Highway.",
+        "Ample parking is available near the fort entrance."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/vasai/gallery1.jpg",
+      "thumb": "/images/forts/vasai/gallery1-thumb.jpg",
+      "alt": "Vasai Fort Ruins"
+    },
+    {
+      "src": "/images/forts/vasai/gallery2.jpg",
+      "thumb": "/images/forts/vasai/gallery2-thumb.jpg",
+      "alt": "Sea View from Vasai Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Visit early morning or evening to avoid heat."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear shoes suitable for walking on uneven terrain."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "The fort is a photographer’s paradise — carry extra batteries!"
+    }
+  ]
+}

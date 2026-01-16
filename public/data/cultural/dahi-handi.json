@@ -1,0 +1,75 @@
+{
+  "id": "dahi-handi",
+  "title": "Dahi Handi Festival",
+  "subtitle": "Celebration of Krishna’s Mischievous Spirit",
+  "bannerImage": "/images/cultural/dahi-handi/banner.jpg",
+  "color": "#e4b534",
+  "overview": [
+    "Dahi Handi is a lively festival celebrated on Janmashtami, marking Lord Krishna’s birth.",
+    "Groups form human pyramids to break earthen pots filled with curd, symbolizing Krishna’s childhood pranks."
+  ],
+  "highlights": [
+    { "icon": "fas fa-child", "title": "Joyful Celebration", "description": "Youthful enthusiasm, chants, and colors fill the streets." },
+    { "icon": "fas fa-drum", "title": "Cultural Unity", "description": "Brings communities together across Maharashtra." }
+  ],
+  "geography": {
+    "image": "/images/cultural/dahi-handi/geography.jpg",
+    "intro": "Primarily celebrated in Mumbai, Thane, Pune, and Nashik.",
+    "details": [
+      { "icon": "fas fa-city", "label": "Major Cities", "value": "Mumbai, Pune, Thane, Nashik" },
+      { "icon": "fas fa-calendar", "label": "Date", "value": "Next day after Janmashtami" },
+      { "icon": "fas fa-people-group", "label": "Participants", "value": "Thousands of Govinda Pathaks" },
+      { "icon": "fas fa-hand-holding-heart", "label": "Spirit", "value": "Teamwork and Celebration" },
+      { "icon": "fas fa-music", "label": "Highlights", "value": "Music, Dance, and Street Processions" }
+    ],
+    "climate": { "description": "Monsoon time — expect rain and cheer.", "seasons": [{ "icon": "fas fa-cloud-rain", "text": "Celebrated in August" }] },
+    "conclusion": "Dahi Handi embodies the spirit of courage, coordination, and faith."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-users",
+      "title": "Forming Human Pyramids",
+      "description": "Teams of Govindas compete to reach the hanging Handi.",
+      "info": ["Requires balance and teamwork.", "Winners receive large prizes."]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Street Photography",
+      "description": "Capture thrilling pyramid formations and joy.",
+      "info": ["Best spots in Thane, Ghatkopar, Dadar."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/dahi-handi/attraction1.jpg",
+      "title": "Gokulashtami Celebrations",
+      "description": "Temples host devotional programs before Dahi Handi.",
+      "icon": "fas fa-gopuram",
+      "value": "Across Maharashtra"
+    },
+    {
+      "image": "/images/cultural/dahi-handi/attraction2.jpg",
+      "title": "Thane Handi Festival",
+      "description": "One of the biggest celebrations with huge crowds.",
+      "icon": "fas fa-people-arrows",
+      "value": "Thane"
+    }
+  ],
+  "marineLife": {
+    "intro": "The festival is a lively urban cultural event.",
+    "items": [{ "icon": "fas fa-heart", "title": "Unity in Diversity", "description": "Teams from all communities join the celebration." }],
+    "conclusion": ["The Dahi Handi festival is Maharashtra’s heart beating with devotion and energy."]
+  },
+  "howToReach": [
+    { "icon": "fas fa-train", "title": "By Train", "details": ["Local trains connect all major festival areas."] },
+    { "icon": "fas fa-car", "title": "By Road", "details": ["Public transport and taxis widely available in Mumbai and Thane."] }
+  ],
+  "gallery": [
+    { "src": "/images/cultural/dahi-handi/gallery1.jpg", "thumb": "/images/cultural/dahi-handi/thumb1.jpg", "alt": "Govinda Pyramid" },
+    { "src": "/images/cultural/dahi-handi/gallery2.jpg", "thumb": "/images/cultural/dahi-handi/thumb2.jpg", "alt": "Festive Crowd" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-camera", "description": "Arrive early for best photography angles." },
+    { "icon": "fas fa-umbrella", "description": "Carry rain gear — the festival coincides with monsoon." }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "04",
+  "title": "Tamhini Ghat",
+  "subtitle": "A Scenic Mountain Pass with Waterfalls and Misty Valleys",
+  "bannerImage": "/assets/images/nature/tamhini-banner.jpg",
+  "color": "#2e8b57",
+  "coordinates": { "lat": 18.4419, "lng": 73.4359 },
+  "overview": [
+    "Tamhini Ghat is a beautiful mountain pass located between Mulshi and Tamhini in Maharashtra’s Western Ghats.",
+    "Known for its lush greenery, mist-covered hills, and countless waterfalls, it’s a perfect monsoon getaway near Pune and Mumbai.",
+    "The region is filled with streams, dense forests, and stunning views of the Sahyadri ranges, making it a paradise for nature lovers and photographers."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Multiple Waterfalls",
+      "description": "Dozens of waterfalls cascade through the mountains during the monsoon season, creating mesmerizing sights."
+    },
+    {
+      "icon": "fa-solid fa-cloud-sun",
+      "title": "Misty Valleys",
+      "description": "Thick mist and clouds often blanket the ghat, giving travelers a surreal and dreamlike experience."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/nature/tamhini-map.jpg",
+    "intro": "Tamhini Ghat lies in the Western Ghats, connecting Pune to the Konkan region. The route offers steep climbs, dense forests, and serene lakes.",
+    "details": [
+      { "icon": "fa-solid fa-map-marker-alt", "label": "Location", "value": "Mulshi, Pune District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "Approximately 2,000 feet" },
+      { "icon": "fa-solid fa-water", "label": "Nearest River", "value": "Mulshi Lake" },
+      { "icon": "fa-solid fa-tree", "label": "Vegetation", "value": "Tropical Evergreen Forests" },
+      { "icon": "fa-solid fa-route", "label": "Best Route", "value": "Pune → Mulshi → Tamhini Ghat → Mangaon" }
+    ],
+    "climate": {
+      "description": "Tamhini Ghat experiences a moderate climate with heavy rainfall during the monsoon season.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon (June–September): Best time to visit for waterfalls and greenery." },
+        { "icon": "fa-solid fa-sun", "text": "Winter (November–February): Pleasant weather for trekking and sightseeing." }
+      ]
+    },
+    "conclusion": "Tamhini Ghat is an enchanting escape for those who love monsoon drives, nature photography, and tranquility away from city life."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Trekking",
+      "description": "Explore the lush forest trails and viewpoints along the ghat.",
+      "info": ["Easy to moderate treks available", "Guided tours recommended during heavy rains"]
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "title": "Photography",
+      "description": "Capture misty mountains, streams, and waterfalls in their monsoon glory.",
+      "info": ["Best time: July to September", "Carry waterproof gear"]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Visits",
+      "description": "Discover small hidden waterfalls and natural pools on the roadside.",
+      "info": ["Avoid deep or strong currents", "Local guides available"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/nature/mulshi-dam.jpg",
+      "title": "Mulshi Dam",
+      "description": "A vast reservoir offering boating, fishing, and scenic views of the Sahyadri hills.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-water",
+      "value": "Scenic Reservoir"
+    },
+    {
+      "image": "/assets/images/nature/devkund-waterfall.jpg",
+      "title": "Devkund Waterfall",
+      "description": "A majestic plunge waterfall hidden in the forest, popular for trekking.",
+      "distance": "25 km",
+      "icon": "fa-solid fa-waterfall",
+      "value": "Popular Trek"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Tamhini Ghat is not a coastal area, it boasts rich terrestrial biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-frog",
+        "title": "Frogs and Amphibians",
+        "description": "Monsoon season brings out colorful frogs and other amphibians unique to the Western Ghats."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Birdlife",
+        "description": "Home to kingfishers, eagles, and other exotic birds that thrive in the region’s forest ecosystem."
+      }
+    ],
+    "conclusion": [
+      "The region supports diverse flora and fauna, especially during the monsoon.",
+      "Nature enthusiasts can spot various reptiles, birds, and rare insects."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Pune: 70 km via Paud-Mulshi Road (Approx. 2.5 hours).",
+        "From Mumbai: 150 km via Mumbai–Goa Highway and Tamhini Ghat Road."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train & Air",
+      "details": [
+        "Nearest Railway Station: Pune Junction (70 km).",
+        "Nearest Airport: Pune International Airport (75 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/assets/images/nature/tamhini1.jpg", "thumb": "/assets/images/nature/tamhini1-thumb.jpg", "alt": "Tamhini Ghat waterfall" },
+    { "src": "/assets/images/nature/tamhini2.jpg", "thumb": "/assets/images/nature/tamhini2-thumb.jpg", "alt": "Misty Tamhini valley" }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-cloud-sun-rain",
+      "description": "Visit during monsoon for lush greenery but beware of slippery roads."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry waterproof protection for your camera and phone during rain."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear trekking shoes with good grip for safety on wet surfaces."
+    }
+  ]
+}

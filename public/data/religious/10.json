@@ -1,0 +1,179 @@
+  {
+    "id": "10",
+    "title": "Bhimashankar Temple",
+    "subtitle": "Sacred Jyotirlinga of Lord Shiva Amid the Sahyadris",
+    "bannerImage": "/images/religious/bhimashankar/banner.jpg",
+    "color": "#5A7D3C",
+    "coordinates": { "lat": 19.0721, "lng": 73.5358 },
+    "overview": [
+      "Bhimashankar, one of the twelve Jyotirlingas of Lord Shiva, lies deep within the Sahyadri hills of Maharashtra. The temple combines ancient Nagara architecture with a peaceful forest ambiance, making it both a sacred pilgrimage and nature retreat.",
+      "The region also houses the Bhimashankar Wildlife Sanctuary, home to rare flora and fauna including the state animal, the Giant Indian Squirrel (Shekru)."
+    ],
+    "highlights": [
+      {
+        "icon": "fas fa-church",
+        "title": "Jyotirlinga Temple",
+        "description": "An ancient temple dedicated to Lord Shiva, revered as one of the twelve Jyotirlingas."
+      },
+      {
+        "icon": "fas fa-tree",
+        "title": "Sahyadri Forest Sanctuary",
+        "description": "Lush green surroundings filled with waterfalls and rare wildlife."
+      }
+    ],
+    "geography": {
+      "image": "/images/religious/bhimashankar/map.jpg",
+      "intro": "Situated about 110 km from Pune and 220 km from Mumbai, Bhimashankar sits at an altitude of 3,250 feet within the Western Ghats.",
+      "details": [
+        {
+          "icon": "fas fa-map-marker-alt",
+          "label": "District",
+          "value": "Pune"
+        },
+        {
+          "icon": "fas fa-mountain",
+          "label": "Elevation",
+          "value": "993 meters"
+        },
+        {
+          "icon": "fas fa-road",
+          "label": "Nearest Highway",
+          "value": "Pune–Nashik Highway (NH60)"
+        },
+        {
+          "icon": "fas fa-plane",
+          "label": "Nearest Airport",
+          "value": "Pune International Airport (120 km)"
+        },
+        {
+          "icon": "fas fa-train",
+          "label": "Nearest Railway Station",
+          "value": "Pune Junction (111 km)"
+        }
+      ],
+      "climate": {
+        "description": "Pleasant throughout the year with heavy monsoon rains; October to March is ideal for pilgrimage and trekking.",
+        "seasons": [
+          {
+            "icon": "fas fa-cloud-rain",
+            "text": "Monsoon: Heavy rainfall (June–September)"
+          },
+          {
+            "icon": "fas fa-sun",
+            "text": "Winter: Cool and pleasant (October–March)"
+          }
+        ]
+      },
+      "conclusion": "The cool climate and serene surroundings make Bhimashankar perfect for spiritual as well as eco-tourism."
+    },
+    "activities": [
+      {
+        "icon": "fas fa-praying-hands",
+        "title": "Morning Abhishek and Aarti",
+        "description": "Participate in the sacred abhishek rituals performed daily at dawn.",
+        "info": [
+          "Devotees can offer Bilva leaves and milk during the ceremony.",
+          "Aarti timings: 4:30 AM, 12 PM, 7:30 PM."
+        ]
+      },
+      {
+        "icon": "fas fa-hiking",
+        "title": "Nature Trek to Bhimashankar Peak",
+        "description": "Trek through forest trails leading to breathtaking viewpoints.",
+        "info": [
+          "Ideal during winter for clear skies and scenic views.",
+          "Guided treks available on weekends."
+        ]
+      },
+      {
+        "icon": "fas fa-water",
+        "title": "Visit Hanuman Lake",
+        "description": "A peaceful lake surrounded by forest, perfect for meditation.",
+        "info": [
+          "Spot local birds and small waterfalls nearby.",
+          "Carry water and snacks as facilities are limited."
+        ]
+      }
+    ],
+    "attractions": [
+      {
+        "image": "/images/religious/bhimashankar/1.jpg",
+        "title": "Bhimashankar Temple Complex",
+        "description": "The main shrine dedicated to Lord Shiva with intricate stone carvings.",
+        "distance": "0 km",
+        "icon": "fas fa-temple-hindu",
+        "value": "Main Pilgrimage"
+      },
+      {
+        "image": "/images/religious/bhimashankar/2.jpg",
+        "title": "Nagphani Point",
+        "description": "A cliff shaped like a serpent’s hood offering panoramic valley views.",
+        "distance": "3 km",
+        "icon": "fas fa-mountain",
+        "value": "Viewpoint"
+      }
+    ],
+    "marineLife": {
+      "intro": "Instead of marine life, Bhimashankar is rich in spiritual and ecological life.",
+      "items": [
+        {
+          "icon": "fas fa-leaf",
+          "title": "Sacred Forest Energy",
+          "description": "The dense forests create a deeply peaceful and spiritual atmosphere."
+        },
+        {
+          "icon": "fas fa-heart",
+          "title": "Faith & Devotion",
+          "description": "Pilgrims experience divine energy amid the chants of ‘Har Har Mahadev’."
+        }
+      ],
+      "conclusion": [
+        "The harmony between faith and nature defines Bhimashankar’s sanctity.",
+        "A must-visit destination for both devotees and nature lovers."
+      ]
+    },
+    "howToReach": [
+      {
+        "icon": "fas fa-car",
+        "title": "By Road",
+        "details": [
+          "Well connected from Pune (110 km) and Mumbai (220 km).",
+          "Private taxis and MSRTC buses operate regularly."
+        ]
+      },
+      {
+        "icon": "fas fa-train",
+        "title": "By Train & Air",
+        "details": [
+          "Nearest railhead: Pune Junction (111 km).",
+          "Nearest airport: Pune International Airport (120 km)."
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/images/religious/bhimashankar/1.jpg",
+        "thumb": "/images/religious/bhimashankar/thumb1.jpg",
+        "alt": "Bhimashankar Temple View"
+      },
+      {
+        "src": "/images/religious/bhimashankar/2.jpg",
+        "thumb": "/images/religious/bhimashankar/thumb2.jpg",
+        "alt": "Surrounding Sahyadri Forest"
+      }
+    ],
+    "bookingTips": [
+      {
+        "icon": "fas fa-calendar-alt",
+        "description": "Avoid peak monsoon due to slippery routes."
+      },
+      {
+        "icon": "fas fa-map",
+        "description": "Carry offline maps; mobile network is weak in forest areas."
+      },
+      {
+        "icon": "fas fa-hotel",
+        "description": "Book accommodation in advance during Mahashivratri."
+      }
+    ]
+  }

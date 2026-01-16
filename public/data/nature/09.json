@@ -1,0 +1,128 @@
+{
+  "id": "09",
+  "title": "Tadoba Andhari Tiger Reserve",
+  "subtitle": "Maharashtra’s Oldest and Largest National Park",
+  "bannerImage": "/images/nature/tadoba-banner.jpg",
+  "color": "#2d6a4f",
+  "coordinates": { "lat": 20.2158, "lng": 79.3117 },
+  "overview": [
+    "Tadoba Andhari Tiger Reserve, located in Chandrapur district of Maharashtra, is the state’s oldest and largest national park. Spread over 625 sq. km, it is part of India’s renowned tiger conservation network.",
+    "The park is a blend of Tadoba National Park and Andhari Wildlife Sanctuary, making it rich in biodiversity. It offers a unique ecosystem of dense teak forests, grasslands, and tranquil lakes that attract nature lovers and wildlife photographers from all over the world."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-paw",
+      "title": "Tiger Safari",
+      "description": "Spotting majestic Bengal tigers in their natural habitat is the main highlight of Tadoba. Jeep safaris offer thrilling encounters with wildlife."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Rich Flora & Fauna",
+      "description": "Home to tigers, leopards, sloth bears, deer, crocodiles, and over 200 species of birds, Tadoba boasts incredible ecological diversity."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/tadoba-geography.jpg",
+    "intro": "Located in the Chandrapur district of Maharashtra, Tadoba lies within the Deccan plateau region, featuring dry deciduous forests and hilly terrain.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "District", "value": "Chandrapur" },
+      { "icon": "fas fa-ruler-combined", "label": "Area", "value": "625 sq km" },
+      { "icon": "fas fa-tree", "label": "Vegetation", "value": "Dry Deciduous Forest" },
+      { "icon": "fas fa-water", "label": "Main Water Source", "value": "Tadoba Lake & Andhari River" },
+      { "icon": "fas fa-mountain", "label": "Elevation", "value": "200–350 meters above sea level" }
+    ],
+    "climate": {
+      "description": "Tadoba experiences a tropical climate with distinct summer, monsoon, and winter seasons. The best time for tiger sightings is between February and May.",
+      "seasons": [
+        { "icon": "fas fa-sun", "text": "Summer (March–May): Hot and dry, ideal for animal sightings near water sources." },
+        { "icon": "fas fa-cloud-showers-heavy", "text": "Monsoon (June–September): Lush green surroundings, fewer safaris operate." },
+        { "icon": "fas fa-snowflake", "text": "Winter (November–February): Pleasant climate and active birdlife." }
+      ]
+    },
+    "conclusion": "The terrain of Tadoba is a perfect mix of forested hills, meadows, and water bodies, offering a complete wildlife experience."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Jungle Safari",
+      "description": "Guided jeep safaris provide close encounters with wildlife, especially tigers, leopards, and deer.",
+      "info": ["Available in core and buffer zones", "Morning and evening slots"]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Wildlife Photography",
+      "description": "Capture the vibrant biodiversity, from majestic predators to colorful birds.",
+      "info": ["Photography-friendly zones", "Special birdwatching tours available"]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Nature Trails",
+      "description": "Guided nature walks let you explore Tadoba’s rich flora, insects, and bird species safely.",
+      "info": ["Conducted by forest guides", "Perfect for eco-tourists and students"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/tadoba-lake.jpg",
+      "title": "Tadoba Lake",
+      "description": "A serene lake surrounded by bamboo and teak forests, frequented by crocodiles and birds.",
+      "distance": "In core zone",
+      "icon": "fas fa-water",
+      "value": "Scenic natural lake"
+    },
+    {
+      "image": "/images/nature/moharli-gate.jpg",
+      "title": "Moharli Gate",
+      "description": "Main entrance to the reserve and the best access point for safaris and accommodation.",
+      "distance": "3 km from Moharli village",
+      "icon": "fas fa-door-open",
+      "value": "Primary entry gate"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Tadoba is a forest ecosystem, its lakes and rivers sustain a small but rich aquatic ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Freshwater Fish",
+        "description": "Tadoba Lake and Andhari River support native freshwater fish and amphibians."
+      },
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians",
+        "description": "Frogs, toads, and reptiles thrive in the moist forest zones, maintaining the ecological balance."
+      }
+    ],
+    "conclusion": [
+      "The aquatic habitats enhance Tadoba’s biodiversity.",
+      "They attract migratory birds and provide water sources for wildlife."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Nearest railway station: Chandrapur (45 km)", "Well connected to Nagpur and Mumbai"]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": ["Nearest airport: Nagpur Airport (140 km)", "Regular flights from Mumbai, Pune, and Delhi"]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["Tadoba is accessible by road from Chandrapur and Nagpur", "Private cabs and MSRTC buses available"]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/nature/tadoba-tiger.jpg", "thumb": "/images/nature/tadoba-tiger-thumb.jpg", "alt": "Tiger in Tadoba" },
+    { "src": "/images/nature/tadoba-safari.jpg", "thumb": "/images/nature/tadoba-safari-thumb.jpg", "alt": "Jeep Safari in Tadoba" },
+    { "src": "/images/nature/tadoba-lake-birds.jpg", "thumb": "/images/nature/tadoba-lake-birds-thumb.jpg", "alt": "Birds at Tadoba Lake" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-ticket-alt", "description": "Book safari permits online in advance from Maharashtra Forest Department’s official portal." },
+    { "icon": "fas fa-calendar-check", "description": "Best months to visit are February to May for tiger sightings." },
+    { "icon": "fas fa-lightbulb", "description": "Carry binoculars, sunscreen, and light cotton clothes for safaris." }
+  ]
+}

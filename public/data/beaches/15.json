@@ -1,0 +1,204 @@
+{
+  "id": "15",
+  "title": "Guhagar Beach",
+  "subtitle": "A Pristine White Sand Beach along the Konkan Coast",
+  "bannerImage": "/assets/images/beaches/guhagar-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/15/bannerImg.jpg",
+  "color": "#0284C7",
+  "coordinates": {
+    "lat": 17.4812,
+    "lng": 73.1895
+  },
+  "overview": [
+    "Guhagar Beach, located in the Ratnagiri district of Maharashtra, is one of the cleanest and most serene beaches along the Konkan coast. The beach stretches for about 6 km, covered in soft white sand and lined with suru trees, creating a peaceful and scenic atmosphere.",
+    "Known for its calm waters, coconut groves, and cultural charm, Guhagar also hosts the famous Vyadeshwar Temple dedicated to Lord Shiva. The town offers a perfect blend of spirituality and seaside beauty, making it a great escape for families and solitude seekers."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Long Stretch of White Sand",
+      "description": "Over 6 km of pristine sandy shoreline, ideal for long walks and beach relaxation."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Safe for Swimming",
+      "description": "Gentle waves and gradual depth make it one of the safest beaches for swimming in Konkan."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/15/info3.jpg",
+    "intro": "Guhagar lies between the Vashishti River and the Jaigad Creek on the western coast of Maharashtra. It’s around 45 km from Chiplun and known for its unspoiled coastal beauty.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Beach Type",
+        "value": "White Sandy Beach"
+      },
+      {
+        "icon": "fa-solid fa-ruler-combined",
+        "label": "Beach Length",
+        "value": "Approximately 6 km"
+      },
+      {
+        "icon": "fa-solid fa-temperature-three-quarters",
+        "label": "Best Time to Visit",
+        "value": "October to March"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Nearby Places",
+        "value": "Velneshwar, Hedvi, Chiplun"
+      }
+    ],
+    "climate": {
+      "description": "Guhagar experiences a tropical coastal climate with moderate humidity and pleasant sea breezes.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter: Best time for sightseeing and beach fun"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon: Lush and scenic, though swimming is restricted"
+        }
+      ]
+    },
+    "conclusion": "Surrounded by coconut plantations and small temples, Guhagar’s geography makes it an ideal peaceful destination on the Konkan coast."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-swimming",
+      "title": "Swimming & Sunbathing",
+      "description": "Enjoy swimming in calm waters and sunbathing on the soft sands.",
+      "info": [
+        "Beach is safe for families and children",
+        "Lifeguards are available during tourist season"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-walking",
+      "title": "Evening Beach Walks",
+      "description": "Walk along the coastline surrounded by coconut and suru trees.",
+      "info": [
+        "Sunset views are particularly beautiful",
+        "Local snacks available near the main entrance"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-om",
+      "title": "Temple Visits",
+      "description": "Visit nearby temples like Vyadeshwar and Durga Devi for a spiritual experience.",
+      "info": [
+        "Both temples are within walking distance from the beach",
+        "Open all year round"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/15/img1.jpg",
+      "title": "Vyadeshwar Temple",
+      "description": "A revered Shiva temple believed to be self-manifested, located near the beach.",
+      "distance": "0.5 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Religious Attraction"
+    },
+    {
+      "image": "/assets/images/beaches/15/img2.jpg",
+      "title": "Velneshwar Beach",
+      "description": "Another clean and calm beach located just 15 km away, popular among pilgrims and surfers.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-water",
+      "value": "Nearby Scenic Spot"
+    },
+    {
+      "image": "/assets/images/beaches/15/img3.jpg",
+      "title": "Dashbhuja Ganesh Temple, Hedvi",
+      "description": "Famous for its rare idol with ten hands, located amid scenic surroundings.",
+      "distance": "20 km",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Cultural Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "The shallow waters near Guhagar Beach support a vibrant but delicate coastal ecosystem.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Small Coastal Fish",
+        "description": "Varieties of sardines, mackerel, and anchovies can be spotted near the shore."
+      },
+      {
+        "icon": "fa-solid fa-crab",
+        "title": "Crabs & Shells",
+        "description": "Small red and white crabs are often seen running across the sand during low tide."
+      }
+    ],
+    "conclusion": [
+      "Marine life here is modest but ecologically rich.",
+      "Visitors are encouraged to maintain cleanliness to protect the beach habitat."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Chiplun (45 km)",
+        "From Chiplun, taxis and local buses are available to Guhagar."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Connected via Chiplun–Guhagar Road and NH-66.",
+        "MSRTC buses operate regularly from Mumbai, Ratnagiri, and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Ratnagiri Airport (85 km)",
+        "Dabolim Airport, Goa is about 200 km away."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/15/img1.jpg",
+      "thumb": "/assets/images/beaches/15/img1.jpg",
+      "alt": "Guhagar Beach Panorama"
+    },
+    {
+      "src": "/assets/images/beaches/15/img2.jpg",
+      "thumb": "/assets/images/beaches/15/img2.jpg",
+      "alt": "Sunset at Guhagar Beach"
+    },
+    {
+      "src": "/assets/images/beaches/15/img3.jpg",
+      "thumb": "/assets/images/beaches/15/img3.jpg",
+      "alt": "Vyadeshwar Temple near Guhagar Beach"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-house",
+      "description": "Homestays and small resorts near the beach offer authentic Konkan hospitality."
+    },
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Advance booking is recommended during weekends and holidays."
+    },
+    {
+      "icon": "fa-solid fa-bowl-food",
+      "description": "Try local Malvani seafood dishes like fish thali and solkadhi."
+    }
+  ]
+}

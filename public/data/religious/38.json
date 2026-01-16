@@ -1,0 +1,200 @@
+{
+  "id": "38",
+  "title": "Kamakhya Devi Temple, Nagthane",
+  "subtitle": "Sacred Shakti Peeth of Western Maharashtra – Seat of Divine Energy",
+  "bannerImage": "/images/religious/test/kamakhya-nagthane/banner.jpg",
+  "color": "#b84b37",
+  "overview": [
+    "The Kamakhya Devi Temple at Nagthane, near Sangli, is one of Maharashtra’s revered Shakti Peeths dedicated to Goddess Kamakhya, a powerful manifestation of Adi Shakti.",
+    "The temple is believed to have ancient origins and is associated with deep Tantric and spiritual practices similar to the Kamakhya Temple of Assam.",
+    "Surrounded by lush greenery and the tranquil countryside of Sangli district, the temple attracts devotees seeking spiritual strength, blessings for prosperity, and relief from negative energies.",
+    "The temple is also known for its peaceful ambience, scenic setting, and annual Navratri festivities that draw devotees from all over Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Ancient Shakti Shrine",
+      "description": "Dedicated to Goddess Kamakhya, symbolizing power, fertility, and divine feminine energy."
+    },
+    {
+      "icon": "fa-solid fa-people-group",
+      "title": "Cultural and Tantric Importance",
+      "description": "Associated with spiritual traditions and rituals invoking the blessings of the goddess."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/kamakhya-nagthane/geography.jpg",
+    "intro": "Nagthane is a peaceful village located in Sangli district of Maharashtra, surrounded by fertile fields and river plains.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Nagthane, near Tasgaon, Sangli District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Region",
+        "value": "Southern Maharashtra (Deccan Plateau)"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Temple Architecture",
+        "value": "Stone and brick structure with traditional shikhara and carved deity panels"
+      },
+      {
+        "icon": "fa-solid fa-person-praying",
+        "label": "Presiding Deity",
+        "value": "Goddess Kamakhya Devi"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Major Festival",
+        "value": "Navratri and Chaitra Yatra"
+      }
+    ],
+    "climate": {
+      "description": "Nagthane experiences a warm tropical climate with moderate winters and monsoon rains.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon months bring scenic greenery around the temple."
+        }
+      ]
+    },
+    "conclusion": "The Kamakhya Devi Temple of Nagthane offers a rare blend of natural serenity and deep spiritual energy, making it a hidden Shakti Peeth in western Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Temple Darshan",
+      "description": "Devotees offer prayers and seek blessings of Kamakhya Devi for peace and prosperity.",
+      "info": [
+        "Daily Aarti: Morning and Evening.",
+        "Offer flowers, coconuts, and red cloth to the goddess."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-drum",
+      "title": "Navratri Celebrations",
+      "description": "Nine days of devotion with bhajans, garba, and special poojas dedicated to Goddess Kamakhya.",
+      "info": [
+        "Special rituals on Ashtami and Navami.",
+        "Decorated temple and night-long kirtans."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-walking",
+      "title": "Village Pilgrimage Walk",
+      "description": "Pilgrims walk through Nagthane’s scenic routes and rural landscapes as part of traditional offerings.",
+      "info": [
+        "Ideal for spiritual retreat seekers.",
+        "Peaceful countryside experience."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/kamakhya-nagthane/attraction1.jpg",
+      "title": "Nagthane Village",
+      "description": "Picturesque village surrounded by sugarcane and grape fields, offering a glimpse into local culture.",
+      "distance": "0.5 km",
+      "icon": "fa-solid fa-tree",
+      "value": "Rural Charm"
+    },
+    {
+      "image": "/images/religious/test/kamakhya-nagthane/attraction2.jpg",
+      "title": "Tasgaon Ganpati Temple",
+      "description": "Ancient temple dedicated to Lord Ganesha, renowned for its massive golden idol.",
+      "distance": "12 km",
+      "icon": "fa-solid fa-om",
+      "value": "Nearby Religious Spot"
+    },
+    {
+      "image": "/images/religious/test/kamakhya-nagthane/attraction3.jpg",
+      "title": "Sangli City",
+      "description": "Known for its riverfront ghats and historical temples, Sangli offers urban comfort with cultural depth.",
+      "distance": "28 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Cultural Visit"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not near the sea, Nagthane lies near small water bodies and reservoirs that sustain local ecology.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Local Aquatic Life",
+        "description": "Small freshwater fish and birds inhabit the nearby ponds and fields."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Eco Harmony",
+        "description": "The region’s agriculture-based ecosystem coexists with devotional traditions and nature."
+      }
+    ],
+    "conclusion": [
+      "Nagthane’s serene environment amplifies the spiritual vibrations of the Kamakhya temple.",
+      "Visitors often find peace in the union of nature and divinity here."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Sangli Junction (28 km).",
+        "Regular trains connect Sangli with Kolhapur, Pune, and Mumbai."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Nagthane is accessible via NH166 through Tasgaon.",
+        "MSRTC and private buses connect Sangli, Tasgaon, and Nagthane."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Kolhapur Airport (90 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/kamakhya-nagthane/1.jpg",
+      "thumb": "/images/religious/test/kamakhya-nagthane/thumb1.jpg",
+      "alt": "Kamakhya Devi Temple at Nagthane"
+    },
+    {
+      "src": "/images/religious/test/kamakhya-nagthane/2.jpg",
+      "thumb": "/images/religious/test/kamakhya-nagthane/thumb2.jpg",
+      "alt": "Entrance of Kamakhya Devi Temple"
+    },
+    {
+      "src": "/images/religious/test/kamakhya-nagthane/3.jpg",
+      "thumb": "/images/religious/test/kamakhya-nagthane/thumb3.jpg",
+      "alt": "Navratri celebrations at Kamakhya Temple, Nagthane"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Basic lodging and dharmashalas are available in Tasgaon and Sangli."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Private vehicles are recommended as local transport options are limited."
+    },
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Visit during Navratri for the most vibrant experience of the temple’s spiritual aura."
+    }
+  ]
+}

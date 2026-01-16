@@ -1,0 +1,179 @@
+{
+  "id": "14",
+  "title": "Akkalkot Swami Samarth Temple",
+  "subtitle": "The Sacred Abode of Shri Swami Samarth Maharaj in Solapur District",
+  "bannerImage": "/images/religious/akkalkot/banner.jpg",
+  "color": "#D97706",
+  "coordinates": { "lat": 17.5186, "lng": 76.2081 },
+  "overview": [
+    "Akkalkot, located in the Solapur district of Maharashtra, is a revered pilgrimage site dedicated to Shri Swami Samarth Maharaj, believed to be an incarnation of Lord Dattatreya. The temple, also known as Swami Samarth Math, draws devotees from across India seeking blessings, peace, and spiritual enlightenment.",
+    "The town radiates a divine aura, where every street echoes the chants of 'Jai Jai Swami Samarth'. The atmosphere is serene, and the temple complex preserves the very tree under which Swami Samarth used to meditate and bless his devotees."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-church",
+      "title": "Swami Samarth Temple",
+      "description": "Main temple housing the shrine of Swami Samarth Maharaj, where daily rituals and aartis are performed."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Audumbar Tree",
+      "description": "The sacred tree under which Swami Samarth meditated — symbolizing faith, devotion, and enlightenment."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/akkalkot/map.jpg",
+    "intro": "Akkalkot lies 38 km southeast of Solapur and close to the Karnataka border, making it easily accessible from both states.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Solapur"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Highway",
+        "value": "NH 52 (Solapur–Akkalkot Road)"
+      },
+      {
+        "icon": "fas fa-plane",
+        "label": "Nearest Airport",
+        "value": "Solapur Airport (40 km)"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Railway Station",
+        "value": "Akkalkot Road (22 km)"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Landscape",
+        "value": "Dry plains with occasional green patches near the river."
+      }
+    ],
+    "climate": {
+      "description": "Akkalkot experiences hot summers and mild winters, with the ideal pilgrimage season between October and February.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 28°C to 42°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: Moderate rainfall (July–September)"
+        }
+      ]
+    },
+    "conclusion": "The peaceful town of Akkalkot provides a calm and devotional environment year-round."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Attend the daily Aarti rituals and receive Swami Samarth’s blessings in a spiritually charged atmosphere.",
+      "info": [
+        "Morning Kakad Aarti starts at 4:30 AM.",
+        "Evening Aarti and Bhajans are followed by Prasad distribution."
+      ]
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Visit the Audumbar Tree",
+      "description": "Witness the sacred tree where Swami Samarth meditated, considered highly auspicious by devotees.",
+      "info": [
+        "Offer flowers and prayers beneath the tree.",
+        "The site remains cool and peaceful even in summer."
+      ]
+    },
+    {
+      "icon": "fas fa-hands-helping",
+      "title": "Participate in Annadan (Food Service)",
+      "description": "Join the daily charity meal service where free Prasad is served to devotees.",
+      "info": [
+        "Run by the temple trust and devotees’ donations.",
+        "Meals are purely vegetarian and hygienic."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/akkalkot/temple.jpg",
+      "title": "Swami Samarth Math",
+      "description": "Main spiritual center built around the sacred Audumbar tree, where devotees gather for meditation and prayers.",
+      "distance": "0 km",
+      "icon": "fas fa-place-of-worship",
+      "value": "Main Shrine"
+    },
+    {
+      "image": "/images/religious/akkalkot/solapur.jpg",
+      "title": "Solapur Siddheshwar Temple",
+      "description": "A famous Shiva temple located on a lake island in Solapur city, just an hour away.",
+      "distance": "38 km",
+      "icon": "fas fa-water",
+      "value": "Nearby Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not coastal, Akkalkot’s spiritual depth nourishes the soul of every devotee.",
+    "items": [
+      {
+        "icon": "fas fa-dove",
+        "title": "Peace and Faith",
+        "description": "Swami Samarth’s teachings focus on self-realization, faith, and service to humanity."
+      },
+      {
+        "icon": "fas fa-heart",
+        "title": "Divine Grace",
+        "description": "Devotees experience inner peace through meditation and Swami’s eternal presence."
+      }
+    ],
+    "conclusion": [
+      "Akkalkot is not just a place — it’s a living embodiment of devotion and divine blessings.",
+      "Every visit leaves the devotee’s heart filled with calmness and faith."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Akkalkot Road Station is the nearest railway stop (22 km), connected to Solapur Junction.",
+        "Regular trains are available from Mumbai, Pune, Hyderabad, and Bangalore."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road & Air",
+      "details": [
+        "State transport buses and private taxis run frequently from Solapur to Akkalkot.",
+        "Solapur Airport (40 km) is the nearest air connection with flights to Mumbai and Hyderabad."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/akkalkot/1.jpg",
+      "thumb": "/images/religious/akkalkot/thumb1.jpg",
+      "alt": "Akkalkot Swami Samarth Temple Main Entrance"
+    },
+    {
+      "src": "/images/religious/akkalkot/2.jpg",
+      "thumb": "/images/religious/akkalkot/thumb2.jpg",
+      "alt": "Devotees performing Aarti at the temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Book accommodation near the temple early during festivals like Swami Samarth Jayanti."
+    },
+    {
+      "icon": "fas fa-clock",
+      "description": "Morning hours between 5 AM and 8 AM are best for peaceful darshan."
+    },
+    {
+      "icon": "fas fa-hand-holding-heart",
+      "description": "Participate in Annadan for a complete spiritual experience."
+    }
+  ]
+}

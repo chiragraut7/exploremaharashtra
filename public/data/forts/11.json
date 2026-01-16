@@ -1,0 +1,211 @@
+{
+  "id": "11",
+  "title": "Harishchandragad Fort",
+  "subtitle": "Ancient Fort of Sahyadri – Home to Konkan Kada and Kedareshwar Cave Temple",
+  "bannerImage": "/images/forts/harishchandragad/harishchandragad-banner.jpg",
+  "color": "#3a4f3c",
+  "coordinates": { "lat": 19.3853, "lng": 73.7761 },
+  "overview": [
+    "Harishchandragad is one of the most remarkable hill forts in Maharashtra, located in the Ahmednagar district. Known for its breathtaking cliffs, ancient temples, and historical significance, it stands as a crown jewel of the Western Ghats.",
+    "The fort dates back to the 6th century and has connections to the Kalchuri and Yadava dynasties. It later came under the Marathas and served as an important defensive stronghold. The site attracts trekkers, pilgrims, and adventure lovers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Konkan Kada (Konkan Cliff)",
+      "description": "A gigantic concave cliff offering panoramic views of the Konkan region — a favorite among trekkers and photographers."
+    },
+    {
+      "icon": "fa-solid fa-temple-hindu",
+      "title": "Kedareshwar Cave Temple",
+      "description": "An ancient cave temple with a Shiva Linga surrounded by water, representing exceptional rock-cut architecture."
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Popular Trekking Destination",
+      "description": "Known for challenging treks with multiple routes like Khireshwar, Pachnai, and Nalichi Vaat."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/harishchandragad/harishchandragad-map.jpg",
+    "intro": "Perched at an altitude of around 1,424 meters, Harishchandragad lies in the Ahmednagar district within the Kalsubai-Harishchandragad Wildlife Sanctuary. Its rugged terrain and mesmerizing views make it a paradise for nature enthusiasts.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ahmednagar District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-ruler-vertical",
+        "label": "Altitude",
+        "value": "1,424 meters (4,672 ft)"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Region",
+        "value": "Kalsubai–Harishchandragad Wildlife Sanctuary"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Structure Type",
+        "value": "Hill Fort with caves and temples"
+      },
+      {
+        "icon": "fa-solid fa-city",
+        "label": "Nearest City",
+        "value": "Malshej Ghat (50 km), Pune (170 km)"
+      }
+    ],
+    "climate": {
+      "description": "Harishchandragad experiences cool weather through most of the year, but the monsoon transforms it into a misty wonderland.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): Lush greenery and waterfalls — but the trek becomes slippery."
+        },
+        {
+          "icon": "fa-solid fa-wind",
+          "text": "Winter (November–February): Ideal for trekking with pleasant temperatures and clear skies."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer (March–May): Warm afternoons, best for night treks or early morning climbs."
+        }
+      ]
+    },
+    "conclusion": "The fort’s geography, cliffs, and caves make it one of Maharashtra’s most photogenic and spiritually charged destinations."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking & Camping",
+      "description": "Trekking to Harishchandragad is an unforgettable experience with multiple routes catering to all levels of trekkers.",
+      "info": [
+        "Popular routes: Pachnai (easy), Khireshwar (moderate), Nalichi Vaat (difficult).",
+        "Overnight camping available on top near the temple area."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-fire",
+      "title": "Camping Under the Stars",
+      "description": "Spend a night under the starlit sky beside the ancient caves for an unforgettable adventure."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Nature Trails",
+      "description": "Konkan Kada and Taramati Peak are famous among photographers for sunrise and sunset captures."
+    },
+    {
+      "icon": "fa-solid fa-temple-hindu",
+      "title": "Pilgrimage Visit",
+      "description": "Kedareshwar temple attracts devotees of Lord Shiva, especially during Maha Shivratri."
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/harishchandragad/konkan-kada.jpg",
+      "title": "Konkan Kada",
+      "description": "A colossal concave cliff offering mesmerizing views of the Konkan plateau. Known for its unique semicircular shape.",
+      "distance": "Within fort",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "Top attraction"
+    },
+    {
+      "image": "/images/forts/harishchandragad/kedareshwar-temple.jpg",
+      "title": "Kedareshwar Cave Temple",
+      "description": "A rock-cut Shiva temple with a linga submerged in icy water surrounded by four broken pillars symbolizing four Yugas.",
+      "distance": "Within fort",
+      "icon": "fa-solid fa-temple-hindu",
+      "value": "Spiritual heritage site"
+    },
+    {
+      "image": "/images/forts/harishchandragad/taramati-peak.jpg",
+      "title": "Taramati Peak",
+      "description": "The second highest peak in Maharashtra offering stunning 360° views of Malshej Ghat and surrounding hills.",
+      "distance": "Within fort area",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Scenic viewpoint"
+    },
+    {
+      "image": "/images/forts/harishchandragad/ganesh-caves.jpg",
+      "title": "Ganesh & Buddhist Caves",
+      "description": "Ancient caves showcasing carvings and inscriptions dating back to the 6th century.",
+      "distance": "On fort slopes",
+      "icon": "fa-solid fa-monument",
+      "value": "Archaeological site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Harishchandragad is inland, it lies within the Kalsubai–Harishchandragad Wildlife Sanctuary, rich in flora and fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Dense forests of teak, karvi, and wildflowers during monsoon season."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "Home to monkeys, barking deer, and diverse bird species like eagles and flycatchers."
+      }
+    ],
+    "conclusion": [
+      "Nature lovers can enjoy birdwatching and photography amidst the fort’s pristine wilderness."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Easily accessible from Pune (170 km) and Mumbai (200 km).",
+        "Nearest base village: Khireshwar or Pachnai."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Igatpuri (61 km) or Kalyan (100 km)."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (170 km) or Mumbai Airport (200 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/harishchandragad/gallery1.jpg",
+      "thumb": "/images/forts/harishchandragad/thumb1.jpg",
+      "alt": "Konkan Kada view from Harishchandragad"
+    },
+    {
+      "src": "/images/forts/harishchandragad/gallery2.jpg",
+      "thumb": "/images/forts/harishchandragad/thumb2.jpg",
+      "alt": "Kedareshwar Temple inside Harishchandragad cave"
+    },
+    {
+      "src": "/images/forts/harishchandragad/gallery3.jpg",
+      "thumb": "/images/forts/harishchandragad/thumb3.jpg",
+      "alt": "Taramati Peak sunrise at Harishchandragad"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Start the trek early morning or opt for an overnight stay to witness sunrise from Konkan Kada."
+    },
+    {
+      "icon": "fa-solid fa-water-bottle",
+      "description": "Carry sufficient water and snacks — limited availability near the top."
+    },
+    {
+      "icon": "fa-solid fa-campground",
+      "description": "Camping on the fort is allowed but ensure cleanliness and respect local sanctity near temples."
+    }
+  ]
+}

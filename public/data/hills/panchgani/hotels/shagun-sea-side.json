@@ -1,0 +1,70 @@
+{
+  "slug": "shagun-sea-side",
+  "name": "Shagun Sea Side",
+  "beach": "kelwa",
+  "rating":4.5,
+  "overview": "Shagun Sea Side is a quick getaway for fun and frolic holidays, offering clean rooms, outdoor dining, attached bathrooms and TV, with a large courtyard surrounded by Suru trees right on the beach.",
+  "location": {
+    "address": "Devipada, Kelva Beach (right at the beach), Palghar District, Maharashtra, India",
+    "distance_from_beach": "On the beach",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non AC Room",
+      "rate_for_two": "₹400 per person (min. 10 persons)",
+      "extra_person": "Not specified"
+    },
+    {
+      "type": "Couple Room (24 hrs, Non AC)",
+      "rate_for_two": "₹2,500 per couple",
+      "extra_person": "Not applicable"
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Morning breakfast",
+      "2 tea/coffee",
+      "Buffet lunch (veg or non‑veg)",
+      "Free Wi‑Fi"
+    ],
+    "extended": [
+      "Morning breakfast",
+      "3 tea/coffee",
+      "Buffet lunch",
+      "Buffet dinner (veg or non‑veg)",
+      "Free Wi‑Fi"
+    ]
+  },
+  "facilities": [
+    "Large courtyard with Suru trees",
+    "Outdoor dining",
+    "Attached bathrooms",
+    "Television in rooms",
+    "Free Wi‑Fi"
+  ],
+  "policies": {
+    "allowed": ["Families, groups & married couples only"],
+    "not_allowed": ["Unmarried couples", "More than 4 per room", "Music after 10 PM", "Smoking in rooms"],
+    "booking": ["Advance booking payment 100% non‑refundable"],
+    "liability": ["Guests responsible for damages/liabilities"]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": ["Kelwa Beach", "Shitladevi Temple", "Kelwa Fort"],
+  "notice": ["Beware of scammers, confirm identity before making an online payment."],
+  "contact": {
+    "host": "Vinayak Padvale",
+    "phone": "+91 8830339052 / 8007127723",
+    "email": null,
+    "website": "https://kelvabeach.in/shagun-sea-side-kelvabeach.php"
+  }
+}

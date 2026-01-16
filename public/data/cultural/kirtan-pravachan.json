@@ -1,0 +1,186 @@
+{
+  "id": "kirtan-pravachan",
+  "title": "Kirtan & Pravachan",
+  "subtitle": "Devotional Storytelling and Spiritual Discourse",
+  "bannerImage": "/images/cultural/kirtan-pravachan/banner.jpg",
+  "color": "#f4e1a1",
+  "overview": [
+    "Kirtan and Pravachan are integral parts of Maharashtra’s spiritual and cultural heritage, combining devotional music, storytelling, and moral teachings. These art forms have been practiced for centuries, spreading the philosophy of the Bhakti movement to common people.",
+    "Kirtan involves devotional singing and rhythmic narration of stories from epics like the Bhagavad Gita, Ramayana, and the life of saints, accompanied by instruments like harmonium, taal, and mridang. Pravachan, on the other hand, is a discourse where the speaker elaborates on scriptures and imparts moral and spiritual values."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-microphone-alt",
+      "title": "Bhakti Tradition",
+      "description": "Rooted in the Bhakti movement led by saints like Dnyaneshwar, Tukaram, and Namdev, these performances inspire devotion and self-realization."
+    },
+    {
+      "icon": "fas fa-music",
+      "title": "Musical Storytelling",
+      "description": "Combines music, rhythm, and poetic narration to connect listeners emotionally with divine teachings."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/kirtan-pravachan/geography.jpg",
+    "intro": "Kirtan and Pravachan are performed across Maharashtra, particularly in temple towns like Alandi, Pandharpur, Dehu, and other pilgrimage centers associated with Sant tradition.",
+    "details": [
+      {
+        "icon": "fas fa-map-pin",
+        "label": "Popular Regions",
+        "value": "Pune, Solapur, Nashik, and Kolhapur"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Major Centers",
+        "value": "Alandi, Dehu, Pandharpur"
+      },
+      {
+        "icon": "fas fa-user",
+        "label": "Performers",
+        "value": "Kirtankars and Pravachankars (spiritual orators)"
+      },
+      {
+        "icon": "fas fa-book",
+        "label": "Main Themes",
+        "value": "Bhagavad Gita, Ramayana, Abhangas, and Saint Literature"
+      },
+      {
+        "icon": "fas fa-calendar-alt",
+        "label": "Best Season",
+        "value": "During Ekadashi and major temple festivals"
+      }
+    ],
+    "climate": {
+      "description": "Performances usually take place indoors in temples or open grounds, suitable for all seasons, especially during winter and festive periods.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Devotional gatherings are frequent in the cool months from October to February."
+        },
+        {
+          "icon": "fas fa-cloud-sun",
+          "text": "Monsoon adds a serene atmosphere to temple kirtans by the riverside."
+        }
+      ]
+    },
+    "conclusion": "Kirtan and Pravachan thrive in Maharashtra’s devotional environment, enriching spiritual life through music and wisdom."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-pray",
+      "title": "Attend Live Kirtans",
+      "description": "Experience soulful performances where music and stories merge into devotion.",
+      "info": [
+        "Held in temples, village fairs, and spiritual gatherings.",
+        "Kirtankars narrate episodes from saints’ lives and scriptures."
+      ]
+    },
+    {
+      "icon": "fas fa-microphone",
+      "title": "Listen to Pravachans",
+      "description": "Engage with thought-provoking discourses on ethics, spirituality, and self-realization.",
+      "info": [
+        "Delivered by revered orators during religious festivals.",
+        "Promotes social harmony and moral values."
+      ]
+    },
+    {
+      "icon": "fas fa-hands-helping",
+      "title": "Join Bhakti Mandals",
+      "description": "Participate in local devotional groups that host regular Kirtan sessions.",
+      "info": [
+        "Open to all devotees.",
+        "Encourages community participation and learning."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/kirtan-pravachan/pandharpur.jpg",
+      "title": "Pandharpur Kirtan Mahotsav",
+      "description": "A grand devotional event featuring leading Kirtankars from across Maharashtra.",
+      "distance": "Varies by event",
+      "icon": "fas fa-landmark",
+      "value": "Pandharpur"
+    },
+    {
+      "image": "/images/cultural/kirtan-pravachan/alandi.jpg",
+      "title": "Alandi Spiritual Gatherings",
+      "description": "Regular Kirtan and Pravachan sessions celebrating Sant Dnyaneshwar’s teachings.",
+      "distance": "25 km from Pune",
+      "icon": "fas fa-church",
+      "value": "Alandi, Pune"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not related to marine life, the rhythmic flow of Kirtan and Pravachan symbolizes the spiritual currents of the Bhakti movement.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Harmony & Devotion",
+        "description": "Fosters peace, unity, and love among devotees."
+      },
+      {
+        "icon": "fas fa-book-open",
+        "title": "Cultural Continuity",
+        "description": "Preserves oral traditions and the teachings of saints through generations."
+      }
+    ],
+    "conclusion": [
+      "These traditions reflect Maharashtra’s timeless spiritual depth.",
+      "Kirtan and Pravachan continue to inspire millions with their message of faith and humanity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Major railway stations: Pune, Solapur, Nashik.",
+        "Local trains connect temple towns like Alandi and Dehu."
+      ]
+    },
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": [
+        "Accessible by state highways from Mumbai, Pune, and Nagpur.",
+        "Regular MSRTC and private buses to major temple centers."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airports: Pune and Nagpur.",
+        "Cabs and local buses available to nearby devotional hubs."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/kirtan-pravachan/gallery1.jpg",
+      "thumb": "/images/cultural/kirtan-pravachan/gallery1-thumb.jpg",
+      "alt": "Kirtankar performing in a temple"
+    },
+    {
+      "src": "/images/cultural/kirtan-pravachan/gallery2.jpg",
+      "thumb": "/images/cultural/kirtan-pravachan/gallery2-thumb.jpg",
+      "alt": "Devotees listening to Pravachan"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Check temple festival schedules to attend live Kirtan or Pravachan sessions."
+    },
+    {
+      "icon": "fas fa-volume-up",
+      "description": "Maintain silence and respect during spiritual discourses."
+    },
+    {
+      "icon": "fas fa-hands-praying",
+      "description": "Participate with devotion; photography may be restricted inside temple premises."
+    }
+  ]
+}

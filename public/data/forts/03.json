@@ -1,0 +1,184 @@
+{
+  "id": "03",
+  "title": "Pratapgad Fort",
+  "subtitle": "The Fort of Victory and Valor",
+  "bannerImage": "/assets/images/forts/03.jpg",
+  "insideBannerImage": "/assets/images/forts/03/bannerimg.jpg",
+  "color": "#874c1a",
+  "coordinates": { "lat": 17.9333, "lng": 73.5833 },
+  "overview": [
+    "Pratapgad Fort, located near Mahabaleshwar in the Satara district, is one of Maharashtra's most iconic hill forts. It gained immense historical importance as the site of the legendary battle between Chhatrapati Shivaji Maharaj and Afzal Khan in 1659.",
+    "Built strategically to guard the Par pass, the fort stands as a symbol of Maratha pride and victory, offering stunning views of the surrounding valleys and forests."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historical Battle Site",
+      "description": "Pratapgad is known for the historic 1659 battle where Shivaji Maharaj defeated Afzal Khan, marking a turning point in Maratha history."
+    },
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Scenic Hilltop Location",
+      "description": "Located at 3,500 feet above sea level, the fort provides breathtaking views of the Sahyadri range and lush Konkan valley."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/pratapgad/pratapgad-geography.jpg",
+    "intro": "Situated about 21 km from Mahabaleshwar, Pratapgad Fort is perched on the crest of a mountain spur that divides the villages of Par and Kinesvar.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Mahabaleshwar, Satara District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Altitude",
+        "value": "3,543 feet above sea level"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest Town",
+        "value": "Mahabaleshwar (21 km)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Chhatrapati Shivaji Maharaj (1656 CE)"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Construction Period",
+        "value": "Mid 17th Century"
+      }
+    ],
+    "climate": {
+      "description": "Pratapgad enjoys a cool hill climate with misty monsoons and pleasant winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to February."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon months (June–September) are scenic but foggy."
+        }
+      ]
+    },
+    "conclusion": "The fort’s elevated position and strong fortifications made it an important defense post in the Maratha kingdom."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking & Exploration",
+      "description": "A short trek from the base village of Wada to the top provides beautiful valley views and historical sites.",
+      "info": [
+        "Difficulty level: Easy to Moderate.",
+        "Popular among beginners and history enthusiasts."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sightseeing",
+      "description": "The fort offers panoramic views of the Western Ghats and dense forests.",
+      "info": [
+        "Ideal for sunrise and sunset photography.",
+        "Drone shots (where permitted) capture the full grandeur."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/pratapgad/maha-durga.jpg",
+      "title": "Bhavani Mata Temple",
+      "description": "Built by Shivaji Maharaj in honor of Goddess Bhavani, the temple remains an important pilgrimage site.",
+      "distance": "Within fort complex",
+      "icon": "fa-solid fa-church",
+      "value": "Spiritual & Historical Spot"
+    },
+    {
+      "image": "/images/forts/pratapgad/shivaji-statue.jpg",
+      "title": "Statue of Shivaji Maharaj",
+      "description": "A grand bronze statue of Shivaji Maharaj stands proudly on the fort’s top, overlooking the valleys.",
+      "distance": "Fort summit area",
+      "icon": "fa-solid fa-person-military-pointing",
+      "value": "Symbol of Valor"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not a coastal fort, Pratapgad’s environment supports rich Sahyadri biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Lush evergreen forests, shrubs, and wildflowers surround the fort area."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Birds like peacocks, bulbuls, and jungle fowls are often spotted."
+      }
+    ],
+    "conclusion": [
+      "A paradise for nature lovers and trekkers alike.",
+      "The fort’s environment remains well-preserved throughout the year."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Mahabaleshwar: 21 km via Poladpur Road.",
+        "Regular buses and private taxis available."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Wathar (60 km) or Satara (85 km).",
+        "From there, hire local transport to Mahabaleshwar."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (120 km).",
+        "From Pune, take a cab or bus to Mahabaleshwar."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/pratapgad/gallery1.jpg",
+      "thumb": "/images/forts/pratapgad/thumb1.jpg",
+      "alt": "Aerial view of Pratapgad Fort"
+    },
+    {
+      "src": "/images/forts/pratapgad/gallery2.jpg",
+      "thumb": "/images/forts/pratapgad/thumb2.jpg",
+      "alt": "Bhavani Temple at Pratapgad"
+    },
+    {
+      "src": "/images/forts/pratapgad/gallery3.jpg",
+      "thumb": "/images/forts/pratapgad/thumb3.jpg",
+      "alt": "Statue of Shivaji Maharaj at the fort top"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Start your visit early to enjoy clear views before the fog sets in."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear during monsoon; paths can get slippery."
+    },
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Stay overnight at Mahabaleshwar or nearby resorts for a comfortable trip."
+    }
+  ]
+}

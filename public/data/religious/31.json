@@ -1,0 +1,189 @@
+{
+  "id": "31",
+  "title": "Jyotiba Temple, Kolhapur",
+  "subtitle": "Abode of Lord Jyotiba — The Guardian Deity of Kolhapur",
+  "bannerImage": "/images/religious/jyotiba-temple/banner.jpg",
+  "color": "#7C3AED",
+  "coordinates": { "lat": 16.7933, "lng": 74.1803 },
+  "overview": [
+    "The Jyotiba Temple, located near Wadi Ratnagiri in Kolhapur district, is one of Maharashtra’s most revered pilgrimage sites dedicated to Lord Jyotiba — an incarnation of Lord Shiva, Vishnu, and Brahma. It is believed that Lord Jyotiba helped Goddess Mahalaxmi in her battle against demons, symbolizing the triumph of good over evil.",
+    "Perched atop a hill at an altitude of 3124 feet, the temple offers a panoramic view of the Sahyadri ranges. The temple complex includes shrines of Kedareshwar, Yamai, and other deities, attracting thousands of devotees, especially during the annual fairs.",
+    "During the Chaitra Poornima festival, the entire hill turns pink as devotees throw 'Gulal' (holy pink powder) as an offering to Lord Jyotiba, creating one of the most colorful and vibrant sights in Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Temple on the Sacred Hill",
+      "description": "Located atop a 3124-foot-high hill, offering divine views and spiritual serenity."
+    },
+    {
+      "icon": "fas fa-fire",
+      "title": "Gulal Festival",
+      "description": "During Chaitra Poornima, devotees throw pink gulal across the hill, creating a magical and devotional atmosphere."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/jyotiba-temple/map.jpg",
+    "intro": "The Jyotiba Temple lies 17 km northwest of Kolhapur city in the Sahyadri hills, surrounded by lush greenery and scenic valleys.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Kolhapur"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Altitude",
+        "value": "3124 feet"
+      },
+      {
+        "icon": "fas fa-gopuram",
+        "label": "Presiding Deity",
+        "value": "Lord Jyotiba (Shiva, Vishnu, Brahma)"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to March"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Chaitra Poornima"
+      }
+    ],
+    "climate": {
+      "description": "The region enjoys a cool and pleasant climate due to its elevation and forested surroundings.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 22°C – 35°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon: Heavy rainfall with lush greenery (June–September)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 14°C – 26°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "The hilltop Jyotiba Temple offers spiritual peace amidst panoramic mountain landscapes."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Experience divine darshan of Lord Jyotiba and participate in daily morning and evening aartis.",
+      "info": [
+        "Special aartis are held on full moon days.",
+        "The temple is open from 4 AM to 11 PM daily."
+      ]
+    },
+    {
+      "icon": "fas fa-sun",
+      "title": "Chaitra Poornima Fair",
+      "description": "Join the grand annual fair when thousands of devotees climb the hill carrying saffron flags and singing devotional songs.",
+      "info": [
+        "The entire area turns pink with holy gulal powder.",
+        "A sight of immense cultural and spiritual significance."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trek to the Hilltop Temple",
+      "description": "Devotees often prefer walking up the scenic hill road to reach the temple, symbolizing faith and devotion.",
+      "info": [
+        "It’s a moderate 2 km uphill walk from the base.",
+        "Shuttle jeeps are also available for convenience."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/jyotiba-temple/mahalaxmi-temple.jpg",
+      "title": "Mahalaxmi Temple, Kolhapur",
+      "description": "One of the most revered Shakti Peethas, dedicated to Goddess Mahalaxmi, located just 17 km away.",
+      "distance": "17 km",
+      "icon": "fas fa-gopuram",
+      "value": "Nearby Temple"
+    },
+    {
+      "image": "/images/religious/jyotiba-temple/rankala-lake.jpg",
+      "title": "Rankala Lake",
+      "description": "A popular lake for evening strolls and local delicacies, offering serene natural beauty.",
+      "distance": "20 km",
+      "icon": "fas fa-water",
+      "value": "Scenic Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not coastal, the temple area thrives with spiritual energy and mountain charm.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Spiritual Energy",
+        "description": "The entire hill radiates devotion and positivity, drawing pilgrims from across India."
+      },
+      {
+        "icon": "fas fa-flag",
+        "title": "Faithful Traditions",
+        "description": "Carrying saffron flags uphill is considered a sacred ritual signifying courage and devotion."
+      }
+    ],
+    "conclusion": [
+      "The Jyotiba Temple stands as a symbol of divine strength and faith.",
+      "Its unique traditions make it one of the most colorful pilgrimages in Maharashtra."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Kolhapur Airport (26 km) is the nearest domestic airport.",
+        "Taxis are available from the airport to Jyotiba Hill."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train & Road",
+      "details": [
+        "Kolhapur Railway Station (17 km) is well connected to major cities.",
+        "Regular buses and taxis operate from Kolhapur to the base of Jyotiba Hill."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/jyotiba-temple/1.jpg",
+      "thumb": "/images/religious/jyotiba-temple/thumb1.jpg",
+      "alt": "Jyotiba Temple Hill View"
+    },
+    {
+      "src": "/images/religious/jyotiba-temple/2.jpg",
+      "thumb": "/images/religious/jyotiba-temple/thumb2.jpg",
+      "alt": "Gulal Festival at Jyotiba Temple"
+    },
+    {
+      "src": "/images/religious/jyotiba-temple/3.jpg",
+      "thumb": "/images/religious/jyotiba-temple/thumb3.jpg",
+      "alt": "Jyotiba Temple at Night"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Visit early morning or during weekdays to avoid heavy crowds."
+    },
+    {
+      "icon": "fas fa-umbrella",
+      "description": "Carry umbrellas or caps during summer visits, as the climb can be sunny."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography is allowed outside the temple but restricted inside sanctum areas."
+    }
+  ]
+}

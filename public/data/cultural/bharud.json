@@ -1,0 +1,183 @@
+{
+  "id": "bharud",
+  "title": "Bharud – The Devotional Folk Poetry of Maharashtra",
+  "subtitle": "Spiritual Expression through Music and Humor",
+  "bannerImage": "/images/cultural/bharud/banner.jpg",
+  "color": "#b07b3d",
+  "overview": [
+    "Bharud is a traditional devotional folk art form of Maharashtra that combines spiritual wisdom with humor and satire. Originating from the teachings of Saint Eknath in the 16th century, Bharuds are poetic compositions that deliver deep moral messages using simple language and entertaining dialogue.",
+    "Performed in a musical and dramatic style, Bharuds address social, religious, and moral themes — often depicting ordinary people like farmers, traders, and villagers to convey spiritual truths."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-music",
+      "title": "Spiritual Folk Music",
+      "description": "Bharud blends devotion and melody to convey the teachings of saints in an accessible, joyful way."
+    },
+    {
+      "icon": "fas fa-laugh",
+      "title": "Humor and Satire",
+      "description": "Each performance uses wit and humor to reflect on social realities and human behavior."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/bharud/geography.jpg",
+    "intro": "Bharud flourished in the regions of Ahmednagar, Nashik, and Aurangabad, especially in temples and fairs dedicated to Lord Vithoba of Pandharpur.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Primary Region",
+        "value": "Western and Central Maharashtra"
+      },
+      {
+        "icon": "fas fa-user",
+        "label": "Founder Saint",
+        "value": "Sant Eknath"
+      },
+      {
+        "icon": "fas fa-theater-masks",
+        "label": "Form",
+        "value": "Musical Poetry with Dialogue"
+      },
+      {
+        "icon": "fas fa-language",
+        "label": "Language",
+        "value": "Marathi"
+      },
+      {
+        "icon": "fas fa-drum",
+        "label": "Instruments",
+        "value": "Tuntuna, Chipli, Mridang, Harmonium"
+      }
+    ],
+    "climate": {
+      "description": "Bharuds are typically performed during temple fairs and religious festivals, particularly in the warmer months.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Peak performances during Ashadhi and Kartiki Ekadashi pilgrimages."
+        },
+        {
+          "icon": "fas fa-cloud-sun",
+          "text": "Also performed year-round in bhajan mandals and community events."
+        }
+      ]
+    },
+    "conclusion": "Bharud beautifully weaves together devotion, humor, and philosophy, keeping Maharashtra’s spiritual tradition alive through performance and poetry."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-microphone-alt",
+      "title": "Live Bharud Performances",
+      "description": "Witness vibrant Bharud shows in temple courtyards, where artists bring to life devotional tales through rhythmic singing and gestures.",
+      "info": [
+        "Regular performances during Pandharpur Wari and Vithoba festivals.",
+        "Artists dress as village characters to enhance realism."
+      ]
+    },
+    {
+      "icon": "fas fa-book",
+      "title": "Learn Bharud Composition",
+      "description": "Workshops and spiritual centers offer classes on writing and performing Bharud with devotional meaning.",
+      "info": [
+        "Courses include poetic structure, taal (rhythm), and abhang study.",
+        "Ideal for devotional singers and Marathi literature students."
+      ]
+    },
+    {
+      "icon": "fas fa-video",
+      "title": "Documentaries & Recordings",
+      "description": "Explore recorded Bharud performances available online and in cultural archives.",
+      "info": [
+        "Digital versions preserve rare compositions of Sant Eknath.",
+        "Streaming on Marathi heritage platforms and Doordarshan archives."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/bharud/pandharpur.jpg",
+      "title": "Pandharpur Wari Bharuds",
+      "description": "Thousands gather to witness Bharud performances during the grand Wari pilgrimage dedicated to Lord Vitthal.",
+      "distance": "Annual Festival",
+      "icon": "fas fa-gopuram",
+      "value": "Pandharpur"
+    },
+    {
+      "image": "/images/cultural/bharud/temple-fair.jpg",
+      "title": "Temple Fairs and Gatherings",
+      "description": "Bharuds are an integral part of Maharashtra’s rural fairs, connecting people through spirituality and humor.",
+      "distance": "Multiple Locations",
+      "icon": "fas fa-praying-hands",
+      "value": "Throughout Maharashtra"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although unrelated to the sea, Bharud represents the spiritual depth and emotional waves of devotion found across Maharashtra’s heartland.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Spiritual Connection",
+        "description": "Each Bharud builds a direct emotional bond between performer and audience through devotion."
+      },
+      {
+        "icon": "fas fa-bible",
+        "title": "Philosophical Insights",
+        "description": "Hidden beneath humor lies the timeless wisdom of saints like Eknath and Tukaram."
+      }
+    ],
+    "conclusion": [
+      "Bharud is both entertaining and enlightening — a perfect blend of art, devotion, and philosophy.",
+      "It continues to inspire artists and devotees, keeping Maharashtra’s saint tradition alive."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Pandharpur, Ahmednagar, and Nashik are well-connected by train from Mumbai and Pune.",
+        "Frequent trains operate during major religious events."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Regular MSRTC and private buses connect major cities to Bharud performance venues.",
+        "Pilgrims often travel together in groups for the Wari festival."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/bharud/gallery1.jpg",
+      "thumb": "/images/cultural/bharud/gallery1-thumb.jpg",
+      "alt": "Bharud Artists Performing in Pandharpur"
+    },
+    {
+      "src": "/images/cultural/bharud/gallery2.jpg",
+      "thumb": "/images/cultural/bharud/gallery2-thumb.jpg",
+      "alt": "Traditional Bharud Stage Performance"
+    },
+    {
+      "src": "/images/cultural/bharud/gallery3.jpg",
+      "thumb": "/images/cultural/bharud/gallery3-thumb.jpg",
+      "alt": "Devotional Audience Enjoying Bharud"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Plan your visit during Ashadhi Ekadashi or major temple fairs for the best Bharud experience."
+    },
+    {
+      "icon": "fas fa-hand-holding-heart",
+      "description": "Respect the devotional nature of performances — it’s both art and worship."
+    },
+    {
+      "icon": "fas fa-video",
+      "description": "Capture moments respectfully; always seek permission before filming live performances."
+    }
+  ]
+}

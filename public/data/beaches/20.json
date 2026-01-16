@@ -1,0 +1,206 @@
+{
+  "id": "20",
+  "title": "Kelshi Beach",
+  "subtitle": "A Serene Hidden Gem on the Konkan Coast",
+  "bannerImage": "/assets/images/beaches/kelshi-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/20/bannerImg.jpg",
+  "color": "#00786F",
+  "coordinates": {
+    "lat": 17.9231,
+    "lng": 73.0485
+  },
+  "overview": [
+    "Kelshi Beach, located in the Ratnagiri district of Maharashtra, is a peaceful and pristine coastal village on the Konkan shoreline. Known for its untouched natural beauty, black-sand shores, and calm atmosphere, it’s an ideal escape for solitude seekers and nature enthusiasts.",
+    "The beach stretches for nearly 2.5 km and is bordered by sand dunes, lush coconut groves, and the Peshwa-era Yakub Baba Dargah, making it both scenic and spiritual.",
+    "With minimal commercialization, Kelshi offers a true glimpse into rural coastal Maharashtra and is perfect for long beach walks, birdwatching, and exploring nearby heritage spots."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Secluded & Peaceful",
+      "description": "Less crowded and ideal for those who wish to relax away from commercial beach noise."
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Yakub Baba Dargah",
+      "description": "A revered shrine located near the beach, visited by both locals and travelers."
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Birdwatching Spot",
+      "description": "Kelshi attracts migratory birds, especially during winter months."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/20/info3.jpg",
+    "intro": "Kelshi is a small coastal village located around 35 km from Dapoli in Ratnagiri district, along the northern Konkan coastline.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fa-solid fa-ruler",
+        "label": "Beach Length",
+        "value": "Approximately 2.5 km"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Sea Level"
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "label": "Landscape",
+        "value": "Black sand, dunes, and coconut groves"
+      }
+    ],
+    "climate": {
+      "description": "Kelshi experiences a tropical coastal climate with pleasant winters, hot summers, and lush green monsoons.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: November to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Avoid monsoon season (June–September) due to rough seas"
+        }
+      ]
+    },
+    "conclusion": "Its calm weather and quiet surroundings make Kelshi ideal for short weekend retreats and spiritual exploration."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-walking",
+      "title": "Long Beach Walks",
+      "description": "Enjoy walking along the expansive sandy stretch surrounded by coconut trees and dunes.",
+      "info": [
+        "Perfect during early mornings or sunset",
+        "Minimal crowd ensures a peaceful atmosphere"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Birdwatching",
+      "description": "Spot a variety of migratory and coastal birds along the shoreline and nearby creek.",
+      "info": [
+        "Best season: Winter (Nov–Feb)",
+        "Bring binoculars for a better experience"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Visit Yakub Baba Dargah",
+      "description": "A centuries-old shrine of Yakub Baba built during the Peshwa period near the dunes.",
+      "info": [
+        "Important pilgrimage site for locals",
+        "Located a short walk from the main beach"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-fish",
+      "title": "Fishing & Local Life",
+      "description": "Witness the daily lives of local fishermen and their traditional wooden boats.",
+      "info": [
+        "Fresh seafood available in nearby homestays",
+        "Photography-friendly area"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/20/img1.jpg",
+      "title": "Kelshi Sand Dunes",
+      "description": "Natural formations of sand created by years of tidal activity — a must-see geological feature.",
+      "distance": "On the beachfront",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "Natural Formation"
+    },
+    {
+      "image": "/assets/images/beaches/20/img1.jpg",
+      "title": "Harnai Fort",
+      "description": "A coastal fort located about 30 km from Kelshi, offering sea views and Maratha history.",
+      "distance": "30 km",
+      "icon": "fa-solid fa-landmark-dome",
+      "value": "Historic Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "Kelshi’s nearshore ecosystem supports small fish, crabs, and a variety of coastal plants and shells.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Fish & Crustaceans",
+        "description": "Small fish and crabs can be seen along the shallow waters and rocky edges."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Shell & Coral Fragments",
+        "description": "Tide pools often reveal small coral fragments and unique seashells."
+      }
+    ],
+    "conclusion": [
+      "Kelshi’s marine ecosystem remains largely undisturbed due to low tourism activity.",
+      "Visitors are encouraged to avoid littering and respect local ecology."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Kelshi is around 35 km from Dapoli and 200 km from Pune via Mandangad.",
+        "Buses and private vehicles are available from Dapoli and Mumbai."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Khed (70 km away).",
+        "From Khed, local taxis and buses connect to Kelshi village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Ratnagiri (130 km) or Pune (200 km).",
+        "Private cabs available for the onward journey."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/20/img1.jpg",
+      "thumb": "/assets/images/beaches/20/img1.jpg",
+      "alt": "Peaceful shore of Kelshi Beach"
+    },
+    {
+      "src": "/assets/images/beaches/20/img2.jpg",
+      "thumb": "/assets/images/beaches/20/img2.jpg",
+      "alt": "Yakub Baba Dargah near the dunes"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-house",
+      "description": "Stay in local homestays to experience true Konkan hospitality."
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "description": "Try homemade seafood thali and fresh coconut water."
+    },
+    {
+      "icon": "fa-solid fa-info-circle",
+      "description": "Carry cash as digital payments may not be available everywhere."
+    }
+  ]
+}

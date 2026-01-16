@@ -1,0 +1,183 @@
+{
+  "id": "powada",
+  "title": "Powada – The Heroic Ballads of Maharashtra",
+  "subtitle": "Traditional Folk Narrative Art",
+  "bannerImage": "/images/cultural/powada/banner.jpg",
+  "color": "#d3a35a",
+  "overview": [
+    "Powada is a traditional Marathi art form that narrates the valiant deeds of warriors, kings, and freedom fighters through powerful poetry and music. Originating during the Maratha era, these ballads were used to inspire courage and unity among people.",
+    "Performed with passionate singing, rhythmic beats, and dramatic expressions, Powada captures the essence of Maharashtra’s history and pride — celebrating heroes like Chhatrapati Shivaji Maharaj, Tanaji Malusare, and Baji Prabhu Deshpande."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-feather-alt",
+      "title": "Heroic Storytelling",
+      "description": "Each Powada narrates real or legendary tales of bravery and patriotism through rhythmic Marathi verses."
+    },
+    {
+      "icon": "fas fa-flag",
+      "title": "Cultural Heritage",
+      "description": "A vital part of Maharashtra’s oral tradition, Powada continues to inspire generations with its fierce energy."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/powada/geography.jpg",
+    "intro": "Powada art originated in the Western Maharashtra region during the 17th century and spread across the state, particularly in Pune, Satara, and Kolhapur.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Region of Origin",
+        "value": "Western Maharashtra"
+      },
+      {
+        "icon": "fas fa-user",
+        "label": "Key Figures",
+        "value": "Tukaram, Ram Joshi, Honaji Bala"
+      },
+      {
+        "icon": "fas fa-music",
+        "label": "Art Form",
+        "value": "Ballad Poetry & Performance"
+      },
+      {
+        "icon": "fas fa-drum",
+        "label": "Musical Instruments",
+        "value": "Dholki, Tuntuna, Manjira"
+      },
+      {
+        "icon": "fas fa-language",
+        "label": "Language",
+        "value": "Marathi"
+      }
+    ],
+    "climate": {
+      "description": "Powada performances are usually organized during festivals, historical commemorations, and cultural gatherings, irrespective of season.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Popular during Shiv Jayanti celebrations in February."
+        },
+        {
+          "icon": "fas fa-cloud-sun",
+          "text": "Performed throughout the year at cultural events and schools."
+        }
+      ]
+    },
+    "conclusion": "Powada remains a timeless tribute to Maharashtra’s valorous past and its enduring love for freedom and justice."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-microphone-alt",
+      "title": "Live Powada Performances",
+      "description": "Experience the electrifying energy of live Powada shows where artists narrate stories of Maratha warriors.",
+      "info": [
+        "Held during Shiv Jayanti, Republic Day, and local festivals.",
+        "Often performed in open-air auditoriums and village fairs."
+      ]
+    },
+    {
+      "icon": "fas fa-book",
+      "title": "Learn the Art of Powada",
+      "description": "Join workshops to study Powada writing, rhythm, and performance techniques.",
+      "info": [
+        "Conducted by cultural academies in Pune and Kolhapur.",
+        "Ideal for literature and music students."
+      ]
+    },
+    {
+      "icon": "fas fa-video",
+      "title": "Watch Documentary & Theatre Adaptations",
+      "description": "Many Marathi theatre groups and filmmakers have revived classic Powadas through stage and cinema.",
+      "info": [
+        "Streaming available on Marathi cultural platforms.",
+        "Special screenings during heritage weeks."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/powada/shivaji-powada.jpg",
+      "title": "Powada on Shivaji Maharaj",
+      "description": "Witness inspiring performances dedicated to Chhatrapati Shivaji Maharaj’s bravery and leadership.",
+      "distance": "Cultural Event",
+      "icon": "fas fa-crown",
+      "value": "Statewide Performances"
+    },
+    {
+      "image": "/images/cultural/powada/historical-festival.jpg",
+      "title": "Historical Festivals",
+      "description": "Powadas are featured at festivals like Sinhagad Utsav and Raigad Mahotsav celebrating Maharashtra’s history.",
+      "distance": "Annually",
+      "icon": "fas fa-archway",
+      "value": "Raigad & Pune"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not linked to marine heritage, Powada represents the spiritual and emotional waves of Maharashtra’s culture.",
+    "items": [
+      {
+        "icon": "fas fa-fire",
+        "title": "Spirit of Bravery",
+        "description": "Every Powada kindles the flame of courage and self-respect among listeners."
+      },
+      {
+        "icon": "fas fa-book-open",
+        "title": "Living History",
+        "description": "These oral narratives keep history alive through the power of rhythm and poetry."
+      }
+    ],
+    "conclusion": [
+      "Powada is not just a performance — it’s a movement of Marathi pride.",
+      "It continues to shape Maharashtra’s cultural and literary identity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Major Powada events can be attended in Pune and Kolhapur, both well-connected by rail.",
+        "Regular trains available from Mumbai and Nashik."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Cultural festivals hosting Powada can be accessed by MSRTC and private buses.",
+        "Ideal for cultural enthusiasts traveling from across Maharashtra."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/powada/gallery1.jpg",
+      "thumb": "/images/cultural/powada/gallery1-thumb.jpg",
+      "alt": "Powada Performance on Stage"
+    },
+    {
+      "src": "/images/cultural/powada/gallery2.jpg",
+      "thumb": "/images/cultural/powada/gallery2-thumb.jpg",
+      "alt": "Artist Singing Powada"
+    },
+    {
+      "src": "/images/cultural/powada/gallery3.jpg",
+      "thumb": "/images/cultural/powada/gallery3-thumb.jpg",
+      "alt": "Traditional Instruments Used in Powada"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Plan visits during February–March when many Powada festivals are organized."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Carry a camera — Powada performances are visually and emotionally striking."
+    },
+    {
+      "icon": "fas fa-headphones",
+      "description": "Use headphones when listening to recorded Powadas for best experience."
+    }
+  ]
+}

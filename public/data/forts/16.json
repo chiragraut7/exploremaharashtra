@@ -1,0 +1,192 @@
+{
+  "id": "16",
+  "title": "Murud-Janjira Fort",
+  "subtitle": "The Invincible Sea Fort of Maharashtra",
+  "bannerImage": "/images/forts/murud-janjira/murud-banner.jpg",
+  "color": "#0f766e",
+  "coordinates": { "lat": 18.2994, "lng": 72.9631 },
+  "overview": [
+    "Murud-Janjira Fort is one of the strongest marine forts in India, located on an island off the coastal village of Murud in Raigad district. Built by the Siddis in the 15th century, this impregnable fort stood unconquered through attacks by the Portuguese, British, and Marathas.",
+    "The name ‘Janjira’ is derived from the Arabic word ‘Jazeera’, meaning island. Surrounded by the Arabian Sea, it remains a remarkable example of ancient naval architecture and maritime defense."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Unconquered Sea Fort",
+      "description": "Despite numerous attacks by the British and Marathas, Murud-Janjira was never defeated."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Island Fortress",
+      "description": "Completely surrounded by the Arabian Sea, accessible only by sailboats."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/murud-janjira/murud-geo.jpg",
+    "intro": "Murud-Janjira Fort stands proudly in the Arabian Sea, about 2 km off the coastal village of Murud. The oval-shaped island fort covers an area of nearly 22 acres and rises majestically above the waves.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Murud, Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Surroundings",
+        "value": "Arabian Sea, near Murud coast"
+      },
+      {
+        "icon": "fa-solid fa-ruler-combined",
+        "label": "Area",
+        "value": "Approximately 22 acres"
+      },
+      {
+        "icon": "fa-solid fa-building",
+        "label": "Built By",
+        "value": "Siddis of Janjira, 15th century"
+      },
+      {
+        "icon": "fa-solid fa-tower-observation",
+        "label": "Key Features",
+        "value": "Massive bastions, freshwater ponds, canons, palace ruins"
+      }
+    ],
+    "climate": {
+      "description": "Murud experiences a tropical coastal climate with moderate temperatures and high humidity year-round.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Ideal to visit between November and February."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Avoid visiting during the monsoon season (June–September) due to rough sea conditions."
+        }
+      ]
+    },
+    "conclusion": "Set amidst the sea’s waves, Murud-Janjira remains one of Maharashtra’s most awe-inspiring maritime landmarks."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Boat Ride to the Fort",
+      "description": "Enjoy an exciting sailboat ride from Rajapuri jetty to reach the fort.",
+      "info": [
+        "Tickets available at Rajapuri jetty.",
+        "Boat rides operate only in calm sea conditions."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historical Exploration",
+      "description": "Wander through palace ruins, secret escape routes, and old cannons.",
+      "info": [
+        "Hire a local guide for historical insights.",
+        "Carry water and sun protection for the island visit."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture panoramic views of the sea, fort walls, and ancient architecture.",
+      "info": [
+        "Sunset photography is highly recommended.",
+        "Protect cameras from sea spray."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/murud-janjira/attraction1.jpg",
+      "title": "Three Mighty Cannons",
+      "description": "Kalal Bangdi, Landa Kasam, and Chavri are massive cannons that once guarded the fort.",
+      "distance": "Inside Fort Premises",
+      "icon": "fa-solid fa-gun",
+      "value": "Historic Weaponry"
+    },
+    {
+      "image": "/images/forts/murud-janjira/attraction2.jpg",
+      "title": "Palace Ruins & Water Tanks",
+      "description": "Remains of royal palaces, secret passages, and freshwater ponds within the fort.",
+      "distance": "Central Fort Area",
+      "icon": "fa-solid fa-droplet",
+      "value": "Ancient Structures"
+    }
+  ],
+  "marineLife": {
+    "intro": "Located in the Arabian Sea, the area around Janjira supports a rich marine ecosystem with calm tidal zones and mangrove regions near the coast.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Fish and Crustaceans",
+        "description": "Waters around Murud are known for species like mackerel, pomfret, and prawns."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Marine Biodiversity",
+        "description": "The sea around Janjira sustains coral rocks, small reefs, and mangrove vegetation."
+      }
+    ],
+    "conclusion": [
+      "Murud-Janjira’s marine surroundings add natural beauty to its historical significance.",
+      "Boat rides also offer glimpses of sea birds and playful waves near the fort."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Murud is around 165 km from Mumbai via Alibag and Revdanda.",
+        "State transport buses and private taxis are easily available."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "The nearest railway station is Roha (40 km).",
+        "Taxis and buses connect Roha to Murud village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "By Sea",
+      "details": [
+        "Ferries operate from Gateway of India to Mandwa, then drive to Murud (around 55 km).",
+        "Local sailboats take you to the fort from Rajapuri Jetty."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/murud-janjira/gallery1.jpg",
+      "thumb": "/images/forts/murud-janjira/gallery1-thumb.jpg",
+      "alt": "Murud-Janjira Fort from Sea"
+    },
+    {
+      "src": "/images/forts/murud-janjira/gallery2.jpg",
+      "thumb": "/images/forts/murud-janjira/gallery2-thumb.jpg",
+      "alt": "Boat Ride to Janjira Fort"
+    },
+    {
+      "src": "/images/forts/murud-janjira/gallery3.jpg",
+      "thumb": "/images/forts/murud-janjira/gallery3-thumb.jpg",
+      "alt": "Ancient Cannons of Janjira"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Visit early morning to avoid long queues for boat rides."
+    },
+    {
+      "icon": "fa-solid fa-life-ring",
+      "description": "Carry life jackets and follow safety instructions during the sea journey."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Protect electronic gadgets from seawater spray."
+    }
+  ]
+}

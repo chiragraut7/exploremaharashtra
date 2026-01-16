@@ -1,0 +1,79 @@
+{
+  "id": "#yadavaModal",
+  "title": "🛡️ Yadava & Chalukya Era (8th to 13th Century CE)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-primary fw-semibold mb-3",
+      "text": "Dynasties of Power, Temple Architecture, and Cultural Flourishing"
+    },
+    {
+      "type": "p",
+      "text": "The period between the 8th and 13th centuries witnessed the rise of the Chalukyas of Badami and later the Yadava dynasty of Devagiri—two major powers that left a profound mark on Maharashtra’s political and cultural landscape."
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🏯 Chalukyas – Masters of Temple Art"
+    },
+    {
+      "type": "p",
+      "text": "The Chalukyas were renowned for their architectural innovation and patronage of art. They constructed stunning temples in Pattadakal, Aihole, and Badami, blending Nagara and Dravidian styles. Though centered in present-day Karnataka, their influence extended into Maharashtra, promoting Sanskrit learning, sculpture, and religious harmony."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Supported Shaivism, Vaishnavism, and Jainism simultaneously.",
+        "Encouraged rock-cut temples and inscriptional records in Sanskrit and Kannada."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-warning mt-4",
+      "text": "🦁 Yadavas of Devagiri – Builders of Forts and Cities"
+    },
+    {
+      "type": "p",
+      "text": "The Yadava dynasty, with its capital at Devagiri (now Daulatabad), played a key role in the development of medieval Maharashtra. Their reign marked a shift towards local autonomy and the rise of Marathi as a language of administration and literature."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bhaskaracharya, the famed mathematician and astronomer, flourished during this era.",
+        "Built fortifications, stepwells, and temples across the Deccan.",
+        "Promoted agriculture, irrigation, and local crafts."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-danger mt-4",
+      "text": "📚 Cultural & Linguistic Growth"
+    },
+    {
+      "type": "p",
+      "text": "Both dynasties patronized scholars, poets, and saints. This era laid the groundwork for Marathi literature, as inscriptions and poetry began appearing in the local tongue. The rise of Bhakti movements can be traced back to this time, sowing seeds for the later spiritual renaissance of Maharashtra."
+    },
+    {
+      "type": "h5",
+      "class": "text-info mt-4",
+      "text": "🛤️ Trade and Urban Centers"
+    },
+    {
+      "type": "p",
+      "text": "The Deccan region prospered under both dynasties due to its strategic location. Trade routes from Gujarat, Konkan, and the southern peninsula converged in cities like Paithan, Devagiri, and Kolhapur, enabling a vibrant exchange of goods, ideas, and cultures."
+    },
+    {
+      "type": "h5",
+      "class": "text-dark mt-4",
+      "text": "🏛️ Legacy and Continuity"
+    },
+    {
+      "type": "p",
+      "text": "The Chalukyas and Yadavas built a strong socio-political foundation that enabled the rise of the Maratha Empire later. Their emphasis on temple-building, language, and administration helped shape the cultural identity of Maharashtra that persists to this day."
+    },
+    {
+      "type": "p",
+      "text": "Forts, temples, and inscriptions from this era stand as silent storytellers—echoes of a time when kings ruled not just by might, but by culture and wisdom."
+    }
+  ]
+}

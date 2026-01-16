@@ -1,0 +1,179 @@
+{
+  "id": "13",
+  "title": "Korigad Fort",
+  "subtitle": "Scenic Hill Fort Overlooking Aamby Valley near Lonavala",
+  "bannerImage": "/images/forts/korigad/korigad-banner.jpg",
+  "color": "#6b21a8",
+  "coordinates": { "lat": 18.6186, "lng": 73.3853 },
+  "overview": [
+    "Korigad Fort is a beautiful hill fort located near Lonavala, overlooking the luxurious Aamby Valley. Built around the 15th century, it offers panoramic views of the surrounding valleys and artificial lakes.",
+    "The fort was incorporated into the Maratha Empire under Chhatrapati Shivaji Maharaj in 1657. Today, it is one of the most accessible trekking forts, making it a popular weekend destination for trekkers and nature enthusiasts."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Hilltop Fort",
+      "description": "Perched at 3,050 feet, the fort provides a commanding view of Aamby Valley and lush green surroundings."
+    },
+    {
+      "icon": "fa-solid fa-route",
+      "title": "Easy Trek",
+      "description": "Ideal for beginners, the trek route is simple yet scenic, especially during the monsoon."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/korigad/korigad-geo.jpg",
+    "intro": "Located around 20 km from Lonavala, Korigad lies at an altitude of 3,050 feet. It’s a table-top fort surrounded by deep valleys and connected to the neighboring Ambavne village.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Aamby Valley, Lonavala, Pune District"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Elevation",
+        "value": "3,050 feet above sea level"
+      },
+      {
+        "icon": "fa-solid fa-building",
+        "label": "Built By",
+        "value": "Unknown (Later captured by Chhatrapati Shivaji Maharaj)"
+      },
+      {
+        "icon": "fa-solid fa-tower-observation",
+        "label": "Structures",
+        "value": "Temples, Bastions, and Fort Walls"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Nearby Attractions",
+        "value": "Aamby Valley, Tung Fort, Pawna Lake"
+      }
+    ],
+    "climate": {
+      "description": "Korigad enjoys a pleasant climate most of the year, with monsoon being the most scenic season.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September) – lush greenery and waterfalls."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (November–February) – ideal for trekking and photography."
+        }
+      ]
+    },
+    "conclusion": "Korigad Fort’s accessibility and breathtaking vistas make it an ideal weekend getaway for history lovers and trekkers alike."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "A short and scenic trek from Ambavne village, suitable for all age groups.",
+      "info": [
+        "Trek distance: around 2 km from base village.",
+        "Takes about 45 minutes to reach the top."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture stunning landscapes, ancient fort walls, and views of Aamby Valley.",
+      "info": [
+        "Best lighting during early morning or sunset.",
+        "Carry waterproof gear during monsoon."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-temple",
+      "title": "Temple Visit",
+      "description": "Visit the ancient temple of Goddess Koraidevi situated at the top of the fort.",
+      "info": [
+        "Temple still used for local worship.",
+        "Marathi inscriptions can be found nearby."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/korigad/attraction1.jpg",
+      "title": "Koraidevi Temple",
+      "description": "An ancient temple dedicated to Goddess Koraidevi, located at the fort’s summit.",
+      "distance": "Top of Fort",
+      "icon": "fa-solid fa-temple",
+      "value": "Spiritual Site"
+    },
+    {
+      "image": "/images/forts/korigad/attraction2.jpg",
+      "title": "Aamby Valley Viewpoint",
+      "description": "A breathtaking viewpoint offering wide views of Aamby Valley and the surrounding hills.",
+      "distance": "South Bastion",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Scenic Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though inland, Korigad’s top hosts small natural and man-made ponds that retain water throughout the year.",
+    "items": [
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Fort Lakes",
+        "description": "Two water tanks at the top serve as a freshwater source for trekkers."
+      },
+      {
+        "icon": "fa-solid fa-seedling",
+        "title": "Natural Flora",
+        "description": "During monsoon, wildflowers and lush grass cover the entire plateau."
+      }
+    ],
+    "conclusion": [
+      "Korigad is surrounded by nature in full bloom during monsoon.",
+      "Its fort lakes add to the peaceful charm of the place."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Lonavala is the nearest railway station (20 km).",
+        "From Lonavala, hire a taxi or drive towards Ambavne village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Mumbai: 110 km via Mumbai–Pune Expressway and Lonavala.",
+        "From Pune: 90 km via Paud Road and Aamby Valley route."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/korigad/gallery1.jpg",
+      "thumb": "/images/forts/korigad/gallery1-thumb.jpg",
+      "alt": "Korigad Fort Top View"
+    },
+    {
+      "src": "/images/forts/korigad/gallery2.jpg",
+      "thumb": "/images/forts/korigad/gallery2-thumb.jpg",
+      "alt": "Koraidevi Temple at Korigad"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear during monsoon months."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear trekking shoes with good grip."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Don’t miss the panoramic shots of Aamby Valley from the fort walls."
+    }
+  ]
+}

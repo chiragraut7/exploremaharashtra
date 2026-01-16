@@ -1,0 +1,163 @@
+{
+  "id": "06",
+  "title": "Bhandardara",
+  "subtitle": "The Hidden Gem of the Sahyadris",
+  "bannerImage": "/assets/images/hills/06.jpg",
+  "insideBannerImage": "/assets/images/hills/06/bannerimg.jpg",
+  "color": "#2e5e45",
+  "coordinates": {"lat": 19.5447, "lng": 73.7706},
+  "overview": [
+    "Bhandardara, located near Igatpuri in the Ahmednagar district, is one of Maharashtra’s most scenic hill stations surrounded by lush green mountains and serene lakes.",
+    "It is known for its calm Arthur Lake, Randha Waterfall, and the famous Wilson Dam — one of the oldest dams in India.",
+    "Bhandardara offers a peaceful retreat for nature lovers, trekkers, and campers looking for offbeat experiences in the lap of nature."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Arthur Lake",
+      "description": "A calm, crystal-clear lake formed by the Pravara River, ideal for boating and lakeside picnics."
+    },
+    {
+      "icon": "fa-solid fa-tent",
+      "title": "Camping & Stargazing",
+      "description": "Bhandardara is one of the best places in Maharashtra for camping under a star-studded sky."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/06/info2.jpg",
+    "intro": "Situated at 750 meters above sea level, Bhandardara lies in the Western Ghats near the Pravara River.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Ahmednagar District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "750 meters above sea level" },
+      { "icon": "fa-solid fa-map", "label": "Coordinates", "value": "19.55°N, 73.75°E" },
+      { "icon": "fa-solid fa-water", "label": "Nearest River", "value": "Pravara River" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Western Ghats (Sahyadri Range)" }
+    ],
+    "climate": {
+      "description": "Bhandardara enjoys cool weather all year round, with monsoon bringing misty charm and greenery.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon (June–September): Waterfalls and green valleys at their best." },
+        { "icon": "fa-solid fa-moon", "text": "Winter (November–February): Ideal for stargazing and camping." }
+      ]
+    },
+    "conclusion": "Bhandardara’s calm lakes, towering peaks, and peaceful environment make it a perfect offbeat hill retreat."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-campground",
+      "title": "Lakeside Camping",
+      "description": "Experience peaceful camping near Arthur Lake with a bonfire under the night sky.",
+      "info": [
+        "Ideal for weekend getaways.",
+        "Pre-book tents during peak season."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "Explore Mount Kalsubai and Ratangad Fort for thrilling treks and panoramic views.",
+      "info": [
+        "Moderate difficulty level.",
+        "Best in winter and post-monsoon."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Visits",
+      "description": "Visit the majestic Randha and Umbrella Waterfalls during monsoon.",
+      "info": [
+        "Best from July to September.",
+        "Ideal for nature photography."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/06/img1.jpg",
+      "title": "Arthur Lake",
+      "description": "A tranquil lake ideal for boating and reflection, surrounded by Sahyadri peaks.",
+      "distance": "2 km from Bhandardara",
+      "icon": "fa-solid fa-water",
+      "value": "Lake View"
+    },
+    {
+      "image": "/assets/images/hills/06/img2.jpg",
+      "title": "Randha Falls",
+      "description": "A 170-ft waterfall on the Pravara River, a sight to behold during monsoon.",
+      "distance": "10 km from Bhandardara",
+      "icon": "fa-solid fa-waterfall",
+      "value": "Waterfall"
+    }
+  ],
+  "marineLife": {
+    "intro": "Bhandardara is a freshwater region; while it has no marine life, it supports local fish and rich bird diversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Freshwater Fish",
+        "description": "Arthur Lake supports small fish and aquatic plants."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Birds",
+        "description": "Migratory birds can often be spotted around the lake and forest area."
+      }
+    ],
+    "conclusion": [
+      "Bhandardara is a peaceful destination for eco-tourism and bird photography.",
+      "Perfect for nature lovers seeking tranquility."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Igatpuri (45 km).",
+        "Taxis and buses available from Igatpuri to Bhandardara."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located 165 km from Mumbai and 185 km from Pune.",
+        "Best route: Mumbai–Kasara–Igatpuri–Bhandardara."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Nashik Airport (90 km).",
+        "Private cabs available to Bhandardara."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/06/img1.jpg",
+      "thumb": "/assets/images/hills/06/img1.jpg",
+      "alt": "Bhandardara Lake"
+    },
+    {
+      "src": "/assets/images/hills/06/img2.jpg",
+      "thumb": "/assets/images/hills/06/img2.jpg",
+      "alt": "Randha Falls"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Book lakeside camping in advance for weekends and long holidays."
+    },
+    {
+      "icon": "fa-solid fa-cloud-showers-heavy",
+      "description": "Avoid peak monsoon drives due to slippery ghat roads."
+    },
+    {
+      "icon": "fa-solid fa-star",
+      "description": "Try visiting during new moon for the best stargazing experience."
+    }
+  ]
+}

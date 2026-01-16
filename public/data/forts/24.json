@@ -1,0 +1,128 @@
+{
+  "id": "24",
+  "title": "Anjaneri Fort",
+  "subtitle": "The Mythical Birthplace of Lord Hanuman near Nashik",
+  "bannerImage": "/images/forts/anjaneri/banner.jpg",
+  "color": "#c87f3d",
+  "coordinates": { "lat": 19.9197, "lng": 73.5758 },
+  "overview": [
+    "Anjaneri Fort, located near Nashik in Maharashtra, holds immense mythological and historical importance. Believed to be the birthplace of Lord Hanuman, this fort lies amid the lush Anjaneri Hills, part of the Sahyadri range.",
+    "The fort is not just a trekking destination but also a sacred site, attracting pilgrims and adventurers alike. The path to the top is scenic and offers panoramic views of the surrounding valleys, waterfalls, and the Trimbakeshwar range."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-hands-praying",
+      "title": "Mythological Significance",
+      "description": "Regarded as the birthplace of Lord Hanuman, Anjaneri Fort is an important pilgrimage site for devotees and spiritual seekers."
+    },
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Scenic Trek",
+      "description": "A moderate trek through rolling hills and waterfalls leading to temples and ancient fort ruins atop the Anjaneri Hills."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/anjaneri/geography.jpg",
+    "intro": "Anjaneri Fort is located about 20 km from Nashik and 6 km from Trimbakeshwar, situated at an altitude of around 1,300 meters above sea level.",
+    "details": [
+      { "icon": "fa-solid fa-map-location-dot", "label": "District", "value": "Nashik" },
+      { "icon": "fa-solid fa-mountain-sun", "label": "Altitude", "value": "1,300 meters" },
+      { "icon": "fa-solid fa-route", "label": "Nearest City", "value": "Nashik (20 km)" },
+      { "icon": "fa-solid fa-person-hiking", "label": "Trek Difficulty", "value": "Easy to Moderate" },
+      { "icon": "fa-solid fa-tree", "label": "Range", "value": "Sahyadri Range" }
+    ],
+    "climate": {
+      "description": "The region experiences pleasant weather most of the year, with monsoon offering lush greenery and cool winds.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-sun", "text": "Best time: October to February for clear views" },
+        { "icon": "fa-solid fa-cloud-showers-heavy", "text": "Monsoon (June–September) enhances greenery but trails get slippery" }
+      ]
+    },
+    "conclusion": "The combination of spirituality, scenic beauty, and adventure makes Anjaneri Fort a unique destination in Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "A serene trek with gradual climbs through forested trails, ancient steps, and viewpoints.",
+      "info": [
+        "Duration: 1.5–2 hours to reach the top",
+        "Ideal for beginners and families"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Temple Visits",
+      "description": "Visit the Anjani Mata Temple, dedicated to Lord Hanuman’s mother, located atop the hill.",
+      "info": [
+        "Highly revered site among devotees",
+        "Annual celebrations during Hanuman Jayanti"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture panoramic views of the Sahyadri ranges, waterfalls, and temples.",
+      "info": [
+        "Morning treks offer best light conditions",
+        "Popular for landscape photography"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/anjaneri/attraction1.jpg",
+      "title": "Anjani Mata Temple",
+      "description": "A small yet significant temple marking the mythical birthplace of Lord Hanuman.",
+      "distance": "Atop Anjaneri Hill",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Spiritual landmark"
+    },
+    {
+      "image": "/images/forts/anjaneri/attraction2.jpg",
+      "title": "Trimbakeshwar Temple",
+      "description": "One of the 12 Jyotirlingas of Lord Shiva, located close to Anjaneri.",
+      "distance": "6 km",
+      "icon": "fa-solid fa-temple-hindu",
+      "value": "Nearby pilgrimage site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although inland, Anjaneri’s natural life is vibrant with diverse flora and fauna.",
+    "items": [
+      { "icon": "fa-solid fa-leaf", "title": "Flora", "description": "Dense forests with wildflowers and medicinal herbs" },
+      { "icon": "fa-solid fa-dove", "title": "Fauna", "description": "Monkeys, peacocks, and a variety of birds common in the region" }
+    ],
+    "conclusion": [
+      "Ideal for nature lovers and bird watchers.",
+      "A tranquil environment offering peace and spiritual calmness."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Located 20 km from Nashik and 6 km from Trimbakeshwar.",
+        "Easily accessible via Nashik–Trimbakeshwar road; parking available at base village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Nashik Road (25 km).",
+        "Auto rickshaws and cabs available from Nashik to Anjaneri base."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/forts/anjaneri/gallery1.jpg", "thumb": "/images/forts/anjaneri/gallery1-thumb.jpg", "alt": "Anjaneri Hills Trek Path" },
+    { "src": "/images/forts/anjaneri/gallery2.jpg", "thumb": "/images/forts/anjaneri/gallery2-thumb.jpg", "alt": "Anjani Mata Temple atop the hill" }
+  ],
+  "bookingTips": [
+    { "icon": "fa-solid fa-clock", "description": "Start early morning to avoid afternoon heat during the climb." },
+    { "icon": "fa-solid fa-shoe-prints", "description": "Wear trekking shoes and carry enough water, especially in summer." },
+    { "icon": "fa-solid fa-umbrella", "description": "Avoid heavy rains; trails can get slippery in monsoon." }
+  ]
+}

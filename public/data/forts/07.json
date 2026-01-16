@@ -1,0 +1,195 @@
+{
+  "id": "07",
+  "title": "Rajmachi Fort",
+  "subtitle": "Twin Fortresses Overlooking the Sahyadri Ranges",
+  "bannerImage": "/images/forts/rajmachi/rajmachi-banner.jpg",
+  "color": "#166534",
+  "coordinates": { "lat": 18.8286, "lng": 73.3953 },
+  "overview": [
+    "Rajmachi Fort, located near Lonavala in the Sahyadri mountain ranges, is a popular trekking and historical destination in Maharashtra. The fort comprises two fortified peaks — Shrivardhan and Manaranjan — built to protect the Bor Ghat trade route between Mumbai and Pune.",
+    "Surrounded by lush greenery, waterfalls, and ancient caves, Rajmachi offers a perfect mix of adventure, nature, and history. It is especially popular during the monsoon season for its misty hills and scenic beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Twin Fortresses",
+      "description": "The fort consists of two hilltops — Shrivardhan and Manaranjan — each offering panoramic views."
+    },
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Famous Trekking Destination",
+      "description": "A popular monsoon trek from Lonavala or Karjat with picturesque trails and waterfalls."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/rajmachi/rajmachi-geo.jpg",
+    "intro": "Rajmachi is located between Lonavala and Karjat, at an elevation of about 2,710 feet above sea level. The twin fortresses stand overlooking the lush valleys and mountain passes of the Sahyadri ranges.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Lonavala, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Altitude",
+        "value": "2,710 feet (826 meters)"
+      },
+      {
+        "icon": "fa-solid fa-building",
+        "label": "Built By",
+        "value": "Satavahana Dynasty; later fortified by Shivaji Maharaj"
+      },
+      {
+        "icon": "fa-solid fa-tower-observation",
+        "label": "Fort Type",
+        "value": "Hill Fort (Twin Fortresses)"
+      }
+    ],
+    "climate": {
+      "description": "Rajmachi enjoys a tropical climate with moderate summers and cool winters. The monsoon season transforms the region into a lush green paradise.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Best visited during June to September when the hills are covered in mist and waterfalls flow abundantly."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Pleasant and clear weather during November to February for trekking and camping."
+        }
+      ]
+    },
+    "conclusion": "Rajmachi’s natural beauty and strategic location make it a must-visit fort for trekkers and history lovers alike."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "One of the most popular treks in Maharashtra, starting from Lonavala or Karjat.",
+      "info": [
+        "The Lonavala route is longer but scenic, passing through dense forests.",
+        "The Karjat route is steeper but shorter."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-campground",
+      "title": "Camping",
+      "description": "Camp near Udhewadi village at the base of the fort under the starry sky.",
+      "info": [
+        "Local villagers offer home stays and camping facilities.",
+        "Carry tents, torches, and sufficient water."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture breathtaking landscapes, fort ruins, and valley views.",
+      "info": [
+        "Sunrise and sunset points near Shrivardhan Fort offer the best views.",
+        "Monsoon fog adds a magical touch to photos."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/rajmachi/attraction1.jpg",
+      "title": "Shrivardhan Fort",
+      "description": "The taller of the two peaks, offering panoramic views of the Sahyadris and the Konkan plains.",
+      "distance": "Top Summit",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Scenic Viewpoint"
+    },
+    {
+      "image": "/images/forts/rajmachi/attraction2.jpg",
+      "title": "Manaranjan Fort",
+      "description": "Smaller peak with strong walls, water tanks, and a temple dedicated to Lord Shiva.",
+      "distance": "Adjacent Summit",
+      "icon": "fa-solid fa-water",
+      "value": "Ancient Ruins"
+    },
+    {
+      "image": "/images/forts/rajmachi/attraction3.jpg",
+      "title": "Kondane Caves",
+      "description": "Ancient Buddhist caves near Karjat base, known for rock-cut architecture and carvings.",
+      "distance": "12 km from Base Village",
+      "icon": "fa-solid fa-om",
+      "value": "Historic Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not located by the sea, Rajmachi’s ecosystem includes rich forest biodiversity with birds, insects, and flora typical of the Western Ghats.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Dense green cover of teak, bamboo, and wildflowers during the monsoon."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "Home to birds like bulbuls, hornbills, and butterflies, along with small reptiles."
+      }
+    ],
+    "conclusion": [
+      "Rajmachi’s biodiversity adds to its natural charm.",
+      "The monsoon season brings out its full ecological richness."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Lonavala is 15 km away, connected by road up to Udhewadi village.",
+        "From Karjat, the trek begins from Kondhane village (approx. 13 km)."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Lonavala and Karjat are the nearest railway stations.",
+        "Taxis and jeeps are available till the base villages."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "The nearest airport is Pune International Airport (90 km).",
+        "From Pune, travel by road to Lonavala and continue towards Udhewadi."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/rajmachi/gallery1.jpg",
+      "thumb": "/images/forts/rajmachi/gallery1-thumb.jpg",
+      "alt": "Rajmachi Fort in Monsoon"
+    },
+    {
+      "src": "/images/forts/rajmachi/gallery2.jpg",
+      "thumb": "/images/forts/rajmachi/gallery2-thumb.jpg",
+      "alt": "Trek Route to Rajmachi"
+    },
+    {
+      "src": "/images/forts/rajmachi/gallery3.jpg",
+      "thumb": "/images/forts/rajmachi/gallery3-thumb.jpg",
+      "alt": "Shrivardhan Fort Top View"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-cloud-showers-heavy",
+      "description": "Avoid visiting during heavy rains due to slippery trails."
+    },
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "description": "Wear good trekking shoes and carry enough water and snacks."
+    },
+    {
+      "icon": "fa-solid fa-campground",
+      "description": "Pre-book local homestays or camping spots during weekends."
+    }
+  ]
+}

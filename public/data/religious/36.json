@@ -1,0 +1,202 @@
+{
+  "id": "36",
+  "title": "Kopeshwar Temple, Khidrapur",
+  "subtitle": "An Architectural Marvel Dedicated to Lord Shiva and Vishnu",
+  "bannerImage": "/images/religious/test/kopeshwar-khidrapur/banner.jpg",
+  "color": "#4b2e83",
+  "coordinates": { "lat": 16.5911, "lng": 74.6947 },
+  "overview": [
+    "The Kopeshwar Temple, located in Khidrapur near Kolhapur, is one of Maharashtra’s finest examples of Chalukyan-style architecture dedicated to Lord Shiva and Lord Vishnu.",
+    "Built around the 12th century by the Shilahara rulers, the temple features intricately carved stone pillars, sculptures, and panels depicting mythological scenes from the Puranas.",
+    "It is unique for housing two deities — Lord Shiva (Kopeshwar) and Lord Vishnu (Dhopeshwar) — symbolizing harmony between Shaiva and Vaishnava traditions.",
+    "The temple’s circular sanctum and mandapa structure, along with its grand carvings of gods, goddesses, and celestial beings, make it a hidden gem of Deccan architecture."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gopuram",
+      "title": "Chalukyan Architecture",
+      "description": "Marvelous carvings, pillars, and sculptural motifs depicting gods, dancers, and mythical creatures."
+    },
+    {
+      "icon": "fa-solid fa-hand-holding-heart",
+      "title": "Dual Deity Temple",
+      "description": "Dedicated to both Lord Shiva (Kopeshwar) and Lord Vishnu (Dhopeshwar), representing unity of faiths."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/test/kopeshwar-khidrapur/geography.jpg",
+    "intro": "Khidrapur is a serene village on the banks of the Krishna River, near the Maharashtra-Karnataka border in Kolhapur district.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Khidrapur, Shirol Taluka, Kolhapur District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Region",
+        "value": "Southern Maharashtra (Deccan Plateau)"
+      },
+      {
+        "icon": "fa-solid fa-building-columns",
+        "label": "Temple Architecture",
+        "value": "Chalukyan style with circular sanctum (garbhagriha) and mandapa"
+      },
+      {
+        "icon": "fa-solid fa-person-praying",
+        "label": "Presiding Deity",
+        "value": "Lord Shiva as Kopeshwar and Lord Vishnu as Dhopeshwar"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Major Festival",
+        "value": "Maha Shivaratri"
+      }
+    ],
+    "climate": {
+      "description": "The area experiences a moderate tropical climate with pleasant winters and heavy monsoons.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "The temple looks stunning during monsoon with lush surroundings."
+        }
+      ]
+    },
+    "conclusion": "Situated on the Krishna riverbank, Kopeshwar Temple remains one of Maharashtra’s most sacred and aesthetically profound spiritual destinations."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Darshan and Rituals",
+      "description": "Devotees perform abhishekam and offer flowers and bilva leaves to Lord Kopeshwar.",
+      "info": [
+        "Daily puja timings: Morning and Evening.",
+        "Special rituals during Maha Shivaratri."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "title": "Architectural Exploration",
+      "description": "Admire 108 intricately carved pillars and detailed stone sculptures depicting stories from Hindu epics.",
+      "info": [
+        "Don’t miss the Swargamandapam (open roof section).",
+        "Ideal spot for heritage photography."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Krishna River Visit",
+      "description": "The river flowing beside the temple adds tranquility to the spiritual atmosphere.",
+      "info": [
+        "Calm ghats ideal for meditation and relaxation.",
+        "Sunset views are particularly serene."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/test/kopeshwar-khidrapur/attraction1.jpg",
+      "title": "Krishna River Ghats",
+      "description": "Peaceful ghats near the temple, used for religious rituals and meditation.",
+      "distance": "0.2 km",
+      "icon": "fa-solid fa-water",
+      "value": "Riverside Serenity"
+    },
+    {
+      "image": "/images/religious/test/kopeshwar-khidrapur/attraction2.jpg",
+      "title": "Sangameshwar Temple",
+      "description": "Ancient Shiva temple located at the Krishna and Warna river confluence.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-om",
+      "value": "Historic Temple"
+    },
+    {
+      "image": "/images/religious/test/kopeshwar-khidrapur/attraction3.jpg",
+      "title": "Kolhapur City",
+      "description": "A major cultural and religious hub famous for Mahalaxmi Temple and Kolhapuri cuisine.",
+      "distance": "55 km",
+      "icon": "fa-solid fa-city",
+      "value": "Cultural Hub"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although inland, the Krishna River supports diverse aquatic and avian life around Khidrapur.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Freshwater Species",
+        "description": "Local fish and aquatic birds frequent the calm waters near the temple."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Natural Harmony",
+        "description": "The temple surroundings host vibrant flora that complements its peaceful riverside setting."
+      }
+    ],
+    "conclusion": [
+      "Kopeshwar’s riverside location enhances its spiritual aura.",
+      "Visitors find solace in both the temple’s architecture and its natural serenity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Jaysingpur (24 km) or Miraj Junction (35 km).",
+        "Regular trains connect Kolhapur, Pune, and Mumbai."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Khidrapur is well-connected by road via Shirol and Kurundwad.",
+        "MSRTC buses and private cabs operate regularly from Kolhapur."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Kolhapur Airport (65 km).",
+        "Pune International Airport is about 290 km away."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/test/kopeshwar-khidrapur/1.jpg",
+      "thumb": "/images/religious/test/kopeshwar-khidrapur/thumb1.jpg",
+      "alt": "Kopeshwar Temple main view"
+    },
+    {
+      "src": "/images/religious/test/kopeshwar-khidrapur/2.jpg",
+      "thumb": "/images/religious/test/kopeshwar-khidrapur/thumb2.jpg",
+      "alt": "Carved pillars of Kopeshwar Temple"
+    },
+    {
+      "src": "/images/religious/test/kopeshwar-khidrapur/3.jpg",
+      "thumb": "/images/religious/test/kopeshwar-khidrapur/thumb3.jpg",
+      "alt": "Circular mandapa of Kopeshwar Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Accommodation available at nearby Shirol or Kolhapur with good facilities."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Prefer visiting by private car for ease of travel and exploration."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry a camera to capture intricate carvings and temple details."
+    }
+  ]
+}

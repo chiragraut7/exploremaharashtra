@@ -1,0 +1,189 @@
+{
+  "id": "26",
+  "title": "Varadvinayak Temple, Mahad",
+  "subtitle": "The Granter of Wishes among the revered Ashtavinayak Temples",
+  "bannerImage": "/images/religious/mahad/banner.jpg",
+  "color": "#f59e0b",
+  "coordinates": { "lat": 18.8167, "lng": 73.3583 },
+  "overview": [
+    "The Varadvinayak Temple at Mahad, located in the Khalapur taluka of Raigad district, is one of the eight sacred Ashtavinayak shrines of Lord Ganesha. The temple name 'Varadvinayak' means 'Bestower of Blessings' or 'Granter of Boons'.",
+    "It is believed that Lord Ganesha here fulfills the wishes of devotees who offer sincere prayers. The temple houses a self-manifested (Swayambhu) idol discovered in an adjoining lake over 300 years ago.",
+    "The present stone structure, built by Subhedar Ramji Mahadev Biwalkar in 1725 AD, exudes Peshwa-era architecture with a deep spiritual aura and serene surroundings.",
+    "Mahad’s peaceful setting, surrounded by green hills and a sacred pond, offers a divine and tranquil atmosphere for pilgrims visiting throughout the year."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-gift",
+      "title": "Granter of Boons",
+      "description": "Varadvinayak means the Lord who grants wishes and blessings to all who pray with devotion."
+    },
+    {
+      "icon": "fa-solid fa-droplet",
+      "title": "Swayambhu Idol from the Lake",
+      "description": "The self-manifested Ganesha idol was discovered in a lake near the temple, symbolizing purity and divinity."
+    },
+    {
+      "icon": "fa-solid fa-building-columns",
+      "title": "Historic Peshwa Architecture",
+      "description": "Constructed in 1725 AD, the temple showcases traditional stone craftsmanship and wooden carvings."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/mahad/map.jpg",
+    "intro": "The temple is located in Mahad village, about 8 km from Khopoli in Raigad district, nestled between scenic hills and ancient forests. Its location makes it easily accessible yet spiritually secluded.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "District",
+        "value": "Raigad"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Region",
+        "value": "Konkan (near Lonavala)"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Mumbai",
+        "value": "85 km"
+      },
+      {
+        "icon": "fa-solid fa-route",
+        "label": "Distance from Pune",
+        "value": "95 km"
+      }
+    ],
+    "climate": {
+      "description": "Mahad enjoys a tropical monsoon climate with pleasant winters, making it suitable for temple visits year-round.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 28°C – 36°C (March–June)"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon: 22°C – 30°C (July–September)"
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter: 20°C – 28°C (October–February)"
+        }
+      ]
+    },
+    "conclusion": "The natural setting around the Varadvinayak Temple enhances the meditative experience, combining devotion and tranquility."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Daily Darshan and Aarti",
+      "description": "Participate in morning and evening aartis to seek Lord Ganesha’s blessings.",
+      "info": [
+        "Morning Aarti: 6:00 AM",
+        "Evening Aarti: 8:00 PM"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Holy Pond Ritual",
+      "description": "The sacred pond beside the temple is believed to purify the soul. Many devotees take a dip before darshan.",
+      "info": [
+        "The pond is known as 'Swayambhu Kund'.",
+        "Offer prayers at the small shrine beside the pond."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Meditation near the Temple Courtyard",
+      "description": "Surrounded by ancient banyan trees and chirping birds, it’s a peaceful spot for meditation and reflection."
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/mahad/attraction1.jpg",
+      "title": "Sacred Pond (Swayambhu Kund)",
+      "description": "The holy pond where the self-manifested idol of Lord Ganesha was discovered.",
+      "distance": "0.1 km",
+      "icon": "fa-solid fa-droplet",
+      "value": "Holy Water Spot"
+    },
+    {
+      "image": "/images/religious/mahad/attraction2.jpg",
+      "title": "Imagica Theme Park",
+      "description": "Located nearby, a modern amusement park offering a fun outing for families after the pilgrimage.",
+      "distance": "10 km",
+      "icon": "fa-solid fa-car",
+      "value": "Family Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not a coastal site, Mahad is enveloped in lush greenery and calm natural surroundings.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Green Landscape",
+        "description": "The temple is surrounded by forested hills and peaceful nature."
+      },
+      {
+        "icon": "fa-solid fa-heart",
+        "title": "Spiritual Serenity",
+        "description": "The temple radiates calm and devotion, attracting seekers from across Maharashtra."
+      }
+    ],
+    "conclusion": [
+      "Varadvinayak Temple combines faith, nature, and history.",
+      "It stands as a symbol of wish fulfillment and divine grace among the Ashtavinayak shrines."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Mumbai International Airport (85 km).",
+        "Pune Airport is about 95 km away."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Station: Khopoli (8 km).",
+        "Regular trains connect Khopoli to Mumbai and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Located near NH4 (Mumbai–Pune Highway).",
+        "Easily accessible by ST buses, private cars, and taxis."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/mahad/1.jpg",
+      "thumb": "/images/religious/mahad/thumb1.jpg",
+      "alt": "Varadvinayak Temple Mahad Front View"
+    },
+    {
+      "src": "/images/religious/mahad/2.jpg",
+      "thumb": "/images/religious/mahad/thumb2.jpg",
+      "alt": "Sacred Pond beside Varadvinayak Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Visit early morning or late evening to avoid rush and enjoy serene darshan."
+    },
+    {
+      "icon": "fa-solid fa-gift",
+      "description": "Offer coconuts, modaks, and durva grass — traditional offerings to Lord Ganesha."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Combine Mahad visit with Ballaleshwar Pali (38 km away) for a two-temple Ashtavinayak trip."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "07",
+  "title": "Grishneshwar Temple",
+  "subtitle": "The Twelfth and Final Jyotirlinga of Lord Shiva near Ellora Caves",
+  "bannerImage": "/images/religious/grishneshwar/banner.jpg",
+  "color": "#8B0000",
+  "coordinates": { "lat": 20.0247, "lng": 75.1692 },
+  "overview": [
+    "Grishneshwar Temple, located near Ellora in Aurangabad district, is the twelfth and last of the sacred Jyotirlingas dedicated to Lord Shiva. This temple holds immense spiritual importance and attracts devotees from all over India.",
+    "The temple, built in the traditional South Indian architectural style, features intricate carvings and a majestic five-tiered shikhara. Its sanctum houses the self-manifested Shivalinga, believed to fulfill the wishes of devotees.",
+    "Situated close to the world-famous Ellora Caves, the temple offers both spiritual solace and architectural splendor, making it a must-visit pilgrimage site in Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-fire",
+      "title": "Twelfth Jyotirlinga of Shiva",
+      "description": "Grishneshwar is revered as the final among the twelve Jyotirlingas representing Lord Shiva’s divine presence."
+    },
+    {
+      "icon": "fas fa-torii-gate",
+      "title": "Magnificent Temple Architecture",
+      "description": "Built using red basalt stone with fine carvings, the temple showcases a blend of South and Maratha architectural influences."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/grishneshwar/map.jpg",
+    "intro": "Located in Verul village near the Ellora Caves, Grishneshwar Temple lies just 30 km from Aurangabad city, surrounded by scenic hills and historic monuments.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Aurangabad"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "650 meters"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Region",
+        "value": "Marathwada"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Best Season",
+        "value": "October to March"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Major Festival",
+        "value": "Mahashivratri"
+      }
+    ],
+    "climate": {
+      "description": "Aurangabad experiences warm summers, moderate monsoons, and pleasant winters, ideal for temple visits and sightseeing.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 40°C (March–June)"
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter: 15°C – 28°C (November–February)"
+        }
+      ]
+    },
+    "conclusion": "Grishneshwar offers an enriching combination of devotion, heritage, and history near the Ellora Caves."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Perform Jyotirlinga Darshan",
+      "description": "Offer prayers to the sacred Shivalinga and experience spiritual bliss inside the beautifully carved sanctum.",
+      "info": [
+        "Men are required to remove shirts before entering the sanctum as per tradition.",
+        "Abhishek rituals are performed daily during early morning hours."
+      ]
+    },
+    {
+      "icon": "fas fa-campground",
+      "title": "Explore Ellora Caves",
+      "description": "A UNESCO World Heritage Site just 1 km away, showcasing ancient rock-cut Buddhist, Jain, and Hindu temples.",
+      "info": [
+        "Cave No. 16, the Kailasa Temple, is dedicated to Lord Shiva.",
+        "Ideal for combining spiritual and cultural exploration."
+      ]
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Attend Mahashivratri Celebrations",
+      "description": "The temple comes alive with devotional music, rituals, and night-long prayers during Mahashivratri.",
+      "info": [
+        "Thousands of devotees gather for special darshan.",
+        "The temple is illuminated with lamps and decorations."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/grishneshwar/ellora.jpg",
+      "title": "Ellora Caves",
+      "description": "Ancient rock-cut caves representing three religions—Hinduism, Buddhism, and Jainism.",
+      "distance": "1 km",
+      "icon": "fas fa-landmark",
+      "value": "UNESCO Heritage"
+    },
+    {
+      "image": "/images/religious/grishneshwar/daulatabad-fort.jpg",
+      "title": "Daulatabad Fort",
+      "description": "An impressive hilltop fort offering panoramic views of Aurangabad’s landscape.",
+      "distance": "20 km",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Grishneshwar is inland, it radiates deep spiritual and historical richness through its sacred presence.",
+    "items": [
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Spiritual Energy",
+        "description": "Devotees experience calmness and divine strength after darshan of the Jyotirlinga."
+      },
+      {
+        "icon": "fas fa-heart",
+        "title": "Cultural Harmony",
+        "description": "The temple’s proximity to Ellora reflects the unity of diverse faiths and heritage."
+      }
+    ],
+    "conclusion": [
+      "Grishneshwar is a sacred symbol of faith and devotion.",
+      "It stands as a reminder of India’s ancient craftsmanship and divine legacy."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Aurangabad Airport (35 km) is the nearest airport, with flights from Mumbai, Pune, and Delhi.",
+        "Taxis and buses are available from the airport to Grishneshwar Temple."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train & Road",
+      "details": [
+        "Aurangabad Railway Station (30 km) connects with all major cities in Maharashtra.",
+        "Regular buses and taxis operate from Aurangabad, Nashik, and Pune."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/grishneshwar/1.jpg",
+      "thumb": "/images/religious/grishneshwar/thumb1.jpg",
+      "alt": "Grishneshwar Temple Entrance"
+    },
+    {
+      "src": "/images/religious/grishneshwar/2.jpg",
+      "thumb": "/images/religious/grishneshwar/thumb2.jpg",
+      "alt": "Main Shikhara of Grishneshwar Temple"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Temple opens at 5:30 AM; early morning darshan is peaceful and less crowded."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography is restricted inside the sanctum; follow temple rules."
+    },
+    {
+      "icon": "fas fa-bus",
+      "description": "Combine your visit with Ellora Caves for a full-day spiritual and historical trip."
+    }
+  ]
+}

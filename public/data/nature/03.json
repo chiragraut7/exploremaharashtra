@@ -1,0 +1,180 @@
+{
+  "id": "03",
+  "title": "Bhimashankar Wildlife Sanctuary",
+  "subtitle": "Sacred Forests of the Western Ghats",
+  "bannerImage": "/images/nature/bhimashankar/banner.jpg",
+  "color": "#1B4D3E",
+  "coordinates": { "lat": 19.0721, "lng": 73.5358 },
+  "overview": [
+    "Bhimashankar Wildlife Sanctuary, located in the Pune district of Maharashtra, is a part of the Western Ghats and is known for its rich biodiversity, dense forests, and sacred environment surrounding the Bhimashankar Temple — one of the twelve Jyotirlingas of Lord Shiva.",
+    "Spread across 131 square kilometers, the sanctuary protects the habitat of the Indian Giant Squirrel, locally known as 'Shekru', the state animal of Maharashtra.",
+    "The sanctuary combines spirituality and ecology, offering a unique blend of divine serenity and wilderness exploration."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-paw",
+      "title": "Habitat of Shekru",
+      "description": "Home to the endangered Indian Giant Squirrel, the state animal of Maharashtra."
+    },
+    {
+      "icon": "fas fa-temple",
+      "title": "Bhimashankar Temple",
+      "description": "Ancient Jyotirlinga temple situated within the sanctuary, attracting pilgrims year-round."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/bhimashankar/geography.jpg",
+    "intro": "Situated in the Sahyadri ranges of the Western Ghats, Bhimashankar Wildlife Sanctuary spans across Pune, Raigad, and Thane districts.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Pune District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-arrows-alt",
+        "label": "Area",
+        "value": "131 sq. km"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "900 – 1100 meters"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Main River",
+        "value": "Bhimariver, a tributary of Krishna"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Forest Type",
+        "value": "Tropical evergreen and semi-evergreen forests"
+      }
+    ],
+    "climate": {
+      "description": "The sanctuary experiences a pleasant climate throughout the year, with heavy monsoons enhancing its green beauty.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon (June–September): Lush green with full streams and waterfalls."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (October–February): Ideal for trekking and temple visits."
+        }
+      ]
+    },
+    "conclusion": "Bhimashankar's scenic hills, cool air, and divine energy make it a must-visit destination for nature and spiritual seekers alike."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking & Nature Walks",
+      "description": "Several trails wind through thick forests and small villages, leading to stunning viewpoints.",
+      "info": [
+        "Popular treks include Bhimashankar–Gupt Bhimashankar trail and Padarwadi route.",
+        "Best experienced early morning to enjoy misty forest views."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Wildlife & Bird Photography",
+      "description": "Capture images of Shekru, deer, langurs, and a wide variety of birds in their natural habitat.",
+      "info": [
+        "Carry telephoto lenses for clear wildlife shots.",
+        "Maintain silence to avoid disturbing animals."
+      ]
+    },
+    {
+      "icon": "fas fa-temple",
+      "title": "Pilgrimage Visit",
+      "description": "Visit the sacred Bhimashankar Temple nestled amidst dense forest.",
+      "info": [
+        "Temple dedicated to Lord Shiva, one of the twelve Jyotirlingas.",
+        "Early morning darshan recommended to avoid crowds."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/bhimashankar/temple.jpg",
+      "title": "Bhimashankar Temple",
+      "description": "An ancient Jyotirlinga temple of Lord Shiva, renowned for its Nagara-style architecture and peaceful surroundings.",
+      "distance": "Inside Sanctuary",
+      "icon": "fas fa-om",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/nature/bhimashankar/gupt-bhimashankar.jpg",
+      "title": "Gupt Bhimashankar",
+      "description": "A hidden waterfall believed to be the origin of the Bhima River, surrounded by dense greenery.",
+      "distance": "3 km forest trail",
+      "icon": "fas fa-water",
+      "value": "Hidden Natural Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although primarily terrestrial, Bhimashankar’s streams and rivers sustain small aquatic species vital to the ecosystem.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Stream Fishes",
+        "description": "Home to small freshwater species that thrive in the crystal-clear streams."
+      },
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibian Life",
+        "description": "Monsoon season brings various frogs and toads, adding to the sanctuary’s vibrant ecosystem."
+      }
+    ],
+    "conclusion": [
+      "Bhimashankar’s biodiversity reflects the ecological richness of the Western Ghats.",
+      "Its delicate ecosystem is protected under multiple conservation initiatives."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": [
+        "Bhimashankar is about 120 km from Pune and 220 km from Mumbai.",
+        "Regular ST buses and private taxis are available from both cities."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest Railway Station: Pune (120 km).",
+        "From Pune, hire a cab or board a local bus to Bhimashankar."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/bhimashankar/gallery1.jpg",
+      "thumb": "/images/nature/bhimashankar/thumb1.jpg",
+      "alt": "Bhimashankar Temple surrounded by misty hills"
+    },
+    {
+      "src": "/images/nature/bhimashankar/gallery2.jpg",
+      "thumb": "/images/nature/bhimashankar/thumb2.jpg",
+      "alt": "Shekru – Indian Giant Squirrel on tree branch"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Best time to visit: October to February for pleasant weather and temple visits."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Forest entry passes available at the Bhimashankar Forest Office."
+    },
+    {
+      "icon": "fas fa-tree",
+      "description": "Avoid littering and respect the sacred natural surroundings."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "08",
+  "title": "Lohagad Fort",
+  "subtitle": "The Iron Fort of Maharashtra",
+  "bannerImage": "/images/forts/lohagad/lohagad-banner.jpg",
+  "color": "#5a3e1b",
+  "coordinates": { "lat": 18.7056, "lng": 73.4833 },
+  "overview": [
+    "Lohagad Fort, meaning 'Iron Fort', stands proudly near Lonavala in the Pune district of Maharashtra. It is one of the best-preserved and most accessible forts in the Sahyadri range, located at an altitude of 3,389 feet.",
+    "Known for its impressive fortifications and scenic trekking routes, Lohagad served as an important stronghold of the Maratha Empire under Chhatrapati Shivaji Maharaj."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Imposing Structure",
+      "description": "Lohagad’s solid architecture and iron-like strength earned it the name ‘Iron Fort’."
+    },
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Popular Trekking Destination",
+      "description": "A favorite weekend trek near Lonavala, offering an easy climb with rewarding views."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/lohagad/lohagad-geography.jpg",
+    "intro": "Located about 52 km from Pune and 11 km from Lonavala, Lohagad Fort divides the basins of Indrayani and Pavna rivers. The fort’s walls still stand strong, overlooking the lush valleys of the Western Ghats.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Lonavala, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Altitude",
+        "value": "3,389 feet (1,033 meters)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Satavahanas, later strengthened by Chhatrapati Shivaji Maharaj"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Construction Era",
+        "value": "Around 11th Century AD"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest City",
+        "value": "Lonavala (11 km), Pune (52 km)"
+      }
+    ],
+    "climate": {
+      "description": "The fort experiences pleasant weather most of the year, with monsoon being the most scenic season.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): The fort becomes lush green and mist-covered."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (October–February): Ideal time for trekking and photography."
+        }
+      ]
+    },
+    "conclusion": "Lohagad’s geographic location made it a watchpoint over the trade routes between the Konkan coast and the Deccan Plateau."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "The Lohagad trek is an easy and scenic route starting from the base village Malavali.",
+      "info": [
+        "Trek duration: 1.5–2 hours one way.",
+        "Perfect for beginners and families."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture misty monsoon clouds, lush greenery, and the panoramic view of Pawna Lake.",
+      "info": [
+        "Best views during early morning or sunset.",
+        "Carry waterproof gear during rains."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-archway",
+      "title": "Fort Exploration",
+      "description": "Explore ancient gates, strong walls, and the famous Vinchu Kata (Scorpion’s Tail) point.",
+      "info": [
+        "Vinchu Kata offers spectacular valley views.",
+        "Spot old cannons and stone water tanks."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/lohagad/vinchu-kata.jpg",
+      "title": "Vinchu Kata (Scorpion’s Tail)",
+      "description": "A long, narrow fortified spur resembling a scorpion’s tail offering breathtaking views of the valley.",
+      "distance": "Within the fort complex",
+      "icon": "fa-solid fa-route",
+      "value": "Scenic Cliff Point"
+    },
+    {
+      "image": "/images/forts/lohagad/ganesh-darwaja.jpg",
+      "title": "Ganesh Darwaja",
+      "description": "One of the four grand entrances to the fort, built with strong stone arches and carvings.",
+      "distance": "Main entrance area",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Historic Gateway"
+    },
+    {
+      "image": "/images/forts/lohagad/pawna-view.jpg",
+      "title": "Pawna Lake Viewpoint",
+      "description": "A perfect spot for photography with mesmerizing views of Pawna Dam and Tung Fort.",
+      "distance": "Edge of the fort wall",
+      "icon": "fa-solid fa-water",
+      "value": "Panoramic Viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though located in the mountains, Lohagad Fort is surrounded by rich biodiversity and lush vegetation.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Thick green cover during monsoon with wildflowers, shrubs, and moss-covered stones."
+      },
+      {
+        "icon": "fa-solid fa-crow",
+        "title": "Fauna",
+        "description": "Monkeys, peacocks, and numerous bird species can be spotted along the trail."
+      }
+    ],
+    "conclusion": [
+      "The fort and surrounding areas form part of the Western Ghats biodiversity hotspot.",
+      "Perfect for eco-trekkers and bird watchers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Pune: 52 km via Old Mumbai-Pune Highway.",
+        "From Lonavala: 11 km drive to the base village Malavali."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Malavali (2 km from base).",
+        "Local trains available from Pune and Lonavala."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (64 km).",
+        "Taxis and cabs available from Pune to Malavali."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/lohagad/gallery1.jpg",
+      "thumb": "/images/forts/lohagad/thumb1.jpg",
+      "alt": "Lohagad Fort entrance in monsoon"
+    },
+    {
+      "src": "/images/forts/lohagad/gallery2.jpg",
+      "thumb": "/images/forts/lohagad/thumb2.jpg",
+      "alt": "Vinchu Kata viewpoint from top"
+    },
+    {
+      "src": "/images/forts/lohagad/gallery3.jpg",
+      "thumb": "/images/forts/lohagad/thumb3.jpg",
+      "alt": "Pawna Lake view from Lohagad"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Start early to enjoy mist-free views before the fog rolls in."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear good trekking shoes as the steps can be slippery during rains."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry waterproof bags for cameras and gadgets during monsoon."
+    }
+  ]
+}

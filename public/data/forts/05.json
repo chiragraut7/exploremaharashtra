@@ -1,0 +1,200 @@
+{
+  "id": "05",
+  "title": "Purandar Fort",
+  "subtitle": "The Fort of Heritage and Strategic Power",
+  "bannerImage": "/images/forts/purandar/purandar-banner.jpg",
+  "color": "#8b4513",
+  "coordinates": { "lat": 18.2750, "lng": 73.9750 },
+  "overview": [
+    "Purandar Fort, located about 50 km southeast of Pune, is one of the most prominent hill forts in Maharashtra’s Deccan plateau. Standing tall at 4,472 feet, it offers panoramic views of the surrounding countryside and holds immense historical importance.",
+    "It is famous as the birthplace of Chhatrapati Sambhaji Maharaj, the son of Chhatrapati Shivaji Maharaj, and as the site of the 1665 Treaty of Purandar between the Marathas and the Mughals."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-scroll",
+      "title": "Historic Treaty Site",
+      "description": "The Treaty of Purandar (1665) between Shivaji Maharaj and Jai Singh of the Mughal Empire was signed here."
+    },
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Stunning Hill Views",
+      "description": "Offers breathtaking views of the Sahyadri range and lush valleys below."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/purandar/purandar-geography.jpg",
+    "intro": "Perched in the Western Ghats near Saswad, Purandar Fort consists of two levels — the lower fort (Machi) and the upper fort (Balekilla). It served as a crucial defensive structure for the Maratha Empire.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Saswad, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Altitude",
+        "value": "4,472 feet (1,363 meters)"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest City",
+        "value": "Pune (50 km)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Yadava Dynasty, later fortified by Chhatrapati Shivaji Maharaj"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Construction Era",
+        "value": "13th Century (later renovated in the 17th Century)"
+      }
+    ],
+    "climate": {
+      "description": "Purandar experiences pleasant weather most of the year, with monsoon transforming the area into a lush green paradise.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-sun",
+          "text": "Best time: October to February – cool and clear skies ideal for trekking."
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September) – scenic but slippery trails."
+        }
+      ]
+    },
+    "conclusion": "Due to its altitude and strategic position, Purandar played a key role in Maratha defense and surveillance."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking",
+      "description": "A moderately challenging trek from Narayanpur village to the fort offers adventure and historical exploration.",
+      "info": [
+        "Trek duration: Around 1.5 to 2 hours (one way).",
+        "Ideal for history and nature enthusiasts."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture the picturesque Sahyadri landscapes and the ancient Maratha architecture.",
+      "info": [
+        "Sunrise and sunset provide dramatic lighting conditions.",
+        "Carry a zoom lens for architectural details."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-church",
+      "title": "Exploring Temples",
+      "description": "Visit the old Kedareshwar temple inside the fort premises for its ancient stone carvings.",
+      "info": [
+        "Temple dedicated to Lord Shiva.",
+        "Peaceful spot for rest and meditation."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/purandar/balekilla.jpg",
+      "title": "Balekilla (Upper Fort)",
+      "description": "The highest point of Purandar offering commanding views and historic remains of Maratha watchtowers.",
+      "distance": "Top of the fort",
+      "icon": "fa-solid fa-tower-cell",
+      "value": "Historic Fortification"
+    },
+    {
+      "image": "/images/forts/purandar/kedareshwar-temple.jpg",
+      "title": "Kedareshwar Temple",
+      "description": "An ancient Shiva temple inside the fort complex, revered for its calm ambiance.",
+      "distance": "Within the fort area",
+      "icon": "fa-solid fa-temple",
+      "value": "Spiritual Landmark"
+    },
+    {
+      "image": "/images/forts/purandar/sambhaji-birthplace.jpg",
+      "title": "Birthplace of Sambhaji Maharaj",
+      "description": "Historical site marking the birthplace of Chhatrapati Sambhaji Maharaj, son of Shivaji Maharaj.",
+      "distance": "Upper Fort area",
+      "icon": "fa-solid fa-baby",
+      "value": "Historic Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill fort, Purandar doesn’t have marine life but supports a variety of mountain flora and fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Covered with seasonal grasses, wildflowers, and small shrubs during monsoon."
+      },
+      {
+        "icon": "fa-solid fa-crow",
+        "title": "Fauna",
+        "description": "Commonly spotted species include peacocks, eagles, monkeys, and parakeets."
+      }
+    ],
+    "conclusion": [
+      "Purandar’s ecosystem comes alive in monsoon with fresh greenery and colorful birds.",
+      "Ideal for eco-tourism and weekend treks."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Pune: 50 km via Saswad-Narayanpur Road (approx. 1.5 hours).",
+        "Parking available at the base village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Pune Junction (50 km).",
+        "Taxis and buses available from Pune to Saswad or Narayanpur."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Pune International Airport (60 km).",
+        "Private cabs available from the airport."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/purandar/gallery1.jpg",
+      "thumb": "/images/forts/purandar/thumb1.jpg",
+      "alt": "Balekilla view from base village"
+    },
+    {
+      "src": "/images/forts/purandar/gallery2.jpg",
+      "thumb": "/images/forts/purandar/thumb2.jpg",
+      "alt": "Kedareshwar Temple on Purandar Fort"
+    },
+    {
+      "src": "/images/forts/purandar/gallery3.jpg",
+      "thumb": "/images/forts/purandar/thumb3.jpg",
+      "alt": "Panoramic view from Purandar summit"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-clock",
+      "description": "Begin your trek early morning to avoid the afternoon heat."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear during monsoon; trails can get slippery."
+    },
+    {
+      "icon": "fa-solid fa-water-bottle",
+      "description": "Bring sufficient water and snacks as facilities are limited at the top."
+    }
+  ]
+}

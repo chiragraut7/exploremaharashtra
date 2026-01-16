@@ -1,0 +1,181 @@
+{
+  "id": "08",
+  "title": "Mhaismal Hill Station",
+  "subtitle": "A Peaceful Hill Retreat near Aurangabad",
+  "bannerImage": "/assets/images/hills/08.jpg",
+  "insideBannerImage": "/assets/images/hills/08/bannerimg.jpg",
+  "color": "#3c8b57",
+  "coordinates": {"lat": 20.0910, "lng": 75.1810},
+  "overview": [
+    "Mhaismal is a serene and lesser-known hill station located near Aurangabad in Maharashtra. It sits gracefully in the Sahyadri ranges, offering sweeping views of lush greenery, valleys, and nearby historical marvels.",
+    "Situated at an altitude of about 1067 meters, Mhaismal becomes particularly charming during the monsoon when the entire region turns green and mist-covered.",
+    "It is an ideal destination for those seeking peace, nature, and proximity to historical sites like Ellora Caves, Grishneshwar Temple, and Daulatabad Fort."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Scenic Hill Views",
+      "description": "The hill station offers panoramic views of the Deccan Plateau and lush valleys, especially in monsoon."
+    },
+    {
+      "icon": "fa-solid fa-temple",
+      "title": "Spiritual Surroundings",
+      "description": "Mhaismal is close to several important religious sites, making it a calm and spiritual retreat."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/08/info2.jpg",
+    "intro": "Mhaismal lies in the Sahyadri hill ranges of the Aurangabad district, around 40 km from the city. Its altitude ensures a pleasant climate throughout the year.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Aurangabad District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Elevation",
+        "value": "1067 meters (3500 feet)"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Connectivity",
+        "value": "Accessible by road from Aurangabad and Ellora"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Vegetation",
+        "value": "Evergreen and deciduous forest cover"
+      },
+      {
+        "icon": "fa-solid fa-cloud",
+        "label": "Climate Type",
+        "value": "Cool and pleasant throughout the year"
+      }
+    ],
+    "climate": {
+      "description": "The hill station experiences a temperate climate, with the monsoon season transforming it into a lush paradise.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (June–September): Heavy rainfall and vibrant greenery"
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter (November–February): Cool, foggy mornings ideal for nature walks"
+        }
+      ]
+    },
+    "conclusion": "Mhaismal’s refreshing weather and serene setting make it a peaceful getaway near Aurangabad."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Trekking & Hiking",
+      "description": "Trek through the lush hills and explore viewpoints around Mhaismal for beautiful valley vistas.",
+      "info": [
+        "Ideal for beginners",
+        "Carry rain gear during monsoon"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography",
+      "description": "Capture panoramic views, misty landscapes, and nearby heritage sites.",
+      "info": [
+        "Best during early morning or post-rain hours",
+        "Bring a zoom lens for distant views"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-praying-hands",
+      "title": "Temple Visits",
+      "description": "Visit the nearby temples and spiritual spots for peaceful reflection.",
+      "info": [
+        "Grishneshwar Temple (one of the 12 Jyotirlingas)",
+        "Local shrines dedicated to various deities"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/08/img1.jpg",
+      "title": "Ellora Caves",
+      "description": "UNESCO World Heritage Site featuring 34 rock-cut caves representing Buddhist, Hindu, and Jain traditions.",
+      "distance": "15 km from Mhaismal",
+      "icon": "fa-solid fa-landmark",
+      "value": "Ancient heritage marvel near Mhaismal"
+    },
+    {
+      "image": "/assets/images/hills/08/img2.jpg",
+      "title": "Daulatabad Fort",
+      "description": "Historic fort with magnificent architecture and panoramic views of the plains.",
+      "distance": "25 km from Mhaismal",
+      "icon": "fas fa-chess-rook",
+      "value": "Perfect for history lovers and trekkers"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill station, Mhaismal doesn’t have marine life, but its forests and valleys host rich biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Rich in medicinal herbs, shrubs, and flowering plants native to the Deccan region."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Birds, monkeys, and small mammals commonly found in the Sahyadri ecosystem."
+      }
+    ],
+    "conclusion": [
+      "Mhaismal’s biodiversity adds to its charm for eco-tourists and photographers.",
+      "Perfect for a peaceful weekend close to nature."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located about 40 km from Aurangabad via Ellora",
+        "Buses and private taxis are available regularly"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Aurangabad (40 km)",
+        "Connected to major cities like Mumbai, Pune, and Nashik"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/08/img1.jpg",
+      "thumb": "/assets/images/hills/08/img1.jpg",
+      "alt": "Mhaismal hill view in monsoon"
+    },
+    {
+      "src": "/assets/images/hills/08/img2.jpg",
+      "thumb": "/assets/images/hills/08/img2.jpg",
+      "alt": "Fog-covered Mhaismal landscape"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "Best time to visit is between July and February for pleasant weather."
+    },
+    {
+      "icon": "fa-solid fa-home",
+      "description": "Stay options are limited — plan accommodations in Ellora or Aurangabad."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry your camera — misty hills and nearby caves offer stunning frames."
+    }
+  ]
+}

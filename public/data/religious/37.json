@@ -1,0 +1,180 @@
+{
+  "id": "37",
+  "title": "Kalaram Temple",
+  "subtitle": "A Sacred Shrine Dedicated to Lord Rama in Nashik",
+  "bannerImage": "/images/religious/kalaram/banner.jpg",
+  "color": "#9C27B0",
+  "coordinates": { "lat": 20.0075, "lng": 73.7919 },
+  "overview": [
+    "The Kalaram Temple, located in Panchavati, Nashik, is one of the most revered temples dedicated to Lord Rama. Built in black stone, it derives its name 'Kalaram' meaning 'Black Rama' from the striking black idol of Lord Rama housed within.",
+    "This temple holds immense spiritual and historical importance as it stands close to sites associated with Lord Rama’s exile described in the Ramayana. It was constructed in the 18th century by Sardar Rangarao Odhekar after he dreamt of the idol being found in the Godavari River.",
+    "Kalaram Temple also played a significant role in India’s social reform history — Dr. B. R. Ambedkar led a major Dalit temple entry movement here in 1930, marking it as both a religious and social landmark."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-landmark",
+      "title": "Historic Black Stone Architecture",
+      "description": "Built entirely from black basalt stones without mortar, showcasing exquisite 18th-century Maratha craftsmanship."
+    },
+    {
+      "icon": "fas fa-history",
+      "title": "Ambedkar’s Temple Entry Movement",
+      "description": "A historic site of Dr. B. R. Ambedkar’s 1930 social reform movement promoting equality and temple access for all."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/kalaram/map.jpg",
+    "intro": "Situated in the sacred Panchavati area of Nashik, the Kalaram Temple lies along the banks of the Godavari River, surrounded by other Ramayana-era sites like Sita Gufa and Tapovan.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Panchavati, Nashik, Maharashtra"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "560 meters"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Highway",
+        "value": "NH-160 (Mumbai–Nashik Highway)"
+      },
+      {
+        "icon": "fas fa-plane",
+        "label": "Nearest Airport",
+        "value": "Nashik Airport (20 km)"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Railway Station",
+        "value": "Nashik Road (10 km)"
+      }
+    ],
+    "climate": {
+      "description": "Nashik enjoys a moderate climate with warm summers and pleasant winters, making it ideal for pilgrimage throughout the year.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 25°C – 38°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: Heavy rains (June–September)"
+        }
+      ]
+    },
+    "conclusion": "The temple’s peaceful surroundings along the Godavari make it a spiritually uplifting destination for devotees and history enthusiasts alike."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Rama Darshan and Aarti",
+      "description": "Attend morning and evening aartis offering divine vibrations in the grand temple courtyard.",
+      "info": [
+        "Daily rituals and bhajans are performed by temple priests.",
+        "Devotees chant Ram Raksha Stotra and Hanuman Chalisa."
+      ]
+    },
+    {
+      "icon": "fas fa-book-open",
+      "title": "Explore Ramayana Sites",
+      "description": "Visit nearby Panchavati attractions like Sita Gufa, Tapovan, and Godavari Ghat linked to Lord Rama’s exile.",
+      "info": [
+        "All sites are within walking distance of Kalaram Temple.",
+        "Local guides narrate mythological stories from the Ramayana."
+      ]
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Cultural and Religious Events",
+      "description": "During Ram Navami and Dussehra, the temple hosts grand processions and cultural performances.",
+      "info": [
+        "Ram Rath Yatra is the highlight of the festival season.",
+        "Thousands of devotees participate in traditional rituals."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/kalaram/sita-gufa.jpg",
+      "title": "Sita Gufa",
+      "description": "A sacred cave believed to be the spot where Goddess Sita was abducted by Ravana.",
+      "distance": "0.3 km",
+      "icon": "fas fa-hands-praying",
+      "value": "Ramayana Site"
+    },
+    {
+      "image": "/images/religious/kalaram/godavari-ghat.jpg",
+      "title": "Godavari Ghat",
+      "description": "A serene riverside ghat where pilgrims take holy dips during Kumbh Mela.",
+      "distance": "0.5 km",
+      "icon": "fas fa-water",
+      "value": "Sacred Riverbank"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although Nashik is inland, the Kalaram Temple area radiates deep spiritual energy that nourishes the soul.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Spiritual Energy",
+        "description": "Devotees feel a divine connection while chanting near the black idol of Lord Rama."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Harmony and Devotion",
+        "description": "The temple stands as a symbol of faith, equality, and devotion across all communities."
+      }
+    ],
+    "conclusion": [
+      "The vibrations of the temple encourage inner peace and devotion.",
+      "A visit to Kalaram Temple rejuvenates both spirit and faith."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nashik Airport (20 km) connects major cities like Mumbai and Pune.",
+        "Taxis and buses are available from the airport to Panchavati."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train & Road",
+      "details": [
+        "Nashik Road Railway Station (10 km) connects to Mumbai, Pune, and Aurangabad.",
+        "Frequent state transport buses and private cabs operate from the city center to Panchavati."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/kalaram/1.jpg",
+      "thumb": "/images/religious/kalaram/thumb1.jpg",
+      "alt": "Kalaram Temple Front View"
+    },
+    {
+      "src": "/images/religious/kalaram/2.jpg",
+      "thumb": "/images/religious/kalaram/thumb2.jpg",
+      "alt": "Black Idol of Lord Rama"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Visit early morning or late evening to avoid large crowds."
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Ram Navami is the most auspicious time for darshan but expect heavy rush."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography inside the sanctum is restricted — follow temple rules."
+    }
+  ]
+}

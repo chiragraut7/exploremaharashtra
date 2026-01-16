@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Toothbrush Kit",
+    "category": "Bathroom Essentials",
+    "description": "Premium hotel toothbrush with toothpaste tube, individually packed for guest hygiene and comfort.",
+    "features": ["Soft bristles", "Travel-size toothpaste", "Eco-friendly handle", "Custom logo available"],
+    "price_range": "₹20 - ₹35 per set",
+    "material": "Bamboo / Plastic",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/toothbrush1.jpg", "/images/products/toothbrush2.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Hotel Shaving Kit",
+    "category": "Bathroom Essentials",
+    "description": "Disposable razor and shaving cream kit, hygienically packed for guest convenience.",
+    "features": ["Twin-blade razor", "Non-irritant shaving cream", "Travel-size packaging", "Custom branding option"],
+    "price_range": "₹25 - ₹45 per set",
+    "material": "Plastic / Stainless Steel",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/shavingkit1.jpg", "/images/products/shavingkit2.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Hotel Comb",
+    "category": "Guest Room Amenities",
+    "description": "Durable comb for hotel use, available in multiple colors and materials with optional branding.",
+    "features": ["Compact size", "Smooth teeth", "Reusable", "Custom color & logo"],
+    "price_range": "₹10 - ₹20 per piece",
+    "material": "Plastic / Bamboo",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/comb1.jpg", "/images/products/comb2.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Dental Kit",
+    "category": "Bathroom Essentials",
+    "description": "Complete dental kit including toothbrush, toothpaste, and mouthwash pouch for hotels.",
+    "features": ["Compact travel pack", "Eco-friendly", "Sealed hygiene pouch", "Logo printing available"],
+    "price_range": "₹30 - ₹55 per kit",
+    "material": "Plastic / Paper pack",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/dentalkit1.jpg", "/images/products/dentalkit2.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Hotel Soap Bar",
+    "category": "Toiletries",
+    "description": "Luxury glycerin or herbal soap bar designed for hotels and resorts with optional logo embossing.",
+    "features": ["Mild fragrance", "Gentle on skin", "Custom wrapper design", "Logo embossing option"],
+    "price_range": "₹12 - ₹25 per bar",
+    "material": "Glycerin / Herbal base",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/soap1.jpg", "/images/products/soap2.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Shower Cap",
+    "category": "Bathroom Essentials",
+    "description": "Waterproof shower cap individually packed in eco-friendly packaging.",
+    "features": ["Elastic band", "Disposable", "Custom logo print", "Non-tear material"],
+    "price_range": "₹8 - ₹15 per piece",
+    "material": "PE Plastic / Fabric",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/showercap1.jpg", "/images/products/showercap2.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Hotel Slippers",
+    "category": "Guest Room Comfort",
+    "description": "Soft, washable, and comfortable slippers for hotel and resort guests.",
+    "features": ["Non-slip sole", "Velvet or terry cloth", "Available in multiple sizes", "Custom embroidery option"],
+    "price_range": "₹40 - ₹90 per pair",
+    "material": "Terry / Velvet / EVA Sole",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/slippers1.jpg", "/images/products/slippers2.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Hotel Towel Set",
+    "category": "Linen & Laundry",
+    "description": "High-quality cotton towels available in bath, hand, and face sizes for hotels.",
+    "features": ["100% cotton", "Soft and absorbent", "Durable stitching", "Embroidery logo option"],
+    "price_range": "₹200 - ₹500 per set",
+    "material": "Pure Cotton",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/towel1.jpg", "/images/products/towel2.jpg"]
+  },
+  {
+    "id": 9,
+    "name": "Laundry Bag",
+    "category": "Room Accessories",
+    "description": "Reusable laundry bag for hotel rooms, available in cotton and non-woven material.",
+    "features": ["Drawstring closure", "Reusable", "Multiple colors", "Custom print option"],
+    "price_range": "₹25 - ₹50 per piece",
+    "material": "Cotton / Non-woven fabric",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/laundrybag1.jpg", "/images/products/laundrybag2.jpg"]
+  },
+  {
+    "id": 10,
+    "name": "Room Freshener Spray",
+    "category": "Room Essentials",
+    "description": "Premium fragrance room freshener for hotels and resorts to enhance guest experience.",
+    "features": ["Long-lasting fragrance", "Non-toxic", "Custom fragrance option", "Logo label printing"],
+    "price_range": "₹70 - ₹150 per bottle",
+    "material": "Aerosol / Natural oil blend",
+    "custom_logo": true,
+    "image_gallery": ["/images/products/freshener1.jpg", "/images/products/freshener2.jpg"]
+  }
+]

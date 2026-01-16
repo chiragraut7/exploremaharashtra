@@ -1,0 +1,70 @@
+{
+  "id": "#ancientModal",
+  "title": "🕰️ Ancient Maharashtra (2nd Century BCE)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-primary fw-semibold mb-3",
+      "text": "Cradle of Civilization, Culture, and Craftsmanship"
+    },
+    {
+      "type": "p",
+      "text": "Ancient Maharashtra holds a distinguished place in India’s rich tapestry of history. Dating back to around the 2nd century BCE, this land was a flourishing hub of spirituality, trade, and art. The period marked the rise of powerful dynasties like the Satavahanas, who governed vast parts of the Deccan region and played a crucial role in uniting fragmented territories under a centralized administration."
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🌄 Ajanta & Ellora Caves – Timeless Testaments of Art"
+    },
+    {
+      "type": "p",
+      "text": "Among the most iconic legacies of this era are the Ajanta and Ellora Caves, carved meticulously into the Sahyadri hills. These stunning rock-cut monuments are more than just tourist attractions—they are enduring symbols of India’s spiritual and artistic excellence."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ajanta Caves (2nd BCE to 6th CE): Mostly Buddhist, these caves showcase serene sculptures and breathtaking murals that depict the life of Gautam Buddha and Jataka tales.",
+        "Ellora Caves (6th to 10th CE): A harmonious confluence of Buddhist, Hindu, and Jain faiths, they represent India’s cultural tolerance and architectural grandeur."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-danger mt-4",
+      "text": "🛕 A Melting Pot of Faith and Philosophy"
+    },
+    {
+      "type": "p",
+      "text": "During this era, Maharashtra was a sanctuary for diverse religious traditions. Buddhism thrived, attracting scholars and monks from across Asia. The caves served as monasteries, universities, and pilgrimage centers, influencing thought and culture across the subcontinent."
+    },
+    {
+      "type": "p",
+      "text": "At the same time, early Hindu traditions began to take root, particularly through the influence of Shaivism and Vaishnavism. The spiritual energy of the region shaped its social fabric for centuries to come."
+    },
+    {
+      "type": "h5",
+      "class": "text-info mt-4",
+      "text": "🛤️ Trade and Prosperity"
+    },
+    {
+      "type": "p",
+      "text": "Ancient Maharashtra wasn’t just a spiritual destination—it was also a thriving commercial hub. Trade routes connected it to ancient Persia, Mesopotamia, Egypt, and even the Roman Empire. Goods such as spices, textiles, and precious stones were exchanged, leading to economic prosperity and cultural fusion."
+    },
+    {
+      "type": "p",
+      "text": "Ports like Sopara (present-day Nala Sopara) served as vital gateways to the western world, while Paithan (Pratishthana) on the Godavari River became a celebrated city for its trade and scholarship."
+    },
+    {
+      "type": "h5",
+      "class": "text-dark mt-4",
+      "text": "🏛️ Legacy and Influence"
+    },
+    {
+      "type": "p",
+      "text": "The legacy of ancient Maharashtra laid the foundation for centuries of innovation and resilience. Its values of pluralism, creativity, and devotion continue to resonate through its temples, festivals, and people."
+    },
+    {
+      "type": "p",
+      "text": "From stone to soul, the stories of this time remain etched in its monuments and memories—offering a profound glimpse into a civilization that shaped not just Maharashtra, but the spiritual and cultural identity of India itself."
+    }
+  ]
+}

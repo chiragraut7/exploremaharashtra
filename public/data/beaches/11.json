@@ -1,0 +1,257 @@
+{
+  "id": "11",
+  "title": "Diveagar Beach",
+  "subtitle": "Golden sands, serene shores, and hidden coastal charm",
+  "bannerImage": "/assets/images/beaches/diveagar.jpg",
+  "insideBannerImage": "/assets/images/beaches/11/bannerImg.jpg",
+  "color": "#023e8a",
+  "coordinates": {
+    "lat": 18.1714,
+    "lng": 72.9836
+  },
+  "overview": [
+    "Diveagar Beach is a quiet and clean beach located in the Raigad district of Maharashtra, known for its pristine shoreline and tranquil atmosphere.",
+    "It stretches for about 6 kilometers and is surrounded by coconut and betel nut plantations, making it a perfect weekend escape.",
+    "The beach is also known for its historic Suvarna Ganesh temple and untouched natural beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Secluded Beach",
+      "description": "Long stretch of clean beach, perfect for solitude and nature lovers."
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Coconut Groves",
+      "description": "Lush plantations around the beach offer shade and scenic charm."
+    },
+    {
+      "icon": "fas fa-landmark",
+      "title": "Suvarna Ganesh Temple",
+      "description": "Famous for its once-hidden golden idol, now a spiritual hub."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Gentle Waves",
+      "description": "Safe waters ideal for swimming and playing by the shore."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/11/info3.jpg",
+    "intro": "Diveagar Beach lies on the Konkan coast, about 170 km from Pune and 190 km from Mumbai, in the Shrivardhan Taluka of Raigad district.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Shrivardhan Taluka, Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 190 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Mangaon (Konkan Railway)"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Coconut palms, betel nut trees, and rice fields"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      }
+    ],
+    "climate": {
+      "description": "Diveagar enjoys a coastal tropical climate with humid summers, lush monsoons, and pleasant winters. Ideal time to visit is October to March.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: October to March"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "The beach’s gentle slope, safe waters, and natural surroundings make it perfect for families and nature seekers."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-walking",
+      "title": "Beach Walks",
+      "description": "Stroll along the serene coastline under swaying palm trees.",
+      "info": [
+        "Early morning or sunset is most peaceful",
+        "Ideal for couples and families"
+      ]
+    },
+    {
+      "icon": "fas fa-pray",
+      "title": "Visit Suvarna Ganesh Temple",
+      "description": "Pay homage at the iconic temple famous for its golden Ganesh idol history.",
+      "info": [
+        "Located 5 mins from beach",
+        "Attracts locals and pilgrims alike"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture birds, landscapes, and village life near the coast.",
+      "info": [
+        "Sunrise and sunset are best",
+        "Popular for wedding shoots"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/11/img1.jpg",
+      "title": "Suvarna Ganesh Temple",
+      "description": "Spiritual and historical landmark famous for once housing a golden idol.",
+      "distance": "Walkable from beach",
+      "icon": "fas fa-landmark",
+      "value": "Spiritual Site"
+    },
+    {
+      "image": "/assets/images/beaches/11/img2.jpg",
+      "title": "Harihareshwar",
+      "description": "A scenic temple town about 35 km away, known for its coastal temples and sacred beach.",
+      "distance": "35 km from Diveagar",
+      "icon": "fas fa-pray",
+      "value": "Temple Town"
+    },
+    {
+      "image": "/assets/images/beaches/11/img3.jpg",
+      "title": "Shrivardhan Beach",
+      "description": "Popular nearby beach known for water sports and seafood shacks.",
+      "distance": "20 km from Diveagar",
+      "icon": "fas fa-water",
+      "value": "Adventure & Food"
+    }
+  ],
+  "marineLife": {
+    "intro": "Diveagar Beach supports a modest but vibrant coastal ecosystem with migratory birds, shellfish, and tidal organisms.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Coastal Fish",
+        "description": "Small fish and aquatic life are often seen near shallow waters and rocks."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Bird Watching",
+        "description": "Spot egrets, kingfishers, and seagulls along the shore."
+      },
+      {
+        "icon": "fas fa-seedling",
+        "title": "Coastal Flora",
+        "description": "Coconut palms and native grass species line the beachfront."
+      }
+    ],
+    "conclusion": [
+      "Diveagar promotes sustainable coastal living with low-impact tourism.",
+      "The balance of nature and village charm supports a rich yet peaceful ecosystem."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune (170 km), Mumbai (190 km)",
+        "Taxis or buses available from both cities"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Mangaon on Konkan Railway",
+        "From there, cabs/buses to Diveagar (40 km)"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "From Mumbai via NH66 to Mangaon then state roads",
+        "From Pune via Tamhini Ghat route"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/11/img1.jpg",
+      "thumb": "/assets/images/beaches/11/img1.jpg",
+      "alt": "Sunset at Diveagar Beach"
+    },
+    {
+      "src": "/assets/images/beaches/11/img2.jpg",
+      "thumb": "/assets/images/beaches/11/img2.jpg",
+      "alt": "Coconut Groves"
+    },
+    {
+      "src": "/assets/images/beaches/11/img3.jpg",
+      "thumb": "/assets/images/beaches/11/img3.jpg",
+      "alt": "Suvarna Ganesh Temple"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Oceano Pearl Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.2",
+      "url": "https://example.com/oceano-pearl",
+      "facilities": [
+        "wifi",
+        "parking",
+        "ac"
+      ]
+    },
+    {
+      "name": "Exotica Sea View",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.4",
+      "url": "https://example.com/exotica",
+      "facilities": [
+        "wifi",
+        "ac"
+      ]
+    },
+    {
+      "name": "Diveagar Homestay",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.0",
+      "url": "https://example.com/diveagar-homestay",
+      "facilities": [
+        "wifi",
+        "parking"
+      ]
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Book 2 weeks ahead during long weekends"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Peak season: October to February"
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Monsoon: Less crowd, lush surroundings"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Bring own vehicle for local travel ease"
+    }
+  ]
+}

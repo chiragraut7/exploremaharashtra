@@ -1,0 +1,201 @@
+{
+  "id": "03",
+  "title": "Tulja Bhavani Temple",
+  "subtitle": "Divine Abode of Goddess Bhavani in Osmanabad",
+  "bannerImage": "/images/religious/tuljapur/banner.jpg",
+  "color": "#C2410C",
+  "coordinates": { "lat": 18.0114, "lng": 76.1256 },
+  "overview": [
+    "The Tulja Bhavani Temple in Tuljapur, Osmanabad district, is one of the most revered Shakti Peethas in Maharashtra. Dedicated to Goddess Bhavani, the temple holds immense significance as the kuldevi (family deity) of the Bhosale Royal family, including Chhatrapati Shivaji Maharaj.",
+    "The goddess is worshipped as a manifestation of Shakti (divine energy), known for protecting her devotees and bestowing courage and prosperity. The temple draws thousands of devotees daily, especially during Navratri, when grand festivities are held."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Shakti Peetha of Bhavani",
+      "description": "One of Maharashtra’s most sacred Shakti Peethas, where Goddess Bhavani is believed to have appeared to protect righteousness."
+    },
+    {
+      "icon": "fas fa-crown",
+      "title": "Historical Connection",
+      "description": "Chhatrapati Shivaji Maharaj is said to have received the divine sword ‘Bhavani Talwar’ from the goddess here."
+    },
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Spiritual Atmosphere",
+      "description": "The temple’s chants, lamps, and rituals create an aura of deep devotion and peace."
+    }
+  ],
+  "geography": {
+    "image": "/images/religious/tuljapur/map.jpg",
+    "intro": "Tuljapur is situated in the Osmanabad district of Maharashtra, around 45 km from Solapur and 300 km from Pune.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "District",
+        "value": "Osmanabad"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Elevation",
+        "value": "648 meters"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Nearest Highway",
+        "value": "Solapur–Osmanabad Highway"
+      },
+      {
+        "icon": "fas fa-plane",
+        "label": "Nearest Airport",
+        "value": "Solapur Airport (52 km)"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Railway Station",
+        "value": "Osmanabad (29 km)"
+      }
+    ],
+    "climate": {
+      "description": "Tuljapur experiences a dry climate, with hot summers and pleasant winters. The best time to visit is from October to February.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Summer: 30°C to 40°C (March–June)"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: Moderate rainfall (June–September)"
+        },
+        {
+          "icon": "fas fa-leaf",
+          "text": "Winter: 15°C to 28°C (October–February)"
+        }
+      ]
+    },
+    "conclusion": "Tuljapur’s divine aura and cultural richness make it a must-visit for every devotee and traveler exploring Maharashtra’s spiritual heritage."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-praying-hands",
+      "title": "Darshan and Aarti",
+      "description": "Witness the powerful morning and evening aartis offered to Goddess Bhavani.",
+      "info": [
+        "The temple opens at 5:00 AM with Suprabhatam and closes after Shej Aarti at 10:00 PM.",
+        "Special poojas and abhisheks are performed on Tuesdays and Fridays."
+      ]
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Attend Navratri Festival",
+      "description": "Experience vibrant celebrations with music, dance, and rituals during Navratri.",
+      "info": [
+        "Thousands of devotees gather for Bhajans and Yatras.",
+        "Decorations and lighting make the temple glow with devotion."
+      ]
+    },
+    {
+      "icon": "fas fa-route",
+      "title": "Climb the Sacred Steps",
+      "description": "Reach the temple through 68 sacred steps symbolizing spiritual ascent.",
+      "info": [
+        "Pilgrims chant the goddess’s name while climbing.",
+        "Shops selling offerings and souvenirs line the path."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/religious/tuljapur/temple.jpg",
+      "title": "Tulja Bhavani Temple Complex",
+      "description": "A majestic stone structure housing the main sanctum of Goddess Bhavani.",
+      "distance": "0 km",
+      "icon": "fas fa-place-of-worship",
+      "value": "Main Shrine"
+    },
+    {
+      "image": "/images/religious/tuljapur/river.jpg",
+      "title": "Kallola Tirtha",
+      "description": "A sacred pond near the temple believed to purify the soul of sins.",
+      "distance": "0.5 km",
+      "icon": "fas fa-water",
+      "value": "Holy Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Tuljapur is inland, the temple symbolizes divine energy that flows like a river of faith through its devotees.",
+    "items": [
+      {
+        "icon": "fas fa-heart",
+        "title": "Goddess as Shakti",
+        "description": "The goddess represents power, nurturing, and protection — sustaining spiritual life."
+      },
+      {
+        "icon": "fas fa-fire",
+        "title": "Symbol of Purity",
+        "description": "Rituals performed here are believed to cleanse the mind and awaken inner strength."
+      }
+    ],
+    "conclusion": [
+      "The goddess’s blessings flow eternally through the hearts of her devotees.",
+      "Visiting Tuljapur is believed to bring courage, wisdom, and prosperity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Solapur (52 km). Pune International Airport is around 300 km away.",
+        "Taxis and buses are easily available from Solapur to Tuljapur."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Osmanabad is the nearest railway station (29 km) connected to Solapur and Latur.",
+        "From the station, private taxis and buses ply regularly to the temple."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Tuljapur is well connected by road to Solapur (45 km), Latur (78 km), and Pune (300 km).",
+        "Regular MSRTC and private buses operate from major cities."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/religious/tuljapur/1.jpg",
+      "thumb": "/images/religious/tuljapur/thumb1.jpg",
+      "alt": "Tulja Bhavani Temple Entrance"
+    },
+    {
+      "src": "/images/religious/tuljapur/2.jpg",
+      "thumb": "/images/religious/tuljapur/thumb2.jpg",
+      "alt": "Idol of Goddess Bhavani"
+    },
+    {
+      "src": "/images/religious/tuljapur/3.jpg",
+      "thumb": "/images/religious/tuljapur/thumb3.jpg",
+      "alt": "Devotees during Navratri Festival"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Book accommodation in advance during Navratri as crowds are very high."
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Early morning darshan is more peaceful and less crowded."
+    },
+    {
+      "icon": "fas fa-utensils",
+      "description": "Free prasad meals are served near the temple; visitors should maintain cleanliness and respect rituals."
+    }
+  ]
+}

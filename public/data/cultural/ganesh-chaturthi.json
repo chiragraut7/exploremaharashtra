@@ -1,0 +1,120 @@
+{
+  "id": "ganesh-chaturthi",
+  "title": "Ganesh Chaturthi Festival",
+  "subtitle": "The Grand Celebration of Lord Ganesha",
+  "bannerImage": "/images/cultural/ganesh-chaturthi/banner.jpg",
+  "color": "#ffca80",
+  "overview": [
+    "Ganesh Chaturthi is Maharashtra’s most celebrated festival, honoring Lord Ganesha, the remover of obstacles. The state transforms into a vibrant sea of devotion, music, and color during this 10-day festival.",
+    "Public pandals across Mumbai, Pune, and other cities host grand idols of Lord Ganesha, with cultural programs, bhajans, and social events fostering unity and devotion."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-gopuram",
+      "title": "Public Pandals",
+      "description": "Magnificent idols installed in beautifully decorated pandals attract devotees from across the state."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Visarjan Procession",
+      "description": "The immersion of idols in rivers or the sea on Anant Chaturdashi marks the emotional end of the festival."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/ganesh-chaturthi/geography.jpg",
+    "intro": "The festival is celebrated statewide, especially in Mumbai, Pune, and Konkan regions where traditional fervor meets artistic expression.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Main Regions", "value": "Mumbai, Pune, Konkan" },
+      { "icon": "fas fa-calendar-alt", "label": "Duration", "value": "10 days" },
+      { "icon": "fas fa-crow", "label": "Peak Celebration", "value": "Anant Chaturdashi" },
+      { "icon": "fas fa-users", "label": "Major Hosts", "value": "Lalbaugcha Raja, Dagdusheth Halwai" },
+      { "icon": "fas fa-hand-holding-heart", "label": "Spirit", "value": "Unity, devotion, and art" }
+    ],
+    "climate": {
+      "description": "Held during monsoon (August–September), when Maharashtra’s atmosphere is lush and festive.",
+      "seasons": [
+        { "icon": "fas fa-cloud-showers-heavy", "text": "Rain adds charm to the colorful celebrations." },
+        { "icon": "fas fa-sun", "text": "Pleasant weather ideal for public gatherings." }
+      ]
+    },
+    "conclusion": "Ganesh Chaturthi symbolizes devotion, art, and unity — making it the soul of Maharashtra’s culture."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-drum",
+      "title": "Aarti & Bhajans",
+      "description": "Devotees gather twice a day for aarti accompanied by traditional drums and chants.",
+      "info": ["Morning and evening sessions.", "Public participation encouraged."]
+    },
+    {
+      "icon": "fas fa-paint-brush",
+      "title": "Idol Decoration",
+      "description": "Local artisans create eco-friendly idols and decorations.",
+      "info": ["Best seen in Pune and Pen workshops.", "Themes often carry social messages."]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Visarjan Procession",
+      "description": "Witness grand processions with music and dance during immersion day.",
+      "info": ["Carried out across rivers and seashores.", "Main day: Anant Chaturdashi."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/ganesh-chaturthi/lalbaugcha-raja.jpg",
+      "title": "Lalbaugcha Raja, Mumbai",
+      "description": "The most iconic Ganesh idol, visited by millions of devotees.",
+      "distance": "Mumbai",
+      "icon": "fas fa-landmark",
+      "value": "Cultural Epicenter"
+    },
+    {
+      "image": "/images/cultural/ganesh-chaturthi/dagdusheth.jpg",
+      "title": "Dagdusheth Halwai Ganpati, Pune",
+      "description": "Known for its grandeur and gold-plated idol, symbolizing Pune’s devotion.",
+      "distance": "Pune",
+      "icon": "fas fa-church",
+      "value": "Famous Temple"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not related to marine life, the festival’s eco-awareness encourages idol immersion in artificial ponds.",
+    "items": [
+      {
+        "icon": "fas fa-seedling",
+        "title": "Eco-friendly Idols",
+        "description": "Promotes sustainable celebration with clay idols and natural colors."
+      },
+      {
+        "icon": "fas fa-recycle",
+        "title": "Environmental Awareness",
+        "description": "Initiatives to protect marine life by avoiding chemical paints."
+      }
+    ],
+    "conclusion": [
+      "Ganesh Chaturthi blends devotion and sustainability beautifully.",
+      "A perfect balance between culture and ecology."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Major stations: Mumbai CST, Pune Junction.", "Local trains run frequently to festival areas."]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["MSRTC buses connect all major cities.", "Traffic restrictions apply during immersion days."]
+    }
+  ],
+  "gallery": [
+    { "src": "/images/cultural/ganesh-chaturthi/gallery1.jpg", "thumb": "/images/cultural/ganesh-chaturthi/gallery1-thumb.jpg", "alt": "Ganesh Idol Decoration" },
+    { "src": "/images/cultural/ganesh-chaturthi/gallery2.jpg", "thumb": "/images/cultural/ganesh-chaturthi/gallery2-thumb.jpg", "alt": "Visarjan Procession" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-calendar-alt", "description": "Book accommodations early — especially in Mumbai and Pune." },
+    { "icon": "fas fa-camera", "description": "Carry waterproof gear for monsoon photography." },
+    { "icon": "fas fa-hands", "description": "Participate respectfully in aartis and processions." }
+  ]
+}

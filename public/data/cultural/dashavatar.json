@@ -1,0 +1,168 @@
+{
+  "id": "dashavatar",
+  "title": "Dashavatar Folk Theatre",
+  "subtitle": "Traditional Art of Konkan",
+  "bannerImage": "/images/cultural/dashavatar/banner.jpg",
+  "color": "#f5d48a",
+  "overview": [
+    "Dashavatar is one of Maharashtra’s oldest and most vibrant forms of traditional folk theatre, popular in the Konkan region. The word ‘Dashavatar’ means the ‘Ten Incarnations’ of Lord Vishnu. The performance combines mythological themes, music, dance, and drama to convey moral and spiritual lessons.",
+    "Performed during religious festivals and village fairs, Dashavatar is known for its colorful costumes, expressive acting, and live musical accompaniment with traditional instruments like mridangam, cymbals, and harmonium."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-masks-theater",
+      "title": "Mythological Storytelling",
+      "description": "Each performance depicts one of Lord Vishnu’s ten incarnations, blending divine themes with human emotions."
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Live Music & Dance",
+      "description": "Actors perform with traditional musical instruments, creating an energetic atmosphere that engages the audience."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/dashavatar/geography.jpg",
+    "intro": "Dashavatar is primarily performed in the coastal Konkan belt of Maharashtra, especially in Sindhudurg and Ratnagiri districts. It is an integral part of village festivities and temple rituals.",
+    "details": [
+      {
+        "icon": "fas fa-map-pin",
+        "label": "Region",
+        "value": "Konkan, Maharashtra"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "label": "Popular Districts",
+        "value": "Sindhudurg, Ratnagiri"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Main Performers",
+        "value": "Local village troupes"
+      },
+      {
+        "icon": "fas fa-calendar-alt",
+        "label": "Festival Time",
+        "value": "Post-harvest and temple festival seasons"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Setting",
+        "value": "Open-air village stages or temple courtyards"
+      }
+    ],
+    "climate": {
+      "description": "Dashavatar performances thrive in the pleasant tropical climate of the Konkan region, often taking place during cool evenings after monsoon.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Performances usually begin after the monsoon, during festive months of October–February."
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Rainy season rehearsals prepare troupes for winter shows."
+        }
+      ]
+    },
+    "conclusion": "The geography and rural charm of the Konkan coast give Dashavatar its authentic setting and cultural depth."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-theater-masks",
+      "title": "Watch Live Performances",
+      "description": "Experience a night of music, acting, and devotion as local troupes perform mythological plays.",
+      "info": ["Held in village fairs and temple festivals.", "Shows typically begin after sunset and continue till midnight."]
+    },
+    {
+      "icon": "fas fa-music",
+      "title": "Enjoy Folk Music",
+      "description": "Dashavatar features soulful tunes with mridangam, cymbals, and harmonium.",
+      "info": ["Live musicians perform alongside actors.", "Rhythms change with each avatar’s theme."]
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Meet Local Artists",
+      "description": "Interact with village artists who dedicate generations to preserving this theatre tradition.",
+      "info": ["Learn about costume design and makeup.", "Support their art by attending performances."]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/dashavatar/sindhudurg.jpg",
+      "title": "Sindhudurg District Festivals",
+      "description": "Experience vibrant Dashavatar performances during temple fairs in Sindhudurg villages.",
+      "distance": "Regional",
+      "icon": "fas fa-map-marker-alt",
+      "value": "Sindhudurg Konkan"
+    },
+    {
+      "image": "/images/cultural/dashavatar/ratnagiri.jpg",
+      "title": "Ratnagiri Cultural Nights",
+      "description": "Local troupes stage traditional stories with devotion and dramatic expression.",
+      "distance": "Regional",
+      "icon": "fas fa-landmark",
+      "value": "Ratnagiri Konkan"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not connected to marine life, Dashavatar’s roots in the Konkan coastal belt make it spiritually and culturally tied to the sea-faring traditions of the region.",
+    "items": [
+      {
+        "icon": "fas fa-water",
+        "title": "Konkan Coastal Heritage",
+        "description": "The performances reflect the life and beliefs of fishing and farming communities near the coast."
+      },
+      {
+        "icon": "fas fa-hand-holding-heart",
+        "title": "Cultural Preservation",
+        "description": "Dashavatar keeps the rural art and storytelling spirit alive across generations."
+      }
+    ],
+    "conclusion": [
+      "Dashavatar mirrors the devotion and artistry of Konkan’s people.",
+      "It’s a living cultural tradition connecting myth, art, and spirituality."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Nearest major stations: Ratnagiri and Kudal.", "Regular trains from Mumbai, Pune, and Goa."]
+    },
+    {
+      "icon": "fas fa-road",
+      "title": "By Road",
+      "details": ["Easily accessible via Mumbai-Goa Highway (NH66).", "Local buses connect villages during festival season."]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": ["Nearest airport: Chipi (Sindhudurg Airport) – 30 km.", "Taxi and local transport available to nearby villages."]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/dashavatar/gallery1.jpg",
+      "thumb": "/images/cultural/dashavatar/gallery1-thumb.jpg",
+      "alt": "Dashavatar stage performance"
+    },
+    {
+      "src": "/images/cultural/dashavatar/gallery2.jpg",
+      "thumb": "/images/cultural/dashavatar/gallery2-thumb.jpg",
+      "alt": "Artists performing Vishnu avatars"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "Check local village fair schedules before visiting to witness live Dashavatar performances."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Seek permission before photographing performances, as rituals are often sacred."
+    },
+    {
+      "icon": "fas fa-heart",
+      "description": "Support local artists by contributing to village cultural trusts or attending live shows."
+    }
+  ]
+}

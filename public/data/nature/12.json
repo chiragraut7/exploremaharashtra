@@ -1,0 +1,180 @@
+{
+  "id": "12",
+  "title": "Phansad Wildlife Sanctuary",
+  "subtitle": "A coastal forest paradise rich in biodiversity near Alibaug",
+  "bannerImage": "/assets/images/nature/phansad.jpg",
+  "color": "#1b3a2d",
+  "coordinates": { "lat": 18.4236, "lng": 72.9303 },
+  "overview": [
+    "Phansad Wildlife Sanctuary, located between Murud and Roha in Raigad district, is a hidden ecological gem of the Konkan coast. Spread over 52 square kilometers, it preserves the semi-evergreen coastal forest ecosystem of the Western Ghats.",
+    "This sanctuary shelters over 700 plant species, 150 bird species, 30 mammals, and a rich variety of butterflies and reptiles. It’s an ideal spot for nature lovers, photographers, and eco-tourists seeking peace away from city life.",
+    "Once a private hunting reserve of the Nawab of Murud-Janjira, Phansad now thrives as a protected area promoting conservation and responsible tourism."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-leaf",
+      "title": "Dense Forest Trails",
+      "description": "Walk through lush evergreen forests filled with unique flora and fauna."
+    },
+    {
+      "icon": "fas fa-dove",
+      "title": "Birdwatching Haven",
+      "description": "Home to hornbills, paradise flycatchers, and many endemic bird species."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/nature/phansad-map.jpg",
+    "intro": "Phansad lies between Murud and Roha towns in Raigad district, covering both hilly and coastal forest regions.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Murud-Roha Road, Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Area Covered",
+        "value": "52 square kilometers"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Terrain",
+        "value": "Hilly forest interspersed with plateaus and grasslands"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Rivers/Streams",
+        "value": "Khajinja and Kulsadi streams flow through the forest"
+      },
+      {
+        "icon": "fas fa-cloud-sun",
+        "label": "Elevation",
+        "value": "20 to 250 meters above sea level"
+      }
+    ],
+    "climate": {
+      "description": "Phansad experiences a humid tropical climate with heavy monsoon rains and mild winters.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: October to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September — lush and green but limited access"
+        }
+      ]
+    },
+    "conclusion": "Phansad offers a rare mix of coastal forest, wildlife, and peaceful eco-trails — perfect for a weekend nature escape."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Birdwatching",
+      "description": "Spot over 150 species including hornbills and drongos.",
+      "info": [
+        "Best during early morning hours",
+        "Bring binoculars for forest canopies"
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Forest Trekking",
+      "description": "Explore multiple eco-trails through thick forest and grassland patches.",
+      "info": [
+        "Guided treks available from sanctuary office",
+        "Carry water and wear sturdy shoes"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Wildlife Photography",
+      "description": "Capture scenic landscapes and vibrant wildlife species.",
+      "info": [
+        "Permits may be required for professional gear",
+        "Avoid flash photography near animals"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/nature/phansad-trail.jpg",
+      "title": "Sable Machi Trail",
+      "description": "A scenic trekking route inside the sanctuary leading to a viewpoint.",
+      "distance": "4 km from sanctuary gate",
+      "icon": "fas fa-route",
+      "value": "Nature Trail"
+    },
+    {
+      "image": "/assets/images/nature/phansad-pond.jpg",
+      "title": "Pond Ecosystem",
+      "description": "Natural ponds where animals gather to drink and birds nest nearby.",
+      "distance": "Within sanctuary",
+      "icon": "fas fa-water",
+      "value": "Wildlife Spot"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although inland, Phansad’s proximity to the Konkan coast creates a blend of marine and terrestrial ecosystems.",
+    "items": [
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians & Reptiles",
+        "description": "Tree frogs, monitor lizards, and snakes thrive in the humid environment."
+      },
+      {
+        "icon": "fas fa-bug",
+        "title": "Butterflies & Insects",
+        "description": "Home to colorful butterflies like the Blue Mormon and Southern Birdwing."
+      }
+    ],
+    "conclusion": [
+      "Phansad forms an ecological bridge between marine and forest ecosystems.",
+      "It supports rare reptiles, insects, and birds vital to the Konkan biodiversity chain."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "120 km from Mumbai via Alibaug and Roha",
+        "Private taxis or MSRTC buses available up to Murud"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Roha (28 km away)",
+        "From Roha, take taxi or local bus to sanctuary"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/nature/phansad-forest.jpg",
+      "thumb": "/assets/images/nature/phansad-forest.jpg",
+      "alt": "Phansad Forest Trail"
+    },
+    {
+      "src": "/assets/images/nature/phansad-birds.jpg",
+      "thumb": "/assets/images/nature/phansad-birds.jpg",
+      "alt": "Birdwatching at Phansad Sanctuary"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Visit during winter or early summer for the best forest experience"
+    },
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Entry permits available at the sanctuary gate; nominal fees apply"
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Photography permitted; separate charge for professional cameras"
+    }
+  ]
+}

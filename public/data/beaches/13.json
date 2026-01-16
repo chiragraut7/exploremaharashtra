@@ -1,0 +1,210 @@
+{
+  "id": "13",
+  "title": "Shrivardhan Beach",
+  "subtitle": "A Peaceful Coastal Getaway with Historical Charm",
+  "bannerImage": "/assets/images/beaches/shrivardhan-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/13/bannerImg.jpg",
+  "color": "#007C91",
+  "coordinates": {
+    "lat": 18.0494,
+    "lng": 72.9984
+  },
+  "overview": [
+    "Shrivardhan Beach is one of the most beautiful and historically significant beaches along the Konkan coastline of Maharashtra. Located in Raigad district, this tranquil beach is famous for its golden sands, gentle waves, and rich heritage associated with the Peshwa rulers of the Maratha Empire.",
+    "The beach stretches for about 3 km and is perfect for swimming, beach walks, and watching the mesmerizing sunset. Shrivardhan also serves as a base for visiting nearby beaches like Diveagar and Harihareshwar.",
+    "With its calm ambiance, heritage homes, and friendly locals, Shrivardhan is an ideal weekend escape for families, couples, and history lovers alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Golden Sandy Shoreline",
+      "description": "The 3 km long beach offers pristine sands and calm waters, perfect for relaxation and long walks."
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Historical Significance",
+      "description": "Shrivardhan is the birthplace of Peshwa Balaji Vishwanath, one of the earliest Peshwas of the Maratha Empire."
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Less Crowded Destination",
+      "description": "Unlike Alibaug, Shrivardhan remains peaceful and less commercialized, retaining its coastal charm."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/13/info3.jpg",
+    "intro": "Shrivardhan lies on the Konkan coast of Maharashtra, about 185 km from Mumbai and 160 km from Pune. The region is characterized by rolling hills, coconut groves, and a serene shoreline.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Raigad District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fa-solid fa-ruler",
+        "label": "Beach Length",
+        "value": "Approx. 3 km"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Landscape",
+        "value": "Flat sandy beach with coconut plantations"
+      },
+      {
+        "icon": "fa-solid fa-temperature-half",
+        "label": "Temperature",
+        "value": "22°C – 33°C"
+      }
+    ],
+    "climate": {
+      "description": "The beach enjoys a coastal tropical climate with moderate humidity, pleasant winters, and warm summers.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time: October to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Avoid monsoon (June to September)"
+        }
+      ]
+    },
+    "conclusion": "Shrivardhan’s consistent tropical weather and scenic landscape make it ideal for year-round beach tourism."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-swimming",
+      "title": "Swimming & Sunbathing",
+      "description": "The calm waves make it safe for swimming and relaxing under the sun.",
+      "info": [
+        "Lifeguards present during peak season",
+        "Avoid swimming during high tides"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Boating & Water Sports",
+      "description": "Enjoy small boat rides or thrilling banana boat rides along the coast.",
+      "info": [
+        "Boat rides available in mornings",
+        "Jet ski and kayaking options nearby"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Birdwatching",
+      "description": "Capture panoramic views and migratory coastal birds during winter.",
+      "info": [
+        "Sunset shots are popular",
+        "Bring binoculars for bird spotting"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/13/img1.jpg",
+      "title": "Peshwa Memorial Temple",
+      "description": "Built in memory of Peshwa Balaji Vishwanath, this simple yet historic temple highlights Shrivardhan’s Maratha heritage.",
+      "distance": "1 km from beach",
+      "icon": "fa-solid fa-landmark",
+      "value": "Historic Site"
+    },
+    {
+      "image": "/assets/images/beaches/13/img2.jpg",
+      "title": "Harihareshwar Beach",
+      "description": "Known as ‘Dakshin Kashi’, this beach is just 20 km away and home to the Harihareshwar Temple complex.",
+      "distance": "20 km",
+      "icon": "fa-solid fa-temple-hindu",
+      "value": "Religious Destination"
+    },
+    {
+      "image": "/assets/images/beaches/13/img3.jpg",
+      "title": "Diveagar Beach",
+      "description": "A scenic beach just 12 km away, known for the Suvarna Ganesh Temple and turtle sightings.",
+      "distance": "12 km",
+      "icon": "fa-solid fa-water",
+      "value": "Nearby Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Shrivardhan Beach supports a modest yet healthy marine environment typical of the Konkan coast.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Fish Species",
+        "description": "Fishermen catch pomfret, mackerel, and prawns in nearby waters."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Clean Marine Ecosystem",
+        "description": "The shallow sea supports diverse aquatic plants and crabs."
+      }
+    ],
+    "conclusion": [
+      "Marine life is protected by local fishermen communities through sustainable fishing.",
+      "Avoid littering to help maintain Shrivardhan’s clean marine ecology."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Shrivardhan is 185 km from Mumbai and 160 km from Pune.",
+        "Routes via Mangaon and Mhasla are most preferred by travelers."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Mangaon (65 km) on the Konkan Railway.",
+        "Taxis and buses connect Mangaon to Shrivardhan."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airports: Pune (170 km) and Mumbai (200 km).",
+        "Cabs and buses available from both airports."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/13/img1.jpg",
+      "thumb": "/assets/images/beaches/13/img1.jpg",
+      "alt": "Golden sands of Shrivardhan Beach"
+    },
+    {
+      "src": "/assets/images/beaches/13/img2.jpg",
+      "thumb": "/assets/images/beaches/13/img2.jpg",
+      "alt": "Sunset at Shrivardhan"
+    },
+    {
+      "src": "/assets/images/beaches/13/img3.jpg",
+      "thumb": "/assets/images/beaches/13/img3.jpg",
+      "alt": "View of palm-fringed coastline"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Opt for homestays or small beachside resorts for a local experience."
+    },
+    {
+      "icon": "fa-solid fa-wallet",
+      "description": "Carry cash as digital payments and ATMs may be limited."
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "description": "Visit early morning or sunset for best beach views and photography."
+    }
+  ]
+}

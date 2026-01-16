@@ -1,0 +1,270 @@
+{
+  "id": "09",
+  "title": "Ganpatipule Beach",
+  "subtitle": "Sacred shores, golden sands, and serene getaways",
+  "bannerImage": "/assets/images/beaches/ganpatipule.jpg",
+  "insideBannerImage": "/assets/images/beaches/09/bannerImg.jpg",
+  "color": "#FF9F55",
+  "coordinates": {
+    "lat": 17.1500,
+    "lng": 73.2678
+  },
+  "overview": [
+    "Ganpatipule Beach is a sacred and scenic coastal destination located in the Ratnagiri district of Maharashtra. It is renowned for its serene beaches, natural beauty, and the 400-year-old Swayambhu Ganpati Temple right on the shore.",
+    "Unlike many other crowded beaches, Ganpatipule remains peaceful, with clean golden sands and gentle waves. It's ideal for both religious travelers and nature lovers.",
+    "Its combination of spiritual significance, picturesque coastline, and traditional Konkan culture makes Ganpatipule a favorite weekend and holiday destination."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-om",
+      "title": "Swayambhu Ganpati Temple",
+      "description": "An ancient self-manifested Ganesha idol attracts thousands of devotees year-round."
+    },
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Clean & Serene Beach",
+      "description": "Unspoiled golden sands perfect for relaxation, walks, and spiritual reflection."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Lush Greenery",
+      "description": "Surrounded by hills and coconut groves that enhance its natural charm."
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Safe Swimming Waters",
+      "description": "Shallow stretches and calm waves make it suitable for families and kids."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/09/info3.jpg",
+    "intro": "Ganpatipule is situated on the Konkan coast of Maharashtra in Ratnagiri district, offering a blend of spiritual and seaside charm.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 340 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Ratnagiri Railway Station (32 km)"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Flora",
+        "value": "Coconut palms, cashew plantations, and mangroves"
+      }
+    ],
+    "climate": {
+      "description": "Ganpatipule has a tropical coastal climate. Summers are warm, monsoons bring lush beauty, and winters are pleasant for tourists.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: November to February"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "The geographical mix of beach, hills, and forested surroundings makes Ganpatipule a picturesque and spiritually enriching location."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-pray",
+      "title": "Temple Visit",
+      "description": "Pay homage to Lord Ganpati at the seashore temple, especially during Ganesh festivals.",
+      "info": [
+        "Early mornings are ideal for prayers",
+        "Footfall increases during weekends and festivals"
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Nature Walks",
+      "description": "Walks along the beachside or through nearby coconut groves offer tranquil experiences.",
+      "info": [
+        "Sunset walks are especially scenic",
+        "Photography spots near the cliff"
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture the scenic blend of sea, temple, and tropical trees.",
+      "info": [
+        "Ideal during sunrise/sunset hours",
+        "Birdlife and local village settings also great for clicks"
+      ]
+    },
+    {
+      "icon": "fas fa-umbrella-beach",
+      "title": "Picnicking",
+      "description": "The calm beach is ideal for families to set up small picnic spots.",
+      "info": [
+        "Local vendors sell snacks and coconut water",
+        "Avoid swimming during high tide"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/09/img1.jpg",
+      "title": "Prachin Konkan Museum",
+      "description": "An open-air museum showcasing life and culture in ancient Konkan region.",
+      "distance": "1 km from Ganpatipule Temple",
+      "icon": "fas fa-landmark",
+      "value": "Cultural Experience"
+    },
+    {
+      "image": "/assets/images/beaches/09/img2.jpg",
+      "title": "Malgund Village",
+      "description": "Birthplace of poet Keshavsut, offering heritage houses and quiet rural experience.",
+      "distance": "2 km from beach",
+      "icon": "fas fa-home",
+      "value": "Literary Heritage"
+    },
+    {
+      "image": "/assets/images/beaches/09/img3.jpg",
+      "title": "Jaigad Fort",
+      "description": "Historic sea fort with views of the Arabian Sea and harbor.",
+      "distance": "20 km from Ganpatipule",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "Ganpatipule is not a scuba hub but has a healthy coastal ecosystem rich in plant and bird life.",
+    "items": [
+      {
+        "icon": "fas fa-fish",
+        "title": "Small Shore Fish",
+        "description": "Fishermen often catch small fish near the shore using nets during early hours."
+      },
+      {
+        "icon": "fas fa-seedling",
+        "title": "Mangrove Zone",
+        "description": "Nearby estuarine and mangrove areas support bird and marine microfauna."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Coastal Birds",
+        "description": "Regular sightings of seagulls, herons, and kingfishers especially during dawn and dusk."
+      }
+    ],
+    "conclusion": [
+      "The clean environment and low pollution encourage biodiversity along the coast.",
+      "Responsible tourism helps preserve this natural harmony for future visitors."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Ratnagiri (around 50 km)",
+        "Alternatively, Mumbai Airport is about 350 km away"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Ratnagiri (Konkan Railway)",
+        "From there, local taxis and buses available to reach Ganpatipule"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Approx. 340 km from Mumbai via NH66 and coastal highway",
+        "MSRTC and private buses ply to Ratnagiri and Ganpatipule"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/09/img1.jpg",
+      "thumb": "/assets/images/beaches/09/img1.jpg",
+      "alt": "Ganpatipule Temple View"
+    },
+    {
+      "src": "/assets/images/beaches/09/img2.jpg",
+      "thumb": "/assets/images/beaches/09/img2.jpg",
+      "alt": "Beach Shore"
+    },
+    {
+      "src": "/assets/images/beaches/09/img3.jpg",
+      "thumb": "/assets/images/beaches/09/img3.jpg",
+      "alt": "Coconut Grove"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Abhishek Beach Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.5",
+      "url": "https://example.com/abhishek-resort",
+      "facilities": [
+        "wifi",
+        "parking",
+        "ac"
+      ]
+    },
+    {
+      "name": "MTDC Ganpatipule Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.2",
+      "url": "https://example.com/mtdc-ganpatipule",
+      "facilities": [
+        "parking",
+        "ac"
+      ]
+    },
+    {
+      "name": "Green Leaf Resort",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.3",
+      "url": "https://example.com/green-leaf",
+      "facilities": [
+        "wifi",
+        "pool"
+      ]
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Book 2–4 weeks early during festive season"
+    },
+    {
+      "icon": "fas fa-sun",
+      "description": "Peak Season: November to February"
+    },
+    {
+      "icon": "fas fa-cloud-rain",
+      "description": "Monsoon: June to September – off-season discounts available"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Some resorts offer station pickup/drop service"
+    },
+    {
+      "icon": "fas fa-gift",
+      "description": "Look for spiritual stay packages or eco-stays"
+    }
+  ]
+}

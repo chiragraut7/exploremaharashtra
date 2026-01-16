@@ -1,0 +1,184 @@
+{
+  "id": "08",
+  "title": "Dahanu Beach",
+  "subtitle": "A Peaceful Coastal Haven of Palghar District",
+  "bannerImage": "/assets/images/beaches/dahanu-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/08/bannerImg.jpg",
+  "color": "#006B5E",
+  "coordinates": {
+    "lat": 19.9703,
+    "lng": 72.7135
+  },
+  "overview": [
+    "Dahanu Beach, located in the Palghar district of Maharashtra, is a tranquil and less-crowded stretch of the Arabian Sea coast known for its pristine sands and serene ambiance.",
+    "Surrounded by chikoo (sapodilla) orchards and tall coconut palms, Dahanu offers a refreshing blend of coastal charm and rural Konkan beauty. The beach is also famous for its mild climate and clean waters, making it a favored weekend getaway from Mumbai.",
+    "It’s an ideal destination for those seeking peace, long walks, and glimpses of traditional Warli tribal art and culture nearby."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Chikoo Orchards",
+      "description": "Dahanu is renowned for its vast chikoo farms, adding a fragrant sweetness to the coastal breeze."
+    },
+    {
+      "icon": "fa-solid fa-palette",
+      "title": "Warli Art & Culture",
+      "description": "Explore the nearby villages to experience the famous Warli tribal paintings and lifestyle."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/08/info3.jpg",
+    "intro": "Dahanu lies around 120 km north of Mumbai along the Mumbai–Ahmedabad Highway. The region forms part of the North Konkan coastal belt, characterized by lush greenery, orchards, and sandy shores.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Palghar District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fa-solid fa-ruler",
+        "label": "Length",
+        "value": "Approximately 3 km"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "Sea level"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Landscape",
+        "value": "Coastal plains with chikoo orchards"
+      }
+    ],
+    "climate": {
+      "description": "Dahanu enjoys a moderate coastal climate throughout the year, with cool sea breezes and warm days.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: October to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon months (June–September) bring lush greenery but limited water activities"
+        }
+      ]
+    },
+    "conclusion": "Dahanu’s peaceful setting and cultural flavor make it a perfect destination for eco-tourism and relaxation."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Beach Walks & Relaxation",
+      "description": "Stroll along the long stretch of soft sands and enjoy the calm sea breeze.",
+      "info": [
+        "Early mornings and sunsets are most scenic",
+        "Ideal for couples and families"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Chikoo Farm Visits",
+      "description": "Experience local life and taste fresh chikoo fruits in nearby farms.",
+      "info": [
+        "Guided tours available at select orchards",
+        "Best in December–February during harvest season"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-palette",
+      "title": "Warli Art Trail",
+      "description": "Visit nearby Warli villages to see traditional art on huts and walls.",
+      "info": [
+        "Local artists often sell hand-painted souvenirs",
+        "Photography-friendly environment"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/08/img1.jpg",
+      "title": "Dahanu Fort",
+      "description": "A historic 16th-century fort built by the Portuguese, now serving as a reminder of Dahanu’s colonial past.",
+      "distance": "1 km from beach",
+      "icon": "fa-solid fa-landmark",
+      "value": "Heritage Fort"
+    },
+    {
+      "image": "/assets/images/beaches/08/img2.jpg",
+      "title": "Bordi Beach",
+      "description": "A nearby, equally serene beach often combined with Dahanu in tourist circuits.",
+      "distance": "17 km south",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Neighboring Beach"
+    }
+  ],
+  "marineLife": {
+    "intro": "Dahanu’s clean coastal ecosystem supports small fish species, crabs, and marine vegetation near the shore.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Local Fisheries",
+        "description": "Small-scale fishing forms an important part of local livelihood."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Tidal Diversity",
+        "description": "During low tide, shells and crabs can be easily spotted along the shore."
+      }
+    ],
+    "conclusion": [
+      "Marine life here is modest but well-balanced due to low industrial activity.",
+      "Responsible tourism helps maintain its ecological purity."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Dahanu Road (Western Railway line)",
+        "Auto rickshaws and local taxis available from the station (2 km from beach)"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located 120 km from Mumbai via NH48 and Dahanu–Charoti Road",
+        "Regular buses and private vehicles available from Palghar and Mumbai"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/08/img2.jpg",
+      "thumb": "/assets/images/beaches/08/img2.jpg",
+      "alt": "Sunset at Dahanu Beach"
+    },
+    {
+      "src": "/assets/images/beaches/08/img3.jpg",
+      "thumb": "/assets/images/beaches/08/img3.jpg",
+      "alt": "Chikoo orchards near Dahanu"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-hotel",
+      "description": "Choose from beachside cottages or chikoo farm stays for a unique experience."
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "description": "Try local seafood and traditional Warli cuisine."
+    },
+    {
+      "icon": "fa-solid fa-info-circle",
+      "description": "Book early during winter weekends as it’s a popular eco-getaway."
+    }
+  ]
+}

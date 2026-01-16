@@ -1,0 +1,156 @@
+{
+  "id": "20",
+  "title": "Vijaydurg Fort",
+  "subtitle": "The Gibraltar of the East and Maratha Naval Stronghold",
+  "bannerImage": "/images/forts/vijaydurg/vijaydurg-banner.jpg",
+  "color": "#2b5a7d",
+  "overview": [
+    "Known as the 'Gibraltar of the East', Vijaydurg Fort is one of Maharashtra’s oldest and strongest sea forts. Originally built by Raja Bhoja II of the Shilahar dynasty and later expanded by Chhatrapati Shivaji Maharaj, it stands majestically on the Konkan coast.",
+    "Surrounded by the Arabian Sea on three sides, this fort served as a primary naval base for the Maratha Empire. It is famous for its sophisticated underwater defensive wall and its role as the headquarters for the Maratha Navy under Kanhoji Angre."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-anchor",
+      "title": "Naval Supremacy",
+      "description": "Served as the main base of the Maratha Navy and featured a hidden underwater wall built to trap enemy ships."
+    },
+    {
+      "icon": "fas fa-chess-rook",
+      "title": "Triple-Layered Defense",
+      "description": "A massive sea fort featuring triple-layered laterite walls and 20 formidable bastions for coastal protection."
+    }
+  ],
+  "geography": {
+    "image": "/images/forts/vijaydurg/gallery1.jpg",
+    "intro": "Vijaydurg is a sea fort located on the edge of the Vaghotan River creek in the Sindhudurg district, jutting out into the Arabian Sea.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Sindhudurg, Maharashtra" },
+      { "icon": "fa-solid fa-water", "label": "Type", "value": "Sea Fort (Jaldurg)" },
+      { "icon": "fa-solid fa-landmark", "label": "Built By", "value": "Raja Bhoja II / Shivaji Maharaj" },
+      { "icon": "fa-solid fa-calendar-check", "label": "Best Time", "value": "October to March" },
+      { "icon": "fa-solid fa-clock", "label": "Construction", "value": "12th Century (Expanded 17th Century)" }
+    ],
+    "climate": {
+      "description": "The coastal region experiences a humid tropical climate with heavy monsoons and pleasant, breezy winters.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-sun", "text": "Best season: Winter (Oct–Mar)" },
+        { "icon": "fa-solid fa-umbrella", "text": "Monsoon (Jun–Sep) offers dramatic sea views but restricted access." }
+      ]
+    },
+    "conclusion": "The fort's strategic location at the mouth of the Vaghotan creek made it an impregnable naval outpost for centuries."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Heritage Exploration",
+      "description": "Walk through the massive ramparts, explore hidden tunnels, and view old granaries and storage areas.",
+      "info": [
+        "Hire a local guide to find the hidden underwater wall.",
+        "Allow at least 2-3 hours for a full tour."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Boating & Sea Views",
+      "description": "Experience the fort's scale from the water with a boat ride around the triple-layered walls during high tide.",
+      "info": [
+        "Boats are available at the nearby jetty.",
+        "Best enjoyed during sunset for photography."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "title": "Culinary Experience",
+      "description": "Savor authentic Malvani seafood and local Konkan delicacies in the surrounding villages.",
+      "info": [
+        "Try the 'Solkadhi' and fresh catch of the day.",
+        "Nearby homestays offer the best local flavors."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/forts/vijaydurg/gallery2.jpg",
+      "title": "Underwater Wall",
+      "description": "A brilliant 122m long underwater masonry wall designed to wreck enemy ships attempting to enter the creek.",
+      "distance": "Visible at low tide",
+      "icon": "fa-solid fa-shield-halved",
+      "value": "Engineering Marvel"
+    },
+    {
+      "image": "/images/forts/vijaydurg/gallery3.jpg",
+      "title": "Rameshwar Temple",
+      "description": "An ancient Shiva temple located in the nearby village known for its beautiful architecture.",
+      "distance": "3 km",
+      "icon": "fa-solid fa-om",
+      "value": "Spiritual Heritage"
+    }
+  ],
+  "marineLife": {
+    "intro": "As a coastal stronghold, Vijaydurg is surrounded by a vibrant marine ecosystem and coastal flora typical of the Konkan belt.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Coastal Fauna",
+        "description": "Spot crabs, small fish in rock pools, and various coastal bird species like sea gulls and kingfishers."
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "title": "Konkan Flora",
+        "description": "The surrounding area is famous for Alphonso mango orchards, coconut groves, and cashews."
+      }
+    ],
+    "conclusion": [
+      "The intersection of history and the Arabian Sea creates a unique biodiversity zone.",
+      "Ideal for both history buffs and coastal nature lovers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Approximately 490 km from Mumbai via NH66.",
+        "Connected by state transport (MSRTC) buses from Ratnagiri and Panjim."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Rail & Air",
+      "details": [
+        "Nearest railway station: Rajapur Road (60 km).",
+        "Nearest airport: Ratnagiri Airport (220 km) or MOPA Goa (150 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/forts/vijaydurg/gallery1.jpg",
+      "thumb": "/images/forts/vijaydurg/gallery1.jpg",
+      "alt": "Ramparts of Vijaydurg Sea Fort"
+    },
+    {
+      "src": "/images/forts/vijaydurg/gallery4.jpg",
+      "thumb": "/images/forts/vijaydurg/gallery4.jpg",
+      "alt": "Sunset over the Arabian Sea from Vijaydurg"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bottle-water",
+      "description": "Carry plenty of water and snacks as there are limited shops immediately inside the fort."
+    },
+    {
+      "icon": "fa-solid fa-shoe-prints",
+      "description": "Wear sturdy, non-slip footwear to navigate the ancient stone paths safely."
+    },
+    {
+      "icon": "fa-solid fa-user-group",
+      "description": "Hire a local guide to specifically explain the Maratha naval tactics and the hidden wall."
+    }
+  ],
+  "coordinates": {
+    "lat": 16.560646,
+    "lng": 73.3333727
+  }
+}

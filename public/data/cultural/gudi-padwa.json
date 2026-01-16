@@ -1,0 +1,53 @@
+{
+  "id": "gudi-padwa",
+  "title": "Gudi Padwa",
+  "subtitle": "Maharashtra’s New Year of Prosperity and Joy",
+  "bannerImage": "/images/cultural/gudi-padwa/banner.jpg",
+  "color": "#f7b733",
+  "overview": [
+    "Gudi Padwa marks the traditional New Year for Maharashtrians, symbolizing victory, joy, and renewal.",
+    "The festival is celebrated by hoisting the ‘Gudi’ — a bright flag with a pot atop — signifying success and happiness."
+  ],
+  "highlights": [
+    { "icon": "fas fa-flag", "title": "Gudi Hoisting", "description": "Families hoist Gudi outside homes to welcome prosperity." },
+    { "icon": "fas fa-utensils", "title": "Festive Delicacies", "description": "Enjoy dishes like Puran Poli and Shrikhand." }
+  ],
+  "geography": {
+    "image": "/images/cultural/gudi-padwa/geography.jpg",
+    "intro": "Gudi Padwa is celebrated across Maharashtra — prominently in Mumbai, Pune, and Nashik.",
+    "details": [
+      { "icon": "fas fa-calendar", "label": "Date", "value": "First day of Chaitra month (March–April)" },
+      { "icon": "fas fa-city", "label": "Main Regions", "value": "Mumbai, Pune, Nashik, Kolhapur" },
+      { "icon": "fas fa-users", "label": "Celebrants", "value": "Maharashtrian Hindu Families" },
+      { "icon": "fas fa-crown", "label": "Symbolism", "value": "Victory and Renewal" },
+      { "icon": "fas fa-sun", "label": "Season", "value": "Spring" }
+    ],
+    "climate": { "description": "Pleasant weather with warm days and cool evenings.", "seasons": [{ "icon": "fas fa-sun", "text": "March–April" }] },
+    "conclusion": "Gudi Padwa ushers in positivity, good luck, and fresh beginnings."
+  },
+  "activities": [
+    { "icon": "fas fa-flag", "title": "Gudi Hoisting Ceremony", "description": "Decorate and hoist the traditional Gudi at your home.", "info": ["Use neem leaves, garland, and kalash."] },
+    { "icon": "fas fa-utensils", "title": "Traditional Cooking", "description": "Prepare and enjoy festive dishes with family.", "info": ["Puran Poli, Shrikhand, and Aamras."] }
+  ],
+  "attractions": [
+    { "image": "/images/cultural/gudi-padwa/attraction1.jpg", "title": "Cultural Processions", "description": "Pune and Mumbai host colorful street parades.", "icon": "fas fa-drum", "value": "Vibrant celebrations" },
+    { "image": "/images/cultural/gudi-padwa/attraction2.jpg", "title": "Decorated Streets", "description": "Women in traditional sarees and men in pagdis celebrate joyously.", "icon": "fas fa-users", "value": "Cultural unity" }
+  ],
+  "marineLife": {
+    "intro": "Gudi Padwa is a land-based festival celebrating nature’s renewal.",
+    "items": [{ "icon": "fas fa-leaf", "title": "Spring Symbolism", "description": "Represents the start of the harvest season." }],
+    "conclusion": ["A festival of joy, culture, and vibrant beginnings."]
+  },
+  "howToReach": [
+    { "icon": "fas fa-plane", "title": "By Air", "details": ["Mumbai, Pune, and Nagpur have major airports."] },
+    { "icon": "fas fa-car", "title": "By Road", "details": ["Accessible from all Maharashtra regions."] }
+  ],
+  "gallery": [
+    { "src": "/images/cultural/gudi-padwa/gallery1.jpg", "thumb": "/images/cultural/gudi-padwa/thumb1.jpg", "alt": "Gudi Decoration" },
+    { "src": "/images/cultural/gudi-padwa/gallery2.jpg", "thumb": "/images/cultural/gudi-padwa/thumb2.jpg", "alt": "Gudi Padwa Procession" }
+  ],
+  "bookingTips": [
+    { "icon": "fas fa-camera", "description": "Visit Pune for grand processions." },
+    { "icon": "fas fa-calendar", "description": "Plan ahead as it coincides with other festivals." }
+  ]
+}

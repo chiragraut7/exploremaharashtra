@@ -1,0 +1,180 @@
+{
+  "id": "13",
+  "title": "Dajipur Wildlife Sanctuary",
+  "subtitle": "The Bison Sanctuary of Maharashtra",
+  "bannerImage": "/images/nature/dajipur/banner.jpg",
+  "color": "#2E7D32",
+  "coordinates": { "lat": 16.3837, "lng": 73.8635 },
+  "overview": [
+    "Nestled in the Sahyadri mountain ranges near Kolhapur, Dajipur Wildlife Sanctuary, also known as the Bison Sanctuary, is a lush forest reserve famous for its rich biodiversity and scenic beauty.",
+    "The sanctuary is home to the Indian Bison (Gaur), leopards, deer, and a variety of birds and reptiles. Surrounded by dense forests, waterfalls, and serene hills, it offers a peaceful retreat for nature lovers.",
+    "Dajipur is a great destination for wildlife enthusiasts, trekkers, and eco-tourists seeking to explore the untouched wilderness of Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-hippo",
+      "title": "Indian Bison Habitat",
+      "description": "Home to the mighty Indian Bison (Gaur), the sanctuary offers a rare chance to spot this majestic animal in its natural surroundings."
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Scenic Safari and Trekking",
+      "description": "Dajipur’s jungle safaris and trekking trails provide thrilling encounters with wildlife and panoramic views of the Western Ghats."
+    }
+  ],
+  "geography": {
+    "image": "/images/nature/dajipur/geography.jpg",
+    "intro": "Spread over 120 square kilometers, Dajipur Wildlife Sanctuary lies on the border of Sindhudurg and Kolhapur districts. It is part of the Radhanagari Wildlife Sanctuary and forms a vital corridor for Western Ghats fauna.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Near Radhanagari, Kolhapur District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Altitude",
+        "value": "1200 meters above sea level"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "label": "Area",
+        "value": "120 sq. km"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Flora",
+        "value": "Evergreen and moist deciduous forests"
+      },
+      {
+        "icon": "fas fa-paw",
+        "label": "Fauna",
+        "value": "Indian Bison, Leopards, Deer, Wild Boar, and Birds"
+      }
+    ],
+    "climate": {
+      "description": "Dajipur enjoys a cool and pleasant climate throughout the year. Monsoons bring lush greenery, while winters offer the best wildlife viewing conditions.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): Heavy rains rejuvenate the forest, creating vibrant green landscapes."
+        },
+        {
+          "icon": "fas fa-snowflake",
+          "text": "Winter (October–February): Cool and comfortable, ideal for safaris and trekking."
+        }
+      ]
+    },
+    "conclusion": "With its dense forests, rich wildlife, and tranquil beauty, Dajipur is a must-visit destination for those who seek a deep connection with nature."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Wildlife Safari",
+      "description": "Explore the sanctuary on jeep safaris and witness the diverse fauna of the Western Ghats.",
+      "info": [
+        "Safaris are conducted in the morning and evening.",
+        "Book in advance through the Forest Department office at Radhanagari."
+      ]
+    },
+    {
+      "icon": "fas fa-hiking",
+      "title": "Jungle Trekking",
+      "description": "Trek through dense forests and rolling hills with guides who share insights on local flora and fauna.",
+      "info": [
+        "Popular routes include the Radhanagari–Dajipur trail.",
+        "Ideal for moderate-level trekkers."
+      ]
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Visit Waterfalls",
+      "description": "During monsoon, small waterfalls and streams appear across the sanctuary, enhancing its natural charm.",
+      "info": [
+        "The sanctuary transforms into a lush paradise post-rain.",
+        "Carry waterproof gear and proper footwear."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/nature/dajipur/radhanagari-dam.jpg",
+      "title": "Radhanagari Dam",
+      "description": "A scenic reservoir offering picturesque views and a peaceful atmosphere, located near the sanctuary.",
+      "distance": "15 km from Dajipur",
+      "icon": "fas fa-water",
+      "value": "Scenic Reservoir"
+    },
+    {
+      "image": "/images/nature/dajipur/panhalgad.jpg",
+      "title": "Panhala Fort",
+      "description": "A historic Maratha fort with panoramic views and deep connections to Chhatrapati Shivaji Maharaj.",
+      "distance": "45 km from Dajipur",
+      "icon": "fas fa-landmark",
+      "value": "Historical Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though not a marine site, Dajipur supports a rich diversity of terrestrial and aquatic wildlife species across its forest streams and ponds.",
+    "items": [
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians and Reptiles",
+        "description": "The region is home to frogs, lizards, and snakes that thrive in moist forest habitats."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Birdlife",
+        "description": "Species like Malabar whistling thrush, hornbills, and peafowls are commonly spotted here."
+      }
+    ],
+    "conclusion": [
+      "The biodiversity of Dajipur reflects the ecological richness of the Western Ghats.",
+      "Visitors are encouraged to respect wildlife and maintain silence during safaris."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": [
+        "Dajipur is located about 80 km from Kolhapur and 490 km from Mumbai.",
+        "Regular buses and taxis are available from Kolhapur city."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Rail",
+      "details": [
+        "Nearest railway station: Kolhapur (80 km).",
+        "Kolhapur is well-connected by train to Mumbai, Pune, and Bangalore."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/nature/dajipur/gallery1.jpg",
+      "thumb": "/images/nature/dajipur/thumb1.jpg",
+      "alt": "Indian Bison grazing in Dajipur Sanctuary"
+    },
+    {
+      "src": "/images/nature/dajipur/gallery2.jpg",
+      "thumb": "/images/nature/dajipur/thumb2.jpg",
+      "alt": "Dense green forest of Dajipur"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-check",
+      "description": "The best time to visit Dajipur is between October and February for ideal weather and wildlife sightings."
+    },
+    {
+      "icon": "fas fa-shield-alt",
+      "description": "Book safaris in advance and always follow forest department rules for safety."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "description": "Avoid plastic waste and maintain the ecological balance of the sanctuary."
+    }
+  ]
+}

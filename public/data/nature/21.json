@@ -1,0 +1,195 @@
+{
+  "id": "21",
+  "title": "Thoseghar Waterfall",
+  "subtitle": "Maharashtra’s Majestic Cascading Wonder",
+  "bannerImage": "/assets/images/nature/thoseghar-waterfall.jpg",
+  "color": "#1e88e5",
+  "coordinates": { "lat": 17.5997, "lng": 73.8539 },
+  "overview": [
+    "Thoseghar Waterfall, located near Satara, is one of the highest and most beautiful waterfalls in Maharashtra. Surrounded by lush green forests and deep valleys, it offers a breathtaking view during the monsoon season when water gushes down from over 500 meters in multiple cascades.",
+    "The serene surroundings, chirping birds, and cool breeze make Thoseghar an ideal getaway for nature lovers and photographers seeking peace and scenic beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-water",
+      "title": "Multiple Cascades",
+      "description": "The waterfall consists of a series of small and large falls, creating a mesmerizing visual spectacle."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Pristine Natural Setting",
+      "description": "Surrounded by dense forests and valleys, offering a refreshing escape from city life."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/nature/thoseghar-map.jpg",
+    "intro": "Situated about 20 km from Satara city in western Maharashtra, Thoseghar lies in the Sahyadri range of the Western Ghats, an area known for its biodiversity and scenic landscapes.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Thoseghar Village, Satara District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-ruler-vertical",
+        "label": "Height",
+        "value": "Approx. 500 meters (various segments)"
+      },
+      {
+        "icon": "fas fa-mountain",
+        "label": "Terrain",
+        "value": "Hilly forest region of Western Ghats"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Source River",
+        "value": "Tarli River"
+      },
+      {
+        "icon": "fas fa-tree",
+        "label": "Ecosystem",
+        "value": "Evergreen forest with rich flora and fauna"
+      }
+    ],
+    "climate": {
+      "description": "Thoseghar experiences a tropical monsoon climate, with heavy rainfall and misty conditions from June to September. The waterfall is best visited during or immediately after the monsoon.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon (June–September): Best time to witness the waterfall in full flow."
+        },
+        {
+          "icon": "fas fa-sun",
+          "text": "Winter (October–February): Pleasant weather, good for short treks and picnics."
+        }
+      ]
+    },
+    "conclusion": "The roaring sound of cascading water, misty air, and panoramic valley views make Thoseghar one of Maharashtra’s most captivating natural attractions."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-hiking",
+      "title": "Trekking & Walking Trails",
+      "description": "Short nature trails and viewpoints offer excellent opportunities to explore the surroundings.",
+      "info": [
+        "Moderate trekking trails lead to viewpoints.",
+        "Follow safety signs during monsoon season."
+      ]
+    },
+    {
+      "icon": "fas fa-camera",
+      "title": "Photography",
+      "description": "Capture the mesmerizing flow of water and lush greenery from safe viewpoints.",
+      "info": [
+        "Ideal for landscape photography.",
+        "Carry rain protection for camera gear during monsoon."
+      ]
+    },
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Bird Watching",
+      "description": "The forests around Thoseghar host a variety of bird species including drongos, bulbuls, and flycatchers.",
+      "info": [
+        "Early mornings are best for spotting birds.",
+        "Carry binoculars and stay quiet to enjoy sightings."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/nature/kaas-plateau.jpg",
+      "title": "Kaas Plateau",
+      "description": "UNESCO-recognized Valley of Flowers, just a short drive away from Thoseghar.",
+      "distance": "25 km from Thoseghar",
+      "icon": "fas fa-seedling",
+      "value": "Biodiversity Hotspot"
+    },
+    {
+      "image": "/assets/images/nature/sajjangad-fort.jpg",
+      "title": "Sajjangad Fort",
+      "description": "Spiritual fort and resting place of Sant Ramdas Swami, offering stunning valley views.",
+      "distance": "18 km from Thoseghar",
+      "icon": "fas fa-landmark",
+      "value": "Historic & Religious Site"
+    },
+    {
+      "image": "/assets/images/nature/ajinkyatara-fort.jpg",
+      "title": "Ajinkyatara Fort",
+      "description": "A fort with panoramic views of Satara city and surrounding mountains.",
+      "distance": "22 km from Thoseghar",
+      "icon": "fas fa-chess-rook",
+      "value": "Scenic Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "While Thoseghar is an inland waterfall, its rich ecosystem supports diverse flora and fauna typical of the Western Ghats’ moist forests.",
+    "items": [
+      {
+        "icon": "fas fa-frog",
+        "title": "Amphibians & Reptiles",
+        "description": "The humid environment supports frogs, lizards, and other small species."
+      },
+      {
+        "icon": "fas fa-feather-alt",
+        "title": "Birdlife",
+        "description": "Home to native species such as Malabar whistling thrush and hornbills."
+      }
+    ],
+    "conclusion": [
+      "Thoseghar’s biodiversity enhances its natural charm and ecological importance.",
+      "Visitors are encouraged to maintain silence and avoid littering to preserve the area."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Located 20 km from Satara city via Thoseghar Road.",
+        "Accessible by private car, bike, or local taxi."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Satara (22 km).",
+        "Frequent trains from Pune, Mumbai, and Kolhapur."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune (145 km).",
+        "Regular bus and cab services from Pune to Satara."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/nature/thoseghar-monsoon.jpg",
+      "thumb": "/assets/images/nature/thoseghar-monsoon-thumb.jpg",
+      "alt": "Thoseghar Waterfall during monsoon"
+    },
+    {
+      "src": "/assets/images/nature/thoseghar-viewpoint.jpg",
+      "thumb": "/assets/images/nature/thoseghar-viewpoint-thumb.jpg",
+      "alt": "Viewpoint overlooking the waterfall"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-ticket-alt",
+      "description": "Entry ticket required at the Thoseghar eco-tourism gate; fees used for site maintenance."
+    },
+    {
+      "icon": "fas fa-clock",
+      "description": "Best time to visit: July to October when the waterfall is in full flow."
+    },
+    {
+      "icon": "fas fa-exclamation-triangle",
+      "description": "Avoid going close to the waterfall edge; use designated viewing platforms for safety."
+    }
+  ]
+}

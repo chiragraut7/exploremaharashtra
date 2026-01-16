@@ -1,0 +1,147 @@
+{
+  "id": "cultural-pune",
+  "title": "Pune – Cultural Capital of Maharashtra",
+  "subtitle": "Where tradition meets intellect and art flourishes in every corner",
+  "bannerImage": "/images/cultural/pune/banner.jpg",
+  "color": "#d97706",
+  "overview": [
+    "Pune, often hailed as the Cultural Capital of Maharashtra, is a vibrant blend of history, education, music, theatre, and spirituality. Once the seat of the Peshwas, the city preserves its rich Maratha heritage while embracing modern growth.",
+    "The city’s streets echo with classical music, bustling festivals like Ganeshotsav, and the intellectual energy of its universities. From the Shaniwar Wada’s grandeur to the Sawai Gandharva music festival, Pune is a living museum of Marathi culture and art."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-landmark",
+      "title": "Historical Heritage",
+      "description": "Shaniwar Wada, Lal Mahal, and Vishrambaug Wada reflect Pune’s glorious Maratha past."
+    },
+    {
+      "icon": "fas fa-theater-masks",
+      "title": "Art & Theatre",
+      "description": "Pune’s cultural life thrives with institutions like Bal Gandharva Rang Mandir and Bharat Natya Mandir showcasing Marathi drama and music."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/pune/geography.jpg",
+    "intro": "Pune lies on the Deccan Plateau, surrounded by scenic hills and rivers like Mula and Mutha. Its pleasant climate and proximity to the Western Ghats make it a cultural and natural gem.",
+    "details": [
+      { "icon": "fas fa-map-marker-alt", "label": "Region", "value": "Western Maharashtra" },
+      { "icon": "fas fa-city", "label": "District", "value": "Pune" },
+      { "icon": "fas fa-mountain", "label": "Elevation", "value": "560 meters" },
+      { "icon": "fas fa-sun", "label": "Best Season", "value": "October to February" },
+      { "icon": "fas fa-university", "label": "Cultural Identity", "value": "Maratha Heritage & Intellectual Hub" }
+    ],
+    "climate": {
+      "description": "Pune experiences moderate weather throughout the year with cool winters and pleasant monsoons.",
+      "seasons": [
+        { "icon": "fas fa-temperature-high", "text": "Summer: 22°C–38°C" },
+        { "icon": "fas fa-cloud-rain", "text": "Monsoon & Winter: 12°C–28°C" }
+      ]
+    },
+    "conclusion": "Pune’s geography and climate have helped nurture its relaxed yet intellectually active lifestyle."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-music",
+      "title": "Attend Classical Music Festivals",
+      "description": "Experience the spirit of Pune at Sawai Gandharva Bhimsen Mahotsav.",
+      "info": ["Annual classical music event in December", "Hosts legendary Indian musicians"]
+    },
+    {
+      "icon": "fas fa-theater-masks",
+      "title": "Explore Marathi Theatre",
+      "description": "Watch classic and experimental Marathi plays at Bal Gandharva Rang Mandir.",
+      "info": ["Known for cultural plays", "Affordable and authentic theatre experience"]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Heritage Walks",
+      "description": "Discover old Pune through guided walks of Shaniwar Wada, Tulshibaug, and Vishrambaug Wada.",
+      "info": ["Organized by local cultural groups", "Best enjoyed in early mornings"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/pune/shaniwarwada.jpg",
+      "title": "Shaniwar Wada",
+      "description": "Historic fortification and symbol of Maratha pride.",
+      "distance": "City Center",
+      "icon": "fas fa-landmark",
+      "value": "Must Visit"
+    },
+    {
+      "image": "/images/cultural/pune/dagdusheth.jpg",
+      "title": "Dagadusheth Halwai Ganpati Temple",
+      "description": "Cultural heart of Pune’s Ganeshotsav celebrations.",
+      "distance": "1 km from Shaniwar Wada",
+      "icon": "fas fa-om",
+      "value": "Cultural Landmark"
+    }
+  ],
+  "marineLife": {
+    "intro": "Although not coastal, Pune’s ‘cultural life’ thrives with art, music, and intellect rather than marine influence.",
+    "items": [
+      {
+        "icon": "fas fa-brain",
+        "title": "Intellectual Spirit",
+        "description": "Home to scholars, artists, and reformers who shaped Maharashtra’s modern cultural identity."
+      },
+      {
+        "icon": "fas fa-people-group",
+        "title": "Cultural Vibrance",
+        "description": "A melting pot of traditions from classical music to experimental theatre."
+      }
+    ],
+    "conclusion": [
+      "Pune’s cultural depth is unmatched, where art, intellect, and devotion coexist beautifully.",
+      "A must-visit city for heritage lovers and cultural explorers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": ["Pune Junction connects to major Indian cities.", "Local cabs and buses available from the station."]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "By Road",
+      "details": ["Located on Mumbai–Bangalore Highway (NH48).", "Frequent MSRTC and private buses from major cities."]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": ["Pune International Airport (12 km from city center).", "Regular flights from Mumbai, Delhi, and Bangalore."]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/cultural/pune/gallery1.jpg",
+      "thumb": "/images/cultural/pune/gallery1-thumb.jpg",
+      "alt": "Shaniwar Wada"
+    },
+    {
+      "src": "/images/cultural/pune/gallery2.jpg",
+      "thumb": "/images/cultural/pune/gallery2-thumb.jpg",
+      "alt": "Bal Gandharva Rang Mandir"
+    },
+    {
+      "src": "/images/cultural/pune/gallery3.jpg",
+      "thumb": "/images/cultural/pune/gallery3-thumb.jpg",
+      "alt": "Dagadusheth Ganpati"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Plan visits during cultural festivals like Ganeshotsav or Sawai Gandharva."
+    },
+    {
+      "icon": "fas fa-umbrella",
+      "description": "Carry an umbrella during monsoon heritage walks."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "description": "Book hotels near Deccan or Shivajinagar for easy access to cultural spots."
+    }
+  ]
+}
