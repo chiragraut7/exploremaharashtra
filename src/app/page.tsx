@@ -149,9 +149,133 @@ export default function Home() {
       </div>
 
       <style jsx>{`
-        .bg-light-soft { background: #fff; }
+                .bg-light-soft { background: #fff; }
         
-        .hero-editorial {
+        /* Hero Styling */
+        .hero-container {
+          position: relative;
+          height: 95vh;
+          overflow: hidden;
+          background: #111;
+        }
+        .hero-bg-zoom {
+          position: absolute;
+          inset: 0;
+          animation: slowZoom 30s infinite alternate linear;
+        }
+        .hero-img-dim { filter: brightness(0.6) contrast(1.1); }
+        @keyframes slowZoom {
+          from { transform: scale(1); }
+          to { transform: scale(1.18); }
+        }
+        .hero-glass-card {
+          background: rgba(0, 0, 0, 0.25);
+          backdrop-filter: blur(15px);
+          -webkit-backdrop-filter: blur(15px);
+          border: 1px solid rgba(255, 255, 255, 0.12);
+          border-radius: 3.5rem;
+          max-width: 850px;
+          z-index: 10;
+        }
+        .hero-title-editorial {
+          font-size: clamp(3.2rem, 8vw, 6.5rem);
+          line-height: 0.9;
+          letter-spacing: -2px;
+        }
+        .text-accent { color: #00aaff; font-style: italic; }
+
+        /* Typography & Overlays */
+        .section-title-editorial {
+          font-size: clamp(2.5rem, 5vw, 3.8rem);
+          font-weight: 800;
+          color: #1a1a1a;
+          letter-spacing: -1.5px;
+        }
+        .body-text-editorial {
+          font-size: 1.35rem;
+          color: #555;
+          line-height: 1.8;
+          font-weight: 300;
+        }
+
+        /* Bento Grid Glass Hover Effects */
+        .magazine-card {
+          position: relative;
+          padding: 1.5rem 0.5rem;
+          border-radius: 1rem;
+          text-align: center;
+          transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+          height: 100%;
+          border: 1px solid rgba(0,0,0,0.03);
+          overflow: hidden;
+          z-index: 1;
+        }
+        .magazine-card::before {
+          content: "";
+          position: absolute;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background: linear-gradient(135deg, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0) 60%);
+          opacity: 0;
+          transition: opacity 0.5s ease;
+          z-index: -1;
+        }
+        .magazine-card:hover {
+          transform: translateY(-15px) scale(1.02);
+          box-shadow: 0 35px 70px rgba(0,0,0,0.08), inset 0 0 0 2px rgba(255,255,255,0.6);
+        }
+        .magazine-card:hover::before { opacity: 1; }
+        .magazine-icon-box {
+              background: transparent;
+    border-radius: 0.1rem;
+    margin: 0 auto 1rem;
+    padding: 0;
+    transition: all .5s cubic-bezier(.175, .885, .32, 1.275);
+    display: inline-block;
+    box-shadow: unset;
+        }
+        .magazine-card:hover .magazine-icon-box {
+          transform: scale(1.18) rotate(-10deg);
+        }
+
+        /* UI Buttons */
+        .btn-magazine {
+          background: #fff;
+          color: #111;
+          padding: 1.3rem 3.5rem;
+          border-radius: 100px;
+          text-decoration: none;
+          font-weight: 800;
+          text-transform: uppercase;
+          letter-spacing: 1.5px;
+          transition: all 0.4s ease;
+        }
+        .btn-magazine:hover { 
+          background: #00aaff; 
+          color: #fff; 
+          transform: translateY(-5px);
+          box-shadow: 0 20px 40px rgba(0, 170, 255, 0.3);
+        }
+        .btn-outline-editorial {
+            border: 2px solid #1a1a1a;
+            padding: 1.1rem 2.8rem;
+            color: #1a1a1a;
+            text-decoration: none;
+            font-weight: 800;
+            border-radius: 14px;
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+        .btn-outline-editorial:hover { background: #1a1a1a; color: #fff; }
+
+        .py-6 { padding: 10rem 0; }
+        .slider-item { padding: 0; }
+
+        @media (max-width: 768px) {
+          .hero-container { height: 85vh; }
+          .py-6 { padding: 5rem 0; }
+          .magazine-card { padding: 2.5rem 1rem; }
+        }
+          .hero-editorial {
           position: relative;
           height: 100vh;
           display: flex;
@@ -159,22 +283,12 @@ export default function Home() {
           overflow: hidden;
         }
 
+        /* Split Screen Logic */
         .hero-visual-pane {
           position: absolute;
           inset: 0;
           width: 100%;
           z-index: 1;
-        }
-
-        .hero-bg-zoom {
-          position: absolute;
-          inset: 0;
-          animation: slowZoom 30s infinite alternate linear;
-        }
-
-        @keyframes slowZoom {
-          from { transform: scale(1); }
-          to { transform: scale(1.18); }
         }
 
         .hero-vignette {
@@ -199,6 +313,7 @@ export default function Home() {
           text-align: center;
         }
 
+        /* Typography */
         .fw-black { font-weight: 900; letter-spacing: -2px; }
         .text-outline {
           color: transparent;
@@ -229,6 +344,7 @@ export default function Home() {
           line-height: 1.6;
         }
 
+        /* Luxury Button */
         .btn-luxury {
           display: inline-flex;
           align-items: center;
@@ -267,42 +383,14 @@ export default function Home() {
 
         .stat-item strong { color: #00aaff; margin-right: 5px; }
 
-        .magazine-card {
-          position: relative;
-          padding: 1.5rem 0.5rem;
-          border-radius: 1rem;
-          text-align: center;
-          transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
-          height: 100%;
-          border: 1px solid rgba(0,0,0,0.03);
-          overflow: hidden;
-        }
-
-        .magazine-card:hover {
-          transform: translateY(-15px) scale(1.02);
-          box-shadow: 0 35px 70px rgba(0,0,0,0.08);
-        }
-
-        .magazine-icon-box {
-          margin: 0 auto 1rem;
-          transition: all .5s cubic-bezier(.175, .885, .32, 1.275);
-        }
-
-        .magazine-card:hover .magazine-icon-box {
-          transform: scale(1.18) rotate(-10deg);
-        }
-
-        .magazine-card-title {
-          font-size: 1rem;
-          color: #333;
-          font-weight: 700;
-        }
-
         @media (max-width: 768px) {
           .display-1 { font-size: 3.5rem; }
           .hero-floating-footer { display: none; }
-          .hero-editorial { height: 85vh; }
         }
+          .magazine-card-title{
+          font-size:1rem;
+          color: var(--primary-color);
+          }
       `}</style>
     </main>
   );
