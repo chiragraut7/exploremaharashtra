@@ -1,6 +1,11 @@
 {
   "id": "01",
   "title": "Alibaug Beach",
+
+  "coordinates": {
+    "lat": 18.6423,
+    "lng": 72.8715
+  },
   "subtitle": "A perfect blend of sun, sand, and historic charm near Mumbai",
   "bannerImage": "/assets/images/beaches/alibaug-beach.jpg",
   "insideBannerImage": "/assets/images/beaches/01/bannerimg.jpg",
@@ -35,6 +40,7 @@
   "geography": {
     "image": "/assets/images/beaches/01/info2.jpg",
     "intro": "Alibaug lies in the Raigad district along the western coast of Maharashtra and features several beaches like Varsoli, Kihim, and Nagaon nearby.",
+    
     "details": [
       {
         "icon": "fas fa-map-marker-alt",
@@ -251,9 +257,5 @@
       "icon": "fas fa-car",
       "description": "Parking can be limited during peak hours"
     }
-  ],
-  "coordinates": {
-    "lat": 18.6423,
-    "lng": 72.8715
-  }
+  ]
 }
