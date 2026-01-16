@@ -5,9 +5,6 @@ import SectionTitle from "./SectionTitle";
 import { useLanguage } from "../context/LanguageContext";
 import Translator from "../commonComponents/Translator";
 
-// ✅ CRITICAL: Leaflet CSS must be imported
-import 'leaflet/dist/leaflet.css';
-
 // -------------------- Interfaces --------------------
 interface DetailItem { icon?: string; label?: string; value?: string; }
 interface Season { icon?: string; text?: string; }
@@ -20,57 +17,97 @@ interface GeographyContent {
     seasons?: Season[];
   };
   conclusion?: string | string[];
-  coordinates?: { lat: number; lng: number; }; 
 }
 
 interface GeographyProps {
   content?: GeographyContent;
+  coordinates?: { lat: number; lng: number };
   color?: string;
 }
 
-const Geography: React.FC<GeographyProps> = ({ content, color = "#1a2a3a" }) => {
+const Geography: React.FC<GeographyProps> = ({
+  content,
+  coordinates,
+  color = "#E57717", // Defaulting to Maharashtra Saffron
+}) => {
   const { language } = useLanguage();
   const [MapComponents, setMapComponents] = useState<any>(null);
 
-  // 📡 DYNAMIC DATA EXTRACTION
-  const lat = content?.coordinates?.lat;
-  const lng = content?.coordinates?.lng;
-  const hasCoordinates = !!(lat && lng);
+  const lat = coordinates?.lat;
+  const lng = coordinates?.lng;
+  const hasCoordinates = typeof lat === "number" && typeof lng === "number";
 
   useEffect(() => {
     if (!hasCoordinates) return;
 
     const loadLeaflet = async () => {
       try {
-        const L = (await import('leaflet')).default;
-        const { MapContainer, TileLayer, Marker, Popup, useMap } = await import('react-leaflet');
+        await import("leaflet/dist/leaflet.css");
+        const L = (await import("leaflet")).default;
+        const RL = await import("react-leaflet");
+        const { MapContainer, TileLayer, Marker, Popup, useMap } = RL;
 
-        // Fix for Leaflet marker icon paths in Next.js
-        const customIcon = new L.Icon({
-          iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png',
-          shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
-          iconSize: [25, 41],
-          iconAnchor: [12, 41],
+        // ✅ LOGO ICON: Custom Saffron Teardrop with White Center
+        const customIcon = L.divIcon({
+          className: "branded-marker",
+          html: `
+            <div style="
+              background-color: ${color};
+              width: 45px;
+              height: 45px;
+              border-radius: 50% 50% 50% 0;
+              transform: rotate(-45deg);
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              border: 2px solid white;
+              box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            ">
+              <div style="
+                width: 25px;
+                height: 25px;
+                background: white;
+                border-radius: 50%;
+                transform: rotate(45deg);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-weight: bold;
+                font-size: 10px;
+                color: ${color};
+              ">
+                <i class="fas fa-map-marker-alt"></i>
+              </div>
+            </div>
+          `,
+          iconSize: [45, 45],
+          iconAnchor: [22, 45],
+          popupAnchor: [0, -45],
         });
 
-        // This component forces the map to fly to the new location when coordinates change
         const RecenterMap = ({ lat, lng }: { lat: number; lng: number }) => {
           const map = useMap();
           useEffect(() => {
-            if (lat && lng) {
-              map.setView([lat, lng], map.getZoom(), { animate: true });
-            }
+            map.setView([lat, lng], map.getZoom(), { animate: true });
+            // ✅ FIX: InvalidateSize prevents the grey box map error
+            setTimeout(() => map.invalidateSize(), 400);
           }, [lat, lng, map]);
           return null;
         };
 
         setMapComponents({ MapContainer, TileLayer, Marker, Popup, RecenterMap, customIcon });
-      } catch (e) {
-        console.error("Leaflet failed to load:", e);
+      } catch (err) {
+        console.error("Leaflet failed to load:", err);
       }
     };
     loadLeaflet();
-  }, [hasCoordinates]);
+  }, [hasCoordinates, lat, lng, color]);
+
+  const handleDirections = () => {
+    if (typeof window !== "undefined" && lat && lng) {
+      window.open(`https://www.google.com/maps?q=${lat},${lng}`, "_blank");
+    }
+  };
 
   if (!content) return null;
 
@@ -78,7 +115,7 @@ const Geography: React.FC<GeographyProps> = ({ content, color = "#1a2a3a" }) => 
     if (!text) return null;
     const paragraphs = Array.isArray(text) ? text : [text];
     return paragraphs.map((p, i) => (
-      <p key={i} className={`${isLead ? 'lead-text-compact' : 'body-text-compact'} mb-2`}>
+      <p key={i} className={`${isLead ? "lead-text-compact" : "body-text-compact"} mb-2`}>
         <Translator text={p.trim()} targetLang={language} />
       </p>
     ));
@@ -89,53 +126,44 @@ const Geography: React.FC<GeographyProps> = ({ content, color = "#1a2a3a" }) => 
       <SectionTitle title="Geography" color={color} />
 
       <div className="row g-0 rounded-4 overflow-hidden shadow-sm bg-white border content-box-compact">
-        
-        {/* 🗺️ LEFT: MAP COLUMN */}
+        {/* 🗺️ MAP */}
         {hasCoordinates && (
-          <div className="col-lg-5 p-0 bg-light border-end">
-            <div className="sticky-media-compact h-100 position-relative">
+          <div className="col-lg-4 p-0 bg-light border-end">
+            <div className="map-wrapper-fixed h-100 position-relative" style={{ minHeight: "450px" }}>
               {!MapComponents ? (
                 <div className="h-100 d-flex align-items-center justify-content-center bg-light">
-                  <div className="spinner-border text-muted" role="status"></div>
+                  <div className="spinner-border text-warning" role="status"></div>
                 </div>
               ) : (
-                /* ✅ KEY FIX: Adding a 'key' using lat/lng forces the map 
-                   to completely re-render when the beach changes. 
-                */
-                <MapComponents.MapContainer 
+                <MapComponents.MapContainer
                   key={`${lat}-${lng}`}
-                  center={[lat, lng]} 
-                  zoom={12} 
-                  scrollWheelZoom={false} 
-                  style={{ height: '100%', width: '100%', zIndex: 1 }}
+                  center={[lat, lng]}
+                  zoom={12}
+                  scrollWheelZoom={false}
+                  style={{ height: "100%", width: "100%", minHeight: "450px", zIndex: 1 }}
                 >
                   <MapComponents.TileLayer
                     url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
-                    attribution='&copy; OpenStreetMap'
+                    attribution="© OpenStreetMap"
                   />
                   <MapComponents.RecenterMap lat={lat} lng={lng} />
                   <MapComponents.Marker position={[lat, lng]} icon={MapComponents.customIcon}>
                     <MapComponents.Popup>
-                      <strong style={{ color }}>{content.intro ? "Location Spotlight" : "Map View"}</strong><br/>
-                      {lat.toFixed(4)}, {lng.toFixed(4)}
+                      <div className="text-center fw-bold py-1">
+                        Explore Maharashtra
+                      </div>
                     </MapComponents.Popup>
                   </MapComponents.Marker>
                 </MapComponents.MapContainer>
               )}
-
-              <div className="image-label-mini" style={{ zIndex: 1000 }}>
-                <span className="badge-text-mini text-uppercase">
-                   <i className="fas fa-crosshairs me-2"></i>
-                   <code>{lat.toFixed(4)}° N, {lng.toFixed(4)}° E</code>
-                </span>
-              </div>
             </div>
           </div>
         )}
 
-        {/* 🧭 RIGHT: CONTENT */}
-        <div className={hasCoordinates ? "col-lg-7" : "col-12"}>
-          <div className="p-3 p-md-4">
+        {/* 📄 CONTENT */}
+        <div className={hasCoordinates ? "col-lg-8" : "col-12"}>
+             <div className="p-3 p-md-4">
+            
             <div className="mini-pill mb-2" style={{ color: color, backgroundColor: `${color}10` }}>
               <i className="fas fa-map-marked-alt me-2"></i>
               <Translator text="Characteristics" targetLang={language} />
@@ -148,7 +176,7 @@ const Geography: React.FC<GeographyProps> = ({ content, color = "#1a2a3a" }) => 
             {/* 📋 STATS GRID */}
             {content.details?.length ? (
               <div className="stats-grid-compact mb-3">
-                {content.details.map((detail, idx) => (
+                {content.details.map((detail: DetailItem, idx: number) => (
                   <div key={idx} className="stat-card-mini border">
                     <div className="stat-icon-mini" style={{ color: color }}>
                       <i className={detail.icon || "fas fa-info-circle"}></i>
@@ -176,8 +204,9 @@ const Geography: React.FC<GeographyProps> = ({ content, color = "#1a2a3a" }) => 
                 <div className="small-desc mb-2">
                   {renderParagraphs(content.climate.description)}
                 </div>
+
                 <div className="d-flex flex-wrap gap-2">
-                  {content.climate.seasons?.map((season, i) => (
+                  {content.climate.seasons?.map((season: Season, i: number) => (
                     <div key={i} className="season-pill-mini">
                       <i className={season.icon || "fas fa-sun"} style={{ color, fontSize: '0.7rem' }}></i>
                       <span><Translator text={season.text || ""} targetLang={language} /></span>
@@ -196,22 +225,47 @@ const Geography: React.FC<GeographyProps> = ({ content, color = "#1a2a3a" }) => 
           </div>
         </div>
       </div>
-
+      
       <style jsx>{`
-        .sticky-media-compact { position: sticky; top: 0; height: 100%; min-height: 420px; overflow: hidden; }
-        .image-label-mini { position: absolute; bottom: 12px; left: 12px; background: rgba(0,0,0,0.7); padding: 4px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.1); }
+        .sticky-media-compact {
+          position: sticky;
+          top: 0;
+          height: 100%;
+          min-height: 420px;
+          overflow: hidden;
+        }
+        .image-label-mini { 
+          position: absolute; 
+          bottom: 12px; 
+          left: 12px; 
+          background: rgba(0,0,0,0.7); 
+          padding: 4px 10px; 
+          border-radius: 4px; 
+          border: 1px solid rgba(255,255,255,0.1);
+        }
         .badge-text-mini { color: #fff; font-weight: 700; font-size: 0.65rem; font-family: monospace; }
+
         .lead-text-compact { font-size: 0.95rem; font-weight: 600; color: #333; line-height: 1.4; }
         .body-text-compact { color: #666; line-height: 1.4; font-size: 0.85rem; }
+
         .mini-pill { display: inline-flex; padding: 2px 10px; border-radius: 4px; font-weight: 700; font-size: 0.65rem; text-transform: uppercase; }
-        .stats-grid-compact { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; }
+
+        .stats-grid-compact {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+          gap: 10px;
+        }
         .stat-card-mini { display: flex; align-items: center; padding: 8px 12px; background: #fff; border-radius: 10px; border: 1px solid #f0f0f0 !important; }
         .stat-icon-mini { font-size: 0.9rem; margin-right: 10px; }
         .stat-text-mini small { font-size: 0.55rem; display: block; line-height: 1; margin-bottom: 3px; }
         .stat-text-mini p { font-size: 0.75rem; line-height: 1.1; margin-bottom: 0; }
+
         .season-pill-mini { display: flex; align-items: center; gap: 5px; padding: 4px 10px; background: white; border-radius: 6px; font-size: 0.65rem; font-weight: 600; border: 1px solid #eee; }
         .italic-conclusion-compact { font-style: italic; font-size: 0.8rem; opacity: 0.8; }
-        @media (max-width: 991px) { .sticky-media-compact { height: 320px; position: relative; min-height: 320px; } }
+
+        @media (max-width: 991px) {
+          .sticky-media-compact { height: 320px; position: relative; min-height: 320px; }
+        }
       `}</style>
     </section>
   );

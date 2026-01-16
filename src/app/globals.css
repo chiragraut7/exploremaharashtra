@@ -2392,3 +2392,9 @@ html {
     font-weight: bold;
     color:  var(--primary-color);
         }
+        .footer-link {
+          font-size: 15px;
+          color: var(--primary-color);
+          text-decoration: none !important;
+          font-weight: bold;
+        }
