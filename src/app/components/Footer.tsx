@@ -22,7 +22,7 @@ const Footer = ({ color = "#E57717" }) => {
   ];
 
   return (
-    <footer className="footer-root">
+    <footer className="footer-root mt-0">
       {/* --- CALL TO ACTION STRIP --- */}
       <div className="container py-5">
         <div className="row align-items-center g-4">
