@@ -55,7 +55,7 @@ const Banner: React.FC<BannerProps> = ({
           </div>
 
           {/* 🧭 Info / Hotels Buttons */}
-          <div className="col-auto">
+          {/*<div className="col-auto">
             <div className="btn-group mb-4">
               <button
                 onClick={() => setView && setView("info")}
@@ -85,7 +85,7 @@ const Banner: React.FC<BannerProps> = ({
                 <Translator text="Hotels" targetLang={language} />
               </button>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </div>

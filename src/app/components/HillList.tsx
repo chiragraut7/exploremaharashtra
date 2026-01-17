@@ -145,7 +145,7 @@ const HillList: React.FC = () => {
         .hill-magazine-section {
           background-color: rgb(246, 255, 237);
           overflow: hidden;
-          padding-bottom: 100px;
+          padding-bottom: 1rem;
         }
 
         .text-secondary-brand { color: var(--secondary-color); }
@@ -163,6 +163,7 @@ const HillList: React.FC = () => {
           line-height: 1.1;
           color: #1a1a1a;
           letter-spacing: -1.5px;
+        text-align: left;
         }
 
         /* Image Stack Styling */

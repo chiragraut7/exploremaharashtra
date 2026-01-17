@@ -170,6 +170,7 @@ const ReligiousList: React.FC = () => {
           line-height: 1.1;
           color: #1a1a1a;
           letter-spacing: -1.5px;
+            text-align: left;
         }
 
         /* Image Stack Styling */

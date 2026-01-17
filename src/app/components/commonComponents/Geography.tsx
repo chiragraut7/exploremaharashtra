@@ -179,7 +179,7 @@ const Geography: React.FC<GeographyProps> = ({
         <div className={hasCoordinates ? "col-lg-7" : "col-12"}>
           <div className="p-4 p-md-5">
             <div className="mini-pill mb-3" style={{ color: color, backgroundColor: `${color}15` }}>
-              <i className="fas fa-mountain me-2"></i>
+              <i className="fas fa-mountain-sun me-2"></i>
               <Translator text="Regional Characteristics" targetLang={language} />
             </div>
 

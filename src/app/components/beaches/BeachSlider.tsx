@@ -22,11 +22,11 @@ interface BeachSliderProps {
 
 const categoryMeta: Record<string, { color: string; icon: string; label: string }> = {
   beaches: { color: '#0077be', icon: 'fa-umbrella-beach', label: 'Discover Shore' },
-  hills: { color: '#2d5a27', icon: 'fa-cloud-sun-rain', label: 'Explore Peaks' },
-  forts: { color: '#7b5a3e', icon: 'fa-chess-rook', label: 'Visit Fortress' },
-  nature: { color: '#1b4332', icon: 'fa-paw', label: 'Into the Wild' },
-  religious: { color: '#f29100', icon: 'fa-om', label: 'Seek Blessings' },
-  cultural: { color: '#6a0dad', icon: 'fa-masks-theater', label: 'Experience Art' },
+  hills: { color: '#2d5a27', icon: 'fa-mountain-sun', label: 'Explore Peaks' },
+  forts: { color: '#e2b23c', icon: 'fa-chess-rook', label: 'Visit Fortress' },
+  nature: { color: '#86a373', icon: 'fa-leaf', label: 'Into the Wild' },
+  religious: { color: '#f25135', icon: 'fa-om', label: 'Seek Blessings' },
+  culture: { color: '#d10068', icon: 'fa-masks-theater', label: 'Experience Art' },
 }
 
 const BeachSlider: React.FC<BeachSliderProps> = ({ beaches, category, generateSlug }) => {

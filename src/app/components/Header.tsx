@@ -54,12 +54,12 @@ export default function Header() {
     <>
       <header className={`header-main ${isScrolled || isMenuOpen ? 'scrolled' : ''}`}>
         <nav className="navbar container-fluid px-lg-5 px-4 py-3">
-          <Link href="/" className="navbar-brand">
+          <Link href="/" className="navbar-brand bg-white p-2 rounded-lg">
             <Image
               src="/assets/images/logo.png"
               alt="Logo"
-              height={40}
-              width={160}
+              height={50}
+              width={200}
               // This filter turns a black logo orange when the background is white
               className={`logo-img ${isScrolled || isMenuOpen ? 'logo-orange' : ''}`}
               priority

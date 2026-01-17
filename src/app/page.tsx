@@ -109,7 +109,7 @@ export default function Home() {
       </header>
 
       {/* 🧩 BENTO CATEGORY GRID */}
-      <section className="container py-5">
+      <section className="container py-5"  id="overview">
         <div className="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-4">
           {sections.map((section, idx) => (
             <div key={section.id} data-aos="fade-up" data-aos-delay={idx * 100}>

@@ -31,9 +31,9 @@ const Overview: React.FC<OverviewProps> = ({ content, color = "#00aaff" }) => {
   const title = !Array.isArray(content) ? content.title || "Overview" : "Overview";
 
   return (
-    <section id="overview" className="my-4">
+    <section id="overview">
       <h2
-        className="section-title mb-2"
+        className="section-title mb-4"
         style={{
           borderColor: color,
           color,

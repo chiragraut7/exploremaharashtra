@@ -151,7 +151,7 @@ const CulturalList: React.FC = () => {
         .cultural-magazine-section {
           background-color: rgb(252, 255, 230);
           overflow: hidden;
-          padding-bottom: 2rem;
+          padding-bottom: 1rem;
         }
 
         .text-royal { color: #6a0dad; } /* Royal Purple */
@@ -170,6 +170,7 @@ const CulturalList: React.FC = () => {
           line-height: 1.1;
           color: #1a1a1a;
           letter-spacing: -1.5px;
+            text-align: left;
         }
 
         /* Image Stack Styling */

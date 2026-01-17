@@ -151,7 +151,7 @@ const FortList: React.FC = () => {
         .fort-magazine-section {
           background-color: rgb(255, 247, 230);
           overflow: hidden;
-          padding-bottom: 100px;
+          padding-bottom: 1rem;
         }
 
         .text-rustic { color: #7b5a3e; } /* Earthy Fort Brown */
@@ -170,6 +170,7 @@ const FortList: React.FC = () => {
           line-height: 1.1;
           color: #1a1a1a;
           letter-spacing: -1.5px;
+            text-align: left;
         }
 
         /* Image Stack Styling */

@@ -248,7 +248,7 @@ export default function ItemPage() {
       </div>
 
       <style jsx global>{`
-        .section-card { background: #fff; padding: 2.5rem; border-radius: 1.5rem; margin-bottom: 3.5rem; border: 1px solid #eee; }
+        .section-card { background: #fff; padding: 2rem; border-radius: 1.5rem; margin-bottom: 3.5rem; border: 1px solid #eee; }
         .nav-link-item { display: flex; align-items: center; padding: 12px 15px; border-radius: 8px; text-decoration: none; transition: 0.3s ease; }
         .nav-link-item:hover { background: #f8f9fa; }
         div[id] { scroll-margin-top: 120px; }

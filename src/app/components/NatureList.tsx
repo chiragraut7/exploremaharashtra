@@ -151,7 +151,7 @@ const NatureList: React.FC = () => {
         .nature-magazine-section {
           background-color: rgb(249, 240, 255);
           overflow: hidden;
-          padding-bottom: 100px;
+          padding-bottom: 1rem;
         }
 
         .text-wild { color: #2f5130; } /* Deep Forest Green */
@@ -170,6 +170,7 @@ const NatureList: React.FC = () => {
           line-height: 1.1;
           color: #1a1a1a;
           letter-spacing: -1.5px;
+            text-align: left;
         }
 
         /* Image Stack Styling */

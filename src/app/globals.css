@@ -793,6 +793,10 @@ footer {
     padding-left: 15px;
     font-size: 1.25rem;
     text-transform: uppercase;
+    margin-top: 0;
+}
+#overview :last-child{
+  margin-bottom: 0;
 }
 
 .attractions-container {
@@ -2398,3 +2402,51 @@ html {
           text-decoration: none !important;
           font-weight: bold;
         }
+
+        .cta-wrapper a {
+          display: inline-flex;
+          align-items: center;
+          color: #fff;
+          padding: 1rem 2.5rem;
+          text-decoration: none;
+          font-weight: 700;
+          border-radius: 5px;
+          transition: 0.3s ease;
+        background:rgb(0, 119, 190); /* Deep Green for Beach Badge Contrast */
+            border-radius: 12px;
+        }
+
+         .cta-wrapper a:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 15px 30px rgba(47, 81, 48, 0.2);
+        }
+
+        .beach-magazine-section .cta-wrapper a {
+        background:rgb(0, 119, 190); /* Deep Green for Beach Badge Contrast */
+        }   
+        .hill-magazine-section .cta-wrapper a {
+        background:rgb(45, 90, 39) /* Deep Green for Beach Badge Contrast */
+        }
+        .fort-magazine-section .cta-wrapper a {
+        background:rgb(226, 178, 60) /* Deep Green for Beach Badge Contrast */
+        }
+        .nature-magazine-section .cta-wrapper a {
+        background:#86a373/* Deep Green for Beach Badge Contrast */
+        }
+        .spiritual-magazine-section .cta-wrapper a {
+        background:var(--primary-color)/* Deep Green for Beach Badge Contrast */
+        }
+        .cultural-magazine-section .cta-wrapper a {
+        background:#d10068/* Deep Green for Beach Badge Contrast */
+        }
+
+#overview,
+#highlights
+{
+  margin-bottom: 1.5rem !important;
+}
+
+#highlights #highlights{
+  margin-bottom: 0rem !important;
+  padding-bottom: 0 !important;
+}

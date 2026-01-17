@@ -18,13 +18,13 @@ interface BeachCardProps {
 
 const categoryIcons: Record<string, string> = {
   beaches: "fa-umbrella-beach",
-  hillstations: "fa-mountain",
-  hills: "fa-mountain",
+  hillstations: "fa-mountain-sun",
+  hills: "fa-mountain-sun",
   forts: "fa-chess-rook",
   wildlife: "fa-paw",
   nature: "fa-leaf",
   religious: "fa-om",
-  cultural: "fa-masks-theater",
+  culture: "fa-masks-theater",
 }
 
 const DEFAULT_FALLBACK = '/assets/images/maharashtra-state-of-india.svg'

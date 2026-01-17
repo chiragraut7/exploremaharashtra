@@ -162,6 +162,7 @@ const BeachList: React.FC = () => {
           line-height: 1.1;
           color: #1a1a1a;
           letter-spacing: -1.5px;
+        text-align: left;
         }
 
         /* Image Stack Styling */
@@ -186,7 +187,7 @@ const BeachList: React.FC = () => {
           left: -30px;
           width: 60px;
           height: 60px;
-          background: var(--secondary-color); /* Deep Green for Beach Badge Contrast */
+          background:rgb(0, 119, 190); /* Deep Green for Beach Badge Contrast */
           color: #fff;
           display: flex;
           align-items: center;
@@ -212,13 +213,14 @@ const BeachList: React.FC = () => {
         .beach-magazine-btn {
           display: inline-flex;
           align-items: center;
-          background: var(--primary-color);
           color: #fff;
           padding: 1rem 2.5rem;
           text-decoration: none;
           font-weight: 700;
           border-radius: 5px;
           transition: 0.3s ease;
+        background:rgb(0, 119, 190); /* Deep Green for Beach Badge Contrast */
+            border-radius: 12px;
         }
 
         .beach-magazine-btn:hover {
