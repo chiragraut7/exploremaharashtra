@@ -23,7 +23,7 @@ interface HowToReachProps {
 const HowToReach: React.FC<HowToReachProps> = ({ 
   transport = [], 
   color = "#00aaff",
-  mainImage = "/assets/images/map-placeholder.jpg" 
+  mainImage = "/assets/images/map-placeholder.png" 
 }) => {
   const { language } = useLanguage();
 

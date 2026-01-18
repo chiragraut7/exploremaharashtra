@@ -24,13 +24,31 @@ interface Activity {
 interface ActivitiesProps {
   activities?: Activity[];
   color?: string;
+  category?: string; // Added category prop
 }
 
+// -------------------- Image Mapping --------------------
+// Define your common images for each category here
+const CATEGORY_THINGS_TO_DO_IMAGES: Record<string, string> = {
+  beaches: "/assets/images/things-to-do-beach.png",
+  forts: "/assets/images/things-to-do-fort.png",
+  hills: "/assets/images/things-to-do-hill.png",
+  nature: "/assets/images/things-to-do-wildlife.png",
+  religious: "/assets/images/things-to-do-religious.png",
+  culture: "/assets/images/things-to-do-cultural.png",
+};
+
 // -------------------- Component --------------------
-const Activities: React.FC<ActivitiesProps> = ({ activities = [], color = "#00aaff" }) => {
+const Activities: React.FC<ActivitiesProps> = ({ activities = [], color = "#00aaff", category = "" }) => {
   const { language } = useLanguage();
 
   if (!activities.length) return null;
+
+  // Logic: Use mapped category image -> fall back to first activity image -> fall back to placeholder
+  const displayImage = 
+    CATEGORY_THINGS_TO_DO_IMAGES[category.toLowerCase()] || 
+    activities[0]?.image || 
+    "/assets/images/activity-placeholder.jpg";
 
   return (
     <section id="activities" className="mb-4">
@@ -42,7 +60,7 @@ const Activities: React.FC<ActivitiesProps> = ({ activities = [], color = "#00aa
         <div className="col-lg-4 p-0 bg-dark">
           <div className="sticky-media-wrapper">
             <Image
-              src={activities[0]?.image || "/assets/images/activity-placeholder.jpg"} 
+              src={displayImage} // Using the dynamic image here
               alt="Activities"
               fill
               className="object-cover opacity-90"

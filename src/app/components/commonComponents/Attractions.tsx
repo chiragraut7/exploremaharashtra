@@ -19,13 +19,35 @@ interface Attraction {
 interface AttractionsProps {
   items?: Attraction[];
   color?: string;
+  category?: string; // Added category prop
 }
 
+// -------------------- Image Mapping --------------------
+// Define your common attraction feature images here
+const CATEGORY_ATTRACTION_IMAGES: Record<string, string> = {
+  // Ensure these files exist in public/assets/images/
+  beaches: "/assets/images/attractions.png",
+  forts: "/assets/images/attractions.png",
+  
+  // Note the extension .png based on your previous preference
+  hills: "/assets/images/attractions.png", 
+  
+  nature: "/assets/images/attractions.png",
+  religious: "/assets/images/attractions.png",
+  culture: "/assets/images/attractions.png",
+};
+
 // -------------------- Component --------------------
-const Attractions: React.FC<AttractionsProps> = ({ items = [], color = "#00aaff" }) => {
+const Attractions: React.FC<AttractionsProps> = ({ items = [], color = "#00aaff", category = "" }) => {
   const { language } = useLanguage();
 
   if (!items.length) return null;
+
+  // Logic: Use mapped category image -> fall back to first item image -> fall back to placeholder
+  const displayImage = 
+    CATEGORY_ATTRACTION_IMAGES[category.toLowerCase()] || 
+    items[0]?.image || 
+    "/assets/images/attraction-placeholder.jpg";
 
   return (
     <section id="attractions" className="mb-5">
@@ -33,12 +55,12 @@ const Attractions: React.FC<AttractionsProps> = ({ items = [], color = "#00aaff"
 
       <div className="row g-0 rounded-4 overflow-hidden shadow-sm bg-white border content-box-compact">
         
-        {/* 📸 LEFT: STICKY FEATURE IMAGE */}
+        {/* 📸 LEFT: STICKY FEATURE IMAGE (Now Dynamic) */}
         <div className="col-lg-4 p-0 bg-light">
           <div className="sticky-media-compact">
             <Image
-              src={items[0]?.image || "/assets/images/attraction-placeholder.jpg"}
-              alt="Main Attraction"
+              src={displayImage} // Using dynamic image source
+              alt={`${category} Attractions`}
               fill
               className="object-cover"
               sizes="(max-width: 991px) 100vw, 33vw"

@@ -10,7 +10,7 @@ import { motion, AnimatePresence, useScroll, useSpring } from 'framer-motion'
 import Banner from '../../components/commonComponents/Banner'
 import Overview from '../../components/commonComponents/Overview'
 import Highlights from '../../components/commonComponents/Highlights'
-import Activities from '../../components/commonComponents/Activities'
+import Activities from '../../components/commonComponents/Activities' // Ensure this is imported
 import Attractions from '../../components/commonComponents/Attractions'
 import MarineLife from '../../components/commonComponents/UniversalContent'
 import HowToReach from '../../components/commonComponents/HowToReach'
@@ -145,7 +145,7 @@ export default function ItemPage() {
         setView={setView}
       />
 
-      {/* ✅ MOBILE FLOATING ACTION BUTTON (Restored) */}
+      {/* ✅ MOBILE FLOATING ACTION BUTTON */}
       {view === 'info' && (
         <div className="d-lg-none fixed-bottom p-3 d-flex justify-content-end" style={{ zIndex: 9999 }}>
           <button 
@@ -223,11 +223,22 @@ export default function ItemPage() {
                   <div id="geography">
                     <Geography content={data.geography} coordinates={data.coordinates} color={data.color} />
                   </div>
+                  
+                  {/* ✅ UPDATED ACTIVITIES COMPONENT */}
                   <div id="activities" className="mb-5">
-                    <Activities activities={data.activities} color={data.color} />
+                    <Activities 
+                      activities={data.activities} 
+                      color={data.color}
+                      category={category} // Pass category for dynamic image
+                    />
                   </div>
+
                   <div id="attractions" className="mb-5">
-                    <Attractions items={data.attractions} color={data.color} />
+                    <Attractions 
+                      items={data.attractions} 
+                      color={data.color} 
+                      category={category} // <--- ADD THIS LINE
+                    />
                     {data.marineLife && <MarineLife content={data.marineLife} color={data.color} />}
                   </div>
                   <div id="gallery" className="mb-5">
