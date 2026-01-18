@@ -4,7 +4,7 @@ import path from 'path'
 
 export async function GET() {
   try {
-    const dirPath = path.join(process.cwd(), 'public/data/cultural')
+    const dirPath = path.join(process.cwd(), 'public/data/culture')
     const files = fs.readdirSync(dirPath)
 
     const jsonFiles = files.filter((file) => file.endsWith('.json'))

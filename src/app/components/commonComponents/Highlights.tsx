@@ -106,10 +106,10 @@ const Highlights: React.FC<HighlightsProps> = ({
                 </div>
 
                 {/* Subtle Accent Bar */}
-                <div 
+                {/*<div 
                   className="position-absolute bottom-0 start-0 rounded-bottom" 
                   style={{ height: '3px', width: '30%', backgroundColor: color }} 
-                />
+                />*/}
               </motion.div>
             </SwiperSlide>
           ))}

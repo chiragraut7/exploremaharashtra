@@ -177,7 +177,7 @@ const Geography: React.FC<GeographyProps> = ({
 
         {/* 📄 CONTENT COLUMN */}
         <div className={hasCoordinates ? "col-lg-7" : "col-12"}>
-          <div className="p-4 p-md-5">
+          <div className="p-4 p-md-4">
             <div className="mini-pill mb-3" style={{ color: color, backgroundColor: `${color}15` }}>
               <i className="fas fa-mountain-sun me-2"></i>
               <Translator text="Regional Characteristics" targetLang={language} />
@@ -247,10 +247,10 @@ const Geography: React.FC<GeographyProps> = ({
 
         .stats-grid-compact {
           display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+          grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
           gap: 12px;
         }
-        .stat-card-mini { display: flex; align-items: center; padding: 12px 15px; background: #fff; border-radius: 12px; transition: transform 0.2s; }
+        .stat-card-mini { display: flex; align-items: center; padding: 8px 10px; background: #fff; border-radius: 12px; transition: transform 0.2s; }
         .stat-card-mini:hover { transform: translateY(-2px); }
         .stat-icon-mini { font-size: 1.1rem; margin-right: 12px; opacity: 0.9; }
         .stat-text-mini small { font-size: 0.6rem; display: block; letter-spacing: 0.5px; margin-bottom: 2px; }

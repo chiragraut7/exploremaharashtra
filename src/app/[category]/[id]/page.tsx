@@ -137,13 +137,20 @@ export default function ItemPage() {
       />
 
       <Banner
-        title={data.title}
-        subtitle={data.subtitle}
-        image={data.insideBannerImage ?? data.bannerImage}
-        color={data.color}
-        view={view}
-        setView={setView}
-      />
+  title={data.title}
+  subtitle={data.subtitle}
+  
+  // ✅ Pass the category here so the Banner knows which common image to load
+  category={category as string} 
+
+  // You can keep this image prop as a fallback, 
+  // but the Banner will prioritize the 'category' image first.
+  image={data.insideBannerImage ?? data.bannerImage}
+  
+  color={data.color}
+  view={view}
+  setView={setView}
+/>
 
       {/* ✅ MOBILE FLOATING ACTION BUTTON */}
       {view === 'info' && (

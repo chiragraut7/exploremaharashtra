@@ -28,7 +28,7 @@ export async function POST(req: Request) {
   const baseDir = path.join(process.cwd(), "public", "data");
   const categories = [
     "beaches",
-    "cultural",
+    "culture",
     "forts",
     "hills",
     "nature",

@@ -147,7 +147,7 @@ export default function CategoryPage() {
             )}
         </div>
 
-        <motion.div style={{ y: bannerY }} className="hero-image-wrapper">
+        <motion.div className="hero-image-wrapper">
           <Image src={getBannerImage(category)} alt={category} fill priority className="object-fit-cover" />
           <div className="hero-overlay-dark" />
         </motion.div>
@@ -264,37 +264,6 @@ export default function CategoryPage() {
         </div>
       </section>
 
-      {/* --- NEW COMMON "THINGS TO DO" SECTION --- */}
-      <section className="container pb-5 position-relative z-10 mt-5">
-           <div className="row justify-content-center" data-aos="fade-up">
-              <div className="col-lg-10">
-                 <div className="things-to-do-card position-relative rounded-5 overflow-hidden shadow-lg" style={{height: '400px'}}>
-                    <Image
-                       src={commonThingsToDoImage} // Uses the common image defined at the top
-                       alt="Things to Do"
-                       fill
-                       className="object-fit-cover"
-                    />
-                    <div className="hero-overlay-dark" style={{background: 'linear-gradient(to top, rgba(0,0,0,0.8), transparent)'}} />
-                    
-                    <div className="position-absolute bottom-0 start-0 p-5 text-white z-20">
-                       <h2 className="display-6 fw-bold mb-3">
-                          <Translator text="Things to Do" targetLang={language} />
-                       </h2>
-                       <p className="lead mb-4 opacity-75" style={{maxWidth: '600px'}}>
-                          <Translator text={`Discover exciting activities, hidden gems, and must-do experiences in ${category}.`} targetLang={language} />
-                       </p>
-                       <div>
-                          <button className="premium-btn border-0">
-                             <span className="btn-content"><Translator text="View Activities" targetLang={language} /></span>
-                             <div className="btn-shine"></div>
-                          </button>
-                       </div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-      </section>
 
       <style jsx global>{`
         .bg-dot-pattern { background-color: #fcfaf8; background-image: radial-gradient(#d5d5d5 0.7px, transparent 0.7px); background-size: 20px 20px; }

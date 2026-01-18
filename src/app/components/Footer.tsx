@@ -6,12 +6,12 @@ import Link from "next/link";
 
 const Footer = ({ color = "#E57717" }) => {
   const navigationLinks = [
-    { label: "Historical Forts", href: "/forts" },
-    { label: "Konkan Beaches", href: "/beaches" },
-    { label: "Sahyadri Treks", href: "/adventure" },
-    { label: "Spiritual Sites", href: "/spiritual" },
-    { label: "Local Cuisine", href: "/food" },
-    { label: "Hidden Gems", href: "/hidden-gems" },
+    { label: "Forts", href: "/forts" },
+    { label: "Beaches", href: "/beaches" },
+    { label: "Hill Stations", href: "/hills" },
+    { label: "Wildlife", href: "/nature" },
+    { label: "Religious", href: "/religious" },
+    { label: "Culture", href: "/culture" },
   ];
 
   const socialLinks = [
@@ -22,7 +22,7 @@ const Footer = ({ color = "#E57717" }) => {
   ];
 
   return (
-    <footer className="footer-root mt-0">
+    <footer className="footer-root mt-0 p-0">
       {/* --- CALL TO ACTION STRIP --- */}
       <div className="container py-5">
         <div className="row align-items-center g-4">
@@ -144,11 +144,11 @@ const Footer = ({ color = "#E57717" }) => {
           <hr className="my-5 border-secondary opacity-10" />
 
           {/* CREDITS */}
-          <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3 pb-3">
+          <div className="d-flex flex-column flex-md-row justify-content-center align-items-center gap-3 pb-3">
             <p className="mb-0 small text-secondary opacity-50">
               © {new Date().getFullYear()} **Explore Maharashtra**. All rights reserved.
             </p>
-            <div className="d-flex align-items-center gap-2">
+            {/*<div className="d-flex align-items-center gap-2">
               <span className="small text-secondary opacity-50">Proudly Made in India</span>
               <div
                 className="px-3 py-1 rounded-pill bg-white bg-opacity-5 border border-white border-opacity-10 small fw-bold"
@@ -157,7 +157,7 @@ const Footer = ({ color = "#E57717" }) => {
                 Maharashtra Tourism Partner 🚩
               </div>
             </div>
-          </div>
+*/}          </div>
         </div>
       </div>
 

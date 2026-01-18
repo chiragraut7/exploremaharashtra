@@ -90,13 +90,13 @@ const Attractions: React.FC<AttractionsProps> = ({ items = [], color = "#00aaff"
               >
                 <div className="d-flex align-items-center">
                   {/* Circle Thumbnail */}
-                  {item.image && (
+                 {/* {item.image && (
                     <div className="flex-shrink-0 me-3 d-none d-sm-block">
                       <div className="position-relative rounded-circle overflow-hidden border border-2" style={{ width: '50px', height: '50px', borderColor: `${color}20` }}>
                         <Image src={item.image} alt={item.title || ""} fill className="object-cover" />
                       </div>
                     </div>
-                  )}
+                  )}*/}
 
                   <div className="flex-grow-1">
                     <div className="d-flex justify-content-between align-items-center">
