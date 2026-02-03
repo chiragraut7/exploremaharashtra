@@ -1,0 +1,200 @@
+{
+  "id": "05",
+  "title": "Matheran Hill Station",
+  "subtitle": "The Eco-Friendly Gem of the Western Ghats",
+  "bannerImage": "/assets/images/hills/05.jpg",
+  "insideBannerImage": "/assets/images/hills/05/bannerimg.jpg",
+  "color": "#2d8659",
+  "coordinates": {"lat": 18.9850, "lng": 73.2678},
+  "overview": [
+    "Matheran, located in the Raigad district of Maharashtra, is India’s smallest and most eco-friendly hill station. Situated at an altitude of 800 meters, this charming destination is famous for its red-soil pathways, colonial architecture, toy train, and breathtaking viewpoints.",
+    "What makes Matheran truly unique is that it is a vehicle-free hill station — the only one in Asia. Visitors explore on foot, horseback, or by hand-pulled rickshaw, allowing them to soak in its serene and pollution-free environment.",
+    "With more than 35 scenic viewpoints, dense forest trails, and misty hills, Matheran offers a peaceful escape from the chaos of city life."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "Matheran Toy Train",
+      "description": "The iconic narrow-gauge toy train, operating since 1907, winds through lush forests and steep cliffs."
+    },
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Eco-Friendly Haven",
+      "description": "No vehicles are allowed inside Matheran — preserving its natural charm and clean air."
+    },
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Panoramic Viewpoints",
+      "description": "From Louisa Point to Panorama Point, every viewpoint offers stunning valley vistas."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/05/info2.jpg",
+    "intro": "Nestled in the Western Ghats, Matheran lies about 90 km from Mumbai and 120 km from Pune. The hill station sits at 800 meters above sea level, surrounded by dense forests and cliffs overlooking the Sahyadris.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Raigad District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Altitude", "value": "800 meters" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Western Ghats" },
+      { "icon": "fa-solid fa-temperature-low", "label": "Average Temperature", "value": "16°C - 32°C" },
+      { "icon": "fa-solid fa-cloud-rain", "label": "Annual Rainfall", "value": "5240 mm (approx.)" }
+    ],
+    "climate": {
+      "description": "Matheran enjoys a mild tropical climate, with heavy rains during monsoon and cool winters.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): The best time for lush greenery and waterfalls."
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter (November–February): Pleasant weather for sightseeing and trekking."
+        }
+      ]
+    },
+    "conclusion": "Matheran’s unique geography and vehicle-free environment make it one of India’s most charming and sustainable tourist destinations."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking & Nature Trails",
+      "description": "Walk along red-soil forest trails connecting different viewpoints around the plateau.",
+      "info": [
+        "No vehicles allowed, ideal for walking enthusiasts",
+        "Carry water and wear comfortable shoes"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-horse",
+      "title": "Horse Riding",
+      "description": "Ride through scenic pathways on horseback — a popular way to explore Matheran.",
+      "info": [
+        "Locals offer guided horse rides",
+        "Available at main entry points and viewpoints"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "Toy Train Ride",
+      "description": "Enjoy a nostalgic ride from Neral to Matheran on the historic mountain railway.",
+      "info": [
+        "Takes around 2 hours covering 21 km",
+        "UNESCO heritage status recommended"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/05/img1.jpg",
+      "title": "Panorama Point",
+      "description": "Offers a 360-degree view of the surrounding valleys — ideal for sunrise lovers.",
+      "distance": "3 km from Matheran Market",
+      "icon": "fa-solid fa-sun",
+      "value": "Scenic viewpoint"
+    },
+    {
+      "image": "/assets/images/hills/05/img2.jpg",
+      "title": "Louisa Point",
+      "description": "Known for stunning sunset views and panoramic sight of the Prabal Fort.",
+      "distance": "2 km from main market",
+      "icon": "fa-solid fa-binoculars",
+      "value": "Popular viewpoint"
+    },
+    {
+      "image": "/assets/images/hills/05/img3.jpg",
+      "title": "Charlotte Lake",
+      "description": "A tranquil lake surrounded by forest — the main water source for Matheran.",
+      "distance": "1 km from market",
+      "icon": "fa-solid fa-water",
+      "value": "Nature attraction"
+    },
+    {
+      "image": "/assets/images/hills/05/img4.jpg",
+      "title": "Echo Point",
+      "description": "A famous spot where your voice echoes through the valley — fun for families and kids.",
+      "distance": "2.5 km from town center",
+      "icon": "fa-solid fa-volume-high",
+      "value": "Fun viewpoint"
+    }
+  ],
+  "marineLife": {
+    "intro": "Matheran, being an inland forested plateau, does not have marine life but supports rich biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Covered with dense evergreen and semi-evergreen forests filled with medicinal plants and wildflowers."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Home to monkeys, civets, wild boars, and over 150 species of birds."
+      }
+    ],
+    "conclusion": [
+      "Matheran’s forests are part of the Western Ghats ecosystem, rich in biodiversity.",
+      "It’s a must-visit for nature enthusiasts and eco-tourists."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Neral (21 km from Matheran).",
+        "Take the famous toy train or local taxis up to Dasturi Point."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Accessible via Mumbai–Pune Highway (NH 48) to Neral, then a short drive to Dasturi Point.",
+        "Vehicles are not allowed beyond Dasturi — visitors walk or take a horse/rickshaw."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Chhatrapati Shivaji International Airport, Mumbai (90 km).",
+        "Cabs available from airport to Neral."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/05/img1.jpg",
+      "thumb": "/assets/images/hills/05/img1.jpg",
+      "alt": "Matheran Toy Train through forest"
+    },
+    {
+      "src": "/assets/images/hills/05/img2.jpg",
+      "thumb": "/assets/images/hills/05/img2.jpg",
+      "alt": "Panorama Point View"
+    },
+    {
+      "src": "/assets/images/hills/05/img3.jpg",
+      "thumb": "/assets/images/hills/05/img3.jpg",
+      "alt": "Charlotte Lake in Matheran"
+    },
+    {
+      "src": "/assets/images/hills/05/img4.jpg",
+      "thumb": "/assets/images/hills/05/img4.jpg",
+      "alt": "Charlotte Lake in Matheran"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Best time to visit: October to May for pleasant weather and clear views."
+    },
+    {
+      "icon": "fa-solid fa-walking",
+      "description": "Carry light luggage — you’ll be walking or riding horses as vehicles are prohibited."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Bring a camera or phone with good storage — every turn offers a photo opportunity."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "betel-leaf-resort",
+  "name": "Betel Leaf Resort",
+  "beach": "kelwa",
+  "overview": "Betel Leaf Resort is tucked amidst coconut, banana and betel plantations, about 5 minutes’ drive from Kelva Beach. Offers tranquil stay with swimming pool, outdoor dining, and home‑cooked veg & non‑veg meals.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "5 min drive",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "AC/Non‑AC Deluxe Rooms",
+      "rate_for_two": "₹999 per person (one‑day package)",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Buffet lunch & dinner (veg & non‑veg)",
+      "Swimming pool, garden & play area"
+    ],
+    "extended": [
+      "Lunch, dinner & extended meals on request"
+    ]
+  },
+  "facilities": [
+    "Swimming pool (35 ft x 25 ft)",
+    "Kids play area",
+    "Garden surrounded by plantation",
+    "Outdoor dining",
+    "Free parking"
+  ],
+  "policies": {
+    "allowed": ["Families & married couples only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 per room",
+      "Music after 10 PM",
+      "Smoking inside rooms"
+    ],
+    "booking": [
+      "Advance payment non‑refundable",
+      "Valid ID proof required"
+    ],
+    "liability": [
+      "Guests responsible for damages",
+      "Resort not liable for loss of belongings"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": [
+    "Beware of scammers; verify identity before online payment."
+  ],
+  "contact": {
+    "host": "Betel Leaf Resort Management",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/betel-leaf-resort-kelva-beach.php"
+  }
+}

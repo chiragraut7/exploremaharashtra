@@ -1,0 +1,67 @@
+{
+  "id": "the-for-rest-resort",
+  "name": "The For‑Rest Resort",
+  "beach": "kelwa",
+  "overview": "Forest‑backed resort at Bhavangad Fort base, offers calm ambiance, large pool, lush greenery, home‑style veg & non‑veg food.",
+  "location": {
+    "address": "Near Bhavangad Fort, Kelva Beach, Maharashtra, India",
+    "distance_from_beach": "10‑15 min by car",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "AC & Non AC Room",
+      "rate_for_two": "Call for pricing",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": ["Breakfast, lunch, pool access, free Wi‑Fi"],
+    "extended": ["Includes dinner and tea, plus pool access"]
+  },
+  "facilities": [
+    "Large infinity swimming pool",
+    "Garden and walking trails",
+    "Outdoor dining",
+    "Home‑style veg & non‑veg meals",
+    "Open play/family area"
+  ],
+  "policies": {
+    "allowed": ["Families & married couples only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "Music after 10 PM",
+      "Smoking in rooms"
+    ],
+    "booking": [
+      "100% advance payment non‑refundable",
+      "Valid ID proof mandatory"
+    ],
+    "liability": [
+      "Guests responsible for damages/losses",
+      "Management not liable"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Bhavangad Fort"
+  ],
+  "notice": ["Clarify rate and availability over phone before booking."],
+  "contact": {
+    "host": "The For‑Rest Resort Management",
+    "phone": "8208193797",
+    "email": null,
+    "website": "https://www.kelvabeach.in/the-for-rest-resort-kelva-beach.php"
+  }
+}

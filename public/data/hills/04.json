@@ -1,0 +1,138 @@
+{
+  "id": "04",
+  "title": "Khandala",
+  "subtitle": "The Scenic Gateway to the Western Ghats",
+  "bannerImage": "/assets/images/hills/04.jpg",
+  "insideBannerImage": "/assets/images/hills/04/bannerimg.jpg",
+  "color": "#4b6a87",
+  "coordinates": {"lat": 18.7500, "lng": 73.3500},
+  "overview": [
+    "Khandala, a charming hill station nestled in the Sahyadri ranges of Maharashtra, is a twin hill town to Lonavala, offering breathtaking natural beauty and misty valleys.",
+    "Located on the Mumbai-Pune highway, it serves as a popular weekend getaway and a vital stop for travelers between the two bustling cities.",
+    "Known for its lush greenery, waterfalls, trekking trails, and viewpoints, Khandala combines relaxation with adventure amidst nature’s serenity."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-waterfall",
+      "title": "Mesmerizing Waterfalls",
+      "description": "During monsoons, waterfalls like Kune and Bhushi overflow with beauty, offering scenic views and refreshing experiences."
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "Iconic Railway Views",
+      "description": "Famous for its winding rail tracks and tunnels carved through the hills, offering breathtaking vistas for train travelers."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/04/info2.jpg",
+    "intro": "Khandala lies at the top of the Bhor Ghat, connecting the Deccan Plateau with the Konkan plains. Its strategic location makes it a natural hill pass surrounded by forested slopes and valleys.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Pune District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Elevation", "value": "625 meters above sea level" },
+      { "icon": "fa-solid fa-map", "label": "Coordinates", "value": "18.77°N, 73.38°E" },
+      { "icon": "fa-solid fa-road", "label": "Connectivity", "value": "Mumbai–Pune Expressway and Railway Line" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Sahyadri (Western Ghats)" }
+    ],
+    "climate": {
+      "description": "Khandala enjoys a cool, tropical climate with misty monsoons and pleasant winters, making it a year-round destination.",
+      "seasons": [
+        { "icon": "fa-solid fa-cloud-rain", "text": "Monsoon (June–September): Waterfalls and lush green hills at their peak." },
+        { "icon": "fa-solid fa-sun", "text": "Winter (November–February): Cool, ideal for sightseeing and trekking." }
+      ]
+    },
+    "conclusion": "Its proximity to Mumbai and Pune, coupled with its scenic valleys and historic forts, makes Khandala a must-visit hill station of Maharashtra."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking Adventures",
+      "description": "Explore scenic trails leading to forts like Duke’s Nose, Rajmachi, and Visapur offering panoramic views.",
+      "info": ["Best time: October to February", "Ideal for beginners and experienced trekkers"]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Visits",
+      "description": "Witness cascading waterfalls like Kune Falls and Bhushi Dam, especially during the monsoon season.",
+      "info": ["Kune Falls height: 200 m", "Best visited between July and September"]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sightseeing",
+      "description": "Capture misty hills, railway curves, and scenic valleys from multiple viewpoints.",
+      "info": ["Sunset Point", "Tiger’s Leap for panoramic views"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/04/img1.jpg",
+      "title": "Duke’s Nose (Nagphani Point)",
+      "description": "A cliff resembling the nose of Duke Wellington, ideal for rock climbing and rappelling.",
+      "distance": "7 km from Khandala Market",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "Adventure Spot"
+    },
+    {
+      "image": "/assets/images/hills/04/img2.jpg",
+      "title": "Kune Falls",
+      "description": "A stunning 3-tier waterfall cascading from a height of 200 meters, surrounded by green valleys.",
+      "distance": "2 km from Khandala Station",
+      "icon": "fa-solid fa-waterfall",
+      "value": "Natural Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill station, Khandala doesn’t feature marine life but is rich in terrestrial flora and fauna typical of the Western Ghats.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Dense forests with teak, banyan, mango trees, and wildflowers flourishing during monsoons."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "Home to exotic birds, monkeys, butterflies, and small mammals."
+      }
+    ],
+    "conclusion": [
+      "Khandala’s biodiversity enriches the natural environment and adds to the serene beauty of the Ghats.",
+      "It’s perfect for eco-tourism and birdwatching enthusiasts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train-subway",
+      "title": "By Train",
+      "details": [
+        "Khandala has its own railway station on the Mumbai–Pune route.",
+        "Local trains and express services frequently stop here from both cities."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located along the Mumbai–Pune Expressway (80 km from Mumbai, 70 km from Pune).",
+        "Easily accessible by private car, taxi, or state transport buses."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/assets/images/hills/04/img1.jpg", "thumb": "/assets/images/hills/04/img1.jpg", "alt": "Khandala Valley View" },
+    { "src": "/assets/images/hills/04/img2.jpg", "thumb": "/assets/images/hills/04/img2.jpg", "alt": "Kune Waterfalls" }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "description": "Monsoon brings the best greenery and waterfalls, but be cautious of slippery paths."
+    },
+    {
+      "icon": "fa-solid fa-calendar-check",
+      "description": "For peaceful travel, visit during weekdays or early winter months (October–December)."
+    },
+    {
+      "icon": "fa-solid fa-hotel",
+      "description": "Book hillside resorts or cottages in advance during long weekends for the best valley views."
+    }
+  ]
+}

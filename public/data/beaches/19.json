@@ -1,0 +1,210 @@
+{
+  "id": "19",
+  "title": "Velneshwar Beach",
+  "subtitle": "A Hidden Gem near Guhagar Known for Serenity and Temples",
+  "bannerImage": "/assets/images/beaches/velneshwar-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/19/bannerImg.jpg",
+  "color": "#00897B",
+  "coordinates": {
+    "lat": 17.3881,
+    "lng": 73.1972
+  },
+  "overview": [
+    "Velneshwar Beach is a serene coastal destination located near Guhagar in Ratnagiri district, Maharashtra. It is known for its peaceful ambiance, clean shoreline, and the ancient Velneshwar Shiva Temple situated right by the sea.",
+    "Unlike commercialized beaches, Velneshwar retains its natural charm with coconut groves, calm waters, and picturesque sunsets. The beach is ideal for swimming, family picnics, and spiritual retreats.",
+    "The area attracts pilgrims, peace-seekers, and nature lovers who wish to unwind away from crowds, surrounded by Konkan’s tranquil coastal beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-temple-hindu",
+      "title": "Ancient Shiva Temple",
+      "description": "The centuries-old Velneshwar Temple dedicated to Lord Shiva stands majestically near the beach, attracting devotees year-round."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Clean and Calm Waters",
+      "description": "The gentle waves and clean sands make Velneshwar Beach perfect for swimming and peaceful walks."
+    },
+    {
+      "icon": "fa-solid fa-tree-palm",
+      "title": "Scenic Coconut Groves",
+      "description": "The coastline is lined with lush coconut trees offering a perfect tropical vibe."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/19/info3.jpg",
+    "intro": "Velneshwar lies about 20 km north of Guhagar in Ratnagiri district, along the scenic Konkan coast of Maharashtra. It is surrounded by lush green hills and coconut plantations.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Near Guhagar, Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fa-solid fa-ruler",
+        "label": "Beach Length",
+        "value": "Approx. 2.5 km"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Landscape",
+        "value": "Flat sandy shore with coconut groves"
+      },
+      {
+        "icon": "fa-solid fa-temperature-half",
+        "label": "Temperature",
+        "value": "20°C – 32°C"
+      }
+    ],
+    "climate": {
+      "description": "Velneshwar experiences a warm and humid coastal climate, pleasant from November to February.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time: October to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Avoid heavy monsoon (June–September)"
+        }
+      ]
+    },
+    "conclusion": "Velneshwar’s consistent tropical climate and scenic charm make it a favorite for quiet retreats and temple visits."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-swimming",
+      "title": "Swimming & Relaxing",
+      "description": "The calm waters make it perfect for swimming and beachside picnics.",
+      "info": [
+        "Safe for families",
+        "Ideal during morning and evening hours"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-temple-hindu",
+      "title": "Temple Visit & Pilgrimage",
+      "description": "Visit the ancient Velneshwar Temple and experience the peaceful coastal spirituality.",
+      "info": [
+        "Temple open year-round",
+        "Major crowd during Maha Shivaratri"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sunset Views",
+      "description": "Capture the scenic sunsets, palm-lined beaches, and local fishing boats.",
+      "info": [
+        "Best during golden hour",
+        "Use wide-angle lens for landscapes"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/19/img1.jpg",
+      "title": "Velneshwar Shiva Temple",
+      "description": "A revered seaside temple dedicated to Lord Shiva, blending spirituality with scenic beauty.",
+      "distance": "0.2 km from beach",
+      "icon": "fa-solid fa-temple-hindu",
+      "value": "Religious Landmark"
+    },
+    {
+      "image": "/assets/images/beaches/19/img2.jpg",
+      "title": "Guhagar Beach",
+      "description": "A long, beautiful beach located 20 km away, known for its bustling market and coconut products.",
+      "distance": "20 km",
+      "icon": "fa-solid fa-water",
+      "value": "Nearby Attraction"
+    },
+    {
+      "image": "/assets/images/beaches/19/img3.jpg",
+      "title": "Hedvi Dashabhuja Ganesh Temple",
+      "description": "Located 7 km away, this temple houses a rare ten-armed idol of Lord Ganesh and the famous Bamnai waterfall.",
+      "distance": "7 km",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Cultural Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Velneshwar Beach supports diverse marine life typical of the Konkan coastline, with local fishermen practicing traditional and eco-friendly methods.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Local Fish Varieties",
+        "description": "Common species include pomfret, surmai, prawns, and mackerel."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Clean Aquatic Environment",
+        "description": "Minimal pollution ensures healthy coral beds and coastal biodiversity."
+      }
+    ],
+    "conclusion": [
+      "Local fishing communities help preserve marine balance through sustainable fishing.",
+      "Visitors are encouraged not to litter or disturb marine habitats."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Velneshwar is 20 km north of Guhagar and 240 km from Pune.",
+        "Easily accessible via Chiplun (60 km) on the Mumbai–Goa highway."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Chiplun (60 km) on the Konkan Railway route.",
+        "Cabs and buses available from Chiplun to Velneshwar."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airports: Ratnagiri (130 km) and Pune (240 km).",
+        "Private taxis and buses connect major towns to Velneshwar."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/19/img1.jpg",
+      "thumb": "/assets/images/beaches/19/img1.jpg",
+      "alt": "Velneshwar Beach coastline"
+    },
+    {
+      "src": "/assets/images/beaches/19/img2.jpg",
+      "thumb": "/assets/images/beaches/19/img2.jpg",
+      "alt": "Velneshwar Temple near the beach"
+    },
+    {
+      "src": "/assets/images/beaches/19/img3.jpg",
+      "thumb": "/assets/images/beaches/19/img3.jpg",
+      "alt": "Sunset view at Velneshwar"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Book homestays or beachside cottages for a cozy stay near the temple."
+    },
+    {
+      "icon": "fa-solid fa-wallet",
+      "description": "Carry some cash; card or UPI facilities may be limited."
+    },
+    {
+      "icon": "fa-solid fa-sun",
+      "description": "Plan an early morning temple visit followed by a swim at sunrise."
+    }
+  ]
+}

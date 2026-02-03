@@ -1,0 +1,154 @@
+{
+  "id": "05",
+  "title": "Nagaon Beach",
+  "subtitle": "A Water Sports Paradise Near Alibaug",
+  "bannerImage": "/assets/images/beaches/nagaon-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/05/bannerImg.jpg",
+  "color": "#00786F",
+  "overview": [
+    "Nagaon Beach, located about 9 km from Alibaug in the Raigad district, is one of the most popular beaches on the Konkan coast. Known for its wide stretch of golden sand and clean waters, Nagaon attracts families, groups, and adventure lovers throughout the year.",
+    "The beach is famous for thrilling water sports such as parasailing, banana rides, jet skiing, and bumper rides. With its proximity to Mumbai and Pune, it serves as a perfect weekend getaway.",
+    "Surrounded by coconut and betel nut trees, the beach also offers charming homestays and seafood eateries that reflect authentic coastal hospitality."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Adventure Water Sports",
+      "description": "From jet skiing to banana rides, Nagaon Beach offers a full range of water adventure activities."
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Clean & Spacious Shoreline",
+      "description": "Golden sand and shallow waters make it ideal for family picnics and long walks."
+    },
+    {
+      "icon": "fa-solid fa-hotel",
+      "title": "Homestay Experience",
+      "description": "Numerous comfortable homestays and resorts located near the beach provide a true Konkan stay experience."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/05/info3.jpg",
+    "intro": "Nagaon Beach lies on the western coast of Maharashtra, just 9 km from Alibaug, surrounded by lush coconut groves and paddy fields.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Raigad District, Maharashtra" },
+      { "icon": "fa-solid fa-water", "label": "Coastline", "value": "Arabian Sea" },
+      { "icon": "fa-solid fa-ruler", "label": "Beach Length", "value": "Around 3 km" },
+      { "icon": "fa-solid fa-mountain-sun", "label": "Landscape", "value": "Flat sandy coast with greenery" },
+      { "icon": "fa-solid fa-temperature-high", "label": "Climate", "value": "Tropical coastal" }
+    ],
+    "climate": {
+      "description": "Nagaon enjoys a humid coastal climate with moderate to warm temperatures all year round.",
+      "seasons": [
+        { "icon": "fa-solid fa-sun", "text": "Best time to visit: October to May" },
+        { "icon": "fa-solid fa-cloud-showers-heavy", "text": "Avoid monsoon (June–September) for beach sports" }
+      ]
+    },
+    "conclusion": "Its pleasant weather and proximity to Mumbai make Nagaon Beach one of the most visited destinations on the Konkan coast."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-swimming",
+      "title": "Water Sports",
+      "description": "Enjoy thrilling activities such as parasailing, jet skiing, banana rides, and bumper rides.",
+      "info": ["Available through local operators on the beach", "Safety gear provided for all participants"]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sunset View",
+      "description": "Capture breathtaking sunsets and scenic views across the vast Arabian Sea horizon.",
+      "info": ["Evening time offers perfect lighting", "Ideal for couples and families"]
+    },
+    {
+      "icon": "fa-solid fa-fish",
+      "title": "Seafood Tasting",
+      "description": "Savor fresh seafood delicacies at beachside shacks and local homestays.",
+      "info": ["Must-try: Fish thali and prawns curry", "Plenty of hygienic eateries near the beach"]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/05/img1.jpg",
+      "title": "Kolaba Fort",
+      "description": "Historic sea fort accessible during low tide from Alibaug Beach, known for Maratha architecture.",
+      "distance": "9 km",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic Fort"
+    },
+    {
+      "image": "/assets/images/beaches/05/img2.jpg",
+      "title": "Kihim Beach",
+      "description": "A scenic and quieter beach located nearby, known for its flora and birdlife.",
+      "distance": "12 km",
+      "icon": "fa-solid fa-umbrella-beach",
+      "value": "Nearby Beach"
+    },
+    {
+      "image": "/assets/images/beaches/05/img3.jpg",
+      "title": "Revdanda Fort",
+      "description": "Ruins of a Portuguese-era fort located right by the sea, offering stunning views.",
+      "distance": "10 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Historic Site"
+    }
+  ],
+  "marineLife": {
+    "intro": "Nagaon’s nearshore marine life is relatively simple, consisting mainly of small fish, crabs, and seashells that thrive in the sandy seabed.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Small Coastal Fish",
+        "description": "Commonly spotted in shallow waters along the beach."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Shells & Starfish",
+        "description": "Visitors often find small shells and starfish along the tide line during low tide."
+      }
+    ],
+    "conclusion": [
+      "Nagaon Beach maintains a clean marine ecosystem thanks to local community efforts.",
+      "Visitors are encouraged to avoid littering and maintain beach cleanliness."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Nagaon is well-connected by road — 110 km from Mumbai and 120 km from Pune.",
+        "Regular buses and private taxis are available from Alibaug and Mumbai."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-ferry",
+      "title": "By Ferry",
+      "details": [
+        "Ferries from Gateway of India to Mandwa Jetty operate daily.",
+        "From Mandwa, Nagaon is just 20 km away by road (taxis and buses available)."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Pen (35 km).",
+        "From Pen, local buses and cabs connect to Alibaug and Nagaon."
+      ]
+    }
+  ],
+  "gallery": [
+    { "src": "/assets/images/beaches/05/img4.jpg", "thumb": "/assets/images/beaches/05/img4.jpg", "alt": "Golden sand stretch of Nagaon Beach" },
+    { "src": "/assets/images/beaches/05/img5.jpg", "thumb": "/assets/images/beaches/05/img5.jpg", "alt": "Water sports at Nagaon Beach" },
+    { "src": "/assets/images/beaches/05/img6.jpg", "thumb": "/assets/images/beaches/05/img6.jpg", "alt": "Sunset view at Nagaon Beach" }
+  ],
+  "bookingTips": [
+    { "icon": "fa-solid fa-house", "description": "Choose beachfront homestays or resorts for a better view and quick beach access." },
+    { "icon": "fa-solid fa-umbrella-beach", "description": "Book water sports early, especially on weekends." },
+    { "icon": "fa-solid fa-info-circle", "description": "Carry cash as smaller stalls and rides often do not accept digital payments." }
+  ],
+  "coordinates": {
+    "lat": 18.6019,
+    "lng": 72.8986
+  }
+}

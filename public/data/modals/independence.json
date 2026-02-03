@@ -1,0 +1,72 @@
+{
+  "id": "#independenceModal",
+  "title": "🇮🇳 Independence Movement (1930 – 1947)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-primary fw-semibold mb-3",
+      "text": "Maharashtra’s Role in India’s Fight for Freedom"
+    },
+    {
+      "type": "p",
+      "text": "Maharashtra stood at the forefront of India’s Independence Movement, producing iconic leaders, fearless revolutionaries, and mass movements that challenged British rule. From the Civil Disobedience Movement to the Quit India Movement, the spirit of freedom was deeply rooted in the people of this land."
+    },
+    {
+      "type": "h5",
+      "class": "text-danger mt-4",
+      "text": "✊ Brave Freedom Fighters"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bal Gangadhar Tilak – Laid the intellectual and emotional foundation of Indian nationalism. His slogan 'Swaraj is my birthright, and I shall have it!' became a national call.",
+        "Vinayak Damodar Savarkar – A revolutionary thinker and writer who inspired armed resistance against colonialism.",
+        "Gopal Krishna Gokhale – A moderate nationalist and mentor to Mahatma Gandhi.",
+        "Senapati Bapat – Known for his role in revolutionary activities and the Mulshi Satyagraha."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🚩 Major Movements"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Civil Disobedience Movement (1930): Maharashtra saw mass participation in salt satyagrahas, boycotts of foreign goods, and protests.",
+        "Quit India Movement (1942): Launched from Mumbai’s Gowalia Tank Maidan by Mahatma Gandhi, this became a turning point in the struggle. Protests, strikes, and uprisings shook the British rule across the state."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-warning mt-4",
+      "text": "📚 Role of Education & Press"
+    },
+    {
+      "type": "p",
+      "text": "Maharashtra’s reformers and intellectuals used newspapers, pamphlets, and public speeches to awaken national consciousness. Publications like 'Kesari' and 'Maratha' were powerful tools of resistance that united citizens under the cause of freedom."
+    },
+    {
+      "type": "h5",
+      "class": "text-info mt-4",
+      "text": "🏙️ Urban Centers of Resistance"
+    },
+    {
+      "type": "p",
+      "text": "Mumbai became the political nerve center with mass protests, labor strikes, and nationalist rallies. Cities like Pune, Nashik, and Nagpur became hotbeds of revolutionary action and intellectual dissent."
+    },
+    {
+      "type": "h5",
+      "class": "text-dark mt-4",
+      "text": "🕊️ Legacy of Freedom"
+    },
+    {
+      "type": "p",
+      "text": "The courage and sacrifices of Maharashtra’s freedom fighters remain deeply etched in history. Their legacy continues to inspire generations to stand for justice, democracy, and unity."
+    },
+    {
+      "type": "p",
+      "text": "On 15th August 1947, when India finally broke free from British rule, Maharashtra stood proud—having played a vital role in achieving Swarajya."
+    }
+  ]
+}

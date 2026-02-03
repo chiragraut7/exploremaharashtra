@@ -1,0 +1,224 @@
+{
+  "id": "10",
+  "title": "Amboli Hill Station",
+  "subtitle": "The Queen of the Sahyadri Hills",
+  "bannerImage": "/assets/images/hills/10.jpg",
+  "insideBannerImage": "/assets/images/hills/10/bannerimg.jpg",
+  "color": "#0c3b2e",
+  "coordinates": {"lat": 15.9625, "lng": 73.9978},
+  "overview": [
+    "Amboli, known as the ‘Queen of the Sahyadri Hills’, is a picturesque hill station located in the Sindhudurg district of Maharashtra.",
+    "It is the last hill station before the coastal plains of Goa begin and lies at an altitude of about 690 meters above sea level.",
+    "Famous for its misty mountains, cascading waterfalls, dense forests, and cool climate, Amboli is an ideal destination for nature lovers, photographers, and trekkers."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-waterfall",
+      "title": "Majestic Waterfalls",
+      "description": "Amboli is adorned with stunning waterfalls that come alive during the monsoon, creating a breathtaking view."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Biodiversity Hotspot",
+      "description": "The forests of Amboli are home to rare species of flora and fauna, making it a paradise for nature enthusiasts."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Scenic Photography",
+      "description": "The misty valleys, winding roads, and lush greenery make Amboli perfect for photography and videography."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/10/info2.jpg",
+    "intro": "Located in the southern range of the Sahyadris, Amboli lies at an altitude of 690 meters, receiving the highest rainfall in Maharashtra.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "District",
+        "value": "Sindhudurg"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "690 meters"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Region",
+        "value": "Sahyadri Hills, Western Ghats"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest City",
+        "value": "Sawantwadi (30 km)"
+      },
+      {
+        "icon": "fa-solid fa-clock",
+        "label": "Best Time to Visit",
+        "value": "June to February"
+      }
+    ],
+    "climate": {
+      "description": "Amboli experiences a cool and humid climate throughout the year, with heavy rainfall during the monsoon season.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Summer: 20°C – 30°C"
+        },
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon: 15°C – 25°C, heavy rainfall from June to September"
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter: 10°C – 20°C, misty and pleasant"
+        }
+      ]
+    },
+    "conclusion": "The consistent coolness and abundant greenery make Amboli a soothing escape from urban life."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-waterfall",
+      "title": "Waterfall Trekking",
+      "description": "Explore the lush forest trails leading to Amboli Waterfall and Nangartas Waterfall.",
+      "info": [
+        "Wear non-slip footwear during monsoon treks.",
+        "Best for adventure and photography enthusiasts."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-binoculars",
+      "title": "Bird Watching",
+      "description": "Amboli is a hotspot for bird lovers, especially during winter migration.",
+      "info": [
+        "Spot Malabar Trogon, Paradise Flycatcher, and Great Hornbill.",
+        "Early morning is the best time for sightings."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-tree",
+      "title": "Nature Trails",
+      "description": "Walk through dense forests and enjoy the serenity of nature.",
+      "info": [
+        "Ideal for morning or evening strolls.",
+        "Listen to the soothing sounds of chirping birds and waterfalls."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/10/img1.jpg",
+      "title": "Amboli Waterfall",
+      "description": "A popular spot cascading down rocky terrain, especially vibrant during monsoon.",
+      "distance": "3 km from main market",
+      "icon": "fa-solid fa-water",
+      "value": "Natural beauty & adventure"
+    },
+    {
+      "image": "/assets/images/hills/10/img2.jpg",
+      "title": "Hiranyakeshi Temple",
+      "description": "A sacred temple where the Hiranyakeshi River originates from a cave, dedicated to Goddess Parvati.",
+      "distance": "5 km from Amboli Bus Stand",
+      "icon": "fa-solid fa-temple",
+      "value": "Spiritual & natural significance"
+    },
+    {
+      "image": "/assets/images/hills/10/img3.jpg",
+      "title": "Nangartas Waterfall",
+      "description": "A breathtaking waterfall viewable from a viewpoint, located on the Sawantwadi–Amboli road.",
+      "distance": "10 km from Amboli",
+      "icon": "fa-solid fa-waterfall",
+      "value": "Scenic spot for photography"
+    },
+    {
+      "image": "/assets/images/hills/10/img4.jpg",
+      "title": "Mahadevgad Point",
+      "description": "Offers panoramic views of the Konkan region and stunning sunset vistas.",
+      "distance": "2 km from town center",
+      "icon": "fa-solid fa-mountain-sun",
+      "value": "Viewpoint & photography"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Amboli is a hill station, its ecosystem supports rich terrestrial biodiversity.",
+    "items": [
+      {
+        "icon": "fa-solid fa-frog",
+        "title": "Amboli Bush Frog",
+        "description": "A rare amphibian species found only in this region, symbolizing its ecological importance."
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora & Fauna",
+        "description": "Dense forests host rare orchids, medicinal plants, and numerous reptile and insect species."
+      }
+    ],
+    "conclusion": [
+      "Amboli’s biodiversity contributes to its recognition as an ecological hotspot.",
+      "It is part of the Western Ghats, a UNESCO World Heritage Site."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Sawantwadi Road (30 km).",
+        "Taxis and local jeeps are available from the station to Amboli."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Amboli is well-connected by road from Goa (70 km), Belgaum (68 km), and Pune (400 km).",
+        "Regular MSRTC and private buses operate from major cities."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Dabolim Airport, Goa (90 km).",
+        "Taxis are available from the airport directly to Amboli."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/10/img1.jpg",
+      "thumb": "/assets/images/hills/10/img1.jpg",
+      "alt": "Amboli Waterfall"
+    },
+    {
+      "src": "/assets/images/hills/10/img2.jpg",
+      "thumb": "/assets/images/hills/10/img2.jpg",
+      "alt": "Hiranyakeshi Temple Cave"
+    },
+    {
+      "src": "/assets/images/hills/10/img3.jpg",
+      "thumb": "/assets/images/hills/10/img3.jpg",
+      "alt": "Amboli Hill View"
+    },
+    {
+      "src": "/assets/images/hills/10/img4.jpg",
+      "thumb": "/assets/images/hills/10/img4.jpg",
+      "alt": "Amboli Hill View"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear during monsoon, as Amboli experiences heavy rainfall."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Keep your camera ready – every corner is photogenic, especially waterfalls."
+    },
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Book homestays or eco-resorts for a more local and nature-centric experience."
+    }
+  ]
+}

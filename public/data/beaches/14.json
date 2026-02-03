@@ -1,0 +1,243 @@
+{
+  "id": "14",
+  "title": "Velas Beach",
+  "subtitle": "Turtle nesting haven and eco-tourism escape in Konkan",
+  "bannerImage": "/assets/images/beaches/velas-beache.jpg",
+  "insideBannerImage": "/assets/images/beaches/14/bannerImg.jpg",
+  "color": "#5699ba",
+  "coordinates": {
+    "lat": 17.9554,
+    "lng": 73.0234
+  },
+  "overview": [
+    "Velas Beach is a quaint and clean beach located in the Ratnagiri district of Maharashtra. It is best known for its Olive Ridley turtle conservation project, where baby turtles hatch and are released into the sea during nesting season.",
+    "This beach is part of an eco-friendly village that promotes sustainable tourism. Visitors can witness natural turtle hatchings and enjoy a peaceful coastal environment surrounded by greenery.",
+    "Apart from the beach, Velas offers a unique rural Konkan experience with local food, homestays, and scenic treks."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-turtle",
+      "title": "Turtle Festival",
+      "description": "Watch baby Olive Ridley turtles hatch and make their way to the sea (Feb–March)."
+    },
+    {
+      "icon": "fas fa-home",
+      "title": "Village Homestays",
+      "description": "Stay with local families and enjoy authentic Konkani cuisine and hospitality."
+    },
+    {
+      "icon": "fas fa-tree",
+      "title": "Eco-Tourism",
+      "description": "Environmentally conscious tourism promoting wildlife and conservation."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Scenic Treks",
+      "description": "Trek to Bankot Fort or through lush hills for panoramic coastal views."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/14/info3.jpg",
+    "intro": "Velas is a coastal village located in the northern part of Ratnagiri district. It lies near the mouth of the Savitri River and is surrounded by forested hills and untouched nature.",
+    "details": [
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "Location",
+        "value": "Velas Village, Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fas fa-road",
+        "label": "Distance from Mumbai",
+        "value": "Approx. 220 kilometers"
+      },
+      {
+        "icon": "fas fa-train",
+        "label": "Nearest Station",
+        "value": "Mangaon (Konkan Railway)"
+      },
+      {
+        "icon": "fas fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Flora",
+        "value": "Dense greenery, cashew plantations, coconut palms"
+      }
+    ],
+    "climate": {
+      "description": "Velas has a tropical climate. Summers are warm, monsoons are lush and rainy, and winters are pleasant.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Best Season: November to March"
+        },
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Monsoon: June to September"
+        }
+      ]
+    },
+    "conclusion": "Velas is an ideal destination for nature lovers and conservation-minded travelers seeking an authentic village beach experience."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-turtle",
+      "title": "Turtle Watching",
+      "description": "Watch baby turtles hatch and crawl toward the sea during the annual Turtle Festival.",
+      "info": [
+        "Season: Feb–March",
+        "Morning and evening viewing slots"
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "Village Walks",
+      "description": "Walk through the quiet village lanes and explore local life and traditions.",
+      "info": [
+        "Interact with locals",
+        "Photography & storytelling"
+      ]
+    },
+    {
+      "icon": "fas fa-fort",
+      "title": "Bankot Fort Trek",
+      "description": "A short trek to the historical Bankot Fort overlooking the Savitri river delta and sea.",
+      "info": [
+        "Sunrise/sunset views",
+        "Great for nature photographers"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/14/img1.jpg",
+      "title": "Bankot Fort",
+      "description": "Historic fort with stunning views of the sea and river confluence.",
+      "distance": "Approx. 4 km",
+      "icon": "fas fa-fort",
+      "value": "Historical Viewpoint"
+    },
+    {
+      "image": "/assets/images/beaches/14/img2.jpg",
+      "title": "Harihareshwar Temple",
+      "description": "A sacred coastal temple complex just an hour's drive from Velas.",
+      "distance": "Approx. 30 km",
+      "icon": "fas fa-om",
+      "value": "Religious Site"
+    },
+    {
+      "image": "/assets/images/beaches/14/img3.jpg",
+      "title": "Anjarle Beach",
+      "description": "Another quiet beach known for its turtle conservation and clean sands.",
+      "distance": "Approx. 25 km",
+      "icon": "fas fa-umbrella-beach",
+      "value": "Nearby Beach"
+    }
+  ],
+  "marineLife": {
+    "intro": "Velas beach is part of an ecological effort to protect marine biodiversity, especially the Olive Ridley turtle species.",
+    "items": [
+      {
+        "icon": "fas fa-turtle",
+        "title": "Olive Ridley Turtles",
+        "description": "Endangered sea turtles that nest on the Velas shore annually."
+      },
+      {
+        "icon": "fas fa-seedling",
+        "title": "Mangroves & Dunes",
+        "description": "Vital coastal buffers that provide protection and breeding habitat."
+      },
+      {
+        "icon": "fas fa-fish",
+        "title": "Coastal Fish & Crabs",
+        "description": "Small marine species visible in shallow tidal pools."
+      }
+    ],
+    "conclusion": [
+      "Velas’s marine ecology is protected by community-based tourism and seasonal visitor guidelines.",
+      "The beach promotes awareness of wildlife conservation and responsible travel."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune or Mumbai",
+        "Travel to Mangaon by train or car, then local road to Velas"
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Station: Mangaon (Konkan Railway)",
+        "Take shared jeeps or buses to Velas"
+      ]
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "By Road",
+      "details": [
+        "Approx. 220 km from Mumbai via NH66",
+        "Scenic route through hills and coast"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/14/img1.jpg",
+      "thumb": "/assets/images/beaches/14/img1.jpg",
+      "alt": "Turtle Nesting at Velas"
+    },
+    {
+      "src": "/assets/images/beaches/14/img2.jpg",
+      "thumb": "/assets/images/beaches/14/img2.jpg",
+      "alt": "Velas Beach Shoreline"
+    },
+    {
+      "src": "/assets/images/beaches/14/img3.jpg",
+      "thumb": "/assets/images/beaches/14/img3.jpg",
+      "alt": "Bankot Fort Views"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Velas Homestay",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.5",
+      "url": "https://example.com/velas-homestay",
+      "facilities": [
+        "wifi",
+        "parking",
+        "ac"
+      ]
+    },
+    {
+      "name": "MTDC Guest House",
+      "image": "/assets/images/beaches.jpg",
+      "rating": "4.2",
+      "url": "https://example.com/mtdc-velas",
+      "facilities": [
+        "wifi",
+        "parking"
+      ]
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar",
+      "description": "Visit during Feb–March for Turtle Festival"
+    },
+    {
+      "icon": "fas fa-home",
+      "description": "Book village homestays in advance during the season"
+    },
+    {
+      "icon": "fas fa-car",
+      "description": "Road conditions are rough — prefer SUVs or travel early"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ashoka-farm",
+  "name": "Ashoka Farm",
+  "beach": "kelwa",
+  "overview": "Ashoka Farm is nestled in scenic greenery about 10 minutes’ drive from Kelva Beach. Offers both AC and Non‑AC rooms, home‑style veg & non‑veg food, pool, garden and open activity space.",
+  "location": {
+    "address": "Kelva Beach area, Palghar District, Maharashtra, India",
+    "distance_from_beach": "10 min by car",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non AC Day Package",
+      "rate_for_two": "₹850 per person (min. 5)",
+      "extra_person": ""
+    },
+    {
+      "type": "Overnight Package (AC/Non‑AC)",
+      "rate_for_two": "₹850 per person to overnight shared",
+      "extra_person": ""
+    },
+    {
+      "type": "Couple 24‑hr Package",
+      "rate_for_two": "Special couple pricing",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast, tea, buffet lunch",
+      "Swimming pool & indoor games"
+    ],
+    "extended": [
+      "Breakfast, lunch, dinner buffet",
+      "Pool, garden & games"
+    ]
+  },
+  "facilities": [
+    "Swimming pool",
+    "Indoor games",
+    "Garden and open area",
+    "Outdoor dining",
+    "Free Wi‑Fi & parking"
+  ],
+  "policies": {
+    "allowed": ["Families & groups only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "Music after 10 PM",
+      "Smoking indoors"
+    ],
+    "booking": [
+      "100% advance payment non‑refundable",
+      "Valid ID proof mandatory"
+    ],
+    "liability": [
+      "Guests responsible for damages",
+      "Management not liable for loss or injury"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Kelwa Fort",
+    "Shitladevi Temple"
+  ],
+  "notice": [
+    "Confirm package details before booking"
+  ],
+  "contact": {
+    "host": "Ashoka Farm Management",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/ashoka-farm-kelva-beach.php"
+  }
+}

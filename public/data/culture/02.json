@@ -1,0 +1,190 @@
+{
+  "id": "02",
+  "title": "Dahi Handi Festival",
+  "subtitle": "Mumbai’s High-Octane Festival of Human Pyramids",
+  "bannerImage": "/assets/images/culture/02.jpg",
+  "insideBannerImage": "/assets/images/culture/02/bannerimg.jpg",
+  "color": "#e4b534",
+  "overview": [
+    "Dahi Handi is one of Maharashtra’s most electrifying festivals, celebrated on the day after Janmashtami (the birth of Lord Krishna). It reenacts the childhood legend of 'Maakhan Chor' (Butter Thief) Krishna, who would form human pyramids with his friends to steal curd from high-hanging pots.",
+    "Today, this tradition has evolved into a massive spectator sport where 'Govinda Pathaks' (teams) compete to break earthen pots suspended 30-40 feet in the air, winning huge cash prizes and the adoration of thousands."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-users-rays",
+      "title": "Human Pyramids",
+      "description": "Witness the thrill of 9-tier human pyramids defying gravity amidst cheering crowds and splashing water."
+    },
+    {
+      "icon": "fas fa-drum-steelpan",
+      "title": "Street Energy",
+      "description": "Mumbai’s streets come alive with truck-mounted DJs, dhol-tasha beats, and an infectious festive spirit."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/dahi-handi/geography.jpg",
+    "intro": "While celebrated across Maharashtra, the festival reaches its fever pitch in the Mumbai Metropolitan Region (MMR), particularly in Thane, Dadar, and Ghatkopar.",
+    "details": [
+      {
+        "icon": "fas fa-city",
+        "label": "Epicenters",
+        "value": "Thane, Dadar, Ghatkopar, Borivali"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Date",
+        "value": "August/September (Day after Gokulashtami)"
+      },
+      {
+        "icon": "fas fa-tshirt",
+        "label": "Attire",
+        "value": "Bright t-shirts denoting different 'Govinda' teams"
+      },
+      {
+        "icon": "fas fa-trophy",
+        "label": "Stakes",
+        "value": "Prizes can go up to ₹25 Lakhs for breaking the highest Handi"
+      },
+      {
+        "icon": "fas fa-tint",
+        "label": "Atmosphere",
+        "value": "Monsoon rains mixed with water sprayed by locals"
+      }
+    ],
+    "climate": {
+      "description": "The festival is synonymous with the Indian Monsoon. The streets are wet, and it often rains during the pyramids, adding to the challenge and excitement.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-showers-heavy",
+          "text": "Expect heavy showers; wear waterproof footwear and clothes that dry quickly."
+        },
+        {
+          "icon": "fas fa-temperature-high",
+          "text": "High humidity due to crowds; stay hydrated."
+        }
+      ]
+    },
+    "conclusion": "Dahi Handi is the ultimate display of Mumbai's grit and teamwork—a festival where spirituality meets extreme sport."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-binoculars",
+      "title": "Witness the 'Thar' (Layers)",
+      "description": "Watch breathless moments as Govindas build 8 or 9 layers of humans to reach the pot. The tension before the final break is palpable.",
+      "info": [
+        "The best pyramids happen between 4 PM and 8 PM.",
+        "Look for the 'Salam' moment when the topmost Govinda greets the crowd."
+      ]
+    },
+    {
+      "icon": "fas fa-camera-retro",
+      "title": "Street Photography",
+      "description": "Capture the vibrant colors, the water splashes, the intense expressions of the climbers, and the joyous frenzy of the onlookers.",
+      "info": [
+        "Use a zoom lens to capture expressions from a safe distance.",
+        "Protect your gear from water sprays!"
+      ]
+    },
+    {
+      "icon": "fas fa-om",
+      "title": "Visit ISKCON Temples",
+      "description": "For a spiritual contrast to the street chaos, visit ISKCON Juhu or Girgaon for beautiful midnight Aartis on Janmashtami eve.",
+      "info": [
+        "The 'Maha Abhishek' ceremony is visually stunning.",
+        "Enjoy delicious 'Prasad' meals."
+      ]
+    },
+    {
+      "icon": "fas fa-map-marked",
+      "title": "Explore Local Neighborhoods",
+      "description": "Walk through Dadar's narrow lanes or Thane's main roads to see smaller, community-led celebrations.",
+      "info": [
+        "Local mandals often have unique decorations and themes.",
+        "Great way to experience the festival's community spirit."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/dahi-handi/thane.jpg",
+      "title": "Sanskriti Yuva Pratishthan (Thane)",
+      "description": "Known for hosting one of the richest and highest Dahi Handis in the state, attracting top professional teams.",
+      "distance": "Thane West",
+      "icon": "fas fa-crown",
+      "value": "Pro Govindas"
+    },
+    {
+      "image": "/images/cultural/dahi-handi/dadar.jpg",
+      "title": "Dadar & Lower Parel",
+      "description": "The heart of the city where celebrations are traditional, intense, and deeply rooted in local chawl culture.",
+      "distance": "Central Mumbai",
+      "icon": "fas fa-building",
+      "value": "Local Vibe"
+    }
+  ],
+  "culturalContext": {
+    "intro": "Dahi Handi is more than a game; it is a metaphor for life in Mumbai.",
+    "items": [
+      {
+        "icon": "fas fa-link",
+        "title": "Collective Effort",
+        "description": "Just like the pyramid, success depends on the strength of the base (community) supporting the one at the top."
+      },
+      {
+        "icon": "fas fa-bolt",
+        "title": "Resilience",
+        "description": "Teams fall multiple times but always rebuild—reflecting the 'Mumbai Spirit' of never giving up."
+      }
+    ],
+    "conclusion": [
+      "It is one of the few festivals where sport, religion, and street party merge into one."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-train",
+      "title": "By Local Train (Best Option)",
+      "details": [
+        "Traffic comes to a standstill during the festival. The Local Train is your lifeline.",
+        "Central Line: Get off at Dadar, Ghatkopar, or Thane for the biggest events.",
+        "Western Line: Borivali and Andheri also host major Handis."
+      ]
+    },
+    {
+      "icon": "fas fa-walking",
+      "title": "On Foot",
+      "details": [
+        "Once you reach a major station (like Thane), walk or take a shared auto. Roads will be packed with trucks and crowds.",
+        "Follow the sound of the drums ('Nasik Dhol') to find the nearest pyramid."
+      ]
+    },
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Fly into Mumbai (CSMIA). The festival happens all over the city, so you are instantly in the action upon arrival."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/culture/02.jpg",
+      "thumb": "/assets/images/culture/02.jpg",
+      "alt": ""
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Go in the evening (5 PM - 8 PM). That's when the 'Pro' teams attempt the world-record heights."
+    },
+    {
+      "icon": "fas fa-shield-alt",
+      "description": "Expect dense crowds. Keep wallets/phones safe and avoid wearing expensive jewelry."
+    },
+    {
+      "icon": "fas fa-umbrella",
+      "description": "Wear waterproof shoes (crocs/sandals) as you *will* get wet from the water tankers."
+    }
+  ]
+}

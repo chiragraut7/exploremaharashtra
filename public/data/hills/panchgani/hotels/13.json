@@ -1,0 +1,64 @@
+{
+  "id": "anand-residency",
+  "name": "Anand Residency",
+  "beach": "kelwa",
+  "overview": "Anand Residency offers family‑oriented accommodation with simple amenities, a shaded courtyard, homemade meals and close proximity to Kelwa Beach.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "Walkable",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non‑AC Room",
+      "rate_for_two": "₹900–1,000 per person (one‑day package)",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast",
+      "Tea/Coffee",
+      "Buffet Lunch (veg only)"
+    ],
+    "extended": []
+  },
+  "facilities": [
+    "Homestyle vegetarian meals",
+    "Shaded courtyard",
+    "Simple, clean rooms",
+    "Outdoor seating"
+  ],
+  "policies": {
+    "allowed": ["Families & groups only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "Music after 10 PM",
+      "Smoking indoors"
+    ],
+    "booking": ["Advance booking required (non‑refundable)"],
+    "liability": ["Guests responsible; management not liable"]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": ["Be aware of seasonal changes in rates"],
+  "contact": {
+    "host": "Anand Residency Owner",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/anand-residency-kelvabeach.php"
+  }
+}

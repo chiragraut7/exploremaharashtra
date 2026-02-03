@@ -1,0 +1,168 @@
+{
+  "id": "05",
+  "title": "Gudi Padwa: The Dawn of New Beginnings",
+  "subtitle": "Maharashtra's Traditional New Year & Harvest Festival",
+  "bannerImage": "/assets/images/culture/05.jpg",
+  "insideBannerImage": "/assets/images/culture/05/bannerimg.jpg",
+  "color": "#f7b733",
+  "overview": [
+    "Gudi Padwa marks the beginning of the New Year for Maharashtrians and Hindus across the Deccan region. It falls on the first day of the Chaitra month, symbolizing the arrival of spring and the harvest of rabi crops.",
+    "According to mythology, it is believed that Lord Brahma created the universe on this day. Families hoist a 'Gudi' (victory flag) outside their windows—a bamboo staff topped with a bright cloth, neem leaves, and a copper pot—to invite prosperity and ward off evil."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-flag",
+      "title": "The Gudi",
+      "description": "The sight of colorful Gudis fluttering from every window and balcony in Maharashtra is a symbol of victory and joy."
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Shobha Yatras",
+      "description": "Grand cultural processions where men and women dress in traditional attire, ride bikes, and play the Dhol Tasha."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/gudi-padwa/geography.jpg",
+    "intro": "While it is a household festival across the state, the public celebrations are most vibrant in the cultural capitals of Pune, Mumbai (Dombivli/Girgaon), and Nashik.",
+    "details": [
+      {
+        "icon": "fas fa-calendar-alt",
+        "label": "Date",
+        "value": "Chaitra Shukla Pratipada (March/April)"
+      },
+      {
+        "icon": "fas fa-sun",
+        "label": "Season",
+        "value": "Spring (Vasant Ritu)"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Ritual",
+        "value": "Eating Neem & Jaggery (Bittersweet start)"
+      },
+      {
+        "icon": "fas fa-tshirt",
+        "label": "Attire",
+        "value": "Nauvari Sarees (Women) & Kurta-Pheta (Men)"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Vibe",
+        "value": "Family-oriented morning, Community evening"
+      }
+    ],
+    "climate": {
+      "description": "It marks the transition from winter to summer. The weather is warm and sunny, perfect for outdoor processions.",
+      "seasons": [
+        {
+          "icon": "fas fa-sun",
+          "text": "Expect bright sunshine and rising temperatures. Stay hydrated during the processions."
+        }
+      ]
+    },
+    "conclusion": "Gudi Padwa is a celebration of life's bittersweet nature, reminding us to face the new year with resilience and joy."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-motorcycle",
+      "title": "Join a Shobha Yatra",
+      "description": "Witness the massive morning rallies where women in Nauvari sarees ride motorcycles and play lezim, showcasing women's empowerment.",
+      "info": [
+        "Best spots: Girgaon (Mumbai) and Laxmi Road (Pune).",
+        "The processions usually start around 7:00 AM."
+      ]
+    },
+    {
+      "icon": "fas fa-utensils",
+      "title": "Feast on Puran Poli",
+      "description": "No Gudi Padwa is complete without this sweet flatbread made of chana dal and jaggery, drenched in ghee.",
+      "info": [
+        "Typically served with 'Katachi Amti' (spicy lentil soup).",
+        "Available at authentic Maharashtrian restaurants like 'Panshikar' (Mumbai)."
+      ]
+    },
+    {
+      "icon": "fas fa-home",
+      "title": "Gudi Raising",
+      "description": "If you have local friends, visit their home to see the ritual of raising the Gudi and participate in the family prayer.",
+      "info": [
+        "The Gudi is raised at sunrise.",
+        "It is taken down at sunset after an offering."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/gudi-padwa/girgaon.jpg",
+      "title": "Girgaon, Mumbai",
+      "description": "Famous for its traditional and disciplined Shobha Yatra, featuring massive floats and traditional art forms.",
+      "distance": "South Mumbai",
+      "icon": "fas fa-users",
+      "value": "Cultural Hub"
+    },
+    {
+      "image": "/images/cultural/gudi-padwa/pune.jpg",
+      "title": "Shaniwar Wada, Pune",
+      "description": "The historic fort serves as the starting point for Pune's grandest new year procession.",
+      "distance": "Pune City",
+      "icon": "fas fa-landmark",
+      "value": "Historic Setting"
+    }
+  ],
+  "culturalContext": {
+    "intro": "The festival is a masterclass in symbolism.",
+    "items": [
+      {
+        "icon": "fas fa-leaf",
+        "title": "Health & Science",
+        "description": "The ritual of eating Neem leaves and Jaggery boosts immunity for the changing season."
+      },
+      {
+        "icon": "fas fa-flag-checkered",
+        "title": "Victory",
+        "description": "The Gudi symbolizes the victory of Chhatrapati Shivaji Maharaj and the return of Lord Rama to Ayodhya."
+      }
+    ],
+    "conclusion": [
+      "It unites the community in a display of pride, tradition, and hope for a prosperous year ahead."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Fly to Mumbai or Pune. Both cities host the biggest public celebrations."
+      ]
+    },
+    {
+      "icon": "fas fa-road",
+      "title": "Local Travel",
+      "details": [
+        "In Mumbai: Head to Girgaon or Dombivli early morning (7 AM) to catch the rallies.",
+        "In Pune: Head to the Peth areas (Old City) for the most authentic vibe."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/culture/05.jpg",
+      "thumb": "/assets/images/culture/05.jpg",
+      "alt": ""
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-clock",
+      "description": "Wake up early! The best cultural displays happen between 7 AM and 10 AM."
+    },
+    {
+      "icon": "fas fa-camera",
+      "description": "Great for street photography—the colors of the sarees and turbans are vibrant."
+    },
+    {
+      "icon": "fas fa-tshirt",
+      "description": "Wear traditional Indian clothes (Kurta/Saree) to blend in with the festive crowd."
+    }
+  ]
+}

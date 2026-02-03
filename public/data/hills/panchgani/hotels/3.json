@@ -1,0 +1,85 @@
+{
+  "id": "patilwadi-resort",
+  "name": "Patilwadi Resort",
+  "beach": "kelwa",
+  "overview": "Budget beach resort with direct access to Kelwa Beach, lush greenery, homemade food and indoor/outdoor games facilities.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "On the beach",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non AC Day Package",
+      "rate_for_two": "Rs 1,200 per person (min. 8 persons)",
+      "extra_person": "₹100 for mutton or limited fish"
+    },
+    {
+      "type": "Overnight Package Non AC",
+      "rate_for_two": "Rs 2,100 per person",
+      "extra_person": "As above"
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Full charge applies (no half)",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast + 2 Tea/Coffee",
+      "Veg or Non‑Veg Buffet Lunch",
+      "Swimming Pool + Free Wi‑Fi",
+      "Outdoor Games"
+    ],
+    "extended": [
+      "Breakfast + 3 Tea/Coffee",
+      "Veg/Non‑Veg Buffet Lunch & Dinner",
+      "Swimming Pool + Free Wi‑Fi",
+      "Outdoor Games"
+    ]
+  },
+  "facilities": [
+    "Direct beach access",
+    "Homemade vegetarian & non‑veg food",
+    "Indoor & Outdoor games (volleyball, cricket, chess, ludo)",
+    "Swimming pool",
+    "Free Wi‑Fi"
+  ],
+  "policies": {
+    "allowed": ["Families, groups & married couples only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 guests per room",
+      "Music after 10 PM",
+      "Smoking in rooms"
+    ],
+    "booking": [
+      "Advance payment 100% non‑refundable",
+      "Valid ID proof (DL, Aadhar, Voter ID, Passport) mandatory"
+    ],
+    "liability": [
+      "Guests responsible for any damages",
+      "Management not liable for loss of belongings"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": [
+    "Beware of scammers; confirm identity before making any online payment."
+  ],
+  "contact": {
+    "host": "Kundan & Nrupal Patil",
+    "phone": "+91 9860265339, +91 7744055015",
+    "email": null,
+    "website": "https://www.kelvabeach.in/patilwadi-resort-kelvabeach.php"
+  }
+}

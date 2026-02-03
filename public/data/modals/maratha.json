@@ -1,0 +1,89 @@
+{
+  "id": "#marathaModal",
+  "title": "⚔️ Maratha Empire (17th to 18th Century CE)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-danger fw-semibold mb-3",
+      "text": "Rise of Swarajya, Forts, and Cultural Unity"
+    },
+    {
+      "type": "p",
+      "text": "The Maratha Empire, founded in the 17th century under the visionary leadership of Chhatrapati Shivaji Maharaj, reshaped India’s political destiny. Emerging from the rugged hills of the Western Ghats, the Marathas established one of the most resilient and dynamic empires in Indian history—based on principles of Swarajya (self-rule), justice, and efficient governance."
+    },
+    {
+      "type": "h5",
+      "class": "text-primary mt-4",
+      "text": "🗡️ Chhatrapati Shivaji Maharaj – The Architect of Maratha Power"
+    },
+    {
+      "type": "p",
+      "text": "Shivaji Maharaj revolutionized warfare by emphasizing guerilla tactics, strongholds in the Sahyadri forts, and swift cavalry raids. His leadership wasn't just military—it was deeply rooted in values of people-centric governance, tolerance, and inclusivity."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Coronation at Raigad Fort in 1674 marked the formal beginning of the Maratha Empire.",
+        "Established Ashta Pradhan Mandal (council of ministers) for decentralized governance.",
+        "Built and controlled over 350 forts, including Rajgad, Raigad, Pratapgad, and Sinhagad."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🏰 Forts – Pillars of Swarajya"
+    },
+    {
+      "type": "p",
+      "text": "The Maratha forts were more than military bases—they were symbols of freedom and resilience. Each fort was self-sustained and strategically located to monitor trade and enemy movements."
+    },
+    {
+      "type": "h5",
+      "class": "text-warning mt-4",
+      "text": "🛡️ Expansion under the Peshwas"
+    },
+    {
+      "type": "p",
+      "text": "After Shivaji, the Peshwas (prime ministers) led the Maratha Empire to its zenith. The Maratha influence stretched from Attock in the north to Thanjavur in the south, covering vast parts of the Indian subcontinent."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Baji Rao I – A military genius who never lost a battle.",
+        "Established Pune as the administrative capital.",
+        "Promoted arts, education, and Sanskrit scholarship."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-info mt-4",
+      "text": "📜 Cultural Renaissance"
+    },
+    {
+      "type": "p",
+      "text": "The Maratha era witnessed a revival of Marathi literature, Bhakti poetry, and temple architecture. Saints like Samarth Ramdas, Tukaram, and Namdev inspired spiritual and social reform movements."
+    },
+    {
+      "type": "h5",
+      "class": "text-secondary mt-4",
+      "text": "⚖️ Administration & Economy"
+    },
+    {
+      "type": "p",
+      "text": "The empire introduced revenue reforms, efficient land records, and a well-organized judicial system. The economy flourished through agriculture, inland trade, and coinage systems."
+    },
+    {
+      "type": "h5",
+      "class": "text-dark mt-4",
+      "text": "💥 Legacy of the Marathas"
+    },
+    {
+      "type": "p",
+      "text": "Despite the decline after the Third Battle of Panipat (1761) and later British dominance, the Maratha legacy remains unmatched. Their contribution to India’s independence spirit, cultural identity, and regional pride lives on through the forts, festivals, and folktales of Maharashtra."
+    },
+    {
+      "type": "p",
+      "text": "The slogan 'Jai Bhavani, Jai Shivaji' still echoes through Maharashtra as a call to courage, justice, and unity."
+    }
+  ]
+}

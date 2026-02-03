@@ -1,0 +1,180 @@
+{
+  "id": "02",
+  "title": "Rajgad Fort",
+  "subtitle": "The Royal Capital Before Raigad",
+  "bannerImage": "/assets/images/forts/02.jpg",
+  "insideBannerImage": "/assets/images/forts/02/bannerimg.jpg",
+  "color": "#a05b2b",
+  "coordinates": { "lat": 18.2475, "lng": 73.6828 },
+  "overview": [
+    "Rajgad Fort, meaning 'Royal Fort', served as the first capital of the Maratha Empire under Chhatrapati Shivaji Maharaj before Raigad. Located about 60 km from Pune, it stands as a symbol of Maratha glory and resilience.",
+    "Constructed on the Murumbadevi Hill at a height of 4,350 feet, the fort is known for its vast size, historical structures, and scenic trekking routes."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Former Capital of the Maratha Empire",
+      "description": "Rajgad was the first capital before Raigad and remained an important fort in Shivaji Maharaj’s rule."
+    },
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Architectural Grandeur",
+      "description": "The fort spans over 40 km and features three machis (citadels) — Suvela, Padmavati, and Sanjivani."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/forts/02/info2.jpg",
+    "intro": "Rajgad Fort is located in the Pune district of Maharashtra, atop the Murumbadevi hill in the Sahyadri range.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Bhor Taluka, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Altitude",
+        "value": "4,350 feet above sea level"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest Town",
+        "value": "Velhe (7 km)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Shivaji Maharaj (1647 CE)"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Construction Period",
+        "value": "17th Century"
+      }
+    ],
+    "climate": {
+      "description": "Rajgad experiences a tropical hill climate with pleasant winters and heavy monsoon rains.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-sun",
+          "text": "October to February is ideal for trekking and exploration."
+        },
+        {
+          "icon": "fa-solid fa-umbrella",
+          "text": "Monsoon offers lush greenery but slippery paths."
+        }
+      ]
+    },
+    "conclusion": "The fort’s strategic elevation and massive construction made it an ideal capital during the Maratha expansion."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking Adventure",
+      "description": "Rajgad offers one of the best treks in Maharashtra, attracting adventure enthusiasts throughout the year.",
+      "info": [
+        "Multiple trekking routes: Gunjavane, Pali, and Bhutonde.",
+        "Difficulty level: Moderate to Challenging."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Nature Views",
+      "description": "Capture panoramic views of Torna, Sinhagad, and other nearby forts.",
+      "info": [
+        "Sunrise and sunset views from Balekilla are breathtaking.",
+        "Carry wide-angle lenses for landscape shots."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark-flag",
+      "title": "Explore Historical Spots",
+      "description": "Visit Padmavati Temple, Suvela Machi, and Sanjivani Machi to experience Maratha history.",
+      "info": [
+        "Each machi offers unique architectural and defensive significance.",
+        "Temple area often used by trekkers for overnight stays."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/forts/02/img1.jpg",
+      "title": "Padmavati Temple",
+      "description": "A small temple dedicated to Goddess Padmavati, used as a resting spot by trekkers.",
+      "distance": "Within fort complex",
+      "icon": "fa-solid fa-church",
+      "value": "Spiritual & Historical Site"
+    },
+    {
+      "image": "/assets/images/forts/02/img2.jpg",
+      "title": "Sanjivani Machi",
+      "description": "A long defensive structure with breathtaking views of the valley below.",
+      "distance": "Fort’s western edge",
+      "icon": "fa-solid fa-tower-cell",
+      "value": "Engineering Marvel"
+    }
+  ],
+  "marineLife": {
+    "intro": "Rajgad Fort lies in the Western Ghats, rich in biodiversity with lush flora and fauna.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Evergreen trees, shrubs, and monsoon wildflowers decorate the fort trail."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Home to langurs, peacocks, monkeys, and a variety of birds."
+      }
+    ],
+    "conclusion": [
+      "The natural environment complements the fort’s heritage.",
+      "Best enjoyed during early morning treks."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "From Pune: 60 km via Velhe.",
+        "Private vehicles and buses available from Swargate, Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Pune Junction (65 km).",
+        "From there, take local transport to Velhe village."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/forts/02/img1.jpg",
+      "thumb": "/assets/images/forts/02/img1.jpg",
+      "alt": "Rajgad Fort view from the base"
+    },
+    {
+      "src": "/assets/images/forts/02/img2.jpg",
+      "thumb": "/assets/images/forts/02/img2.jpg",
+      "alt": "Sanjivani Machi on Rajgad Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Start trek early morning for safe daylight climbing."
+    },
+    {
+      "icon": "fa-solid fa-umbrella",
+      "description": "Carry rain gear and enough water, especially during monsoon treks."
+    },
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Temple area can be used for overnight camping; carry sleeping bags."
+    }
+  ]
+}

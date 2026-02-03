@@ -1,0 +1,180 @@
+{
+  "id": "04",
+  "title": "Ganesh Chaturthi: The Grandest Festival",
+  "subtitle": "Maharashtra's 10-Day Carnival of Faith",
+  "bannerImage": "/assets/images/culture/04.jpg",
+  "insideBannerImage": "/assets/images/culture/04/bannerimg.jpg",
+  "color": "#ffca80",
+  "overview": [
+    "Ganesh Chaturthi is the soul of Maharashtra. For 10 days, the entire state stops to celebrate the homecoming of Lord Ganesha, the remover of obstacles. While it is a religious festival, it is also a massive social event that unites people across all castes and communities.",
+    "Historically popularized by Lokmanya Tilak to unite Indians against British rule, the festival today is a spectacle of art, music, and devotion, culminating in the emotional 'Visarjan' (immersion) where millions bid farewell to their beloved deity."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-crown",
+      "title": "The Grand Idols",
+      "description": "From the towering 'Lalbaugcha Raja' in Mumbai to the gold-laden 'Dagdusheth' in Pune, the artistry of the idols is breathtaking."
+    },
+    {
+      "icon": "fas fa-drum-steelpan",
+      "title": "Dhol Tasha Pathaks",
+      "description": "Experience the thunderous beats of thousands of drummers (Dhol Tasha) leading the processions."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/ganesh-chaturthi/geography.jpg",
+    "intro": "The festival is celebrated in every home and street corner of Maharashtra, but the public celebrations ('Sarvajanik Ganeshotsav') are most spectacular in Mumbai and Pune.",
+    "details": [
+      {
+        "icon": "fas fa-city",
+        "label": "Epicenters",
+        "value": "Mumbai (Lalbaug/Parel) & Pune (Old City)"
+      },
+      {
+        "icon": "fas fa-calendar-day",
+        "label": "Duration",
+        "value": "10 Days (Bhadrapada Month - Aug/Sept)"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Scale",
+        "value": "Millions of devotees on the streets"
+      },
+      {
+        "icon": "fas fa-music",
+        "label": "Soundscape",
+        "value": "Chants of 'Ganpati Bappa Morya' & Drums"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "label": "Offerings",
+        "value": "Modak (Sweet Dumplings), Durva Grass, Hibiscus"
+      }
+    ],
+    "climate": {
+      "description": "The festival falls during the monsoon retreat. Expect humidity and occasional showers.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-rain",
+          "text": "Rain often accompanies the arrival and immersion of the idols, considered a blessing."
+        },
+        {
+          "icon": "fas fa-temperature-high",
+          "text": "It can get warm and humid in the crowds; dress comfortably."
+        }
+      ]
+    },
+    "conclusion": "It is not just a festival; it is an emotion that defines the Marathi identity."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-walking",
+      "title": "Pandal Hopping",
+      "description": "Walk through the streets of Mumbai or Pune at night to see elaborate decorations (Pandals) depicting mythological or social themes.",
+      "info": [
+        "Visit 'Lalbaug' in Mumbai for the most famous idols.",
+        "Lines can be hours long; VIP passes are sometimes available."
+      ]
+    },
+    {
+      "icon": "fas fa-utensils",
+      "title": "Eat 'Ukadiche Modak'",
+      "description": "Savor the festival's signature sweet—steamed rice flour dumplings stuffed with coconut and jaggery.",
+      "info": [
+        "Available in sweet shops like Chitale Bandhu (Pune) or Aaswad (Mumbai).",
+        "Homemade ones are the best if you have local friends."
+      ]
+    },
+    {
+      "icon": "fas fa-water",
+      "title": "Watch the Visarjan",
+      "description": "Witness the grand finale on the 10th day (Anant Chaturdashi) at Girgaon Chowpatty (Mumbai) or Alka Talkies Chowk (Pune).",
+      "info": [
+        "The energy is electric but crowds are massive.",
+        "Best viewed from a distance or a balcony."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/ganesh-chaturthi/lalbaug.jpg",
+      "title": "Lalbaugcha Raja (Mumbai)",
+      "description": "The 'King of Lalbaug' is the most visited idol, believed to fulfill all wishes ('Navsacha Ganpati').",
+      "distance": "Central Mumbai",
+      "icon": "fas fa-star",
+      "value": "Must Visit"
+    },
+    {
+      "image": "/images/cultural/ganesh-chaturthi/dagdusheth.jpg",
+      "title": "Dagdusheth Halwai (Pune)",
+      "description": "Famous for its rich history, gold ornaments, and the visible idol that can be seen from the street without queuing.",
+      "distance": "Pune City",
+      "icon": "fas fa-gold",
+      "value": "Iconic"
+    }
+  ],
+  "culturalContext": {
+    "intro": "Ganesh Chaturthi is a masterclass in community living.",
+    "items": [
+      {
+        "icon": "fas fa-hands-helping",
+        "title": "Social Unity",
+        "description": "Pandals are funded by community subscriptions ('Vargani') and managed by local youth, fostering brotherhood."
+      },
+      {
+        "icon": "fas fa-theater-masks",
+        "title": "Cultural Platform",
+        "description": "It provides a stage for traditional arts like Lezim dance, Povada singing, and theatrical skits."
+      }
+    ],
+    "conclusion": [
+      "The festival ends with the promise 'Pudhchya Varshi Lavkar Ya' (Come back soon next year), leaving devotees waiting for the next cycle."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "Fly to Mumbai (CSMIA) or Pune (PNQ). Both cities are immersed in celebrations."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Local Train (Mumbai)",
+      "details": [
+        "Use the local train to reach 'Currey Road' or 'Chinchpokli' for the Lalbaug area.",
+        "Avoid road travel in central Mumbai during the last few days due to processions."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "Getting Around",
+      "details": [
+        "Walking is the best way to explore Pandal zones.",
+        "In Pune, the 'Manache Pach' (Respectable Five) Ganpatis are all within walking distance in the old city."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/culture/04.jpg",
+      "thumb": "/assets/images/culture/04.jpg",
+      "alt": ""
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-calendar-alt",
+      "description": "Hotels in Mumbai and Pune fill up fast. Book at least a month in advance."
+    },
+    {
+      "icon": "fas fa-shoe-prints",
+      "description": "Wear comfortable shoes. You will be walking for kilometers."
+    },
+    {
+      "icon": "fas fa-ear-deaf",
+      "description": "The drums are incredibly loud. Carry earplugs if you are sensitive to noise."
+    }
+  ]
+}

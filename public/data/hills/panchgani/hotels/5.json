@@ -1,0 +1,77 @@
+{
+  "id": "kelva-beach-resort",
+  "name": "Kelva Beach Resort",
+  "beach": "kelwa",
+  "overview": "Nature‑surrounded resort offering deluxe AC/non‑AC rooms, pool, kids’ area, outdoor dining, and beach‑side fort views.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "Walking distance",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Deluxe Room (AC/non‑AC)",
+      "rate_for_two": "Call for pricing",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast + 2 Tea/Coffee",
+      "Veg or Non‑Veg Buffet Lunch",
+      "Swimming Pool + Garden & Game Facilities"
+    ],
+    "extended": [
+      "Overnight with breakfast, lunch & dinner buffet",
+      "Swimming Pool + Game Areas"
+    ]
+  },
+  "facilities": [
+    "Swimming pool (40×25 ft)",
+    "Kids’ play area",
+    "Outdoor dining",
+    "TV & hot water in rooms",
+    "Free parking"
+  ],
+  "policies": {
+    "allowed": ["Families & married couples only"],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 guests per room",
+      "Music after 10 PM",
+      "Smoking in rooms"
+    ],
+    "booking": [
+      "Advance booking 100% non‑refundable",
+      "Valid ID proof mandatory"
+    ],
+    "liability": [
+      "Guests are responsible for damages",
+      "Resort not liable for personal loss"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": [
+    "Confirm rates and availability before booking."
+  ],
+  "contact": {
+    "host": "Kelva Beach Resort Management",
+    "phone": null,
+    "email": null,
+    "website": "https://www.kelvabeach.in/kelva-beach-resort.php"
+  }
+}

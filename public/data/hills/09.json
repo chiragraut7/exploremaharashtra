@@ -1,0 +1,181 @@
+{
+  "id": "09",
+  "title": "Lavasa Hill Station",
+  "subtitle": "India’s First Planned Hill City near Pune",
+  "bannerImage": "/assets/images/hills/09.jpg",
+  "insideBannerImage": "/assets/images/hills/09/bannerimg.jpg",
+  "color": "#2a7ebf",
+  "coordinates": {"lat": 18.4111, "lng": 73.5074},
+  "overview": [
+    "Lavasa is a modern hill station and private city located near Pune in Maharashtra, inspired by the Italian town of Portofino. It is spread across seven hills covering over 25,000 acres and offers a perfect blend of natural beauty and urban planning.",
+    "Known for its scenic lakefront, colorful architecture, and luxurious resorts, Lavasa is a popular weekend getaway for Pune and Mumbai residents.",
+    "The calm Warasgaon Lake and surrounding Sahyadri hills make Lavasa ideal for water sports, leisure, and photography."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-city",
+      "title": "Planned Hill City",
+      "description": "India’s first planned hill city featuring modern infrastructure amidst scenic surroundings."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Lakeside Promenade",
+      "description": "The beautiful lakeside promenade lined with cafés, restaurants, and colorful buildings is the heart of Lavasa."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/09/info2.jpg",
+    "intro": "Lavasa is situated in the Mulshi Valley of the Western Ghats near Pune. It overlooks the Warasgaon Lake and is surrounded by lush hills and valleys.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Mulshi Taluka, Pune District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Elevation",
+        "value": "Around 640 meters (2100 feet)"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Nearby Waterbody",
+        "value": "Warasgaon Lake"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Connectivity",
+        "value": "Connected by road from Pune and Mumbai"
+      },
+      {
+        "icon": "fa-solid fa-cloud",
+        "label": "Climate Type",
+        "value": "Pleasant and cool throughout the year"
+      }
+    ],
+    "climate": {
+      "description": "Lavasa experiences a tropical hill climate, with cool winters and pleasant monsoons that cover the region in mist and greenery.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-rain",
+          "text": "Monsoon (June–September): Heavy rainfall, lush green surroundings"
+        },
+        {
+          "icon": "fa-solid fa-snowflake",
+          "text": "Winter (November–February): Ideal for sightseeing and outdoor activities"
+        }
+      ]
+    },
+    "conclusion": "The weather in Lavasa remains inviting throughout the year, making it perfect for leisure and short vacations."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-ship",
+      "title": "Water Sports",
+      "description": "Enjoy thrilling water activities on Warasgaon Lake such as kayaking, jet skiing, and boating.",
+      "info": [
+        "Best during post-monsoon season",
+        "Equipment available at Lakeshore area"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-walking",
+      "title": "Nature Trails & Cycling",
+      "description": "Explore scenic trails and enjoy cycling along the beautiful lakeside promenade.",
+      "info": [
+        "Cycle rentals available at promenade",
+        "Ideal for early morning or sunset rides"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sightseeing",
+      "description": "Lavasa’s architecture and landscapes make it a paradise for photographers.",
+      "info": [
+        "Colorful townscape inspired by Portofino",
+        "Scenic viewpoints along the ghats"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/09/img1.jpg",
+      "title": "Warasgaon Lake",
+      "description": "A vast, calm lake offering boating, kayaking, and stunning reflections of the hills.",
+      "distance": "Within Lavasa city",
+      "icon": "fa-solid fa-water",
+      "value": "Main attraction for water sports"
+    },
+    {
+      "image": "/assets/images/hills/09/img2.jpg",
+      "title": "Lakeside Promenade",
+      "description": "Vibrant lakeside walkway with eateries, boutiques, and scenic seating spots.",
+      "distance": "Central Lavasa",
+      "icon": "fa-solid fa-utensils",
+      "value": "Best place to relax and dine with a view"
+    }
+  ],
+  "marineLife": {
+    "intro": "Though Lavasa is a hill station, the presence of Warasgaon Lake brings rich aquatic biodiversity to the area.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Aquatic Life",
+        "description": "The lake is home to small freshwater fish species and aquatic plants."
+      },
+      {
+        "icon": "fa-solid fa-duck",
+        "title": "Bird Life",
+        "description": "Migratory and local birds, including kingfishers and egrets, can often be seen near the lake."
+      }
+    ],
+    "conclusion": [
+      "Lavasa’s natural ecosystem combines hill biodiversity with lake habitat.",
+      "Ideal destination for birdwatching and photography enthusiasts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Located 60 km from Pune and 180 km from Mumbai",
+        "Regular taxis and private vehicles available via Temghar Dam route"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Pune Junction (65 km)",
+        "Frequent trains from Mumbai, Nashik, and other cities"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/09/img1.jpg",
+      "thumb": "/assets/images/hills/09/img1.jpg",
+      "alt": "Lavasa lakeside promenade"
+    },
+    {
+      "src": "/assets/images/hills/09/img2.jpg",
+      "thumb": "/assets/images/hills/09/img2.jpg",
+      "alt": "Warasgaon Lake view"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar",
+      "description": "Book accommodations early during weekends and monsoon season."
+    },
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Opt for lake-view rooms to enjoy the best of Lavasa’s scenic charm."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry a camera — Lavasa’s colorful buildings and reflections make for great shots."
+    }
+  ]
+}

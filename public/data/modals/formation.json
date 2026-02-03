@@ -1,0 +1,68 @@
+{
+  "id": "#formationModal",
+  "title": "🏛️ State Formation (1960)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-warning fw-semibold mb-3",
+      "text": "Birth of Maharashtra – A Milestone in India’s Linguistic Reorganization"
+    },
+    {
+      "type": "p",
+      "text": "On May 1st, 1960, the state of Maharashtra was officially formed, marking a historic achievement in India’s journey toward recognizing linguistic identity and cultural pride."
+    },
+    {
+      "type": "h5",
+      "class": "text-danger mt-4",
+      "text": "🗣️ The Samyukta Maharashtra Movement"
+    },
+    {
+      "type": "p",
+      "text": "After India’s independence in 1947, there was a strong demand to reorganize states on linguistic lines. The Samyukta Maharashtra Movement emerged to advocate for a Marathi-speaking state that included Mumbai (then Bombay), Vidarbha, and Marathwada."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Launched in 1956, it was a mass civil movement supported by students, workers, farmers, and intellectuals.",
+        "Key organizations like the Samyukta Maharashtra Samiti played a pivotal role in mobilizing public opinion.",
+        "The movement witnessed massive protests, public meetings, and even martyrdom of over 100 protestors in police firing."
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🏙️ Mumbai: The Heart of the Struggle"
+    },
+    {
+      "type": "p",
+      "text": "A major point of contention was the inclusion of Mumbai in the new state. Despite resistance from other groups, the people’s movement ensured that Mumbai became the capital of the newly formed Maharashtra state."
+    },
+    {
+      "type": "h5",
+      "class": "text-primary mt-4",
+      "text": "🗓️ May 1 – Maharashtra Day"
+    },
+    {
+      "type": "p",
+      "text": "The success of the movement culminated on May 1, 1960, when the Bombay State was split into two: Gujarat (for Gujarati speakers) and Maharashtra (for Marathi speakers)."
+    },
+    {
+      "type": "p",
+      "text": "Since then, Maharashtra Day is celebrated annually with parades, tributes, and cultural events that honor the sacrifices made during the formation struggle."
+    },
+    {
+      "type": "h5",
+      "class": "text-secondary mt-4",
+      "text": "🌾 Legacy of Unity and Progress"
+    },
+    {
+      "type": "p",
+      "text": "The formation of Maharashtra paved the way for the state to emerge as a powerhouse in industry, agriculture, culture, and education. Today, it is home to India’s financial capital, Mumbai, and continues to lead the nation in economic and cultural spheres."
+    },
+    {
+      "type": "p",
+      "class": "fw-bold mt-4",
+      "text": "Maharashtra’s formation is not just a political milestone—it’s a symbol of people’s will, cultural pride, and democratic strength."
+    }
+  ]
+}

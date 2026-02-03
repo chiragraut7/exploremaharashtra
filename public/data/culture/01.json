@@ -1,0 +1,182 @@
+{
+  "id": "01",
+  "title": "Bharud: The Folk Wisdom of Maharashtra",
+  "subtitle": "Spiritual Enlightenment through Humor & Satire",
+  "bannerImage": "/assets/images/culture/01.avif",
+  "insideBannerImage": "/assets/images/culture/01/bannerimg.jpg",
+  "color": "#b07b3d",
+  "overview": [
+    "Bharud is a unique devotional folk art of Maharashtra that blends spiritual wisdom with drama, humor, and song. Popularized by the 16th-century saint Sant Eknath, it was designed to bring the complex philosophy of the Vedas to the common man in a language they understood.",
+    "A typical Bharud performance features a single performer (the Bharudkar) who assumes various roles—an astrologer, a housewife, or a unhappy soul—using satire and wit to deliver profound moral messages about shedding ego and finding God."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-theater-masks",
+      "title": "Dramatic Devotion",
+      "description": "Unlike standard bhajans, Bharud relies on acting, costumes, and humor to keep the audience engaged while teaching spirituality."
+    },
+    {
+      "icon": "fas fa-universal-access",
+      "title": "Wisdom for All",
+      "description": "It breaks down caste and class barriers, making spiritual knowledge accessible to every villager through simple metaphors."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/bharud/geography.jpg",
+    "intro": "While Bharud is performed across Maharashtra, its spiritual heartland lies in Paithan (Aurangabad), the birthplace of Sant Eknath, and Pandharpur, the destination of the Wari pilgrimage.",
+    "details": [
+      {
+        "icon": "fas fa-map-pin",
+        "label": "Key Hubs",
+        "value": "Paithan (Aurangabad) & Pandharpur (Solapur)"
+      },
+      {
+        "icon": "fas fa-user-graduate",
+        "label": "Originator",
+        "value": "Sant Eknath (1533–1599)"
+      },
+      {
+        "icon": "fas fa-language",
+        "label": "Language",
+        "value": "Marathi (Folk Dialect)"
+      },
+      {
+        "icon": "fas fa-drum",
+        "label": "Instruments",
+        "value": "Veena, Mridangam, Chipli (Cymbals)"
+      },
+      {
+        "icon": "fas fa-book-open",
+        "label": "Themes",
+        "value": "Social Reform, Anti-Superstition, Bhakti"
+      }
+    ],
+    "climate": {
+      "description": "Bharud is an all-season performance art, but it peaks during religious festivals when the weather is festive and communal.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-sun",
+          "text": "Ashadhi Ekadashi (June-July): The peak season for performances during the Wari."
+        },
+        {
+          "icon": "fas fa-calendar-day",
+          "text": "Nath Shashti (March): A massive celebration in Paithan dedicated to Sant Eknath."
+        }
+      ]
+    },
+    "conclusion": "From the banks of the Godavari in Paithan to the Chandrabhaga in Pandharpur, Bharud remains the voice of Maharashtra's Bhakti tradition."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-eye",
+      "title": "Watch a Live Performance",
+      "description": "Experience the energy of a Bharudkar as they sing, dance, and enact stories in village squares or temple courtyards.",
+      "info": [
+        "Performances often start late in the evening and continue into the night.",
+        "Look for the 'Vasudev' or 'Gondhali' characters in the act."
+      ]
+    },
+    {
+      "icon": "fas fa-monument",
+      "title": "Visit Sant Eknath Samadhi",
+      "description": "Pay homage at the shrine of the saint who created this art form in the historic town of Paithan.",
+      "info": [
+        "Located on the banks of the Godavari River.",
+        "The temple complex often hosts singing sessions."
+      ]
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Walk with the Wari",
+      "description": "Join the annual pilgrimage to Pandharpur where hundreds of Bharud troupes perform along the route.",
+      "info": [
+        "The pilgrimage takes place in June/July.",
+        "It is the largest open-air display of Marathi folk culture."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/bharud/paithan.jpg",
+      "title": "Paithan (The Origin)",
+      "description": "The birthplace of Sant Eknath. Visit during 'Nath Shashti' to see hundreds of Bharud performances.",
+      "distance": "50km from Aurangabad",
+      "icon": "fas fa-star",
+      "value": "Cultural Epicenter"
+    },
+    {
+      "image": "/images/cultural/bharud/pandharpur.jpg",
+      "title": "Pandharpur Wari",
+      "description": "The pilgrimage where Bharud comes alive as entertainment and enlightenment for millions of walking devotees.",
+      "distance": "Solapur District",
+      "icon": "fas fa-walking",
+      "value": "Living Tradition"
+    }
+  ],
+  "culturalContext": {
+    "intro": "Bharud is the voice of the Bhakti movement—a tool used by saints to bring God out of rigid temples and into the hearts of common people.",
+    "items": [
+      {
+        "icon": "fas fa-balance-scale",
+        "title": "Social Satire",
+        "description": "It openly criticizes hypocrisy, caste discrimination, and blind superstition through humor."
+      },
+      {
+        "icon": "fas fa-dove",
+        "title": "Inner Peace",
+        "description": "The ultimate goal of every song is 'Shanti' (Peace) and 'Samadhan' (Satisfaction) through devotion."
+      }
+    ],
+    "conclusion": [
+      "Bharud proves that spirituality doesn't have to be serious or boring.",
+      "It teaches that laughter and self-reflection are valid paths to the Divine."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "By Air",
+      "details": [
+        "To visit Paithan: Fly to Aurangabad Airport (IXU). Paithan is a 1-hour drive away.",
+        "To visit Pandharpur: Fly to Pune (PNQ) and take a bus/taxi (4-5 hours)."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "By Train",
+      "details": [
+        "Aurangabad Station is the gateway to Paithan.",
+        "Kurduwadi and Solapur are the nearest major junctions for Pandharpur."
+      ]
+    },
+    {
+      "icon": "fas fa-calendar-check",
+      "title": "Best Time to Visit",
+      "details": [
+        "Plan your trip during 'Nath Shashti' (March) in Paithan for the most authentic experience.",
+        "Alternatively, visit Pandharpur during 'Ashadhi Ekadashi' (July)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/culture/01.avif",
+      "thumb": "/assets/images/culture/01.avif",
+      "alt": ""
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fas fa-language",
+      "description": "Performances are in Marathi. Having a local guide translate the humor adds immense value."
+    },
+    {
+      "icon": "fas fa-chair",
+      "description": "These are street performances; be prepared to sit on the ground with the locals for the best vibe."
+    },
+    {
+      "icon": "fas fa-moon",
+      "description": "Nighttime performances (Jagaran) often have the most spirited energy."
+    }
+  ]
+}

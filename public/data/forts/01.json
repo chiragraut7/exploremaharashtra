@@ -1,0 +1,183 @@
+{
+  "id": "01",
+  "title": "Raigad Fort",
+  "subtitle": "The Capital of the Maratha Empire",
+  "bannerImage": "/assets/images/forts/01.jpg",
+  "insideBannerImage": "/assets/images/forts/01/bannerimg.jpg",
+  "color": "#c47f3a",
+  "coordinates": {
+    "lat": 18.2347,
+    "lng": 73.4464
+  },
+  "overview": [
+    "Raigad Fort, located in the Raigad district of Maharashtra, was the capital of the Maratha Empire under the rule of Chhatrapati Shivaji Maharaj. Built at a height of around 2,700 feet above sea level, it offers a commanding view of the Sahyadri mountain range.",
+    "The fort is renowned for its architectural brilliance, strategic location, and historical importance. It served as the coronation site of Shivaji Maharaj in 1674 and is often referred to as the 'Gibraltar of the East'."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-crown",
+      "title": "Capital of Maratha Empire",
+      "description": "Raigad was the capital of the Maratha Empire and the coronation site of Chhatrapati Shivaji Maharaj."
+    },
+    {
+      "icon": "fa-solid fa-mountain",
+      "title": "Majestic Hill Fort",
+      "description": "Perched 2,700 feet high, Raigad offers panoramic views of the surrounding valleys and mountains."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/forts/01/info2.jpg",
+    "intro": "Situated in the Sahyadri range of the Western Ghats, Raigad Fort is strategically placed on a hilltop, making it almost invincible during its time.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Raigad District, Maharashtra, India"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Altitude",
+        "value": "2,700 feet above sea level"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Nearest Town",
+        "value": "Mahad (25 km)"
+      },
+      {
+        "icon": "fa-solid fa-landmark",
+        "label": "Built By",
+        "value": "Chhatrapati Shivaji Maharaj"
+      },
+      {
+        "icon": "fa-solid fa-calendar",
+        "label": "Construction Period",
+        "value": "1670 CE"
+      }
+    ],
+    "climate": {
+      "description": "Raigad experiences tropical climate with pleasant winters, warm summers, and heavy monsoon rains.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-sun",
+          "text": "Best visited between October and February."
+        },
+        {
+          "icon": "fa-solid fa-umbrella",
+          "text": "Monsoon adds lush greenery but makes trekking slippery."
+        }
+      ]
+    },
+    "conclusion": "Its altitude and rugged terrain made Raigad one of the most secure forts of the Marathas, with breathtaking natural surroundings."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-hiking",
+      "title": "Trekking to Raigad",
+      "description": "A moderately challenging trek leading through scenic ghats, taking about 1.5 to 2 hours.",
+      "info": [
+        "Use the main route from Pachad village.",
+        "Cable car facility also available for quick ascent."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sunset Views",
+      "description": "Capture stunning sunsets and panoramic views of the Sahyadri ranges.",
+      "info": [
+        "Best views from Hirkani Buruj and Queen’s Palace area.",
+        "Morning and evening light ideal for photography."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-landmark",
+      "title": "Explore Historical Sites",
+      "description": "Visit the palace ruins, market area, Jagdishwar Temple, and Shivaji’s Samadhi.",
+      "info": [
+        "Each section reveals Maratha history and architecture.",
+        "Audio guides available near main entrance."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/forts/01/img1.jpg",
+      "title": "Jagdishwar Temple",
+      "description": "The temple dedicated to Lord Shiva, believed to be Chhatrapati Shivaji’s family deity.",
+      "distance": "Inside the fort",
+      "icon": "fa-solid fa-church",
+      "value": "Ancient Heritage"
+    },
+    {
+      "image": "/assets/images/forts/01/img2.jpg",
+      "title": "Hirkani Buruj",
+      "description": "A bastion with a famous legend of a brave mother who descended the fort’s cliff to reach her child.",
+      "distance": "Within the fort complex",
+      "icon": "fa-solid fa-tower-cell",
+      "value": "Historic Bastion"
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a hill fort, Raigad does not have marine life. However, the region’s ecosystem is rich in flora and fauna typical to the Western Ghats.",
+    "items": [
+      {
+        "icon": "fa-solid fa-tree",
+        "title": "Flora",
+        "description": "Dense vegetation including mango, tamarind, and teak trees along with wild shrubs."
+      },
+      {
+        "icon": "fa-solid fa-dove",
+        "title": "Fauna",
+        "description": "Includes monkeys, peacocks, hornbills, and various species of reptiles."
+      }
+    ],
+    "conclusion": [
+      "The biodiversity adds natural charm to the historical ambience.",
+      "Nature enthusiasts enjoy the serene and green environment year-round."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Veer (40 km).",
+        "Regular trains from Mumbai and Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-bus",
+      "title": "By Road",
+      "details": [
+        "Easily accessible from Mahad, 25 km away.",
+        "MSRTC buses and private taxis available from Pune and Mumbai."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/forts/01/img1.jpg",
+      "thumb": "/assets/images/forts/01/img1.jpg",
+      "alt": "View of Raigad Fort walls"
+    },
+    {
+      "src": "/assets/images/forts/01/img2.jpg",
+      "thumb": "/assets/images/forts/01/img2.jpg",
+      "alt": "Jagdishwar Temple at Raigad Fort"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-lightbulb",
+      "description": "Plan your visit early morning or late afternoon to avoid heat and crowds."
+    },
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "description": "Carry water, snacks, and proper footwear for trekking."
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "description": "Don’t miss the cable car ride for aerial views of the fort."
+    }
+  ]
+}

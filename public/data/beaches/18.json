@@ -1,0 +1,183 @@
+{
+  "id": "18",
+  "title": "Aare Ware Beach",
+  "subtitle": "Twin Hidden Gems of Ratnagiri’s Pristine Coastline",
+  "bannerImage": "/assets/images/beaches/aare-ware-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/17/bannerImg.jpg",
+  "color": "#0D9488",
+  "coordinates": {
+    "lat": 17.0765,
+    "lng": 73.2842
+  },
+  "overview": [
+    "Aare Ware are twin beaches located about 15 km from Ratnagiri town, forming a breathtaking coastal stretch along the Konkan coast. These beaches are known for their untouched natural beauty, soft golden sands, and crystal-clear waters that remain relatively unexplored by tourists.",
+    "The scenic Aare Ware road connecting these beaches is one of the most picturesque routes in Maharashtra, offering stunning views of the Arabian Sea from the cliffs. It’s an ideal getaway for solitude seekers, photographers, and road trip enthusiasts."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-road",
+      "title": "Scenic Coastal Drive",
+      "description": "The drive between Aare and Ware beaches offers mesmerizing sea views along winding cliffs."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Peaceful Ambience",
+      "description": "Far from commercialization, these beaches provide a tranquil escape surrounded by nature."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/18/info3.jpg",
+    "intro": "Aare Ware beaches are located on the Ratnagiri-Ganpatipule coastal stretch, forming part of the Sahyadri’s western slopes meeting the Arabian Sea.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Type",
+        "value": "Twin Secluded Beaches"
+      },
+      {
+        "icon": "fa-solid fa-ruler-combined",
+        "label": "Length",
+        "value": "Around 3 km each"
+      },
+      {
+        "icon": "fa-solid fa-temperature-three-quarters",
+        "label": "Best Time to Visit",
+        "value": "October to February"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Nearby Places",
+        "value": "Ganpatipule, Ratnagiri, Jaigad Fort"
+      }
+    ],
+    "climate": {
+      "description": "Aare Ware enjoys a tropical coastal climate with pleasant winters and moderate summers.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter: Cool breeze and perfect beach weather"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon: Heavy rains and lush green surroundings"
+        }
+      ]
+    },
+    "conclusion": "The Aare Ware region combines hilly terrain and coastal plains, making it a hidden gem for travelers seeking scenic beauty and calm solitude."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-walking",
+      "title": "Beach Walks & Picnics",
+      "description": "Long clean stretches ideal for peaceful walks and family picnics.",
+      "info": [
+        "Carry your own food and mats",
+        "Evenings offer spectacular sunset views"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Sightseeing",
+      "description": "Capture panoramic views of cliffs and sea from Aare Ware coastal road.",
+      "info": [
+        "Sunset photography is highly recommended",
+        "Drones allowed in certain zones"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "title": "Scenic Drives",
+      "description": "Enjoy one of Maharashtra’s most beautiful coastal drives connecting Ratnagiri and Ganpatipule.",
+      "info": [
+        "Smooth tarmac road ideal for bikers",
+        "Panoramic viewpoints along the way"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/18/img1.jpg",
+      "title": "Ganpatipule Beach",
+      "description": "A popular pilgrimage and tourist destination known for its Swayambhu Ganesh temple.",
+      "distance": "10 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Nearby Religious Spot"
+    },
+    {
+      "image": "/assets/images/beaches/18/img2.jpg",
+      "title": "Jaigad Fort",
+      "description": "A historical sea fort offering magnificent views of the Arabian Sea and Jaigad Creek.",
+      "distance": "12 km",
+      "icon": "fas fa-chess-rook",
+      "value": "Historic Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "The Aare Ware coastal belt supports small fish species and sea flora typical of the Konkan ecosystem.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Local Marine Fish",
+        "description": "Home to anchovies, sardines, and other shallow-water fish species."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Sea Flora",
+        "description": "Marine algae and aquatic plants thrive in the clear coastal waters."
+      }
+    ],
+    "conclusion": [
+      "The natural marine ecosystem remains largely undisturbed.",
+      "Ideal for eco-tourism and marine study visits."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Ratnagiri (20 km)",
+        "Local taxis and auto-rickshaws available to the beach."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Accessible via Ratnagiri-Ganpatipule coastal road (NH-66 link).",
+        "Private cars and MSRTC buses operate frequently."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/18/img1.jpg",
+      "thumb": "/assets/images/beaches/18/img1.jpg",
+      "alt": "Aare Ware Beach Coastal Road"
+    },
+    {
+      "src": "/assets/images/beaches/18/img2.jpg",
+      "thumb": "/assets/images/beaches/18/img2.jpg",
+      "alt": "Golden Sands of Aare Ware Beach"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Stay in Ratnagiri or Ganpatipule as limited stays are available near Aare Ware."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Best explored by private vehicle or bike for scenic road views."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Carry a camera to capture some of the best seascape views in Maharashtra."
+    }
+  ]
+}

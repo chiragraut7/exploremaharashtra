@@ -1,0 +1,206 @@
+{
+  "id": "21",
+  "title": "Anjarle Beach",
+  "subtitle": "A Scenic Turtle Nesting Paradise in Konkan",
+  "bannerImage": "/assets/images/beaches/anjarle-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/21/bannerImg.jpg",
+  "color": "#006B8F",
+  "coordinates": {
+    "lat": 17.8544,
+    "lng": 73.0886
+  },
+  "overview": [
+    "Anjarle Beach is one of the most picturesque and serene beaches on Maharashtra’s Konkan coast, located near Dapoli in Ratnagiri district. Known for its clean white sand, calm waves, and the famous turtle nesting activities, this beach offers a perfect blend of natural beauty and tranquility.",
+    "The crescent-shaped shoreline, lined with coconut trees and gentle slopes, makes it an ideal destination for long walks and photography. Overlooking the beach from a nearby hill is the ancient Kadyavarcha Ganpati Temple, adding a spiritual charm to the surroundings.",
+    "Anjarle remains one of the least commercialized beaches, preserving its natural ecosystem and providing a quiet escape for nature lovers and families alike."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-turtle",
+      "title": "Turtle Nesting Site",
+      "description": "Anjarle is famous for Olive Ridley turtle nesting, especially between December and February."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Crystal-Clear Waters",
+      "description": "The beach is known for its pristine sand and shallow waters, ideal for swimming and wading."
+    },
+    {
+      "icon": "fa-solid fa-temple-hindu",
+      "title": "Kadyavarcha Ganpati Temple",
+      "description": "A revered hilltop temple offering panoramic views of the coastline."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/21/info3.jpg",
+    "intro": "Anjarle Beach lies about 26 km from Dapoli in the Ratnagiri district of Maharashtra, on the northern Konkan coast. The area is known for its river estuaries, mangroves, and lush coconut groves.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Ratnagiri District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Coastline",
+        "value": "Arabian Sea"
+      },
+      {
+        "icon": "fa-solid fa-ruler",
+        "label": "Beach Length",
+        "value": "Approximately 2 km"
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "label": "Landscape",
+        "value": "White sandy shore with river estuary"
+      },
+      {
+        "icon": "fa-solid fa-leaf",
+        "label": "Vegetation",
+        "value": "Coconut and betel nut plantations"
+      }
+    ],
+    "climate": {
+      "description": "Anjarle experiences a coastal tropical climate with mild winters, hot summers, and humid monsoons.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Best time to visit: November to March"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Avoid monsoon (June–September) for safety and better access"
+        }
+      ]
+    },
+    "conclusion": "The pleasant climate and scenic landscapes make Anjarle an ideal destination for eco-tourism and peaceful getaways."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-turtle",
+      "title": "Turtle Watching",
+      "description": "Observe Olive Ridley turtles during the nesting and hatching seasons, organized by local conservation groups.",
+      "info": [
+        "Best months: December to February",
+        "Morning and evening tours available"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-temple-hindu",
+      "title": "Visit Kadyavarcha Ganpati",
+      "description": "A 12th-century Ganesh temple located atop a hill offering stunning coastal views.",
+      "info": [
+        "Reached via a short trek",
+        "Annual fair in February attracts devotees from across Maharashtra"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Photography & Nature Walks",
+      "description": "Capture the beauty of the estuary, mangroves, and pristine shoreline.",
+      "info": [
+        "Ideal during sunrise and sunset",
+        "Bring binoculars for birdwatching"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Boating & Creek Exploration",
+      "description": "Explore the Anjarle Creek, which meets the sea near the beach — rich in birdlife and scenic beauty.",
+      "info": [
+        "Local fishermen offer short boat rides",
+        "Best in winter season"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/21/img1.jpg",
+      "title": "Kadyavarcha Ganpati Temple",
+      "description": "A historical temple built during the Peshwa period, located on a hilltop overlooking Anjarle Beach.",
+      "distance": "1 km from beach",
+      "icon": "fa-solid fa-temple-hindu",
+      "value": "Heritage Temple"
+    },
+    {
+      "image": "/assets/images/beaches/21/img3.jpg",
+      "title": "Harnai Fort",
+      "description": "A coastal fort just 8 km away, known for its maritime history and panoramic sea views.",
+      "distance": "8 km",
+      "icon": "fa-solid fa-landmark-dome",
+      "value": "Historic Fort"
+    }
+  ],
+  "marineLife": {
+    "intro": "Anjarle Beach supports a rich and diverse marine ecosystem, with turtles, small fish, and coastal vegetation thriving in its calm waters.",
+    "items": [
+      {
+        "icon": "fa-solid fa-turtle",
+        "title": "Olive Ridley Turtles",
+        "description": "Anjarle is an important nesting site for these endangered species during winter months."
+      },
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Fish & Aquatic Species",
+        "description": "The nearby creek and shallow waters are home to several small fish and crab species."
+      }
+    ],
+    "conclusion": [
+      "Visitors are encouraged to respect turtle nesting zones and avoid flash photography.",
+      "Anjarle’s marine ecosystem remains healthy due to community-driven conservation efforts."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Anjarle is around 26 km from Dapoli and 230 km from Mumbai.",
+        "Regular buses and private vehicles are available via Mandangad or Khed routes."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest railway station: Khed (about 70 km).",
+        "Taxis and state transport buses connect Khed to Anjarle village."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest airport: Ratnagiri (130 km) and Pune (200 km).",
+        "Cabs or self-drive options available from both cities."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/21/img1.jpg",
+      "thumb": "/assets/images/beaches/21/img1.jpg",
+      "alt": "Anjarle Beach scenic view"
+    },
+    {
+      "src": "/assets/images/beaches/21/img3.jpg",
+      "thumb": "/assets/images/beaches/21/img3.jpg",
+      "alt": "Olive Ridley turtle nesting site"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Book local homestays or eco-lodges for authentic Konkan hospitality."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "description": "Avoid disturbing turtle nesting sites — follow eco-tourism guidelines."
+    },
+    {
+      "icon": "fa-solid fa-wallet",
+      "description": "Carry sufficient cash, as ATMs and networks may be limited."
+    }
+  ]
+}

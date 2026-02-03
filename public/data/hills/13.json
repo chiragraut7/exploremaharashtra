@@ -1,0 +1,181 @@
+{
+  "id": "13",
+  "title": "Kaas Plateau",
+  "subtitle": "The Valley of Flowers of Maharashtra",
+  "bannerImage": "/assets/images/hills/13.jpg",
+  "insideBannerImage": "/assets/images/hills/13/bannerimg.jpg",
+  "color": "#8b5e3c",
+  "coordinates": {"lat": 17.7208, "lng": 73.8247},
+  "overview": [
+    "Kaas Plateau, located near Satara in Maharashtra, is a UNESCO World Natural Heritage site known for its breathtaking seasonal bloom of wildflowers.",
+    "Situated at an altitude of 1200 meters, the plateau transforms into a colorful carpet during the monsoon months, attracting nature enthusiasts, photographers, and botanists from all over India.",
+    "Often called the 'Valley of Flowers of the Western Ghats,' Kaas is home to more than 850 species of flowering plants, many of which are rare and endemic to this region."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-seedling",
+      "title": "Valley of Flowers",
+      "description": "Witness a vibrant blanket of flowers like Smithia, Sonki, and Karvy covering the plateau after the rains."
+    },
+    {
+      "icon": "fa-solid fa-camera-retro",
+      "title": "Photography Paradise",
+      "description": "Capture stunning macro shots and sweeping landscapes during the monsoon bloom season."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/13/info2.jpg",
+    "intro": "Perched high in the Sahyadri Range, Kaas Plateau overlooks the serene Kaas Lake and lies around 25 km from Satara city.",
+    "details": [
+      {
+        "icon": "fa-solid fa-map-marker-alt",
+        "label": "Location",
+        "value": "Satara District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-mountain",
+        "label": "Elevation",
+        "value": "1200 meters above sea level"
+      },
+      {
+        "icon": "fa-solid fa-tree",
+        "label": "Region",
+        "value": "Sahyadri Range, Western Ghats"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Nearby Waterbody",
+        "value": "Kaas Lake"
+      },
+      {
+        "icon": "fa-solid fa-road",
+        "label": "Distance from Satara",
+        "value": "Approx. 25 km"
+      }
+    ],
+    "climate": {
+      "description": "Kaas enjoys a cool, misty climate during monsoon and post-monsoon seasons, making it the best time to witness the bloom.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (August–October): Full bloom season with colorful flowers across the plateau."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (November–February): Pleasant and cool, ideal for sightseeing but fewer flowers."
+        }
+      ]
+    },
+    "conclusion": "Kaas Plateau’s unique soil and micro-climate nurture rare flora, making it one of the most ecologically sensitive and stunning hill destinations in India."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-leaf",
+      "title": "Flower Trail Walk",
+      "description": "Explore the well-marked walking paths through fields of seasonal wildflowers.",
+      "info": [
+        "Maintain eco-discipline; avoid stepping on flowers.",
+        "Guided tours available during the bloom season."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "title": "Nature Photography",
+      "description": "Capture the magical landscapes, misty mornings, and colorful blooms.",
+      "info": [
+        "Tripods allowed in designated areas.",
+        "Best light for photography: early morning or evening."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Visit Kaas Lake",
+      "description": "A serene lake located next to the plateau offering peaceful views and boating.",
+      "info": [
+        "Avoid littering around the lake.",
+        "A perfect picnic and relaxation spot."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/13/img1.jpg",
+      "title": "Kaas Lake",
+      "description": "A calm lake beside the plateau, surrounded by hills and lush greenery.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-water",
+      "value": "Tranquil natural beauty ideal for peaceful moments."
+    },
+    {
+      "image": "/assets/images/hills/13/img2.jpg",
+      "title": "Kanher Dam",
+      "description": "A large dam offering boating and panoramic views of the Western Ghats.",
+      "distance": "15 km",
+      "icon": "fa-solid fa-ship",
+      "value": "Ideal for short excursions and nature photography."
+    }
+  ],
+  "marineLife": {
+    "intro": "Being a high-altitude plateau, Kaas does not have marine life but features rich plant biodiversity and pollinator insects.",
+    "items": [
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Floral Biodiversity",
+        "description": "Over 850 plant species bloom seasonally, including orchids and carnivorous plants."
+      },
+      {
+        "icon": "fa-solid fa-bug",
+        "title": "Pollinators & Insects",
+        "description": "Butterflies and honeybees thrive among the floral fields during bloom season."
+      }
+    ],
+    "conclusion": [
+      "Kaas is a floral treasure, not a marine habitat.",
+      "It stands as a symbol of ecological richness and natural beauty."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-car",
+      "title": "By Road",
+      "details": [
+        "Kaas is 25 km from Satara city and around 140 km from Pune.",
+        "Private vehicles and state buses are available from Satara."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train & Air",
+      "details": [
+        "Nearest railway station: Satara (25 km).",
+        "Nearest airport: Pune Airport (145 km)."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/13/img1.jpg",
+      "thumb": "/assets/images/hills/13/img1.jpg",
+      "alt": "Colorful flower fields at Kaas Plateau"
+    },
+    {
+      "src": "/assets/images/hills/13/img2.jpg",
+      "thumb": "/assets/images/hills/13/img2.jpg",
+      "alt": "Kaas Lake near the Plateau"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-alt",
+      "description": "Visit between late August and early October to witness full bloom."
+    },
+    {
+      "icon": "fa-solid fa-ticket-alt",
+      "description": "Online entry passes are mandatory; limited visitors allowed per day."
+    },
+    {
+      "icon": "fa-solid fa-leaf",
+      "description": "Do not pluck flowers or step on plants; follow eco-tourism rules strictly."
+    }
+  ]
+}

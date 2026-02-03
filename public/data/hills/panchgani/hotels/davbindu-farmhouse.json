@@ -1,0 +1,110 @@
+{
+  "slug": "davbindu-farmhouse",
+  "name": "Davbindu Farmhouse",
+  "category":"Beach",
+  "subcategory":"Beach",
+  "beach": "kelwa",
+  "rating":4.5,
+  "amenities": ["wifi", "ac", "pool", "parking"],
+  "overview": "Davbindu Farmhouse is a homely retreat just a 5-minute walk from Kelwa Beach. Surrounded by lush greenery and coconut trees, the farmhouse offers AC and Non-AC rooms with traditional home-cooked meals, a spacious lawn, and a peaceful environment perfect for families and groups.",
+  "location": {
+    "address": "Near Kelwa Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "5 minutes’ walk",
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.2806115482716!2d72.7386238!3d19.1798033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b1497f8483cd%3A0x2f0cfe4e6ed5c660!2sKelwa%20Beach!5e0!3m2!1sen!2sin!4v1711383200000"
+  },
+  "rooms": [
+    {
+      "type": "Non AC Room",
+      "rate_for_two": "₹2500",
+      "extra_person": "₹800"
+    },
+    {
+      "type": "AC Room",
+      "rate_for_two": "₹3000",
+      "extra_person": "₹1000"
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "1 Morning Breakfast",
+      "2 Tea or Coffee",
+      "1 Buffet Lunch (Veg or Non‑veg)"
+    ],
+    "extended": [
+      "1 Morning Breakfast",
+      "2 Tea or Coffee",
+      "1 Buffet Lunch",
+      "1 Buffet Dinner"
+    ]
+  },
+  "facilities": [
+    "Spacious lawn with banana, coconut and supari trees",
+    "Attached bathrooms",
+    "Television in rooms",
+    "Complimentary parking",
+    "Veg & Non-Veg Buffet Meals"
+  ],
+  "policies": {
+    "allowed": [
+      "Families, married couples, and groups only"
+    ],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 guests in one room",
+      "Loud music after 10 PM",
+      "Smoking in rooms"
+    ],
+    "booking": [
+      "100% advance required (non-refundable)",
+      "Valid ID proof mandatory (Driving License, Voter ID, Aadhar, Passport)"
+    ],
+    "liability": [
+      "Guests responsible for any damage",
+      "Management not liable for loss of belongings"
+    ]
+  },
+  "gallery": [
+    "/assets/images/beaches.jpg",
+    "/assets/images/beaches.jpg",
+    "/assets/images/beaches.jpg",
+    "/assets/images/beaches.jpg",
+    "/assets/images/beaches.jpg"
+  ],
+  "reviews": [
+    {
+      "author": "Regular Visitor",
+      "text": "I have been visiting this place since 2010. It feels like home away from home. The food is amazing and the hosts are like family."
+    },
+    {
+      "author": "Group Guest",
+      "text": "We loved the atmosphere and spacious lawn. The food was delicious and it was an unforgettable experience."
+    },
+    {
+      "author": "New Guest",
+      "text": "Clean rooms, peaceful vibe, great hospitality. Definitely visiting again!"
+    }
+  ],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": [
+    "Beware of scammers. Confirm identity before making payments online."
+  ],
+  "contact": {
+    "host": "Sandeep and Family",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/davbindu-kelva-beach.php"
+  }
+
+}

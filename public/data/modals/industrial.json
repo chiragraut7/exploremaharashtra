@@ -1,0 +1,94 @@
+{
+  "id": "#industrialModal",
+  "title": "🏭 Industrial Boom (1980s)",
+  "sections": [
+    {
+      "type": "h4",
+      "class": "text-info fw-semibold mb-3",
+      "text": "The Rise of Maharashtra as India’s Economic Powerhouse"
+    },
+    {
+      "type": "p",
+      "text": "The 1980s marked a transformative era for Maharashtra, especially Mumbai, as it evolved into India’s undisputed financial and industrial capital. This period was characterized by rapid economic development, infrastructural growth, and the rise of powerful industries that propelled the state’s economy to national prominence."
+    },
+    {
+      "type": "h5",
+      "class": "text-dark mt-4",
+      "text": "🏢 Mumbai – The Financial Engine"
+    },
+    {
+      "type": "p",
+      "text": "Mumbai became the epicenter of India’s financial activities during this period, with the growth of key institutions and markets that shaped modern India’s economy."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Reserve Bank of India (RBI)",
+        "Bombay Stock Exchange (BSE)",
+        "National Stock Exchange (NSE)"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "These institutions attracted global investment and talent, driving growth in sectors like banking, finance, and real estate."
+    },
+    {
+      "type": "h5",
+      "class": "text-success mt-4",
+      "text": "🏭 Growth of Major Industries"
+    },
+    {
+      "type": "p",
+      "text": "Maharashtra saw a rapid increase in industrial activity across multiple regions, fostering job creation and modernization."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Pune: Automotive and manufacturing hub (Tata, Bajaj, Kirloskar)",
+        "Nashik: Electrical equipment and defense production",
+        "Aurangabad: Pharmaceuticals and consumer goods",
+        "Thane & Navi Mumbai: Petrochemicals and infrastructure development"
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-primary mt-4",
+      "text": "⚙️ Infrastructure and Connectivity"
+    },
+    {
+      "type": "p",
+      "text": "During this time, Maharashtra invested heavily in building road networks, industrial belts, and port infrastructure to support the growing economy."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Development of Maharashtra Industrial Development Corporation (MIDC) zones",
+        "Expansion of Mumbai’s suburban railway network",
+        "Establishment of Jawaharlal Nehru Port Trust (JNPT) – India’s largest container port"
+      ]
+    },
+    {
+      "type": "h5",
+      "class": "text-warning mt-4",
+      "text": "💼 Employment & Migration"
+    },
+    {
+      "type": "p",
+      "text": "The industrial boom led to massive employment opportunities, attracting skilled and unskilled workers from across India. This migration fueled Mumbai’s multicultural fabric and expanded the state’s middle class."
+    },
+    {
+      "type": "h5",
+      "class": "text-secondary mt-4",
+      "text": "🎬 Media & Bollywood Expansion"
+    },
+    {
+      "type": "p",
+      "text": "Parallel to industrial growth, Bollywood and the Marathi film industry flourished, making Mumbai the entertainment capital of India. The media sector became a major contributor to Maharashtra’s economy and global influence."
+    },
+    {
+      "type": "p",
+      "class": "fw-bold mt-4",
+      "text": "The 1980s laid the foundation for Maharashtra’s sustained economic dominance, making it a beacon of modernity, innovation, and ambition."
+    }
+  ]
+}

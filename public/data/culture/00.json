@@ -1,0 +1,142 @@
+{
+  "id": "00",
+  "title": "Bail Pola Festival",
+  "subtitle": "Statewide Celebration of Farmers & Livestock",
+  "bannerImage": "/assets/images/culture/00.jpg",
+  "insideBannerImage": "/assets/images/culture/00/bannerimg.jpg",
+  "color": "#9C661F",
+  "overview": [
+    "Bail Pola is a major festival celebrated across the length and breadth of rural Maharashtra. It is a day of thanksgiving to the bull and ox, who are the farmer’s essential partners in agriculture.",
+    "While the rituals remain similar—bathing, decorating, and worshipping the cattle—the scale and style of processions vary from the vibrant parades of Vidarbha to the traditional rituals of Western Maharashtra."
+  ],
+  "highlights": [
+    {
+      "icon": "fas fa-globe-asia",
+      "title": "Statewide Spirit",
+      "description": "Celebrated in almost every village in Maharashtra, making it accessible to travelers across the state."
+    },
+    {
+      "icon": "fas fa-gem",
+      "title": "Living Heritage",
+      "description": "A rare glimpse into the authentic rural life and agricultural traditions of the Deccan."
+    }
+  ],
+  "geography": {
+    "image": "/images/cultural/bail-pola-festival/geography.jpg",
+    "intro": "Unlike a fort or a beach, this festival has no single address. It comes alive in the lakhs of villages that dot the landscape of Maharashtra, particularly in the agrarian belts.",
+    "details": [
+      {
+        "icon": "fas fa-map-marked-alt",
+        "label": "Best Locations",
+        "value": "Rural Vidarbha (Nagpur/Amravati) & Western Maharashtra (Satara/Pune)"
+      },
+      {
+        "icon": "fas fa-clock",
+        "label": "Best Time",
+        "value": "Shravan Amavasya (August/September) - Begins early morning"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "Accessibility",
+        "value": "Open to all; visitors are welcomed into villages to watch processions"
+      }
+    ],
+    "climate": {
+      "description": "The festival marks the end of the heavy monsoon sowing season.",
+      "seasons": [
+        {
+          "icon": "fas fa-cloud-sun-rain",
+          "text": "Expect lush green surroundings and occasional monsoon showers."
+        },
+        {
+          "icon": "fas fa-temperature-low",
+          "text": "Pleasant, cool weather ideal for outdoor village walks."
+        }
+      ]
+    },
+    "conclusion": "Wherever you are in Maharashtra, a short drive away from the city limits into the villages will immerse you in the festivities of Bail Pola."
+  },
+  "activities": [
+    {
+      "icon": "fas fa-paw",
+      "title": "Cattle Decoration",
+      "description": "Witness the artistic painting of horns and ornamentation of bulls in village squares."
+    },
+    {
+      "icon": "fas fa-drum",
+      "title": "Evening Procession",
+      "description": "Watch the 'Miravnuk' (parade) where bulls are walked through the village to the beat of drums."
+    },
+    {
+      "icon": "fas fa-utensils",
+      "title": "Puran Poli Feast",
+      "description": "Taste the traditional sweet flatbread prepared in every farmer's home for this occasion."
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/images/cultural/bail-pola-festival/vidarbha.jpg",
+      "title": "Vidarbha Villages",
+      "description": "Known for the grandest Pola celebrations, especially near Nagpur and Amravati.",
+      "distance": "Eastern Maharashtra",
+      "icon": "fas fa-star",
+      "value": "Grand Scale"
+    },
+    {
+      "image": "/images/cultural/bail-pola-festival/pune-rural.jpg",
+      "title": "Pune & Satara Villages",
+      "description": "Experience traditional and intimate celebrations in the Sahyadri foothills.",
+      "distance": "Western Maharashtra",
+      "icon": "fas fa-leaf",
+      "value": "Scenic Setting"
+    }
+  ],
+  "culturalContext": {
+    "intro": "Bail Pola represents the soul of Maharashtra's agricultural society.",
+    "items": [
+      {
+        "icon": "fas fa-hands-praying",
+        "title": "Gratitude",
+        "description": "A day where animals are treated as gods, acknowledging their contribution to human survival."
+      },
+      {
+        "icon": "fas fa-users-class",
+        "title": "Community",
+        "description": "It bridges the gap between different communities within the village through shared festivities."
+      }
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fas fa-plane",
+      "title": "Major Gateways (Air)",
+      "details": [
+        "To see Vidarbha celebrations: Fly to Dr. Babasaheb Ambedkar Airport, Nagpur.",
+        "To see Western celebrations: Fly to Pune International Airport."
+      ]
+    },
+    {
+      "icon": "fas fa-train",
+      "title": "Rail Hubs",
+      "details": [
+        "Major junctions: Nagpur, Pune, Aurangabad, and Kolhapur.",
+        "From these cities, take local trains or buses to nearby 'Taluka' places."
+      ]
+    },
+    {
+      "icon": "fas fa-bus",
+      "title": "Reaching the Villages",
+      "details": [
+        "The best way to experience Pola is to drive 20-30km out of any major city.",
+        "State Transport (ST) buses connect even the remotest villages where celebrations are most authentic."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/culture/00.jpg",
+      "thumb": "/assets/images/culture/00.jpg",
+      "alt": ""
+    }
+  ]
+}

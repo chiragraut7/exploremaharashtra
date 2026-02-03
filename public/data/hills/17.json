@@ -1,0 +1,200 @@
+{
+  "id": "17",
+  "title": "Malshej Ghat Hill Station",
+  "subtitle": "Where Clouds Kiss the Mountains",
+  "bannerImage": "/assets/images/hills/17.jpg",
+  "insideBannerImage": "/assets/images/hills/17/bannerimg.jpg",
+  "color": "#33691e",
+  "coordinates": {"lat": 19.3400, "lng": 73.7700},
+  "overview": [
+    "Malshej Ghat, nestled in the Western Ghats of Maharashtra, is a mountain pass and hill station renowned for its misty valleys, roaring waterfalls, and rich flora and fauna.",
+    "Located in the Pune district, it stands at an altitude of 700 meters and is surrounded by rugged hills that come alive with vibrant greenery during the monsoon season.",
+    "A favorite among trekkers, nature lovers, and bird watchers, Malshej Ghat offers an enchanting escape from the hustle and bustle of city life."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-cloud-showers-heavy",
+      "title": "Waterfalls Everywhere",
+      "description": "Hundreds of seasonal waterfalls cascade down the hillsides during the monsoon, creating a mesmerizing sight."
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Flamingo Spotting",
+      "description": "Migratory pink flamingos visit Pimpalgaon Joga Dam near Malshej during monsoon months."
+    },
+    {
+      "icon": "fa-solid fa-mountain-sun",
+      "title": "Scenic Drive",
+      "description": "The winding ghat roads offer some of the most picturesque drives in Maharashtra."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/hills/17/info2.jpg",
+    "intro": "Malshej Ghat is situated on the Kalyan–Ahmednagar Road (NH 61), about 130 km from Mumbai and 120 km from Pune. It lies in the Western Ghats at around 700 meters above sea level.",
+    "details": [
+      { "icon": "fa-solid fa-location-dot", "label": "Location", "value": "Pune District, Maharashtra" },
+      { "icon": "fa-solid fa-mountain", "label": "Altitude", "value": "700 meters" },
+      { "icon": "fa-solid fa-tree", "label": "Region", "value": "Sahyadri Ranges (Western Ghats)" },
+      { "icon": "fa-solid fa-temperature-low", "label": "Average Temperature", "value": "12°C - 30°C" },
+      { "icon": "fa-solid fa-cloud-rain", "label": "Annual Rainfall", "value": "3,000 mm (approx.)" }
+    ],
+    "climate": {
+      "description": "Malshej Ghat has a pleasant and cool climate year-round, with misty monsoons being its most beautiful phase.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon (June–September): Heavy rainfall, mist-covered hills, and numerous waterfalls."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter (October–February): Crisp air and clear views, perfect for photography and bird watching."
+        }
+      ]
+    },
+    "conclusion": "Malshej Ghat’s geographical diversity and lush surroundings make it one of Maharashtra’s most scenic monsoon destinations."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-hiking",
+      "title": "Trekking & Hiking",
+      "description": "Popular among trekkers for nearby forts and forest trails offering breathtaking views.",
+      "info": [
+        "Harishchandragad and Ajoba Hill Fort are popular treks.",
+        "Trekking is best done post-monsoon when trails are green and stable."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Waterfall Exploration",
+      "description": "During monsoon, Malshej Ghat transforms into a land of cascading waterfalls and streams.",
+      "info": [
+        "Dozens of natural waterfalls along the highway.",
+        "Avoid bathing near strong currents."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Bird Watching",
+      "description": "Spot migratory birds like flamingos, quails, and cuckoos near Pimpalgaon Joga Dam.",
+      "info": [
+        "Peak birdwatching months: July to October.",
+        "Carry binoculars and avoid disturbing wildlife."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/hills/17/img1.jpg",
+      "title": "Pimpalgaon Joga Dam",
+      "description": "A serene dam surrounded by hills and forests, known for flamingo sightings during monsoon.",
+      "distance": "5 km from Malshej viewpoint",
+      "icon": "fa-solid fa-water",
+      "value": "Birdwatching spot"
+    },
+    {
+      "image": "/assets/images/hills/17/img2.jpg",
+      "title": "Harishchandragad Fort",
+      "description": "A historic hill fort offering a panoramic view of the Konkan region.",
+      "distance": "15 km from Malshej Ghat",
+      "icon": "fas fa-chess-rook",
+      "value": "Trekking site"
+    },
+    {
+      "image": "/assets/images/hills/17/img3.jpg",
+      "title": "Malshej Waterfalls",
+      "description": "Hundreds of seasonal waterfalls make this place magical during monsoon.",
+      "distance": "Along Malshej Ghat Road",
+      "icon": "fa-solid fa-water",
+      "value": "Scenic waterfalls"
+    },
+    {
+      "image": "/assets/images/hills/17/img4.jpg",
+      "title": "Ajoba Hill Fort",
+      "description": "A trekking hotspot believed to be connected to the Ramayana legend.",
+      "distance": "20 km from Malshej",
+      "icon": "fa-solid fa-gopuram",
+      "value": "Mythological site"
+    }
+  ],
+  "marineLife": {
+    "intro": "As a high-altitude mountain region, Malshej Ghat doesn’t have marine life but boasts incredible biodiversity and forest species.",
+    "items": [
+      {
+        "icon": "fa-solid fa-leaf",
+        "title": "Flora",
+        "description": "Dense forests filled with teak, wildflowers, ferns, and moss-covered rocks."
+      },
+      {
+        "icon": "fa-solid fa-paw",
+        "title": "Fauna",
+        "description": "Home to leopards, peacocks, monkeys, and various species of migratory birds."
+      }
+    ],
+    "conclusion": [
+      "Malshej Ghat is a biodiversity hotspot, especially during monsoon.",
+      "Perfect for eco-tourism and photography lovers."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest Railway Station: Kalyan (85 km) or Pune (120 km).",
+        "From there, take a cab or MSRTC bus to Malshej Ghat."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Well-connected via NH 61 (Kalyan–Ahmednagar Highway).",
+        "130 km from Mumbai, 120 km from Pune."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-plane",
+      "title": "By Air",
+      "details": [
+        "Nearest Airport: Pune (120 km) or Mumbai (150 km).",
+        "Regular taxis and tourist buses operate during the season."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/hills/17/img1.jpg",
+      "thumb": "/assets/images/hills/17/img1.jpg",
+      "alt": "Malshej Waterfalls"
+    },
+    {
+      "src": "/assets/images/hills/17/img2.jpg",
+      "thumb": "/assets/images/hills/17/img2.jpg",
+      "alt": "Misty Malshej Roads"
+    },
+    {
+      "src": "/assets/images/hills/17/img3.jpg",
+      "thumb": "/assets/images/hills/17/img3.jpg",
+      "alt": "Pimpalgaon Joga Dam View"
+    },
+    {
+      "src": "/assets/images/hills/17/img4.jpg",
+      "thumb": "/assets/images/hills/17/img4.jpg",
+      "alt": "Pimpalgaon Joga Dam View"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "description": "Best time to visit: July to October for lush greenery and waterfalls."
+    },
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Book MTDC Resort or local homestays early during weekends and monsoon season."
+    },
+    {
+      "icon": "fa-solid fa-car",
+      "description": "Carry rain gear, wear good shoes, and drive carefully — roads get slippery in rain."
+    }
+  ]
+}

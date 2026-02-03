@@ -1,0 +1,82 @@
+{
+  "id": "lush-green-home-stay",
+  "name": "Lush Green Home Stay",
+  "beach": "kelwa",
+  "overview": "Lush Green Home Stay is located in nature’s lap surrounded by tall casuarina plantations. Offers homemade veg & non‑veg food, a swimming pool and kids’ play area—ideal for family picnics or group stays.",
+  "location": {
+    "address": "Kelva Beach, Palghar District, Maharashtra, India",
+    "distance_from_beach": "Walking distance",
+    "map_embed": ""
+  },
+  "rooms": [
+    {
+      "type": "Non AC One‑Day Package",
+      "rate_for_two": "₹900–950 per person",
+      "extra_person": ""
+    },
+    {
+      "type": "AC One‑Day Package",
+      "rate_for_two": "₹1,000–1,050 per person",
+      "extra_person": ""
+    }
+  ],
+  "occupancy_policy": {
+    "max_per_room": 4,
+    "children": {
+      "under_4": "Free",
+      "age_4_to_8": "Half charge",
+      "above_8": "Full charge"
+    }
+  },
+  "food_packages": {
+    "one_day": [
+      "Breakfast + 2 tea/coffee",
+      "Veg or non‑veg buffet lunch",
+      "Swimming pool & play area"
+    ],
+    "extended": [
+      "Breakfast + tea/coffee + lunch & dinner buffet",
+      "Swimming pool, play area & garden access"
+    ]
+  },
+  "facilities": [
+    "Swimming pool (46 × 22 ft + baby pool)",
+    "Kids play area",
+    "Outdoor dining",
+    "Home‑style veg & non‑veg food",
+    "Parking & free Wi‑Fi"
+  ],
+  "policies": {
+    "allowed": ["Families, groups & married couples"],
+    "not_allowed": [
+      "Unmarried couples",
+      "More than 4 guests per room",
+      "Music after 10 PM",
+      "Smoking indoors"
+    ],
+    "booking": [
+      "100% advance booking non‑refundable",
+      "Valid ID proof mandatory"
+    ],
+    "liability": [
+      "Guests responsible for damages",
+      "Management not liable for personal losses"
+    ]
+  },
+  "gallery": [],
+  "reviews": [],
+  "attractions_nearby": [
+    "Kelwa Beach",
+    "Shitladevi Temple",
+    "Kelwa Fort"
+  ],
+  "notice": [
+    "Confirm exact pricing and child policy before booking."
+  ],
+  "contact": {
+    "host": "Lush Green Home Stay Management",
+    "phone": null,
+    "email": null,
+    "website": "https://kelvabeach.in/resort-lush-green-kelvabeach.php"
+  }
+}

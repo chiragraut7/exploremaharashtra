@@ -1,0 +1,183 @@
+{
+  "id": "16",
+  "title": "Shiroda Beach",
+  "subtitle": "A Serene Coastal Paradise near the Goa Border",
+  "bannerImage": "/assets/images/beaches/shiroda-banner.jpg",
+  "insideBannerImage": "/assets/images/beaches/16/bannerImg.jpg",
+  "color": "#0EA5E9",
+  "coordinates": {
+    "lat": 15.7714,
+    "lng": 73.6713
+  },
+  "overview": [
+    "Shiroda Beach, located in Sindhudurg district near the Goa border, is a hidden gem known for its tranquil environment, white sandy shores, and clear blue waters. The beach remains unspoiled by heavy tourism, offering an ideal retreat for peace-seekers and nature lovers.",
+    "Famous for its calm waves, soft sands, and breathtaking sunsets, Shiroda is also popular for activities like parasailing, camel rides, and dolphin spotting. The nearby Swayambhu Shiva Temple adds a spiritual charm to this coastal beauty."
+  ],
+  "highlights": [
+    {
+      "icon": "fa-solid fa-umbrella-beach",
+      "title": "Peaceful and Clean",
+      "description": "One of the cleanest and least crowded beaches in Maharashtra, perfect for solitude and relaxation."
+    },
+    {
+      "icon": "fa-solid fa-water",
+      "title": "Water Sports & Activities",
+      "description": "Offers parasailing, jet skiing, and occasional dolphin sighting tours."
+    }
+  ],
+  "geography": {
+    "image": "/assets/images/beaches/16/info3.jpg",
+    "intro": "Shiroda lies along the southern Konkan coast in Sindhudurg district, around 30 km from Vengurla. It borders Goa and is part of the scenic Konkan coastal belt.",
+    "details": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Sindhudurg District, Maharashtra"
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "label": "Beach Type",
+        "value": "White Sandy Beach"
+      },
+      {
+        "icon": "fa-solid fa-ruler-combined",
+        "label": "Beach Length",
+        "value": "Approximately 2.5 km"
+      },
+      {
+        "icon": "fa-solid fa-temperature-three-quarters",
+        "label": "Best Time to Visit",
+        "value": "November to February"
+      },
+      {
+        "icon": "fa-solid fa-map",
+        "label": "Nearby Places",
+        "value": "Vengurla, Tarkarli, Goa Border"
+      }
+    ],
+    "climate": {
+      "description": "Shiroda has a tropical coastal climate with pleasant sea breezes throughout the year.",
+      "seasons": [
+        {
+          "icon": "fa-solid fa-sun",
+          "text": "Winter: Ideal for sightseeing and beach walks"
+        },
+        {
+          "icon": "fa-solid fa-cloud-showers-heavy",
+          "text": "Monsoon: Lush greenery and dramatic seascapes"
+        }
+      ]
+    },
+    "conclusion": "The coastal geography of Shiroda makes it a scenic and eco-friendly destination, perfect for a quiet Konkan escape."
+  },
+  "activities": [
+    {
+      "icon": "fa-solid fa-person-swimming",
+      "title": "Water Sports",
+      "description": "Enjoy parasailing, banana rides, and jet skiing on Shiroda’s calm waters.",
+      "info": [
+        "Local vendors offer seasonal water activities",
+        "Best experienced between November and March"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-dove",
+      "title": "Dolphin Watching",
+      "description": "Boat operators organize dolphin-spotting trips during early mornings.",
+      "info": [
+        "Morning hours offer the best chance to spot dolphins",
+        "Avoid monsoon season for safety"
+      ]
+    },
+    {
+      "icon": "fa-solid fa-walking",
+      "title": "Beach Walks & Camel Rides",
+      "description": "Take leisurely walks along the long sandy coastline or enjoy a camel ride during sunset.",
+      "info": [
+        "Ideal during sunrise or sunset hours",
+        "Camel rides available on weekends"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "image": "/assets/images/beaches/16/img1.jpg",
+      "title": "Swayambhu Shiva Temple",
+      "description": "An ancient seaside temple dedicated to Lord Shiva, believed to be self-manifested.",
+      "distance": "1 km",
+      "icon": "fa-solid fa-landmark",
+      "value": "Religious Attraction"
+    },
+    {
+      "image": "/assets/images/beaches/16/img2.jpg",
+      "title": "Vengurla Rocks (Burnt Islands)",
+      "description": "A cluster of rocky islands off Vengurla’s coast, ideal for boating and photography.",
+      "distance": "25 km",
+      "icon": "fa-solid fa-mountain",
+      "value": "Scenic Attraction"
+    }
+  ],
+  "marineLife": {
+    "intro": "Shiroda’s waters host a diverse range of small fish, crabs, and other marine life typical of the Konkan ecosystem.",
+    "items": [
+      {
+        "icon": "fa-solid fa-fish",
+        "title": "Small Reef Fish",
+        "description": "The shallow waters support species like sardines, mackerels, and anchovies."
+      },
+      {
+        "icon": "fa-solid fa-seedling",
+        "title": "Seaweed Growth",
+        "description": "Natural seaweed patches and coral fragments enrich the local marine ecology."
+      }
+    ],
+    "conclusion": [
+      "Marine life around Shiroda is healthy and undisturbed.",
+      "Perfect for eco-tourism and nature photography."
+    ]
+  },
+  "howToReach": [
+    {
+      "icon": "fa-solid fa-train",
+      "title": "By Train",
+      "details": [
+        "Nearest station: Sawantwadi Road (25 km)",
+        "Taxis and auto-rickshaws are available from the station to the beach."
+      ]
+    },
+    {
+      "icon": "fa-solid fa-road",
+      "title": "By Road",
+      "details": [
+        "Well-connected via NH-66 (Mumbai-Goa Highway).",
+        "Regular buses and private vehicles operate from Sawantwadi and Vengurla."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/assets/images/beaches/16/img1.jpg",
+      "thumb": "/assets/images/beaches/16/img1.jpg",
+      "alt": "Shiroda Beach Aerial View"
+    },
+    {
+      "src": "/assets/images/beaches/16/img2.jpg",
+      "thumb": "/assets/images/beaches/16/img2.jpg",
+      "alt": "Sunset at Shiroda Beach"
+    }
+  ],
+  "bookingTips": [
+    {
+      "icon": "fa-solid fa-bed",
+      "description": "Limited resorts and homestays are available near the beach — book in advance during peak season."
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "description": "Try local Malvani cuisine at small beachside eateries for authentic flavors."
+    },
+    {
+      "icon": "fa-solid fa-camera",
+      "description": "Best time for photography is around sunset when the sky glows orange over the sea."
+    }
+  ]
+}
